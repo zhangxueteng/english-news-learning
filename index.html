@@ -259,7 +259,44 @@ async function fetchOnlineWord(raw,targetSelector){
   }finally{clearTimeout(timer)}
  }catch(err){}
  if(requestId!==lookupRequestId)return;
- if(!html){const radioWord=document.querySelector("#radioTranscript .word[data-word='"+CSS.escape(word)+"']");const sentence=radioWord?.closest(".sentence");const sentenceText=sentence?.querySelector(".radio-english")?.innerText||"";const localDefinition=radioDetailedMeanings[key]||radioGeneralMeanings[key]||contextualWordMeaning(key,sentenceText)||quickMeanings[key]||"请结合下方原句理解该词。";html='<div style="font-size:18px;font-weight:700">'+esc(word)+'</div><div style="margin-top:8px"><b>释义：</b>'+esc(localDefinition)+'</div>';}
+ if(!html){
+  try{
+   const normalized=word.toLowerCase().replace(/[^a-z'-]/g,"");
+   if(normalized){
+    const url="https://raw.githubusercontent.com/mhollingshead/open-dictionary/main/api/"+normalized.charAt(0)+"/"+normalized.slice(0,2)+".json";
+    const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),5000);
+    try{
+     const response=await fetch(url,{signal:controller.signal});
+     if(response.ok){
+      const data=await response.json(),entry=data[normalized]||data[word]||null;
+      if(entry){
+       const groups=[];
+       for(const et of (entry.etymologies||[])){
+        for(const p of (et.partsOfSpeech||[])){
+         const senses=(p.senses||[]).slice(0,4);
+         if(senses.length)groups.push({pos:p.partOfSpeech||"",senses});
+        }
+       }
+       detailedDefinition=groups.slice(0,4).map(g=>(g.pos?g.pos+": ":"")+g.senses.map(x=>x.sense).join("; ")).join("\\n").slice(0,1100);
+       const details=groups.slice(0,4).map(g=>'<div style="margin-top:8px"><b>'+esc(g.pos)+'</b><br>'+g.senses.slice(0,3).map(x=>'• '+esc(String(x.sense||"").replace(/<[^>]*>/g,""))+(x.examples&&x.examples[0]?'<br><i>例句：'+esc(String(x.examples[0]).replace(/<[^>]*>/g,""))+'</i>':"")).join("<br>")+'</div>').join("");
+       if(details){
+        html='<div style="display:flex;align-items:baseline;gap:8px;flex-wrap:wrap"><b style="font-size:18px">'+esc(entry.word||word)+'</b></div>'+details+'<div style="margin-top:8px;font-size:11px;color:#64748b">词典来源：Open Dictionary（Wiktionary）</div>';
+        dictionaryCache.set(key,html);
+       }
+      }
+     }
+    }finally{clearTimeout(timer)}
+   }
+  }catch(e){}
+ }
+ if(requestId!==lookupRequestId)return;
+ if(!html){
+  const radioWord=document.querySelector("#radioTranscript .word[data-word='"+CSS.escape(word)+"']");
+  const sentence=radioWord&&radioWord.closest(".sentence");
+  const sentenceText=sentence&&sentence.querySelector(".radio-english")?sentence.querySelector(".radio-english").innerText:"";
+  const localDefinition=radioDetailedMeanings[key]||radioGeneralMeanings[key]||contextualWordMeaning(key,sentenceText)||quickMeanings[key]||"请结合下方原句理解该词。";
+  html='<div style="font-size:18px;font-weight:700">'+esc(word)+'</div><div style="margin-top:8px"><b>释义：</b>'+esc(localDefinition)+'</div>';
+ }
  if(!translationCache.has(key)&&!quickMeanings[key])try{
   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),2500);
   try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal});if(r.ok){const d=await r.json(),t=d?.responseData?.translatedText;if(t&&t.toLowerCase()!==key&&!/MYMEMORY WARNING/i.test(t)){translation='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(t)+'<div style="font-size:10px;color:#648071">机器翻译，仅供参考。</div></div>';translationCache.set(key,translation)}}}finally{clearTimeout(timer)}
@@ -267,7 +304,7 @@ async function fetchOnlineWord(raw,targetSelector){
  if(requestId!==lookupRequestId)return;
  if(detailedDefinition){try{const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),3000);try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(detailedDefinition)+"&langpair=en|zh-CN",{signal:controller.signal});if(r.ok){const d=await r.json(),t=d?.responseData?.translatedText;if(t&&!/MYMEMORY WARNING/i.test(t)&&t.toLowerCase()!==detailedDefinition.toLowerCase())translatedDefinition=t;}}finally{clearTimeout(timer)}}catch(e){}}
  if(requestId!==lookupRequestId)return;
- if(targetSelector==="#radioLookupResult"&&detailedDefinition){const detailHtml='<div style="margin-top:10px;padding:10px;background:#f7f9fc;border-radius:9px"><b>网络词典详细释义</b><div style="margin-top:6px;line-height:1.7">'+(translatedDefinition?'<div>'+esc(translatedDefinition).replace(/\\n/g,"<br>")+'</div><div style="margin-top:7px;color:#64748b;font-size:12px">英文原释义：<br>'+esc(detailedDefinition).replace(/\\n/g,"<br>")+'</div>':esc(detailedDefinition).replace(/\\n/g,"<br>"))+'</div></div>';html+=detailHtml;}
+ if(detailedDefinition){const detailHtml='<div style="margin-top:10px;padding:10px;background:#f7f9fc;border-radius:9px"><b>网络词典详细释义</b><div style="margin-top:6px;line-height:1.7">'+(translatedDefinition?'<div>'+esc(translatedDefinition).replace(/\\n/g,"<br>")+'</div><div style="margin-top:7px;color:#64748b;font-size:12px">英文原释义：<br>'+esc(detailedDefinition).replace(/\\n/g,"<br>")+'</div>':esc(detailedDefinition).replace(/\\n/g,"<br>"))+'</div></div>';html+=detailHtml;}
  const n=allNews.find(x=>x.id===window.currentNewsId)||allNews[0],local=(n?.vocab||[]).find(v=>v.word.toLowerCase()===key);
  const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]"),saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===key);
  const actions=targetSelector==="#radioLookupResult"?'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">＋ 加入生词本</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>':'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
