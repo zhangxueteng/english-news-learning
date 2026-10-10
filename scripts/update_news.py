@@ -87,7 +87,7 @@ def make_video_card(title, video_id, publisher, default_category, published, des
     clean_description = re.split(r"(?im)\n\s*(?:0?:?\d{1,2}:\d{2}\s+|#\w+|learn more about your ad choices)", clean_description)[0].strip()
     if not clean_description:
         clean_description = title
-    chunks = [x.strip() for x in re.split(r"(?<=[.!?])\s+(?=[A-Z\\"'])", clean_description) if x.strip()]
+    chunks = [x.strip() for x in re.split(r"(?<=[.!?])\s+(?=[A-Z'])", clean_description) if x.strip()]
     if not chunks:
         chunks = [clean_description]
     # Limit the learning panel to the publisher's actual description; never imply this is a transcript.
