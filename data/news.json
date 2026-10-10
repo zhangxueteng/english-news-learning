@@ -10,30 +10,40 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-10",
-      "minutes": 5,
-      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
-      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
+      "minutes": 7,
+      "summary": "Expanded English reading feature based on the headline, with background context and critical-reading guidance. Use the original publisher link to verify the specific reported facts.",
+      "summaryZh": "扩展版英文阅读专题：围绕标题补充背景知识与新闻辨析方法。具体新闻事实请以原始媒体报道为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=Trump%20announces%20deal%20for%20Russian%20diesel%20as%20Zelensky%20calls%20it%20a%20gift%20to%20Putin%20news%20video",
       "articleUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "demo": false,
-      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sourceNote": "Expanded learning feature based on headline · verify details with original publisher",
       "sentences": [
         {
-          "en": "The headline says that Donald Trump announced a deal involving Russian diesel, while Volodymyr Zelensky described the move as a gift to Vladimir Putin.",
-          "zh": "这则标题称，唐纳德·特朗普宣布了一项涉及俄罗斯柴油的协议，而弗拉基米尔·泽连斯基将这一举动形容为送给弗拉基米尔·普京的礼物。",
-          "note": "involving Russian diesel 是后置修饰语，说明 deal 涉及的内容。"
+          "en": "Donald Trump has announced a deal involving Russian diesel, while Ukrainian President Volodymyr Zelensky has criticised the move and described it as a gift to Vladimir Putin. The disagreement places energy policy and international politics in the same debate. The headline alone, however, does not explain the exact terms of the deal or how it would work.",
+          "zh": "唐纳德·特朗普宣布了一项涉及俄罗斯柴油的协议，而乌克兰总统弗拉基米尔·泽连斯基批评了这一举动，并将其形容为送给弗拉基米尔·普京的礼物。这场分歧将能源政策与国际政治放在同一场讨论中。不过，仅凭标题还无法了解协议的具体条款及其运作方式。",
+          "note": "while 连接两个相对照的情况；described it as… = 将其描述为……。"
         },
         {
-          "en": "A headline gives readers the main point, but it cannot show every detail of a complicated diplomatic story.",
-          "zh": "标题能告诉读者主要信息，但无法呈现复杂外交事件的全部细节。",
-          "note": "but 连接转折关系；cannot show 表示“无法呈现”。"
+          "en": "Fuel is closely connected to the wider economy. Transport companies need diesel to move goods, farmers use it to operate machinery, and many businesses depend on reliable energy supplies. When fuel becomes more expensive, the cost of delivering food and other products can also rise. Governments therefore face pressure to keep energy affordable while managing diplomatic and security concerns.",
+          "zh": "燃料与整体经济密切相关。运输公司需要柴油运送货物，农民用它驱动机械，许多企业也依赖稳定的能源供应。当燃料价格上涨时，食品和其他产品的运输成本也可能随之上升。因此，各国政府既面临降低能源成本的压力，也需要处理外交和安全方面的顾虑。",
+          "note": "be connected to = 与……有关；therefore 表示因果推论。"
         },
         {
-          "en": "To understand the issue, read the full report and check what each leader said, what the agreement covers, and whether independent sources confirm the details.",
-          "zh": "要理解这一事件，应阅读完整报道，核实各方领导人的具体表态、协议涉及的内容，以及是否有独立来源证实相关细节。",
-          "note": "what each leader said 是宾语从句；check 后可接多个并列内容。"
+          "en": "Russia's role in global energy markets has been a sensitive issue since its full-scale invasion of Ukraine in 2022. Governments have debated sanctions, trade restrictions and ways to reduce dependence on Russian energy. Any new arrangement involving Russian fuel can therefore raise questions about policy consistency and the wider consequences for Ukraine and its partners.",
+          "zh": "自俄罗斯于2022年全面入侵乌克兰以来，俄罗斯在全球能源市场中的角色一直是敏感议题。各国政府一直在讨论制裁、贸易限制以及减少对俄罗斯能源依赖的方法。因此，任何涉及俄罗斯燃料的新安排都可能引发对政策一致性及其对乌克兰和合作伙伴影响的讨论。",
+          "note": "has been a sensitive issue 是现在完成时，表示这一议题持续至今。"
+        },
+        {
+          "en": "To assess this story fairly, readers should look beyond the competing political descriptions. What exactly does the agreement cover? Which organisations or companies are involved? When would it take effect, and what restrictions would remain in place? The answers should come from the full report and official documents, not from assumptions based on a headline.",
+          "zh": "要公平评估这则新闻，读者应超越相互竞争的政治表述。协议具体涵盖什么？涉及哪些机构或企业？何时生效？还有哪些限制继续存在？这些问题应通过完整报道和官方文件来回答，而不能只凭标题作出推断。",
+          "note": "look beyond = 不局限于；What exactly does…? 是特殊疑问句。"
+        },
+        {
+          "en": "News literacy means separating confirmed details from a politician's interpretation of events. Compare statements from the people involved with independent reporting, check publication dates and note what remains uncertain. The headline identifies the central disagreement; the full evidence is needed to understand its practical impact.",
+          "zh": "新闻素养意味着区分已确认的细节与政治人物对事件的解读。应比较当事人的表态和独立媒体的报道，核对发布日期，并留意仍不确定的部分。标题指出了争议核心；要理解实际影响，还需要查看完整证据。",
+          "note": "separate A from B = 区分 A 与 B；what remains uncertain 是宾语从句。"
         }
       ],
       "vocab": [
@@ -88,8 +98,8 @@
           "body": "involving Russian diesel 是后置修饰语，说明 deal 涉及的内容。 but 连接转折关系；cannot show 表示“无法呈现”。 what each leader said 是宾语从句；check 后可接多个并列内容。"
         }
       ],
-      "readingText": "The headline says that Donald Trump announced a deal involving Russian diesel, while Volodymyr Zelensky described the move as a gift to Vladimir Putin.\n\nA headline gives readers the main point, but it cannot show every detail of a complicated diplomatic story.\n\nTo understand the issue, read the full report and check what each leader said, what the agreement covers, and whether independent sources confirm the details.",
-      "readingTextZh": "这则标题称，唐纳德·特朗普宣布了一项涉及俄罗斯柴油的协议，而弗拉基米尔·泽连斯基将这一举动形容为送给弗拉基米尔·普京的礼物。\n\n标题能告诉读者主要信息，但无法呈现复杂外交事件的全部细节。\n\n要理解这一事件，应阅读完整报道，核实各方领导人的具体表态、协议涉及的内容，以及是否有独立来源证实相关细节。"
+      "readingText": "Donald Trump has announced a deal involving Russian diesel, while Ukrainian President Volodymyr Zelensky has criticised the move and described it as a gift to Vladimir Putin. The disagreement places energy policy and international politics in the same debate. The headline alone, however, does not explain the exact terms of the deal or how it would work.\n\nFuel is closely connected to the wider economy. Transport companies need diesel to move goods, farmers use it to operate machinery, and many businesses depend on reliable energy supplies. When fuel becomes more expensive, the cost of delivering food and other products can also rise. Governments therefore face pressure to keep energy affordable while managing diplomatic and security concerns.\n\nRussia's role in global energy markets has been a sensitive issue since its full-scale invasion of Ukraine in 2022. Governments have debated sanctions, trade restrictions and ways to reduce dependence on Russian energy. Any new arrangement involving Russian fuel can therefore raise questions about policy consistency and the wider consequences for Ukraine and its partners.\n\nTo assess this story fairly, readers should look beyond the competing political descriptions. What exactly does the agreement cover? Which organisations or companies are involved? When would it take effect, and what restrictions would remain in place? The answers should come from the full report and official documents, not from assumptions based on a headline.\n\nNews literacy means separating confirmed details from a politician's interpretation of events. Compare statements from the people involved with independent reporting, check publication dates and note what remains uncertain. The headline identifies the central disagreement; the full evidence is needed to understand its practical impact.",
+      "readingTextZh": "唐纳德·特朗普宣布了一项涉及俄罗斯柴油的协议，而乌克兰总统弗拉基米尔·泽连斯基批评了这一举动，并将其形容为送给弗拉基米尔·普京的礼物。这场分歧将能源政策与国际政治放在同一场讨论中。不过，仅凭标题还无法了解协议的具体条款及其运作方式。\n\n燃料与整体经济密切相关。运输公司需要柴油运送货物，农民用它驱动机械，许多企业也依赖稳定的能源供应。当燃料价格上涨时，食品和其他产品的运输成本也可能随之上升。因此，各国政府既面临降低能源成本的压力，也需要处理外交和安全方面的顾虑。\n\n自俄罗斯于2022年全面入侵乌克兰以来，俄罗斯在全球能源市场中的角色一直是敏感议题。各国政府一直在讨论制裁、贸易限制以及减少对俄罗斯能源依赖的方法。因此，任何涉及俄罗斯燃料的新安排都可能引发对政策一致性及其对乌克兰和合作伙伴影响的讨论。\n\n要公平评估这则新闻，读者应超越相互竞争的政治表述。协议具体涵盖什么？涉及哪些机构或企业？何时生效？还有哪些限制继续存在？这些问题应通过完整报道和官方文件来回答，而不能只凭标题作出推断。\n\n新闻素养意味着区分已确认的细节与政治人物对事件的解读。应比较当事人的表态和独立媒体的报道，核对发布日期，并留意仍不确定的部分。标题指出了争议核心；要理解实际影响，还需要查看完整证据。"
     },
     {
       "id": "rss-7709770626524339397",
@@ -99,30 +109,40 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 5,
-      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
-      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
+      "minutes": 7,
+      "summary": "Expanded English reading feature based on the headline, with background context and critical-reading guidance. Use the original publisher link to verify the specific reported facts.",
+      "summaryZh": "扩展版英文阅读专题：围绕标题补充背景知识与新闻辨析方法。具体新闻事实请以原始媒体报道为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=Analysis%3A%20Trump%27s%20shock%20Russia%20deal%20highlights%20mounting%20pressure%20to%20curb%20fuel%20prices%20news%20video",
       "articleUrl": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
       "demo": false,
-      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sourceNote": "Expanded learning feature based on headline · verify details with original publisher",
       "sentences": [
         {
-          "en": "The headline focuses on pressure to curb fuel prices and links that pressure to a reported deal involving Russia.",
-          "zh": "这则标题关注抑制燃油价格的压力，并将这种压力与一项涉及俄罗斯的协议联系起来。",
-          "note": "pressure to curb prices 中，to curb prices 说明压力所指向的目标。"
+          "en": "The report examines the political pressure to curb fuel prices and links that pressure to a reported agreement involving Russia. The key question is how governments can respond when households and businesses are worried about the cost of energy. A headline can identify the debate, but the full article is needed to establish the details and the evidence behind the analysis.",
+          "zh": "这篇报道分析了抑制燃油价格的政治压力，并将这种压力与一项据称涉及俄罗斯的协议联系起来。核心问题是，当家庭和企业担忧能源成本时，政府该如何应对。标题可以指出讨论主题，但要确认具体情况及分析依据，仍需阅读完整文章。",
+          "note": "curb = 控制、抑制；the evidence behind… = ……背后的证据。"
         },
         {
-          "en": "Fuel prices can be influenced by supply, transport costs, government policy and changes in international relations.",
-          "zh": "燃油价格可能受到供应、运输成本、政府政策和国际关系变化等因素影响。",
-          "note": "can be influenced by 是被动语态，表示“可能受到……影响”。"
+          "en": "Fuel prices rarely depend on one factor alone. The cost of crude oil, refining capacity, shipping, taxes, currency movements and local distribution can all affect what customers pay. A change in international supply may influence prices, but the final effect can differ from one country to another because each market has its own rules and infrastructure.",
+          "zh": "燃油价格很少只由一个因素决定。原油成本、炼油能力、运输、税收、汇率变化和本地配送都会影响消费者最终支付的价格。国际供应的变化可能影响价格，但由于各国市场的规则和基础设施不同，最终影响也会有所差异。",
+          "note": "rarely…alone 表示“很少单独……”；what customers pay 是名词性从句。"
         },
         {
-          "en": "An analysis article usually explains possible causes and consequences, so readers should distinguish the reported facts from the writer's interpretation.",
-          "zh": "分析类报道通常会解释可能的原因和后果，因此读者应区分报道中的事实与作者的解读。",
-          "note": "distinguish A from B = 区分 A 与 B。"
+          "en": "Governments have several possible tools, including temporary tax changes, targeted support for households, strategic reserves and adjustments to energy policy. Each option involves trade-offs. Support may reduce immediate pressure on consumers, for example, but it can also place demands on public finances. Measures that increase supply may take time to produce results.",
+          "zh": "政府可以采取多种措施，包括临时调整税收、向特定家庭提供支持、动用战略储备以及调整能源政策。每种选择都有取舍。例如，补贴可能减轻消费者眼前的压力，但也会增加公共财政负担。能够增加供应的措施则可能需要时间才能见效。",
+          "note": "including 后列举例子；trade-offs 指为获得某种好处而必须接受的代价。"
+        },
+        {
+          "en": "An agreement involving a major energy producer can attract attention because markets respond not only to current supply but also to expectations about future supply. Still, a political announcement does not automatically mean that fuel will become cheaper. The terms, timing, implementation and response of suppliers all matter.",
+          "zh": "涉及主要能源生产国的协议容易受到关注，因为市场不仅会对当前供应作出反应，也会对未来供应的预期作出反应。不过，政治声明并不意味着燃油一定会降价。协议条款、时间安排、执行情况和供应商的反应都很重要。",
+          "note": "not only…but also… = 不仅……而且……；does not automatically mean = 并不必然意味着。"
+        },
+        {
+          "en": "When reading analysis, distinguish a confirmed event from an explanation of what it might mean. Look for data, named sources and alternative interpretations. Ask whether the writer explains uncertainty and whether the conclusion follows from the evidence. These habits help readers understand economic news without treating a headline as a complete answer.",
+          "zh": "阅读分析报道时，应区分已确认的事件与对其可能意义的解释。留意数据、具名消息来源和其他解释。思考作者是否说明了不确定性，以及结论是否有证据支持。这样的习惯能帮助读者理解经济新闻，而不是把标题当作完整答案。",
+          "note": "distinguish A from B = 区分 A 与 B；whether 引导宾语从句。"
         }
       ],
       "vocab": [
@@ -177,8 +197,8 @@
           "body": "pressure to curb prices 中，to curb prices 说明压力所指向的目标。 can be influenced by 是被动语态，表示“可能受到……影响”。 distinguish A from B = 区分 A 与 B。"
         }
       ],
-      "readingText": "The headline focuses on pressure to curb fuel prices and links that pressure to a reported deal involving Russia.\n\nFuel prices can be influenced by supply, transport costs, government policy and changes in international relations.\n\nAn analysis article usually explains possible causes and consequences, so readers should distinguish the reported facts from the writer's interpretation.",
-      "readingTextZh": "这则标题关注抑制燃油价格的压力，并将这种压力与一项涉及俄罗斯的协议联系起来。\n\n燃油价格可能受到供应、运输成本、政府政策和国际关系变化等因素影响。\n\n分析类报道通常会解释可能的原因和后果，因此读者应区分报道中的事实与作者的解读。"
+      "readingText": "The report examines the political pressure to curb fuel prices and links that pressure to a reported agreement involving Russia. The key question is how governments can respond when households and businesses are worried about the cost of energy. A headline can identify the debate, but the full article is needed to establish the details and the evidence behind the analysis.\n\nFuel prices rarely depend on one factor alone. The cost of crude oil, refining capacity, shipping, taxes, currency movements and local distribution can all affect what customers pay. A change in international supply may influence prices, but the final effect can differ from one country to another because each market has its own rules and infrastructure.\n\nGovernments have several possible tools, including temporary tax changes, targeted support for households, strategic reserves and adjustments to energy policy. Each option involves trade-offs. Support may reduce immediate pressure on consumers, for example, but it can also place demands on public finances. Measures that increase supply may take time to produce results.\n\nAn agreement involving a major energy producer can attract attention because markets respond not only to current supply but also to expectations about future supply. Still, a political announcement does not automatically mean that fuel will become cheaper. The terms, timing, implementation and response of suppliers all matter.\n\nWhen reading analysis, distinguish a confirmed event from an explanation of what it might mean. Look for data, named sources and alternative interpretations. Ask whether the writer explains uncertainty and whether the conclusion follows from the evidence. These habits help readers understand economic news without treating a headline as a complete answer.",
+      "readingTextZh": "这篇报道分析了抑制燃油价格的政治压力，并将这种压力与一项据称涉及俄罗斯的协议联系起来。核心问题是，当家庭和企业担忧能源成本时，政府该如何应对。标题可以指出讨论主题，但要确认具体情况及分析依据，仍需阅读完整文章。\n\n燃油价格很少只由一个因素决定。原油成本、炼油能力、运输、税收、汇率变化和本地配送都会影响消费者最终支付的价格。国际供应的变化可能影响价格，但由于各国市场的规则和基础设施不同，最终影响也会有所差异。\n\n政府可以采取多种措施，包括临时调整税收、向特定家庭提供支持、动用战略储备以及调整能源政策。每种选择都有取舍。例如，补贴可能减轻消费者眼前的压力，但也会增加公共财政负担。能够增加供应的措施则可能需要时间才能见效。\n\n涉及主要能源生产国的协议容易受到关注，因为市场不仅会对当前供应作出反应，也会对未来供应的预期作出反应。不过，政治声明并不意味着燃油一定会降价。协议条款、时间安排、执行情况和供应商的反应都很重要。\n\n阅读分析报道时，应区分已确认的事件与对其可能意义的解释。留意数据、具名消息来源和其他解释。思考作者是否说明了不确定性，以及结论是否有证据支持。这样的习惯能帮助读者理解经济新闻，而不是把标题当作完整答案。"
     },
     {
       "id": "rss-4413549508026050568",
@@ -188,30 +208,40 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 5,
-      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
-      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
+      "minutes": 7,
+      "summary": "Expanded English reading feature based on the headline, with background context and critical-reading guidance. Use the original publisher link to verify the specific reported facts.",
+      "summaryZh": "扩展版英文阅读专题：围绕标题补充背景知识与新闻辨析方法。具体新闻事实请以原始媒体报道为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=US%20unveils%20sanctions%20on%20ICC%20in%20move%20court%20condemns%20as%20%27assault%20on%20rule%20of%20law%27%20news%20video",
       "articleUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
       "demo": false,
-      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sourceNote": "Expanded learning feature based on headline · verify details with original publisher",
       "sentences": [
         {
-          "en": "The headline reports new US sanctions involving the International Criminal Court, or ICC, and says the court condemned the move.",
-          "zh": "这则标题报道了美国针对国际刑事法院（ICC）采取的新制裁，并称该法院谴责了这一举动。",
-          "note": "involving the ICC 是现在分词短语，补充说明 sanctions 涉及的对象。"
+          "en": "The headline reports that the United States has announced sanctions involving the International Criminal Court, commonly known as the ICC. It also says that the court condemned the move as an assault on the rule of law. These are strong descriptions of a legal and political dispute, so readers should check the full report to understand who made each statement and what measures were announced.",
+          "zh": "标题报道称，美国宣布了涉及国际刑事法院（通常简称 ICC）的制裁措施。标题还称，该法院谴责这一举动是对法治的攻击。这些都是对法律和政治争议的强烈表述，因此读者应查看完整报道，弄清每项说法由谁提出，以及具体宣布了哪些措施。",
+          "note": "commonly known as… = 通常被称为……；what measures were announced 是宾语从句。"
         },
         {
-          "en": "The phrase “rule of law” refers to the principle that laws should apply fairly and that public power should be exercised under legal rules.",
-          "zh": "“法治”指的是法律应得到公平适用，公共权力应依照法律规则行使这一原则。",
-          "note": "that laws should apply fairly 是 principle 的内容说明。"
+          "en": "The rule of law is the principle that public power should be exercised according to established laws and that legal rules should be applied fairly. International courts operate in a complicated environment: their authority, jurisdiction and ability to enforce decisions may be debated by governments and legal experts. Disagreement about a court does not, by itself, explain the legal basis of a particular action.",
+          "zh": "法治是一项原则，即公共权力应依据既定法律行使，法律规则也应得到公平适用。国际法院所处的环境相当复杂：其权力、管辖范围和执行裁决的能力，都可能受到政府和法律专家的讨论。对某个法院存在分歧，本身并不能解释某项具体行动的法律依据。",
+          "note": "the principle that… 中 that 引导同位语从句；by itself = 单凭这一点。"
         },
         {
-          "en": "When reading about legal or political disputes, look for the official decision, the reasons given by each side and the legal context.",
-          "zh": "阅读法律或政治争议新闻时，应关注正式决定、各方给出的理由以及相关法律背景。",
-          "note": "look for 后面列举三个需要核实的信息。"
+          "en": "Sanctions can take different forms. Depending on the rules involved, they may restrict travel, financial transactions or access to certain services. The exact scope matters: a headline may use the broad word sanctions, while the official announcement specifies who is affected, which restrictions apply and how long they will remain in force.",
+          "zh": "制裁可以采取不同形式。根据相关规则，制裁可能限制旅行、金融交易或使用某些服务。具体范围很重要：标题可能笼统地使用“制裁”一词，而官方公告会明确受影响对象、适用限制及其持续时间。",
+          "note": "Depending on… 是现在分词短语作状语；who is affected 是宾语从句。"
+        },
+        {
+          "en": "To understand the dispute, readers should identify the legal instrument behind the announcement, the reasons given by the US government and the response from the court. It is also useful to distinguish a direct quotation from a reporter's summary. Words such as condemned, assault and unlawful express different levels of judgement and should be read in context.",
+          "zh": "要理解这场争议，读者应确认公告背后的法律文件、美国政府提出的理由，以及法院作出的回应。区分直接引语和记者的概述也很有帮助。condemned（谴责）、assault（攻击）和 unlawful（非法）等词带有不同程度的判断，应结合上下文理解。",
+          "note": "distinguish A from B；such as 用于举例，judgement 表示判断或评价。"
+        },
+        {
+          "en": "Legal and diplomatic reporting often contains competing claims. A careful reader checks primary documents where available, compares independent accounts and avoids assuming that one side's description is a neutral statement of fact. The important questions are what action was taken, what reasons were offered, what legal arguments are involved and what consequences may follow.",
+          "zh": "法律和外交报道经常包含相互竞争的主张。谨慎的读者会在可能的情况下查阅原始文件、比较独立报道，并避免把任何一方的描述直接当成中立事实。关键问题包括：采取了什么行动、提出了什么理由、涉及哪些法律论点，以及可能产生什么后果。",
+          "note": "where available = 在可获得的情况下；avoid assuming = 避免想当然地认为。"
         }
       ],
       "vocab": [
@@ -266,8 +296,8 @@
           "body": "involving the ICC 是现在分词短语，补充说明 sanctions 涉及的对象。 that laws should apply fairly 是 principle 的内容说明。 look for 后面列举三个需要核实的信息。"
         }
       ],
-      "readingText": "The headline reports new US sanctions involving the International Criminal Court, or ICC, and says the court condemned the move.\n\nThe phrase “rule of law” refers to the principle that laws should apply fairly and that public power should be exercised under legal rules.\n\nWhen reading about legal or political disputes, look for the official decision, the reasons given by each side and the legal context.",
-      "readingTextZh": "这则标题报道了美国针对国际刑事法院（ICC）采取的新制裁，并称该法院谴责了这一举动。\n\n“法治”指的是法律应得到公平适用，公共权力应依照法律规则行使这一原则。\n\n阅读法律或政治争议新闻时，应关注正式决定、各方给出的理由以及相关法律背景。"
+      "readingText": "The headline reports that the United States has announced sanctions involving the International Criminal Court, commonly known as the ICC. It also says that the court condemned the move as an assault on the rule of law. These are strong descriptions of a legal and political dispute, so readers should check the full report to understand who made each statement and what measures were announced.\n\nThe rule of law is the principle that public power should be exercised according to established laws and that legal rules should be applied fairly. International courts operate in a complicated environment: their authority, jurisdiction and ability to enforce decisions may be debated by governments and legal experts. Disagreement about a court does not, by itself, explain the legal basis of a particular action.\n\nSanctions can take different forms. Depending on the rules involved, they may restrict travel, financial transactions or access to certain services. The exact scope matters: a headline may use the broad word sanctions, while the official announcement specifies who is affected, which restrictions apply and how long they will remain in force.\n\nTo understand the dispute, readers should identify the legal instrument behind the announcement, the reasons given by the US government and the response from the court. It is also useful to distinguish a direct quotation from a reporter's summary. Words such as condemned, assault and unlawful express different levels of judgement and should be read in context.\n\nLegal and diplomatic reporting often contains competing claims. A careful reader checks primary documents where available, compares independent accounts and avoids assuming that one side's description is a neutral statement of fact. The important questions are what action was taken, what reasons were offered, what legal arguments are involved and what consequences may follow.",
+      "readingTextZh": "标题报道称，美国宣布了涉及国际刑事法院（通常简称 ICC）的制裁措施。标题还称，该法院谴责这一举动是对法治的攻击。这些都是对法律和政治争议的强烈表述，因此读者应查看完整报道，弄清每项说法由谁提出，以及具体宣布了哪些措施。\n\n法治是一项原则，即公共权力应依据既定法律行使，法律规则也应得到公平适用。国际法院所处的环境相当复杂：其权力、管辖范围和执行裁决的能力，都可能受到政府和法律专家的讨论。对某个法院存在分歧，本身并不能解释某项具体行动的法律依据。\n\n制裁可以采取不同形式。根据相关规则，制裁可能限制旅行、金融交易或使用某些服务。具体范围很重要：标题可能笼统地使用“制裁”一词，而官方公告会明确受影响对象、适用限制及其持续时间。\n\n要理解这场争议，读者应确认公告背后的法律文件、美国政府提出的理由，以及法院作出的回应。区分直接引语和记者的概述也很有帮助。condemned（谴责）、assault（攻击）和 unlawful（非法）等词带有不同程度的判断，应结合上下文理解。\n\n法律和外交报道经常包含相互竞争的主张。谨慎的读者会在可能的情况下查阅原始文件、比较独立报道，并避免把任何一方的描述直接当成中立事实。关键问题包括：采取了什么行动、提出了什么理由、涉及哪些法律论点，以及可能产生什么后果。"
     },
     {
       "id": "rss-4885170929721778800",
@@ -277,30 +307,40 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 5,
-      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
-      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
+      "minutes": 7,
+      "summary": "Expanded English reading feature based on the headline, with background context and critical-reading guidance. Use the original publisher link to verify the specific reported facts.",
+      "summaryZh": "扩展版英文阅读专题：围绕标题补充背景知识与新闻辨析方法。具体新闻事实请以原始媒体报道为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=Thousands%20of%20security%20personnel%20deployed%20as%20Delhi%20braces%20for%20%E2%80%98cockroach%E2%80%99%20protest%20news%20video",
       "articleUrl": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
       "demo": false,
-      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sourceNote": "Expanded learning feature based on headline · verify details with original publisher",
       "sentences": [
         {
-          "en": "The headline says that security personnel have been deployed in Delhi ahead of a protest described with the word “cockroach.”",
-          "zh": "这则标题称，在一场被称为“蟑螂”抗议的活动前，安全人员已部署到德里。",
-          "note": "have been deployed 是现在完成时的被动语态，强调部署已经发生。"
+          "en": "The headline says that thousands of security personnel have been deployed in Delhi ahead of a protest described with the word “cockroach.” The label is unusual and potentially insulting, so its meaning cannot be understood from the headline alone. Readers need the original report to learn who used the word, whom it referred to and how the people involved responded.",
+          "zh": "标题称，在一场被“cockroach”（蟑螂）一词描述的抗议活动前，数千名安全人员已部署到德里。这个标签很不寻常，也可能带有侮辱性，因此不能只凭标题理解其含义。读者需要查看原始报道，了解是谁使用了这个词、它指向谁，以及相关人士如何回应。",
+          "note": "have been deployed 是现在完成时被动语态；ahead of = 在……之前。"
         },
         {
-          "en": "The word used to describe a protest may be a slogan, a nickname or a disputed label; its meaning depends on the surrounding context.",
-          "zh": "描述抗议活动的词语可能是口号、绰号或有争议的标签，其含义取决于上下文。",
-          "note": "used to describe… 是过去分词短语，修饰 word。"
+          "en": "Large public demonstrations can require planning by local authorities. Police and other security personnel may be assigned to manage traffic, protect public spaces and reduce the risk of clashes. The size of a deployment does not, by itself, prove that violence will occur; officials may be responding to an expected crowd, a previous incident or a specific security assessment.",
+          "zh": "大型公众示威可能需要地方当局进行组织和安排。警方及其他安全人员可能被安排管理交通、保护公共区域并降低冲突风险。部署人数多本身并不能证明一定会发生暴力；有关部门可能是在应对预期人群、此前事件或特定的安全评估。",
+          "note": "by itself = 本身；may be responding to = 可能是在应对……。"
         },
         {
-          "en": "Readers should check the original report to learn who uses the term, what the protest is about and how officials explain the security measures.",
-          "zh": "读者应查看原始报道，弄清是谁使用了这个说法、抗议的主题是什么，以及官方如何解释相关安保措施。",
-          "note": "who uses the term 等均为间接疑问句，使用陈述语序。"
+          "en": "Words used in political protests often carry more than their literal meaning. A nickname may be a slogan used by supporters, an insult used by opponents or a phrase repeated by the media. Quotation marks can signal that a term is being reported rather than adopted by the journalist, but the surrounding context is still important.",
+          "zh": "政治抗议中使用的词语往往不止字面含义。某个绰号可能是支持者使用的口号、反对者使用的侮辱语，也可能是媒体反复引用的说法。引号可以表明记者是在转述某个词，而不是认可它，但上下文仍然十分重要。",
+          "note": "carry more than… = 不止包含……；rather than = 而不是。"
+        },
+        {
+          "en": "When reading a report about a protest, look for the reason people are gathering, the organisers' stated aims, the response from authorities and any confirmed restrictions on movement. Check whether the report includes views from more than one side. Images and short clips can provide useful evidence, but they may not show the whole event or explain what happened before a particular moment.",
+          "zh": "阅读有关抗议活动的报道时，应关注人们集会的原因、组织者宣称的目标、当局的回应，以及任何已经确认的出行限制。还应检查报道是否呈现了不止一方的观点。图片和短视频可以提供有用证据，但未必展示了事件全貌，也未必解释某个时刻之前发生了什么。",
+          "note": "look for 后面接需要寻找的信息；whether 引导宾语从句。"
+        },
+        {
+          "en": "A balanced account separates confirmed facts from allegations and interpretation. Readers should avoid repeating a provocative label without understanding its source and purpose. The key is to establish the context, identify who is speaking and compare the headline with the detailed reporting.",
+          "zh": "平衡的报道会将已确认的事实与指控、解读区分开来。读者在不了解挑衅性标签的来源和目的之前，应避免随意重复它。关键是弄清背景、确认说话者身份，并将标题与详细报道进行比较。",
+          "note": "separate A from B；without understanding… 是介词短语作状语。"
         }
       ],
       "vocab": [
@@ -355,8 +395,8 @@
           "body": "have been deployed 是现在完成时的被动语态，强调部署已经发生。 used to describe… 是过去分词短语，修饰 word。 who uses the term 等均为间接疑问句，使用陈述语序。"
         }
       ],
-      "readingText": "The headline says that security personnel have been deployed in Delhi ahead of a protest described with the word “cockroach.”\n\nThe word used to describe a protest may be a slogan, a nickname or a disputed label; its meaning depends on the surrounding context.\n\nReaders should check the original report to learn who uses the term, what the protest is about and how officials explain the security measures.",
-      "readingTextZh": "这则标题称，在一场被称为“蟑螂”抗议的活动前，安全人员已部署到德里。\n\n描述抗议活动的词语可能是口号、绰号或有争议的标签，其含义取决于上下文。\n\n读者应查看原始报道，弄清是谁使用了这个说法、抗议的主题是什么，以及官方如何解释相关安保措施。"
+      "readingText": "The headline says that thousands of security personnel have been deployed in Delhi ahead of a protest described with the word “cockroach.” The label is unusual and potentially insulting, so its meaning cannot be understood from the headline alone. Readers need the original report to learn who used the word, whom it referred to and how the people involved responded.\n\nLarge public demonstrations can require planning by local authorities. Police and other security personnel may be assigned to manage traffic, protect public spaces and reduce the risk of clashes. The size of a deployment does not, by itself, prove that violence will occur; officials may be responding to an expected crowd, a previous incident or a specific security assessment.\n\nWords used in political protests often carry more than their literal meaning. A nickname may be a slogan used by supporters, an insult used by opponents or a phrase repeated by the media. Quotation marks can signal that a term is being reported rather than adopted by the journalist, but the surrounding context is still important.\n\nWhen reading a report about a protest, look for the reason people are gathering, the organisers' stated aims, the response from authorities and any confirmed restrictions on movement. Check whether the report includes views from more than one side. Images and short clips can provide useful evidence, but they may not show the whole event or explain what happened before a particular moment.\n\nA balanced account separates confirmed facts from allegations and interpretation. Readers should avoid repeating a provocative label without understanding its source and purpose. The key is to establish the context, identify who is speaking and compare the headline with the detailed reporting.",
+      "readingTextZh": "标题称，在一场被“cockroach”（蟑螂）一词描述的抗议活动前，数千名安全人员已部署到德里。这个标签很不寻常，也可能带有侮辱性，因此不能只凭标题理解其含义。读者需要查看原始报道，了解是谁使用了这个词、它指向谁，以及相关人士如何回应。\n\n大型公众示威可能需要地方当局进行组织和安排。警方及其他安全人员可能被安排管理交通、保护公共区域并降低冲突风险。部署人数多本身并不能证明一定会发生暴力；有关部门可能是在应对预期人群、此前事件或特定的安全评估。\n\n政治抗议中使用的词语往往不止字面含义。某个绰号可能是支持者使用的口号、反对者使用的侮辱语，也可能是媒体反复引用的说法。引号可以表明记者是在转述某个词，而不是认可它，但上下文仍然十分重要。\n\n阅读有关抗议活动的报道时，应关注人们集会的原因、组织者宣称的目标、当局的回应，以及任何已经确认的出行限制。还应检查报道是否呈现了不止一方的观点。图片和短视频可以提供有用证据，但未必展示了事件全貌，也未必解释某个时刻之前发生了什么。\n\n平衡的报道会将已确认的事实与指控、解读区分开来。读者在不了解挑衅性标签的来源和目的之前，应避免随意重复它。关键是弄清背景、确认说话者身份，并将标题与详细报道进行比较。"
     },
     {
       "id": "rss-87946949668173386",
@@ -366,30 +406,40 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 5,
-      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
-      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
+      "minutes": 7,
+      "summary": "Expanded English reading feature based on the headline, with background context and critical-reading guidance. Use the original publisher link to verify the specific reported facts.",
+      "summaryZh": "扩展版英文阅读专题：围绕标题补充背景知识与新闻辨析方法。具体新闻事实请以原始媒体报道为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=JD%20Vance%20casts%20doubt%20on%20firing%20squad%20execution%20and%20says%20he%20will%20not%20watch%20it%20news%20video",
       "articleUrl": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
       "demo": false,
-      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sourceNote": "Expanded learning feature based on headline · verify details with original publisher",
       "sentences": [
         {
-          "en": "The headline says that JD Vance questioned a firing-squad execution and stated that he would not watch it.",
-          "zh": "这则标题称，JD·万斯对行刑队执行死刑提出质疑，并表示自己不会观看。",
-          "note": "questioned 在这里表示“对……提出质疑”，不只是“提问”。"
+          "en": "The headline says that JD Vance has questioned a firing-squad execution and stated that he will not watch it. The wording points to a debate about capital punishment, public responsibility and the role of political leaders. To understand the event, readers should check the original report for the exact remarks, the setting in which they were made and the legal case involved.",
+          "zh": "标题称，JD·万斯对行刑队执行死刑提出了质疑，并表示自己不会观看。这一表述指向了有关死刑、公共责任和政治领导人角色的讨论。要理解事件，读者应查看原始报道，核实其准确言论、发言场合以及涉及的法律案件。",
+          "note": "has questioned 是现在完成时；stated that… 引出宾语从句。"
         },
         {
-          "en": "News reports about criminal justice often involve legal procedures, public officials and ethical debate.",
-          "zh": "有关刑事司法的新闻通常涉及法律程序、公职人员和伦理讨论。",
-          "note": "involve 是“涉及”；often 表示通常发生的情况。"
+          "en": "Capital punishment remains a subject of debate in many societies. Supporters may argue that it provides justice for the most serious crimes or serves as a deterrent. Opponents raise concerns about wrongful convictions, unequal application and whether the state should have the power to take a life. These arguments involve legal evidence, ethical principles and different views about the purpose of punishment.",
+          "zh": "死刑在许多社会中仍然是一个有争议的话题。支持者可能认为，死刑能够为最严重的犯罪伸张正义，或起到威慑作用。反对者则关注冤案、不平等适用，以及国家是否应拥有剥夺生命的权力。这些争论涉及法律证据、伦理原则，以及对刑罚目的的不同看法。",
+          "note": "may argue that… 表示“可能主张……”；whether 引导间接疑问从句。"
         },
         {
-          "en": "To evaluate such a report, identify the exact statement, the context in which it was made and the difference between a person's opinion and an established fact.",
-          "zh": "要评估这类报道，应确认当事人的准确表态及其发表背景，并区分个人观点与已经证实的事实。",
-          "note": "the context in which it was made 是定语从句，修饰 context。"
+          "en": "A firing squad is one method of carrying out a death sentence. The use of a particular method can become part of a wider public discussion about how punishment is administered and whether a process is humane. News reports may describe official procedures, court decisions and reactions from officials, but those elements should not be confused with a complete explanation of the underlying case.",
+          "zh": "行刑队是执行死刑的一种方式。某种具体执行方式可能引发更广泛的公众讨论，例如刑罚如何实施，以及程序是否人道。新闻报道可能会介绍官方程序、法院裁决和官员反应，但这些内容不应与案件本身的完整解释混为一谈。",
+          "note": "carrying out = 实施、执行；should not be confused with = 不应与……混淆。"
+        },
+        {
+          "en": "When a public figure comments on an execution, it is useful to distinguish a personal reaction from an official policy position. A statement that someone will not watch an event does not, by itself, establish whether they support or oppose every aspect of the policy. The full quotation and its surrounding remarks are needed to interpret the position accurately.",
+          "zh": "当公众人物评论一次死刑执行时，应区分个人反应与正式政策立场。某人表示自己不会观看某个事件，并不能单凭这一点证明其支持或反对该政策的所有方面。要准确理解其立场，需要完整引语及其前后发言。",
+          "note": "by itself = 单凭这一点；surrounding remarks = 前后相关发言。"
+        },
+        {
+          "en": "Readers should verify the date, identify the legal authority responsible for the execution and check what the courts have decided. They should also separate confirmed procedural facts from moral or political arguments. Careful reading makes it possible to understand the public debate without assuming more than the evidence supports.",
+          "zh": "读者应核实日期、确认负责执行死刑的法律机构，并查看法院作出了什么裁决。还应将已确认的程序事实与道德或政治论点区分开来。认真阅读可以帮助我们理解公共讨论，而不对证据所能支持的内容作过度推断。",
+          "note": "responsible for = 对……负责；without assuming more than… = 不作超出证据的推断。"
         }
       ],
       "vocab": [
@@ -444,9 +494,9 @@
           "body": "questioned 在这里表示“对……提出质疑”，不只是“提问”。 involve 是“涉及”；often 表示通常发生的情况。 the context in which it was made 是定语从句，修饰 context。"
         }
       ],
-      "readingText": "The headline says that JD Vance questioned a firing-squad execution and stated that he would not watch it.\n\nNews reports about criminal justice often involve legal procedures, public officials and ethical debate.\n\nTo evaluate such a report, identify the exact statement, the context in which it was made and the difference between a person's opinion and an established fact.",
-      "readingTextZh": "这则标题称，JD·万斯对行刑队执行死刑提出质疑，并表示自己不会观看。\n\n有关刑事司法的新闻通常涉及法律程序、公职人员和伦理讨论。\n\n要评估这类报道，应确认当事人的准确表态及其发表背景，并区分个人观点与已经证实的事实。"
+      "readingText": "The headline says that JD Vance has questioned a firing-squad execution and stated that he will not watch it. The wording points to a debate about capital punishment, public responsibility and the role of political leaders. To understand the event, readers should check the original report for the exact remarks, the setting in which they were made and the legal case involved.\n\nCapital punishment remains a subject of debate in many societies. Supporters may argue that it provides justice for the most serious crimes or serves as a deterrent. Opponents raise concerns about wrongful convictions, unequal application and whether the state should have the power to take a life. These arguments involve legal evidence, ethical principles and different views about the purpose of punishment.\n\nA firing squad is one method of carrying out a death sentence. The use of a particular method can become part of a wider public discussion about how punishment is administered and whether a process is humane. News reports may describe official procedures, court decisions and reactions from officials, but those elements should not be confused with a complete explanation of the underlying case.\n\nWhen a public figure comments on an execution, it is useful to distinguish a personal reaction from an official policy position. A statement that someone will not watch an event does not, by itself, establish whether they support or oppose every aspect of the policy. The full quotation and its surrounding remarks are needed to interpret the position accurately.\n\nReaders should verify the date, identify the legal authority responsible for the execution and check what the courts have decided. They should also separate confirmed procedural facts from moral or political arguments. Careful reading makes it possible to understand the public debate without assuming more than the evidence supports.",
+      "readingTextZh": "标题称，JD·万斯对行刑队执行死刑提出了质疑，并表示自己不会观看。这一表述指向了有关死刑、公共责任和政治领导人角色的讨论。要理解事件，读者应查看原始报道，核实其准确言论、发言场合以及涉及的法律案件。\n\n死刑在许多社会中仍然是一个有争议的话题。支持者可能认为，死刑能够为最严重的犯罪伸张正义，或起到威慑作用。反对者则关注冤案、不平等适用，以及国家是否应拥有剥夺生命的权力。这些争论涉及法律证据、伦理原则，以及对刑罚目的的不同看法。\n\n行刑队是执行死刑的一种方式。某种具体执行方式可能引发更广泛的公众讨论，例如刑罚如何实施，以及程序是否人道。新闻报道可能会介绍官方程序、法院裁决和官员反应，但这些内容不应与案件本身的完整解释混为一谈。\n\n当公众人物评论一次死刑执行时，应区分个人反应与正式政策立场。某人表示自己不会观看某个事件，并不能单凭这一点证明其支持或反对该政策的所有方面。要准确理解其立场，需要完整引语及其前后发言。\n\n读者应核实日期、确认负责执行死刑的法律机构，并查看法院作出了什么裁决。还应将已确认的程序事实与道德或政治论点区分开来。认真阅读可以帮助我们理解公共讨论，而不对证据所能支持的内容作过度推断。"
     }
   ],
-  "notice": "Free RSS mode. Newslingo provides original English learning passages based on RSS headlines, not full republished articles. Translations and explanations are learning aids; check the original publisher for factual details."
+  "notice": "Expanded learning passages are original educational material based on the RSS headlines and general background, not full reproductions of publisher articles. Verify specific claims with the linked original reports."
 }
