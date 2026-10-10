@@ -119,9 +119,9 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
   <div class="ielts-audio-card" style="border:1px solid #dfe7f3;border-radius:12px;padding:14px;margin:12px 0;background:#f8faff">
    <div style="font-size:11px;color:#64748b;margin-bottom:5px">BRITISH COUNCIL · OFFICIAL IELTS LISTENING</div>
    <strong style="display:block;margin-bottom:10px;font-size:15px">IELTS Listening Part 3 · Studying with the Open University</strong>
-   <audio id="ieltsInlineAudio" controls preload="metadata" playsinline style="width:100%;display:block" src="https://s3.eu-west-2.amazonaws.com/ielts-web-static/production/Sample-tests/Listening/ielts-listening-sample-task-4-sentence-completion.mp3">你的浏览器不支持音频播放。</audio>
+   <audio id="ieltsInlineAudio" controls preload="metadata" playsinline style="width:100%;display:block" src="https://ielts-web-static.s3.eu-west-2.amazonaws.com/production/Sample-tests/Listening/ielts-listening-sample-task-4-sentence-completion.mp3">你的浏览器不支持音频播放。</audio>
    <p id="ieltsAudioStatus" class="panel-note" style="margin:9px 0 0">官方考试练习原声，默认 1.0× 原速。</p>
-   <p class="panel-note" style="margin:8px 0 0">如果内置播放器仍无法加载，可用<a href="https://s3.eu-west-2.amazonaws.com/ielts-web-static/production/Sample-tests/Listening/ielts-listening-sample-task-4-sentence-completion.mp3" target="_blank" rel="noopener noreferrer">官方音频直链</a>测试。</p>
+   <p class="panel-note" style="margin:8px 0 0">如果内置播放器仍无法加载，可用<a href="https://ielts-web-static.s3.eu-west-2.amazonaws.com/production/Sample-tests/Listening/ielts-listening-sample-task-4-sentence-completion.mp3" target="_blank" rel="noopener noreferrer">官方音频直链</a>测试。</p>
   </div>
   <div class="detail-section" style="margin-top:14px">
    <div class="meta"><span class="tag">FULL TRANSCRIPT</span><span class="words">官方逐字稿 · 可直接在本站查看</span></div>
@@ -512,7 +512,14 @@ const dockPlayPause=$("#dockAudioPlayPause"),dockAudioSeek=$("#dockAudioSeek"),d
  }));
  audio.addEventListener("error",()=>{
   const status=kind==="ielts"?$("#ieltsAudioStatus"):$("#radioAudioStatus");
-  if(status)status.textContent=kind==="ielts"?"这段音频暂时无法加载，请检查网络后重试。":"音频源连接失败，请打开原始新闻音频页面。";
+  if(kind==="ielts" && !audio.dataset.fallbackTried){
+   audio.dataset.fallbackTried="1";
+   if(status)status.textContent="正在切换备用官方音频地址…";
+   audio.src="https://s3.eu-west-2.amazonaws.com/ielts-web-static/production/Sample-tests/Listening/ielts-listening-sample-task-4-sentence-completion.mp3";
+   audio.load();
+   return;
+  }
+  if(status)status.textContent=kind==="ielts"?"官方音频地址均无法连接。请尝试切换网络后重试；逐字稿仍可正常查看。":"音频源连接失败，请打开原始新闻音频页面。";
  });
 });
 if(dockPlayPause)dockPlayPause.addEventListener("click",()=>{
