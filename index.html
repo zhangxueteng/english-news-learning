@@ -239,8 +239,8 @@ function showWordLookup(raw){
  result.style.display="block";result.innerHTML=popupHead()+body+(translationCache.get(key)||"")+actions+'<div style="color:#64748b;font-size:10px;margin-top:8px">本地释义即时显示；未收录词会自动尝试获取中文参考翻译。</div>';
  if(!local&&!shared&&!quickMeanings[key]&&!translationCache.has(key)){const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),3000);fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal}).then(r=>r.ok?r.json():null).then(d=>{clearTimeout(timer);const t=d?.responseData?.translatedText;if(requestId!==lookupRequestId||!t||t.toLowerCase()===key||/MYMEMORY WARNING/i.test(t))return;const tr='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(t)+'<div style="font-size:10px;color:#648071">机器翻译，仅供参考。</div></div>';translationCache.set(key,tr);if(result.isConnected&&requestId===lookupRequestId){const oldTr=result.querySelector("[data-auto-translation]");if(!oldTr){const box=document.createElement("div");box.dataset.autoTranslation="1";box.innerHTML=tr;const note=result.querySelector("div[style*=font-size]");result.insertBefore(box,note||null)}}}).catch(()=>clearTimeout(timer));}
 }
-async function fetchOnlineWord(raw){
- const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,""),key=word.toLowerCase(),result=$("#classicLookupResult")||$("#wordLookupResultGlobal")||$("#wordLookupResult");
+async function fetchOnlineWord(raw,targetSelector){
+ const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,""),key=word.toLowerCase(),result=targetSelector?$(targetSelector):($("#classicLookupResult")||$("#wordLookupResultGlobal")||$("#wordLookupResult"));
  if(!word||!result)return;
  const requestId=++lookupRequestId;
  result.style.display="block";result.innerHTML='<b>'+esc(word)+'</b><br>正在查询在线词典…';
@@ -267,7 +267,7 @@ async function fetchOnlineWord(raw){
  if(requestId!==lookupRequestId)return;
  const n=allNews.find(x=>x.id===window.currentNewsId)||allNews[0],local=(n?.vocab||[]).find(v=>v.word.toLowerCase()===key);
  const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]"),saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===key);
- const actions='<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ const actions=targetSelector==="#radioLookupResult"?'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'+">＋ 加入生词本</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>':'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
  result.innerHTML='<div class="lookup-popup-head"><b>单词查询 · '+esc(word)+'</b><button type="button" data-close-lookup>关闭 ×</button></div>'+html+(translationCache.get(key)||translation)+actions;
 }
 const fullTextVocab={
@@ -452,7 +452,7 @@ document.addEventListener("click",e=>{
  if(e.target.closest("#radioToggleCloze")){toggleRadioCloze(e.target.closest("#radioToggleCloze"));return;}
  if(e.target.closest("#radioCopyText")){const text=Array.from(document.querySelectorAll("#radioTranscript .radio-english")).map(el=>el.innerText).join("\n");navigator.clipboard?.writeText(text).then(()=>toast("已复制英文全文")).catch(()=>toast(text));return;}
  if(e.target.closest("#radioLookupResult [data-radio-save]")){const b=e.target.closest("[data-radio-save]");saveRadioWord(b.dataset.radioSave,b.dataset.zh||"");b.textContent="✓ 已加入生词本";return;}
- if(e.target.closest("#radioLookupResult [data-radio-online]")){fetchOnlineWord(e.target.closest("[data-radio-online]").dataset.radioOnline);return;}
+ if(e.target.closest("#radioLookupResult [data-radio-online]")){fetchOnlineWord(e.target.closest("[data-radio-online]").dataset.radioOnline,"#radioLookupResult");return;}
 });
 let radioSpeechUtterance=null;
 function speakRadioTranscript(mode){
@@ -479,7 +479,8 @@ function showRadioWordLookup(raw){
  const item=vocab.find(el=>el.querySelector("strong")?.textContent.toLowerCase().split(" / ")[0]===key);
  const localMeanings={irreversible:"不可逆转的；无法恢复原状的",prolonged:"持续很长时间的",habitual:"习惯性的；经常发生的",decibel:"分贝，声音强度单位",sensory:"感觉的；感官的",hearing:"听力；听觉",loss:"损失；丧失",volume:"音量；体积",exposure:"暴露；接触",permanently:"永久地",irreversibly:"不可逆转地",unsafe:"不安全的",avoidable:"可以避免的",earplugs:"耳塞",monitor:"监测；监控",intensity:"强度",damage:"损害；损伤",prolonged:"持续很长时间的",habitual:"习惯性的；经常发生的",irreversible:"不可逆转的"};
  const meaning=item?.querySelector("p")?.textContent||localMeanings[key]||quickMeanings[key]||"请结合上下文理解；可使用在线释义补充词义。";
- panel.style.display="block";panel.innerHTML='<div class="lookup-popup-head"><b>单词查询 · '+esc(word)+'</b><button type="button" data-close-lookup>关闭 ×</button></div><div style="display:flex;justify-content:space-between;gap:10px;align-items:start"><div><b style="font-size:18px">'+esc(word)+'</b><p style="margin:6px 0;color:#526078">'+esc(meaning)+'</p></div><button class="mini" type="button" onclick="document.querySelector(\'#radioLookupResult\').style.display=\'none\'">关闭</button></div><div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(meaning)+'">＋ 加入生词本</button><button class="mini" type="button" data-radio-online="'+esc(word)+'">补充在线释义</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ panel.style.display="block";panel.innerHTML='<div class="lookup-popup-head"><b>单词查询 · '+esc(word)+'</b><button type="button" data-close-lookup>关闭 ×</button></div><div><b style="font-size:18px">'+esc(word)+'</b><p style="margin:6px 0;color:#526078">'+esc(meaning)+'</p><div style="font-size:11px;color:#64748b">正在自动查询中文释义和词典解释…</div></div><div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(meaning)+'">＋ 加入生词本</button><button class="mini" type="button" data-radio-online="'+esc(word)+'">重新查询在线释义</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ fetchOnlineWord(word,"#radioLookupResult");
 
 }
 function saveRadioWord(word,zh){
