@@ -259,7 +259,7 @@ async function fetchOnlineWord(raw,targetSelector){
   }finally{clearTimeout(timer)}
  }catch(err){}
  if(requestId!==lookupRequestId)return;
- if(!html)html='<b style="font-size:18px">'+esc(word)+'</b><br>'+esc(quickMeanings[key]||contextualWordMeaning(key,"")||"暂时没有获取到该词的词典条目；请参考原句理解。");
+ if(!html){const radioWord=document.querySelector("#radioTranscript .word[data-word='"+CSS.escape(word)+"']");const sentence=radioWord?.closest(".sentence");const sentenceText=sentence?.querySelector(".radio-english")?.innerText||"";const localDefinition=radioDetailedMeanings[key]||contextualWordMeaning(key,sentenceText)||quickMeanings[key]||"请结合下方原句理解该词。";html='<div style="font-size:18px;font-weight:700">'+esc(word)+'</div><div style="margin-top:8px"><b>释义：</b>'+esc(localDefinition)+'</div>';}
  if(!translationCache.has(key)&&!quickMeanings[key])try{
   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),2500);
   try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal});if(r.ok){const d=await r.json(),t=d?.responseData?.translatedText;if(t&&t.toLowerCase()!==key&&!/MYMEMORY WARNING/i.test(t)){translation='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(t)+'<div style="font-size:10px;color:#648071">机器翻译，仅供参考。</div></div>';translationCache.set(key,translation)}}}finally{clearTimeout(timer)}
@@ -475,6 +475,27 @@ function toggleRadioCloze(button){
  words.forEach((w,i)=>{const masked=hide&&i%5===0;w.style.color=masked?"transparent":"";w.style.background=masked?"#dce5f5":"";w.style.borderRadius=masked?"3px":"";});
  button.textContent=hide?"显示挖空答案":"开启挖空背诵";
 }
+const radioDetailedMeanings={
+ damage:"名词：损害，损伤，破坏；动词：损害，损坏，使受伤。常见搭配：cause damage to（对……造成损害）；damage to hearing（听力损伤）；irreversible damage（不可逆的损伤）。本句中指大音量音乐对听力造成的损伤。",
+ irreversible:"形容词：不可逆的；无法挽回的；不能恢复原状的。常见搭配：irreversible damage（不可逆的损害）；irreversible change（不可逆的变化）。本句中修饰 damage，强调听力损伤可能无法恢复。",
+ volume:"名词：音量；体积；容量；卷册。本句 turn down the volume 指把音量调低。",
+ hearing:"名词：听力；听觉；听证会。hearing loss 指听力损失；damage to hearing 指听力受损。",
+ prevent:"动词：防止；预防；阻止。prevent something 指防止某事发生；prevent somebody from doing something 指阻止某人做某事。本句 to prevent 表示“为了防止”。",
+ turn:"动词/名词：转动；转向；轮到；变化。turn down 可表示调低（音量/温度）或拒绝（提议/邀请）。本句 turn down the volume 是“调低音量”。",
+ young:"形容词：年轻的；年幼的。young people 指年轻人。",
+ agency:"名词：机构；代理处；专门机构。U.N. agency 指联合国机构。",
+ according:"according to 是固定搭配，意为“根据；按照；据……所说”。according to the World Health Organization 意为“根据世界卫生组织的信息”。",
+ loud:"形容词：大声的；响亮的；声音很大的。loud music 指音量很大的音乐。",
+ music:"名词：音乐。loud music 指大音量的音乐；listen to music 指听音乐。",
+ listening:"listen 的 -ing 形式。listen to 意为“听”；by listening to 表示“通过听……的方式”。",
+ risk:"名词：风险；危险；动词：冒……的风险。risk doing something 意为“冒险做某事”；risk losing their hearing 意为“面临失去听力的风险”。",
+ losing:"lose 的 -ing 形式，意为“失去；丧失”。losing their hearing 指失去听力。",
+ adults:"adult 的复数，意为成年人；成人。young adults 指年轻成年人。",
+ around:"介词/副词：围绕；在……周围；大约；遍及。around the world 意为“世界各地”。",
+ world:"名词：世界；领域。around the world 意为“全世界”。",
+ health:"名词：健康；卫生。World Health Organization 是“世界卫生组织”。",
+ organization:"名词：组织；机构；组织工作。World Health Organization 指世界卫生组织。"
+};
 function contextualWordMeaning(key,sentence){
  const s=String(sentence||"").toLowerCase();
  const contextual={volume:[[/turn down the volume|volume to prevent|listening to loud music|loud music/i,"音量；这里指音乐声音的大小，不是“体积”。"],[/volume of|a volume of/i,"数量；总量。"]],hearing:[[/damage to their hearing|hearing loss|protect.*hearing/i,"听力；听觉。"],[/hearing a case|court hearing/i,"听证会；审理。"]],prevent:[[/prevent.*damage|prevent.*disease|prevent.*from/i,"防止；预防；阻止某事发生。"]],damage:[[/damage to|cause damage|irreversible damage/i,"损害；伤害。这里指对听力造成的损伤。"]],turn:[[/turn down/i,"调低（音量）；拒绝（请求或提议）。这里与 volume 连用，表示调低音量。"]],young:[[/young people|young adults/i,"年轻的；这里修饰 people，指年轻人。"]],agency:[[/u\.n\.|world health organization|agency/i,"机构；组织。这里指联合国相关机构。"]],according:[[/according to/i,"根据；按照；此处用于引出信息来源。"]],loud:[[/loud music|loud sound|listen.*loud/i,"声音大的；响亮的。"]],irreversible:[[/irreversible damage/i,"不可逆的；无法恢复的。"]],music:[[/loud music|good music/i,"音乐。"]],listening:[[/listening to/i,"listen 的 -ing 形式；这里指“听”。"]],to:[[/turn down.*to prevent|to prevent/i,"此处是不定式标记，表示目的：“为了……”。"]],their:[[/their hearing/i,"他们的；这里指前文提到的年轻人。"]]};
