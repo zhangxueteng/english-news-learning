@@ -259,7 +259,7 @@ async function fetchOnlineWord(raw,targetSelector){
   }finally{clearTimeout(timer)}
  }catch(err){}
  if(requestId!==lookupRequestId)return;
- if(!html)html='<b style="font-size:18px">'+esc(word)+'</b><br>'+esc(quickMeanings[key]||"在线词典暂不可用，请结合上下文理解。");
+ if(!html)html='<b style="font-size:18px">'+esc(word)+'</b><br><b>核心词义：</b>'+esc(quickMeanings[key]||contextualWordMeaning(key,"")||"请看下方原句，结合语境判断词义。");
  if(!translationCache.has(key)&&!quickMeanings[key])try{
   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),2500);
   try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal});if(r.ok){const d=await r.json(),t=d?.responseData?.translatedText;if(t&&t.toLowerCase()!==key&&!/MYMEMORY WARNING/i.test(t)){translation='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(t)+'<div style="font-size:10px;color:#648071">机器翻译，仅供参考。</div></div>';translationCache.set(key,translation)}}}finally{clearTimeout(timer)}
@@ -472,14 +472,24 @@ function toggleRadioCloze(button){
  words.forEach((w,i)=>{const masked=hide&&i%5===0;w.style.color=masked?"transparent":"";w.style.background=masked?"#dce5f5":"";w.style.borderRadius=masked?"3px":"";});
  button.textContent=hide?"显示挖空答案":"开启挖空背诵";
 }
+function contextualWordMeaning(key,sentence){
+ const s=String(sentence||"").toLowerCase();
+ const contextual={volume:[[/turn down the volume|volume to prevent|listening to loud music|loud music/i,"音量；这里指音乐声音的大小，不是“体积”。"],[/volume of|a volume of/i,"数量；总量。"]],hearing:[[/damage to their hearing|hearing loss|protect.*hearing/i,"听力；听觉。"],[/hearing a case|court hearing/i,"听证会；审理。"]],prevent:[[/prevent.*damage|prevent.*disease|prevent.*from/i,"防止；预防；阻止某事发生。"]],damage:[[/damage to|cause damage|irreversible damage/i,"损害；伤害。这里指对听力造成的损伤。"]],turn:[[/turn down/i,"调低（音量）；拒绝（请求或提议）。这里与 volume 连用，表示调低音量。"]],young:[[/young people|young adults/i,"年轻的；这里修饰 people，指年轻人。"]],agency:[[/u\.n\.|world health organization|agency/i,"机构；组织。这里指联合国相关机构。"]],according:[[/according to/i,"根据；按照；此处用于引出信息来源。"]],loud:[[/loud music|loud sound|listen.*loud/i,"声音大的；响亮的。"]],irreversible:[[/irreversible damage/i,"不可逆的；无法恢复的。"]],music:[[/loud music|good music/i,"音乐。"]],listening:[[/listening to/i,"listen 的 -ing 形式；这里指“听”。"]],to:[[/turn down.*to prevent|to prevent/i,"此处是不定式标记，表示目的：“为了……”。"]],their:[[/their hearing/i,"他们的；这里指前文提到的年轻人。"]]};
+ const entries=contextual[key]||[];for(const [re,meaning] of entries){if(re.test(s))return meaning;}
+ return "";
+}
 function showRadioWordLookup(raw){
  const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,"");if(!word)return;
  const panel=$("#radioLookupResult");if(!panel)return;
  const key=word.toLowerCase(),vocab=Array.from(document.querySelectorAll("#radioVocab .vocab"));
  const item=vocab.find(el=>el.querySelector("strong")?.textContent.toLowerCase().split(" / ")[0]===key);
+ const row=document.querySelector("#radioTranscript .word[data-word=\""+CSS.escape(word)+"\"]")?.closest(".sentence");
+ const contextEnglish=row?.querySelector(".radio-english")?.innerText||"";
+ const contextChinese=row?.querySelector(".radio-zh")?.innerText||"";
+ const contextualMeaningText=contextualWordMeaning(key,contextEnglish);
  const localMeanings={irreversible:"不可逆转的；无法恢复原状的",prolonged:"持续很长时间的",habitual:"习惯性的；经常发生的",decibel:"分贝，声音强度单位",sensory:"感觉的；感官的",hearing:"听力；听觉",loss:"损失；丧失",volume:"音量；体积",exposure:"暴露；接触",permanently:"永久地",irreversibly:"不可逆转地",unsafe:"不安全的",avoidable:"可以避免的",earplugs:"耳塞",monitor:"监测；监控",intensity:"强度",damage:"损害；损伤",prolonged:"持续很长时间的",habitual:"习惯性的；经常发生的",irreversible:"不可逆转的"};
- const meaning=item?.querySelector("p")?.textContent||localMeanings[key]||quickMeanings[key]||"请结合上下文理解；可使用在线释义补充词义。";
- panel.style.display="block";panel.innerHTML='<div class="lookup-popup-head"><b>单词查询 · '+esc(word)+'</b><button type="button" data-close-lookup>关闭 ×</button></div><div><b style="font-size:18px">'+esc(word)+'</b><p style="margin:6px 0;color:#526078">'+esc(meaning)+'</p><div style="font-size:11px;color:#64748b">正在自动查询中文释义和词典解释…</div></div><div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(meaning)+'">＋ 加入生词本</button><button class="mini" type="button" data-radio-online="'+esc(word)+'">重新查询在线释义</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ const meaning=contextualMeaningText||item?.querySelector("p")?.textContent||localMeanings[key]||quickMeanings[key]||"请结合原句判断具体含义。";
+ panel.style.display="block";panel.innerHTML='<div class="lookup-popup-head"><b>单词查询 · '+esc(word)+'</b><button type="button" data-close-lookup>关闭 ×</button></div><div><b style="font-size:18px">'+esc(word)+'</b><p style="margin:6px 0;color:#26364d"><b>结合上下文：</b>'+esc(meaning)+'</p>'+(contextEnglish?'<div style="margin-top:8px;padding:10px;background:#f4f7ff;border-radius:8px"><div style="font-size:11px;color:#4169e1;font-weight:700">原句</div><div>'+esc(contextEnglish)+'</div>'+(contextChinese?'<div style="margin-top:5px;color:#64748b">'+esc(contextChinese)+'</div>':'')+'</div>':'')+'</div><div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(meaning)+'">＋ 加入生词本</button><button class="mini" type="button" data-radio-online="'+esc(word)+'">补充词典释义</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
  fetchOnlineWord(word,"#radioLookupResult");
 
 }
