@@ -36,11 +36,18 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
 <audio id="voaInlineAudio" controls preload="metadata" style="width:100%;display:block;margin:12px 0" src="https://voa-audio.voanews.eu/vle/2015/04/20/06365fe4-dda6-442f-8a94-83db2d1d83f6_hq.mp3?download=1">你的浏览器不支持音频播放。</audio><div class="panel-note">原位置控制条与右下角悬浮控制条同步；无论阅读到哪里都可以暂停或继续。</div>
 <p class="panel-note">如果音频加载失败，可打开 <a href="https://learningenglish.voanews.com/a/one-billion-young-people-risk-hearing-loss-from-loud-music/2723230.html" target="_blank" rel="noopener">VOA 原文页面</a>播放。</p>
 </div>
-<div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px">
-<button class="open" type="button" id="radioShowTranslation">显示 / 隐藏中文翻译</button>
-<button class="open" type="button" id="radioShowAnalysis">显示 / 隐藏句型解析</button>
-<button class="open" type="button" id="radioShowVocab">显示 / 隐藏重点词汇</button>
+<div class="classic-tools" id="radioClassicTools">
+<button class="open" type="button" id="radioPlayTts">▶ 自动朗读英文</button>
+<button class="mini" type="button" id="radioPauseTts">Ⅱ 暂停朗读</button>
+<button class="mini" type="button" id="radioStopTts">■ 停止朗读</button>
+<button class="mini" type="button" id="radioToggleCloze">开启挖空背诵</button>
+<button class="mini" type="button" id="radioCopyText">复制英文全文</button>
+<button class="mini" type="button" id="radioShowTranslation">显示 / 隐藏中文翻译</button>
+<button class="mini" type="button" id="radioShowAnalysis">显示 / 隐藏句型解析</button>
+<button class="mini" type="button" id="radioShowVocab">显示 / 隐藏重点词汇</button>
 </div>
+<div id="radioLookupResult" aria-live="polite"></div>
+<p class="panel-note" id="radioAudioStatus" aria-live="polite">点击原位置播放按钮开始精听；若播放失败，可打开 VOA 官方原文页面。</p>
 <div class="detail-section" id="radioTranscript">
 <h3 style="margin-top:0">01 · Full Transcript & 完整原文</h3>
 <p class="panel-note">建议先听一遍，再逐段对照原文。下方英文依照 VOA 页面提供的全文整理。</p>
@@ -362,14 +369,30 @@ if(radioLesson&&floatingDock){
 const dockToggle=$("#toggleAudioDock");if(dockToggle)dockToggle.addEventListener("click",()=>{const dock=$("#floatingAudioDock");if(!dock)return;dock.classList.toggle("is-collapsed");dockToggle.textContent=dock.classList.contains("is-collapsed")?"展开":"收起"});
 const inlineAudio=$("#voaInlineAudio"),floatingAudio=$("#voaFloatingAudio");
 if(inlineAudio&&floatingAudio){
- let audioSync=false;
- const syncAudio=(from,to,action)=>{if(audioSync)return;audioSync=true;try{if(action==="time")to.currentTime=from.currentTime;else if(action==="play"){to.currentTime=from.currentTime;const p=to.play();if(p&&p.catch)p.catch(()=>{});}else if(action==="pause")to.pause();}catch(e){}audioSync=false};
+ let syncingAudio=false;
+ const syncAudio=async(from,to,action)=>{
+  if(syncingAudio)return;
+  syncingAudio=true;
+  try{
+   if(action==="time")to.currentTime=from.currentTime;
+   else if(action==="play"){
+    to.currentTime=from.currentTime;
+    try{await to.play()}catch(err){console.warn("同步播放器启动失败：",err)}
+   }else if(action==="pause")to.pause();
+  }catch(err){console.warn("同步播放器失败：",err)}
+  finally{syncingAudio=false}
+ };
  inlineAudio.addEventListener("play",()=>{audioDockActivated=true;updateFloatingDockVisibility();syncAudio(inlineAudio,floatingAudio,"play")});
  inlineAudio.addEventListener("pause",()=>syncAudio(inlineAudio,floatingAudio,"pause"));
  inlineAudio.addEventListener("seeking",()=>syncAudio(inlineAudio,floatingAudio,"time"));
  floatingAudio.addEventListener("play",()=>syncAudio(floatingAudio,inlineAudio,"play"));
  floatingAudio.addEventListener("pause",()=>syncAudio(floatingAudio,inlineAudio,"pause"));
  floatingAudio.addEventListener("seeking",()=>syncAudio(floatingAudio,inlineAudio,"time"));
+ const audioStatus=document.querySelector("#radioAudioStatus");
+ [inlineAudio,floatingAudio].forEach(audio=>{
+  audio.addEventListener("error",()=>{if(audioStatus)audioStatus.textContent="音频源连接失败。请点击“打开 VOA 原文”并在官方页面点击 128 kbps / 64 kbps MP3 播放。"});
+  audio.addEventListener("playing",()=>{if(audioStatus)audioStatus.textContent="音频正在播放。"});
+ });
 }
 let classicSpeechUtterance=null;
 function speakClassic(mode){
@@ -387,8 +410,60 @@ function speakClassic(mode){
  window.speechSynthesis.speak(classicSpeechUtterance);
 }
 document.addEventListener("click",e=>{const b=e.target.closest("#playClassicAudio,#pauseClassicAudio,#stopClassicAudio");if(!b)return;e.preventDefault();speakClassic(b.id==="playClassicAudio"?"play":b.id==="pauseClassicAudio"?"pause":"stop")});
-const radioZhToggle=$("#radioShowTranslation");if(radioZhToggle)radioZhToggle.addEventListener("click",()=>document.querySelectorAll(".radio-zh").forEach(el=>el.style.display=el.style.display==="none"?"":"none"));
-const radioAnalysisToggle=$("#radioShowAnalysis");if(radioAnalysisToggle)radioAnalysisToggle.addEventListener("click",()=>document.querySelectorAll(".radio-analysis").forEach(el=>el.style.display=el.style.display==="none"?"block":"none"));
+const radioZhToggle=$("#radioShowTranslation");if(radioZhToggle)radioZhToggle.addEventListener("click",()=>document.querySelectorAll("#radioTranscript .radio-zh").forEach(el=>el.style.display=el.style.display==="none"?"":"none"));
+const radioAnalysisToggle=$("#radioShowAnalysis");if(radioAnalysisToggle)radioAnalysisToggle.addEventListener("click",()=>document.querySelectorAll("#radioTranscript .radio-analysis").forEach(el=>el.style.display=el.style.display==="none"?"block":"none"));
 const radioVocabToggle=$("#radioShowVocab");if(radioVocabToggle)radioVocabToggle.addEventListener("click",()=>{const el=$("#radioVocab");if(el)el.style.display=el.style.display==="none"?"block":"none"});
+/* Apply the classic-study interaction pattern to the full VOA transcript. */
+document.querySelectorAll("#radioTranscript .english").forEach((el,i)=>{
+ const original=el.textContent.trim();
+ el.classList.add("radio-english","classic-english");
+ el.innerHTML=explainWords(original);
+ el.dataset.sentenceIndex=String(i+1);
+ const row=el.closest(".sentence");
+ if(row){row.classList.add("classic-paragraph");const label=document.createElement("div");label.className="meta";label.innerHTML='<span class="tag">SENTENCE '+String(i+1).padStart(2,"0")+'</span><span class="words">点击英文单词查词</span>';row.insertBefore(label,el);}
+});
+document.addEventListener("click",e=>{
+ const w=e.target.closest("#radioTranscript [data-word]");
+ if(w){showRadioWordLookup(w.dataset.word);return;}
+ if(e.target.closest("#radioPlayTts")){speakRadioTranscript("play");return;}
+ if(e.target.closest("#radioPauseTts")){speakRadioTranscript("pause");return;}
+ if(e.target.closest("#radioStopTts")){speakRadioTranscript("stop");return;}
+ if(e.target.closest("#radioToggleCloze")){toggleRadioCloze(e.target.closest("#radioToggleCloze"));return;}
+ if(e.target.closest("#radioCopyText")){const text=Array.from(document.querySelectorAll("#radioTranscript .radio-english")).map(el=>el.innerText).join("\n");navigator.clipboard?.writeText(text).then(()=>toast("已复制英文全文")).catch(()=>toast(text));return;}
+ if(e.target.closest("#radioLookupResult [data-radio-save]")){const b=e.target.closest("[data-radio-save]");saveRadioWord(b.dataset.radioSave,b.dataset.zh||"");b.textContent="✓ 已加入生词本";return;}
+ if(e.target.closest("#radioLookupResult [data-radio-online]")){fetchOnlineWord(e.target.closest("[data-radio-online]").dataset.radioOnline);return;}
+});
+let radioSpeechUtterance=null;
+function speakRadioTranscript(mode){
+ if(!("speechSynthesis" in window)){toast("当前浏览器不支持自动朗读");return;}
+ if(mode==="pause"){speechSynthesis.pause();return;}
+ if(mode==="stop"){speechSynthesis.cancel();return;}
+ speechSynthesis.cancel();
+ const text=Array.from(document.querySelectorAll("#radioTranscript .radio-english")).map(el=>el.innerText).join(" ");
+ if(!text.trim()){toast("没有找到可朗读的英文");return;}
+ radioSpeechUtterance=new SpeechSynthesisUtterance(text);radioSpeechUtterance.lang="en-US";radioSpeechUtterance.rate=0.88;
+ const voices=speechSynthesis.getVoices();const voice=voices.find(v=>/^en-US/i.test(v.lang))||voices.find(v=>/^en/i.test(v.lang));if(voice)radioSpeechUtterance.voice=voice;
+ speechSynthesis.speak(radioSpeechUtterance);
+}
+function toggleRadioCloze(button){
+ const words=document.querySelectorAll("#radioTranscript .radio-english .word");
+ const hide=button.dataset.cloze!=="1";button.dataset.cloze=hide?"1":"0";
+ words.forEach((w,i)=>{const masked=hide&&i%5===0;w.style.color=masked?"transparent":"";w.style.background=masked?"#dce5f5":"";w.style.borderRadius=masked?"3px":"";});
+ button.textContent=hide?"显示挖空答案":"开启挖空背诵";
+}
+function showRadioWordLookup(raw){
+ const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,"");if(!word)return;
+ const panel=$("#radioLookupResult");if(!panel)return;
+ const key=word.toLowerCase(),vocab=Array.from(document.querySelectorAll("#radioVocab .vocab"));
+ const item=vocab.find(el=>el.querySelector("strong")?.textContent.toLowerCase().split(" / ")[0]===key);
+ const localMeanings={irreversible:"不可逆转的；无法恢复原状的",prolonged:"持续很长时间的",habitual:"习惯性的；经常发生的",decibel:"分贝，声音强度单位",sensory:"感觉的；感官的",hearing:"听力；听觉",loss:"损失；丧失",volume:"音量；体积",exposure:"暴露；接触",permanently:"永久地",irreversibly:"不可逆转地",unsafe:"不安全的",avoidable:"可以避免的",earplugs:"耳塞",monitor:"监测；监控",intensity:"强度",damage:"损害；损伤",prolonged:"持续很长时间的",habitual:"习惯性的；经常发生的",irreversible:"不可逆转的"};
+ const meaning=item?.querySelector("p")?.textContent||localMeanings[key]||quickMeanings[key]||"请结合上下文理解；可使用在线释义补充词义。";
+ panel.style.display="block";panel.innerHTML='<div style="display:flex;justify-content:space-between;gap:10px;align-items:start"><div><b style="font-size:18px">'+esc(word)+'</b><p style="margin:6px 0;color:#526078">'+esc(meaning)+'</p></div><button class="mini" type="button" onclick="document.querySelector(\'#radioLookupResult\').style.display=\'none\'">关闭</button></div><div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(meaning)+'">＋ 加入生词本</button><button class="mini" type="button" data-radio-online="'+esc(word)+'">补充在线释义</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ panel.scrollIntoView({behavior:"smooth",block:"nearest"});
+}
+function saveRadioWord(word,zh){
+ const words=readWords(),key=word.toLowerCase();
+ if(!words.some(w=>w.word.toLowerCase()===key)){words.push({word,zh,addedAt:new Date().toISOString(),dueAt:0,interval:0,reps:0});saveWords(words);updateStudyHub();toast("已加入生词本");}
+}
 setToday();renderClassics();loadData();
 </script></body></html>
