@@ -120,7 +120,7 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
    <div style="font-size:11px;color:#64748b;margin-bottom:5px">VOA LEARNING ENGLISH · EVERYDAY GRAMMAR</div>
    <strong style="display:block;margin-bottom:10px;font-size:15px">Grammar and Recommendations</strong>
    <audio id="ieltsInlineAudio" controls preload="metadata" playsinline style="width:100%;display:block" src="https://voa-audio.voanews.eu/vle/2023/06/29/01000000-0a00-0242-6653-08db78ad43a0_hq.mp3?download=1">你的浏览器不支持音频播放。</audio>
-   <p id="ieltsAudioStatus" class="panel-note" style="margin:9px 0 0">时长约 5 分 18 秒。可直接在本站播放。</p>
+   <p id="ieltsAudioStatus" class="panel-note" style="margin:9px 0 0">默认 1.3× 语速，更适合雅思精听；可在悬浮窗调整至 1.5×、1.75× 或 2×。</p>
    <p class="panel-note" style="margin:8px 0 0">原文及音频来源：<a href="https://learningenglish.voanews.com/a/grammar-and-recommendations-/7155122.html" target="_blank" rel="noopener noreferrer">VOA Learning English 官方页面 ↗</a></p>
   </div>
   <div class="detail-section" style="margin-top:14px">
@@ -184,7 +184,7 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
 </section>
 </main>
 <footer><div class="wrap"><b>newslingo</b> · 用真实新闻学英语<br>本学习工具提供语言学习辅助。新闻原文、视频及相关权利归各原始发布方所有；示例内容用于展示功能，自动更新后将由新闻数据文件提供内容。</div></footer>
-<div id="floatingAudioDock" aria-label="英语新闻音频快捷控制"><div class="floating-audio-top"><div><div class="floating-audio-title">VOA Audio · 英语新闻精听</div><div class="floating-audio-sub">阅读时可随时暂停 / 继续播放</div></div><button class="dock-minimize" id="toggleAudioDock" type="button">收起</button></div><div class="floating-audio-remote" style="display:flex;align-items:center;gap:10px"><button type="button" id="dockAudioPlayPause" class="dock-minimize" aria-label="播放或暂停音频">▶ / Ⅱ</button><span id="dockAudioTime" style="font-size:12px;white-space:nowrap">使用上方原位置播放器</span><input id="dockAudioSeek" type="range" min="0" max="100" value="0" aria-label="音频播放进度" style="flex:1;min-width:50px"></div><div class="floating-audio-speed" style="display:flex;align-items:center;gap:8px;margin-top:9px;font-size:12px;color:#d5deed"><label for="dockAudioSpeed">播放语速</label><select id="dockAudioSpeed" aria-label="播放语速" style="flex:1;max-width:180px;border:1px solid #64748b;background:#263955;color:#fff;border-radius:8px;padding:7px"><option value="0.6">0.6× 慢速</option><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1.0× 正常</option><option value="1.1">1.1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="1.75">1.75×</option><option value="2">2.0× 极速</option></select><span id="dockAudioSpeedValue">1.0×</span></div></div><div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-label="新闻精读"><div class="drawer"><div class="drawer-head"><b>NEWSLINGO · 新闻精读</b><button class="close" id="close" aria-label="关闭">×</button></div><div class="detail" id="detail"></div></div></div><div class="toast" id="toast"></div>
+<div id="floatingAudioDock" aria-label="英语新闻音频快捷控制"><div class="floating-audio-top"><div><div class="floating-audio-title">VOA Audio · 英语新闻精听</div><div class="floating-audio-sub">阅读时可随时暂停 / 继续播放</div></div><button class="dock-minimize" id="toggleAudioDock" type="button">收起</button></div><div class="floating-audio-remote" style="display:flex;align-items:center;gap:10px"><button type="button" id="dockAudioPlayPause" class="dock-minimize" aria-label="播放或暂停音频">▶ / Ⅱ</button><span id="dockAudioTime" style="font-size:12px;white-space:nowrap">使用上方原位置播放器</span><input id="dockAudioSeek" type="range" min="0" max="100" value="0" aria-label="音频播放进度" style="flex:1;min-width:50px"></div><div class="floating-audio-speed" style="display:flex;align-items:center;gap:8px;margin-top:9px;font-size:12px;color:#d5deed"><label for="dockAudioSpeed">播放语速</label><select id="dockAudioSpeed" aria-label="播放语速" style="flex:1;max-width:180px;border:1px solid #64748b;background:#263955;color:#fff;border-radius:8px;padding:7px"><option value="0.6">0.6× 慢速</option><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1">1.0× 正常</option><option value="1.1">1.1×</option><option value="1.25">1.25×</option><option value="1.3" selected>1.3× 雅思练习</option><option value="1.4">1.4×</option><option value="1.5">1.5×</option><option value="1.75">1.75×</option><option value="2">2.0× 极速</option></select><span id="dockAudioSpeedValue">1.0×</span></div></div><div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-label="新闻精读"><div class="drawer"><div class="drawer-head"><b>NEWSLINGO · 新闻精读</b><button class="close" id="close" aria-label="关闭">×</button></div><div class="detail" id="detail"></div></div></div><div class="toast" id="toast"></div>
 <script>
 /* Visible diagnostics: surface startup errors instead of leaving loading placeholders forever. */
 window.addEventListener("error",function(event){
@@ -560,9 +560,11 @@ if(dockPlayPause)dockPlayPause.addEventListener("click",()=>{
  });}else activeAudio.pause();
 });
 if(dockAudioSeek)dockAudioSeek.addEventListener("input",()=>{if(activeAudio&&Number.isFinite(activeAudio.duration)&&activeAudio.duration>0)activeAudio.currentTime=activeAudio.duration*Number(dockAudioSeek.value)/100;});
-if(dockAudioSpeed)dockAudioSpeed.addEventListener("change",()=>{if(activeAudio)activeAudio.playbackRate=Number(dockAudioSpeed.value)||1;updateDockControls();});
+if(dockAudioSpeed)dockAudioSpeed.addEventListener("change",()=>{if(activeAudio){activeAudio.playbackRate=Number(dockAudioSpeed.value)||1;if(activeAudio===ieltsAudio)activeAudio.dataset.speedTouched="1";}updateDockControls();});
 if(radioAudio&&floatingAudio){floatingAudio.removeAttribute("src");floatingAudio.removeAttribute("controls");floatingAudio.style.display="none";}
 if(ieltsAudio){
+ ieltsAudio.playbackRate=1.3;
+ ieltsAudio.addEventListener("loadedmetadata",()=>{if(!ieltsAudio.dataset.speedTouched)ieltsAudio.playbackRate=1.3;});
  ieltsAudio.addEventListener("play",()=>chooseAudio(ieltsAudio,"ielts"));
  ieltsAudio.addEventListener("click",()=>chooseAudio(ieltsAudio,"ielts"));
 }
