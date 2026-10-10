@@ -110,8 +110,8 @@ def make_card(title, url, publisher, category, published):
         "articleUrl": url,
         "demo": False,
         "sourceNote": "RSS headline · original reading passage · open original publisher",
-        "readingText": "\\n\\n".join(reading),
-        "readingTextZh": "\\n\\n".join(reading_zh),
+        "readingText": "\n\n".join(reading),
+        "readingTextZh": "\n\n".join(reading_zh),
         "sentences": sentences,
         "vocab": vocab,
         "grammar": [
