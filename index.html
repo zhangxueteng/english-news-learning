@@ -512,15 +512,16 @@ function speakClassic(mode){
    if(event.touches.length!==1)return;
    const touch=event.touches[0];
    startX=touch.clientX;startY=touch.clientY;
-   tracking=panel.scrollTop<=0;
+   tracking=true;
   },{passive:true});
   panel.addEventListener("touchend",event=>{
    if(!tracking||!event.changedTouches.length)return;
    const touch=event.changedTouches[0],dx=touch.clientX-startX,dy=touch.clientY-startY;
-   if(dy>85&&dy>Math.abs(dx)*1.25&&panel.scrollTop<=0){
+   // Allow pull-down-to-dismiss anywhere in the lookup popup, even if the panel is scrolled.
+   if(dy>65&&dy>Math.abs(dx)*1.15){
     panel.style.display="none";
-    tracking=false;
    }
+   tracking=false;
   },{passive:true});
   panel.addEventListener("touchcancel",()=>{tracking=false},{passive:true});
  });
