@@ -63,31 +63,59 @@ $("#newsGrid").addEventListener("click",e=>{let b=e.target.closest("[data-open]"
 $("#close").addEventListener("click",()=>{$("#overlay").classList.remove("show");document.body.style.overflow=""});
 $("#overlay").addEventListener("click",e=>{if(e.target===$("#overlay")){$("#overlay").classList.remove("show");document.body.style.overflow=""}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){$("#overlay").classList.remove("show");document.body.style.overflow=""}});
+const dictionaryCache=new Map(),translationCache=new Map();
+let lookupRequestId=0;
 async function showWordLookup(raw){
-const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,"");
-if(!word){toast("请输入英文单词");return}
-const result=$("#wordLookupResultGlobal")||$("#wordLookupResult"),input=$("#wordLookupInputGlobal")||$("#wordLookupInput");if(input)input.value=word;if(!result)return;
-result.style.display="block";result.innerHTML="<b>"+esc(word)+"</b><br>正在查询释义、音标和发音…";
-const n=allNews.find(x=>x.id===window.currentNewsId)||allNews[0];let html=lookupWord(word,n);
-try{
- const r=await fetch("https://api.dictionaryapi.dev/api/v2/entries/en/"+encodeURIComponent(word));
- if(r.ok){
-  const data=await r.json(),entry=data[0],phonetics=(entry.phonetics||[]).filter(p=>p.audio);
-  const us=phonetics.find(p=>/us[-_/]/i.test(p.audio)||/american/i.test(p.audio))||phonetics[0];
-  const uk=phonetics.find(p=>/uk[-_/]/i.test(p.audio)||/british/i.test(p.audio));
-  const audioBtn=(p,label)=>p?'<button class="mini" type="button" data-play-audio="'+esc(p.audio)+'">▶ '+label+'发音</button>':"";
-  const sounds=(us||uk)?'<div style="display:flex;gap:7px;flex-wrap:wrap;margin:8px 0">'+audioBtn(us,"美式")+(uk&&uk.audio!==(us&&us.audio)?audioBtn(uk,"英式"):"")+'</div>':"";
-  const meanings=(entry.meanings||[]).slice(0,5).map(m=>'<div style="margin-top:9px"><b>'+esc(m.partOfSpeech||"")+'</b><br>'+(m.definitions||[]).slice(0,2).map(d=>'• '+esc(d.definition)+(d.example?'<br><i>例句：'+esc(d.example)+'</i>':"")).join("<br>")+'</div>').join("");
-  html='<div style="display:flex;align-items:baseline;gap:8px;flex-wrap:wrap"><b style="font-size:18px">'+esc(entry.word||word)+'</b><span style="color:#64748b">'+esc(entry.phonetic||((entry.phonetics||[]).find(p=>p.text)?.text)||"")+'</span></div>'+sounds+meanings+'<p style="color:#64748b;font-size:11px;margin:8px 0 0">在线英语词典 · 音标、释义和例句；具体数据因单词而异。</p>';
+ const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,"");
+ if(!word){toast("请输入英文单词");return}
+ const requestId=++lookupRequestId;
+ const result=$("#wordLookupResultGlobal")||$("#wordLookupResult"),input=$("#wordLookupInputGlobal")||$("#wordLookupInput");
+ if(input)input.value=word;if(!result)return;
+ const n=allNews.find(x=>x.id===window.currentNewsId)||allNews[0];
+ const local=(n?.vocab||[]).find(v=>v.word.toLowerCase()===word.toLowerCase());
+ const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]");
+ const saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===word.toLowerCase());
+ const actions='<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ const render=(body,status="")=>{if(requestId!==lookupRequestId)return;result.style.display="block";result.innerHTML=body+actions+(status?'<div style="color:#64748b;font-size:10px;margin-top:8px">'+status+'</div>':"")};
+ const localHtml=lookupWord(word,n);
+ render(localHtml, "已显示本地释义"+(local?" · 来自本篇新闻词汇":"")+"；正在补充在线词典内容…");
+ if(dictionaryCache.has(word.toLowerCase())){
+   render(dictionaryCache.get(word.toLowerCase())+(local?.zh?'<div style="margin-top:8px"><b>本篇新闻释义：</b>'+esc(local.zh)+'</div>':""),"来自本地缓存 · 即时显示");
+   return;
  }
-}catch(err){html=lookupWord(word,n)+'<p style="color:#64748b;font-size:11px">在线词典暂不可用，显示本地词汇提示。</p>'}
-let zhTranslation="";
-try{const tr=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN");if(tr.ok){const td=await tr.json();const candidate=td?.responseData?.translatedText;if(candidate&&candidate.toLowerCase()!==word.toLowerCase()&&!/MYMEMORY WARNING/i.test(candidate))zhTranslation=candidate}}catch(err){}
-if(zhTranslation)html+='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(zhTranslation)+'<div style="font-size:10px;color:#648071;margin-top:3px">机器翻译，仅供参考，请结合原句语境理解。</div></div>';
-const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]");
-const saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===word.toLowerCase());
-const local=(n.vocab||[]).find(v=>v.word.toLowerCase()===word.toLowerCase());
-result.innerHTML=html+'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ const dictionaryTask=(async()=>{
+  try{
+   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),4500);
+   try{
+    const r=await fetch("https://api.dictionaryapi.dev/api/v2/entries/en/"+encodeURIComponent(word),{signal:controller.signal});
+    if(!r.ok)throw new Error("not found");
+    const data=await r.json(),entry=data[0],phonetics=(entry.phonetics||[]).filter(p=>p.audio);
+    const us=phonetics.find(p=>/us[-_/]/i.test(p.audio)||/american/i.test(p.audio))||phonetics[0];
+    const uk=phonetics.find(p=>/uk[-_/]/i.test(p.audio)||/british/i.test(p.audio));
+    const audioBtn=(p,label)=>p?'<button class="mini" type="button" data-play-audio="'+esc(p.audio)+'">▶ '+label+'发音</button>':"";
+    const sounds=(us||uk)?'<div style="display:flex;gap:7px;flex-wrap:wrap;margin:8px 0">'+audioBtn(us,"美式")+(uk&&uk.audio!==(us&&us.audio)?audioBtn(uk,"英式"):"")+'</div>':"";
+    const meanings=(entry.meanings||[]).slice(0,4).map(m=>'<div style="margin-top:8px"><b>'+esc(m.partOfSpeech||"")+'</b><br>'+(m.definitions||[]).slice(0,2).map(d=>'• '+esc(d.definition)+(d.example?'<br><i>例句：'+esc(d.example)+'</i>':"")).join("<br>")+'</div>').join("");
+    const html='<div style="display:flex;align-items:baseline;gap:8px;flex-wrap:wrap"><b style="font-size:18px">'+esc(entry.word||word)+'</b><span style="color:#64748b">'+esc(entry.phonetic||((entry.phonetics||[]).find(p=>p.text)?.text)||"")+'</span></div>'+sounds+meanings+(local?.zh?'<div style="margin-top:8px"><b>本篇新闻释义：</b>'+esc(local.zh)+'</div>':"")+'<p style="color:#64748b;font-size:10px;margin:8px 0 0">在线英语词典 · 音标、释义和例句。</p>';
+    dictionaryCache.set(word.toLowerCase(),html);
+    return html;
+   }finally{clearTimeout(timer)}
+  }catch(err){return ""}
+ })();
+ const translationTask=local?.zh?Promise.resolve(""):(async()=>{
+  if(translationCache.has(word.toLowerCase()))return translationCache.get(word.toLowerCase());
+  try{
+   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),3500);
+   try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal});if(!r.ok)return "";
+    const td=await r.json(),candidate=td?.responseData?.translatedText;
+    if(candidate&&candidate.toLowerCase()!==word.toLowerCase()&&!/MYMEMORY WARNING/i.test(candidate)){const t='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(candidate)+'<div style="font-size:10px;color:#648071;margin-top:3px">机器翻译，仅供参考，请结合原句语境理解。</div></div>';translationCache.set(word.toLowerCase(),t);return t}return "";
+   }finally{clearTimeout(timer)}
+  }catch(err){return ""}
+ })();
+ const [dictionaryHtml,translationHtml]=await Promise.all([dictionaryTask,translationTask]);
+ if(requestId!==lookupRequestId)return;
+ if(dictionaryHtml)render(dictionaryHtml+translationHtml,"在线词典已更新");
+ else if(translationHtml)render(localHtml+translationHtml,"在线词典暂不可用，已保留本地释义");
+ else render(localHtml,"已优先显示可用释义；在线词典响应较慢或暂不可用");
 }
 function renderWordBook(){
  const panel=$("#wordBookPanel");if(!panel)return;
