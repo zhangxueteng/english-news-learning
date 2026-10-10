@@ -118,7 +118,7 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
 </section>
 </main>
 <footer><div class="wrap"><b>newslingo</b> · 用真实新闻学英语<br>本学习工具提供语言学习辅助。新闻原文、视频及相关权利归各原始发布方所有；示例内容用于展示功能，自动更新后将由新闻数据文件提供内容。</div></footer>
-<div id="floatingAudioDock" aria-label="悬浮英语新闻音频播放器"><div class="floating-audio-top"><div><div class="floating-audio-title">VOA Audio · 英语新闻精听</div><div class="floating-audio-sub">阅读时可随时暂停 / 继续播放</div></div><button class="dock-minimize" id="toggleAudioDock" type="button">收起</button></div><audio id="voaFloatingAudio" controls preload="metadata" src="https://voa-audio.voanews.eu/vle/2015/04/20/06365fe4-dda6-442f-8a94-83db2d1d83f6_hq.mp3?download=1">你的浏览器不支持音频播放。</audio></div><div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-label="新闻精读"><div class="drawer"><div class="drawer-head"><b>NEWSLINGO · 新闻精读</b><button class="close" id="close" aria-label="关闭">×</button></div><div class="detail" id="detail"></div></div></div><div class="toast" id="toast"></div>
+<div id="floatingAudioDock" aria-label="英语新闻音频快捷控制"><div class="floating-audio-top"><div><div class="floating-audio-title">VOA Audio · 英语新闻精听</div><div class="floating-audio-sub">阅读时可随时暂停 / 继续播放</div></div><button class="dock-minimize" id="toggleAudioDock" type="button">收起</button></div><div class="floating-audio-remote" style="display:flex;align-items:center;gap:10px"><button type="button" id="dockAudioPlayPause" class="dock-minimize" aria-label="播放或暂停音频">▶ / Ⅱ</button><span id="dockAudioTime" style="font-size:12px;white-space:nowrap">使用上方原位置播放器</span><input id="dockAudioSeek" type="range" min="0" max="100" value="0" aria-label="音频播放进度" style="flex:1;min-width:50px"></div></div><div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-label="新闻精读"><div class="drawer"><div class="drawer-head"><b>NEWSLINGO · 新闻精读</b><button class="close" id="close" aria-label="关闭">×</button></div><div class="detail" id="detail"></div></div></div><div class="toast" id="toast"></div>
 <script>
 /* Visible diagnostics: surface startup errors instead of leaving loading placeholders forever. */
 window.addEventListener("error",function(event){
@@ -367,31 +367,39 @@ if(radioLesson&&floatingDock){
  window.addEventListener("resize",updateFloatingDockVisibility);
 }
 const dockToggle=$("#toggleAudioDock");if(dockToggle)dockToggle.addEventListener("click",()=>{const dock=$("#floatingAudioDock");if(!dock)return;dock.classList.toggle("is-collapsed");dockToggle.textContent=dock.classList.contains("is-collapsed")?"展开":"收起"});
+const dockPlayPause=$("#dockAudioPlayPause"),dockAudioTime=$("#dockAudioTime"),dockAudioSeek=$("#dockAudioSeek");
+if(inlineAudio){
+ const fmt=t=>{if(!Number.isFinite(t))return "0:00";const m=Math.floor(t/60),sec=Math.floor(t%60);return m+":"+String(sec).padStart(2,"0")};
+ const updateDockControls=()=>{
+  if(dockAudioTime)dockAudioTime.textContent=fmt(inlineAudio.currentTime)+" / "+fmt(inlineAudio.duration);
+  if(dockAudioSeek){dockAudioSeek.value=Number.isFinite(inlineAudio.duration)&&inlineAudio.duration>0?String(inlineAudio.currentTime/inlineAudio.duration*100):"0";}
+  if(dockPlayPause)dockPlayPause.textContent=inlineAudio.paused?"▶ 播放":"Ⅱ 暂停";
+ };
+ ["timeupdate","loadedmetadata","durationchange","play","pause","ended","seeking"].forEach(ev=>inlineAudio.addEventListener(ev,updateDockControls));
+ if(dockPlayPause)dockPlayPause.addEventListener("click",()=>{if(inlineAudio.paused){inlineAudio.play().catch(()=>{if(audioStatus)audioStatus.textContent="播放失败，请检查网络或打开 VOA 原文。"});}else inlineAudio.pause();});
+ if(dockAudioSeek)dockAudioSeek.addEventListener("input",()=>{if(Number.isFinite(inlineAudio.duration)&&inlineAudio.duration>0)inlineAudio.currentTime=inlineAudio.duration*Number(dockAudioSeek.value)/100;});
+ updateDockControls();
+}
 const inlineAudio=$("#voaInlineAudio"),floatingAudio=$("#voaFloatingAudio");
 if(inlineAudio&&floatingAudio){
- let syncingAudio=false;
- const syncAudio=async(from,to,action)=>{
-  if(syncingAudio)return;
-  syncingAudio=true;
-  try{
-   if(action==="time")to.currentTime=from.currentTime;
-   else if(action==="play"){
-    to.currentTime=from.currentTime;
-    try{await to.play()}catch(err){console.warn("同步播放器启动失败：",err)}
-   }else if(action==="pause")to.pause();
-  }catch(err){console.warn("同步播放器失败：",err)}
-  finally{syncingAudio=false}
- };
- inlineAudio.addEventListener("play",()=>{audioDockActivated=true;updateFloatingDockVisibility();syncAudio(inlineAudio,floatingAudio,"play")});
- inlineAudio.addEventListener("pause",()=>syncAudio(inlineAudio,floatingAudio,"pause"));
- inlineAudio.addEventListener("seeking",()=>syncAudio(inlineAudio,floatingAudio,"time"));
- floatingAudio.addEventListener("play",()=>syncAudio(floatingAudio,inlineAudio,"play"));
- floatingAudio.addEventListener("pause",()=>syncAudio(floatingAudio,inlineAudio,"pause"));
- floatingAudio.addEventListener("seeking",()=>syncAudio(floatingAudio,inlineAudio,"time"));
+ /* The inline audio is the sole audio source. The floating control is a remote UI,
+    not a second media element, so it can never produce overlapping sound. */
+ floatingAudio.removeAttribute("src");
+ floatingAudio.removeAttribute("controls");
+ floatingAudio.style.display="none";
  const audioStatus=document.querySelector("#radioAudioStatus");
- [inlineAudio,floatingAudio].forEach(audio=>{
-  audio.addEventListener("error",()=>{if(audioStatus)audioStatus.textContent="音频源连接失败。请点击“打开 VOA 原文”并在官方页面点击 128 kbps / 64 kbps MP3 播放。"});
-  audio.addEventListener("playing",()=>{if(audioStatus)audioStatus.textContent="音频正在播放。"});
+ const dockAudioLabel=document.querySelector("#floatingAudioDock .floating-audio-sub");
+ inlineAudio.addEventListener("play",()=>{
+  audioDockActivated=true;updateFloatingDockVisibility();
+  if(audioStatus)audioStatus.textContent="音频正在播放。";
+  if(dockAudioLabel)dockAudioLabel.textContent="与原位置播放器同步 · 单一音源";
+ });
+ inlineAudio.addEventListener("pause",()=>{
+  if(audioStatus)audioStatus.textContent="音频已暂停。";
+  if(dockAudioLabel)dockAudioLabel.textContent="已暂停 · 点击原位置控制条继续";
+ });
+ inlineAudio.addEventListener("error",()=>{
+  if(audioStatus)audioStatus.textContent="音频源连接失败。请点击“打开 VOA 原文”并在官方页面播放。";
  });
 }
 let classicSpeechUtterance=null;
