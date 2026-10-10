@@ -259,7 +259,7 @@ async function fetchOnlineWord(raw,targetSelector){
   }finally{clearTimeout(timer)}
  }catch(err){}
  if(requestId!==lookupRequestId)return;
- if(!html){const radioWord=document.querySelector("#radioTranscript .word[data-word='"+CSS.escape(word)+"']");const sentence=radioWord?.closest(".sentence");const sentenceText=sentence?.querySelector(".radio-english")?.innerText||"";const localDefinition=radioDetailedMeanings[key]||contextualWordMeaning(key,sentenceText)||quickMeanings[key]||"请结合下方原句理解该词。";html='<div style="font-size:18px;font-weight:700">'+esc(word)+'</div><div style="margin-top:8px"><b>释义：</b>'+esc(localDefinition)+'</div>';}
+ if(!html){const radioWord=document.querySelector("#radioTranscript .word[data-word='"+CSS.escape(word)+"']");const sentence=radioWord?.closest(".sentence");const sentenceText=sentence?.querySelector(".radio-english")?.innerText||"";const localDefinition=radioDetailedMeanings[key]||radioGeneralMeanings[key]||contextualWordMeaning(key,sentenceText)||quickMeanings[key]||"请结合下方原句理解该词。";html='<div style="font-size:18px;font-weight:700">'+esc(word)+'</div><div style="margin-top:8px"><b>释义：</b>'+esc(localDefinition)+'</div>';}
  if(!translationCache.has(key)&&!quickMeanings[key])try{
   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),2500);
   try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal});if(r.ok){const d=await r.json(),t=d?.responseData?.translatedText;if(t&&t.toLowerCase()!==key&&!/MYMEMORY WARNING/i.test(t)){translation='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(t)+'<div style="font-size:10px;color:#648071">机器翻译，仅供参考。</div></div>';translationCache.set(key,translation)}}}finally{clearTimeout(timer)}
@@ -475,6 +475,60 @@ function toggleRadioCloze(button){
  words.forEach((w,i)=>{const masked=hide&&i%5===0;w.style.color=masked?"transparent":"";w.style.background=masked?"#dce5f5":"";w.style.borderRadius=masked?"3px":"";});
  button.textContent=hide?"显示挖空答案":"开启挖空背诵";
 }
+const radioGeneralMeanings={
+ entertainment:"名词：娱乐；消遣；娱乐活动；娱乐表演。常见搭配：entertainment industry（娱乐产业）；a place of entertainment（娱乐场所）；for entertainment（为了消遣）。本句 entertainment places 指娱乐场所。",
+ places:"place 的复数：地方；地点；场所。entertainment places 指娱乐场所。",
+ concerts:"concert 的复数：音乐会；演唱会。",
+ nightclubs:"nightclub 的复数：夜总会；夜店。",
+ audio:"形容词/名词：音频的；声音的；音频。audio devices 指音频设备。",
+ devices:"device 的复数：设备；装置；器具。personal audio devices 指个人音频设备，如耳机、播放器等。",
+ personal:"形容词：个人的；私人的；亲自的。personal audio devices 指个人使用的音频设备。",
+ as:"可作介词、连词或副词；as well as 是固定搭配，意为“以及；也；和……一样”。",
+ well:"as well as 中与 as 构成固定搭配，意为“以及；也”。",
+ they:"代词：他们；她们；它们。本句指前文提到的青少年和年轻人。",
+ are:"be 动词 are；与 listening 构成现在进行时 are listening，表示“正在听”。",
+ on:"介词：在……上；通过；使用。listen on their devices 这里指通过设备收听。",
+ their:"形容词性物主代词：他们的；她们的；它们的。",
+ listening:"listen 的现在分词；listen to 意为“听”，这里指听音乐。",
+ other:"形容词/代词：其他的；另外的。other entertainment places 指其他娱乐场所。",
+ unsafe:"形容词：不安全的；有危险的。unsafe levels of sound 指危险的声音强度。",
+ levels:"level 的复数：水平；程度；级别。levels of sound 指声音强度水平。",
+ sound:"名词：声音；声响；形容词：健全的；合理的。levels of sound 指声音强度。",
+ aged:"形容词/介词用法：年龄为……的；aged 12 to 35 指年龄在 12 至 35 岁之间。",
+ years:"year 的复数：年；岁。35 years old 指 35 岁。",
+ listen:"动词：听；倾听。listen to something 意为“听某物”。",
+ turn:"动词：转动；转向；使改变。turn down the volume 意为“调低音量”。",
+ down:"副词：向下；减小。turn down the volume 意为“把音量调低”。",
+ volume:"名词：音量；体积；容量；卷册。本句 turn down the volume 指把音量调低。",
+ prevent:"动词：防止；预防；阻止。to prevent 表示“为了防止”。",
+ irreversible:"形容词：不可逆的；无法挽回的；不能恢复原状的。",
+ damage:"名词：损害；损伤；破坏；动词：损害；损坏。本句指听力损伤。",
+ hearing:"名词：听力；听觉。hearing damage 指听力损伤。",
+ according:"according to 是固定搭配，意为“根据；按照；据……所说”。",
+ world:"名词：世界。around the world 意为“全世界”。",
+ health:"名词：健康；卫生。",
+ organization:"名词：组织；机构。",
+ agency:"名词：机构；专门机构。U.N. agency 指联合国机构。",
+ young:"形容词：年轻的；年幼的。young people 指年轻人。",
+ people:"名词：人；人们。young people 指年轻人。",
+ risk:"名词：风险；危险；动词：冒……的风险。risk doing 指冒险做某事。",
+ losing:"lose 的现在分词，意为“失去；丧失”。",
+ adults:"adult 的复数：成年人；成人。",
+ around:"介词/副词：在……周围；大约；遍及。around the world 指遍及世界。",
+ music:"名词：音乐。",
+ loud:"形容词：大声的；响亮的。",
+ hearing:"名词：听力；听觉。",
+ to:"介词或不定式标记；具体含义取决于句子结构。",
+ of:"介词：……的；由……组成；关于；因为等，依语境确定。",
+ the:"定冠词，用于特指前文已知或语境中明确的人或事物。",
+ and:"连词：和；并且；以及。",
+ a:"不定冠词，通常用于单数可数名词前。",
+ is:"be 动词 is；可表示“是”，也可用于进行时或被动语态。",
+ are:"be 动词 are；也用于构成进行时和被动语态。",
+ can:"情态动词：能；会；可能。",
+ their:"形容词性物主代词：他们的；她们的；它们的。",
+ "as well as":"固定搭配：以及；也；还；既……又……。"
+};
 const radioDetailedMeanings={
  damage:"名词：损害，损伤，破坏；动词：损害，损坏，使受伤。常见搭配：cause damage to（对……造成损害）；damage to hearing（听力损伤）；irreversible damage（不可逆的损伤）。本句中指大音量音乐对听力造成的损伤。",
  irreversible:"形容词：不可逆的；无法挽回的；不能恢复原状的。常见搭配：irreversible damage（不可逆的损害）；irreversible change（不可逆的变化）。本句中修饰 damage，强调听力损伤可能无法恢复。",
