@@ -653,6 +653,32 @@ document.addEventListener("click",event=>{
   }
  },{passive:false,capture:true});
 })();
+// Robust dismissal for all dictionary popups, including IELTS: delegate close and swipe at document level.
+(function robustLookupDismissal(){
+ let startX=0,startY=0,startPanel=null;
+ document.addEventListener("click",function(e){
+  const close=e.target instanceof Element?e.target.closest("[data-close-lookup]"):null;
+  if(!close)return;
+  e.preventDefault();e.stopPropagation();
+  const panel=close.closest("#classicLookupResult,#radioLookupResult,#ieltsLookupResult");
+  if(panel){panel.style.setProperty("display","none","important");panel.setAttribute("aria-hidden","true");}
+ },true);
+ document.addEventListener("touchstart",function(e){
+  const panel=e.target instanceof Element?e.target.closest("#classicLookupResult,#radioLookupResult,#ieltsLookupResult"):null;
+  if(!panel||!e.touches||e.touches.length!==1){startPanel=null;return;}
+  startPanel=panel;startX=e.touches[0].clientX;startY=e.touches[0].clientY;
+ },{passive:true,capture:true});
+ document.addEventListener("touchend",function(e){
+  if(!startPanel||!e.changedTouches||!e.changedTouches.length)return;
+  const dx=e.changedTouches[0].clientX-startX,dy=e.changedTouches[0].clientY-startY;
+  if(dy>75&&dy>Math.abs(dx)*1.25){
+   startPanel.style.setProperty("display","none","important");
+   startPanel.setAttribute("aria-hidden","true");
+  }
+  startPanel=null;
+ },{passive:true,capture:true});
+ document.addEventListener("touchcancel",function(){startPanel=null;},{passive:true,capture:true});
+})();
 // 手机端查词弹窗：在弹窗顶部向下滑动时关闭；正常上下滚动词典内容不受影响。
 (function enableLookupSwipeToClose(){
  const panels=["#classicLookupResult","#radioLookupResult","#ieltsLookupResult"];
