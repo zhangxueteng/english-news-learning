@@ -79,15 +79,15 @@ def make_video_card(title, video_id, publisher, default_category, published, des
     # Study text must come from the actual publisher-provided video description.
     # Never fabricate generic paragraphs and present them as the video's transcript.
     clean_description = (description or "").strip()
-    clean_description = re.sub(r"(?im)^\\s*(?:read more|watch more|subscribe|follow us|learn more at|learn more about your ad choices).*?$", "", clean_description)
-    clean_description = re.sub(r"(?im)^\\s*#\\w+(?:\\s+#\\w+)*\\s*$", "", clean_description)
-    clean_description = re.sub(r"https?://\\S+", "", clean_description)
-    clean_description = re.sub(r"\\n{3,}", "\\n\\n", clean_description).strip()
+    clean_description = re.sub(r"(?im)^\s*(?:read more|watch more|subscribe|follow us|learn more at|learn more about your ad choices).*?$", "", clean_description)
+    clean_description = re.sub(r"(?im)^\s*#\w+(?:\s+#\w+)*\s*$", "", clean_description)
+    clean_description = re.sub(r"https?://\S+", "", clean_description)
+    clean_description = re.sub(r"\n{3,}", "\n\n", clean_description).strip()
     # Chapter markers/promotional tails are not useful as reading paragraphs.
-    clean_description = re.split(r"(?im)\\n\\s*(?:0?:?\\d{1,2}:\\d{2}\\s+|#\\w+|learn more about your ad choices)", clean_description)[0].strip()
+    clean_description = re.split(r"(?im)\n\s*(?:0?:?\d{1,2}:\d{2}\s+|#\w+|learn more about your ad choices)", clean_description)[0].strip()
     if not clean_description:
         clean_description = title
-    chunks = [x.strip() for x in re.split(r"(?<=[.!?])\\s+(?=[A-Z\\\"'])", clean_description) if x.strip()]
+    chunks = [x.strip() for x in re.split(r"(?<=[.!?])\s+(?=[A-Z\\"'])", clean_description) if x.strip()]
     if not chunks:
         chunks = [clean_description]
     # Limit the learning panel to the publisher's actual description; never imply this is a transcript.
