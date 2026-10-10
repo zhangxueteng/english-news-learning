@@ -68,7 +68,7 @@ function renderClassics(){
  const grid=$("#classicsGrid");if(!grid)return;
  const day=Math.floor(Date.now()/86400000),start=(day*3)%classicArticles.length;
  const todays=[0,1,2].map(i=>classicArticles[(start+i)%classicArticles.length]);
- grid.innerHTML=todays.map(a=>'<article class="news-card"><div class="thumb" style="background:linear-gradient(135deg,#293a58,#7e91b2)"><span class="level">'+a.level+' LEVEL</span><span class="art">❝</span><span class="category">CLASSIC · '+esc(a.theme)+'</span></div><div class="card-body"><div class="meta"><span class="source">'+esc(a.author)+'</span></div><h3>'+esc(a.title)+'</h3><p class="summary">'+esc(a.titleZh)+' · '+esc(a.note.split(";")[0])+'</p><div class="card-foot"><span class="words">每日背诵 · 中英对照</span><button class="open" data-open-classic="'+a.id+'">开始背诵 ↗</button></div></div></article>').join("");
+ grid.innerHTML=todays.map(a=>'<article class="news-card"><div class="thumb" style="background:linear-gradient(135deg,#293a58,#7e91b2)"><span class="level">'+a.level+' LEVEL</span><span class="art">❝</span><span class="category">CLASSIC · '+esc(a.theme)+'</span></div><div class="card-body"><div class="meta"><span class="source">'+esc(a.author)+'</span></div><h3>'+esc(a.title)+'</h3><p class="summary">'+esc(a.titleZh)+' · '+esc((a.note||"").split(";")[0])+'</p><div class="card-foot"><span class="words">每日背诵 · 中英对照</span><button class="open" data-open-classic="'+a.id+'">开始背诵 ↗</button></div></div></article>').join("");
 }
 function openClassic(id){
  const a=classicArticles.find(x=>x.id===id);if(!a)return;
