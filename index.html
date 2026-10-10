@@ -347,23 +347,24 @@ function openVocabularyInfo(){
 }
 async function loadData(){try{const r=await fetch("./data/news.json",{cache:"no-store"});if(r.ok){const d=await r.json();if(Array.isArray(d.articles))allNews=d.articles.filter(hasOriginalAudio);}}catch(e){console.error("原声新闻加载失败",e);}renderCards();}
 const floatingDock=$("#floatingAudioDock"),radioLesson=$("#radioLesson");
+let audioDockActivated=false;
 function updateFloatingDockVisibility(){
  if(!floatingDock||!radioLesson)return;
  const r=radioLesson.getBoundingClientRect();
- const isVisible=r.bottom>0&&r.top<window.innerHeight;
- floatingDock.style.display=isVisible?"block":"none";
+ const sectionVisible=r.bottom>0&&r.top<window.innerHeight;
+ floatingDock.style.display=audioDockActivated&&sectionVisible?"block":"none";
 }
 if(radioLesson&&floatingDock){
+ floatingDock.style.display="none";
  window.addEventListener("scroll",updateFloatingDockVisibility,{passive:true});
  window.addEventListener("resize",updateFloatingDockVisibility);
- updateFloatingDockVisibility();
 }
 const dockToggle=$("#toggleAudioDock");if(dockToggle)dockToggle.addEventListener("click",()=>{const dock=$("#floatingAudioDock");if(!dock)return;dock.classList.toggle("is-collapsed");dockToggle.textContent=dock.classList.contains("is-collapsed")?"展开":"收起"});
 const inlineAudio=$("#voaInlineAudio"),floatingAudio=$("#voaFloatingAudio");
 if(inlineAudio&&floatingAudio){
  let audioSync=false;
  const syncAudio=(from,to,action)=>{if(audioSync)return;audioSync=true;try{if(action==="time")to.currentTime=from.currentTime;else if(action==="play"){to.currentTime=from.currentTime;const p=to.play();if(p&&p.catch)p.catch(()=>{});}else if(action==="pause")to.pause();}catch(e){}audioSync=false};
- inlineAudio.addEventListener("play",()=>{if(floatingDock)floatingDock.style.display="block";syncAudio(inlineAudio,floatingAudio,"play")});
+ inlineAudio.addEventListener("play",()=>{audioDockActivated=true;updateFloatingDockVisibility();syncAudio(inlineAudio,floatingAudio,"play")});
  inlineAudio.addEventListener("pause",()=>syncAudio(inlineAudio,floatingAudio,"pause"));
  inlineAudio.addEventListener("seeking",()=>syncAudio(inlineAudio,floatingAudio,"time"));
  floatingAudio.addEventListener("play",()=>syncAudio(floatingAudio,inlineAudio,"play"));
