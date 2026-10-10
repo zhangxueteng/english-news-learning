@@ -181,7 +181,7 @@ function startDailyQuiz(){
  const bank=[],seen=new Set();allNews.forEach(n=>(n.vocab||[]).forEach(v=>{const k=v.word.toLowerCase();if(!seen.has(k)&&v.zh){seen.add(k);bank.push({word:v.word,zh:v.zh,ex:v.ex||"",exZh:v.exZh||""})}}));
  readWords().forEach(w=>{if(w.zh&&!seen.has(w.word.toLowerCase())){seen.add(w.word.toLowerCase());bank.push({word:w.word,zh:w.zh})}});
  if(bank.length<4){toast("当前词汇量不足以生成选择题，请先阅读新闻并收藏重点词");return}
- const pool=bank.sort(()=>Math.random()-.5).slice(0,Math.min(10,bank.length));window.quizState={pool,index:0,score:0,bank};showQuizQuestion();
+ const pool=bank.sort(()=>Math.random()-.5).slice(0,Math.min(10,bank.length));window.quizState={pool,index:0,score:0,bank,answered:false};$("#overlay").classList.add("show");document.body.style.overflow="hidden";showQuizQuestion();
 }
 function showQuizQuestion(){
  const st=window.quizState;if(!st||st.index>=st.pool.length){$("#detail").innerHTML='<section class="detail-section"><h2>每日小测完成！</h2><div style="font-size:34px;font-weight:700;margin:20px 0">'+st.score+' / '+st.pool.length+'</div><p>正确率 '+Math.round(st.score/st.pool.length*100)+'%。错题可以回到新闻正文再次复习。</p><button class="open" id="closeStudySession">返回新闻</button></section>';recordStudyDay();return}
