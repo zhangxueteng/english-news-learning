@@ -273,6 +273,7 @@ async function fetchOnlineWord(raw,targetSelector){
   }finally{clearTimeout(timer)}
  }catch(err){}
  if(requestId!==lookupRequestId)return;
+ if(targetSelector==="#ieltsLookupResult"&&result){const head=document.createElement("div");head.className="lookup-popup-head";head.innerHTML="<b>单词查询 · "+esc(word)+"</b><button type=\"button\" data-close-lookup>关闭 ×</button>";result.insertBefore(head,result.firstChild);}
  if(!html){
   try{
    const normalized=word.toLowerCase().replace(/[^a-z'-]/g,"");
@@ -585,7 +586,7 @@ document.addEventListener("click",event=>{
  if(!word)return;
  event.preventDefault();event.stopPropagation();
  const panel=document.querySelector("#ieltsLookupResult");
- if(panel){panel.style.display="block";panel.style.position="fixed";panel.style.zIndex="10050";panel.style.right="12px";panel.style.left="12px";panel.style.bottom="16px";panel.style.top="auto";panel.style.width="auto";panel.style.maxHeight="65vh";panel.style.overflowY="auto";panel.innerHTML="<div style=\"font-weight:700\">"+esc(word.textContent)+"</div><div>正在查询在线词典…</div>";}
+ if(panel){panel.style.display="block";panel.style.position="fixed";panel.style.zIndex="10050";panel.style.right="12px";panel.style.left="12px";panel.style.bottom="16px";panel.style.top="auto";panel.style.width="auto";panel.style.maxHeight="65vh";panel.style.overflowY="auto";panel.innerHTML="<div class=\"lookup-popup-head\"><b>单词查询 · "+esc(word.textContent)+"</b><button type=\"button\" data-close-lookup>关闭 ×</button></div><div>正在查询在线词典…</div>";}
  if(typeof fetchOnlineWord==="function")fetchOnlineWord(word.textContent,"#ieltsLookupResult");
 },true);
 // 查词浮窗打开时锁定底层页面滚动，仅允许浮窗自身滚动。
@@ -641,7 +642,7 @@ document.addEventListener("click",event=>{
  },{passive:true,capture:true});
  document.addEventListener("touchmove",event=>{
   if(!document.body.dataset.lookupScrollY||!event.touches.length)return;
-  const panel=event.target.closest?.("#classicLookupResult,#radioLookupResult");
+  const panel=event.target.closest?.("#classicLookupResult,#radioLookupResult,#ieltsLookupResult");
   if(!panel){event.preventDefault();return;}
   const t=event.touches[0],dy=t.clientY-touchStartY,dx=t.clientX-touchStartX;
   if(Math.abs(dy)>Math.abs(dx)){
@@ -654,7 +655,7 @@ document.addEventListener("click",event=>{
 })();
 // 手机端查词弹窗：在弹窗顶部向下滑动时关闭；正常上下滚动词典内容不受影响。
 (function enableLookupSwipeToClose(){
- const panels=["#classicLookupResult","#radioLookupResult"];
+ const panels=["#classicLookupResult","#radioLookupResult","#ieltsLookupResult"];
  panels.forEach(selector=>{
   const panel=document.querySelector(selector);
   if(!panel)return;
@@ -677,7 +678,7 @@ document.addEventListener("click",event=>{
   panel.addEventListener("touchcancel",()=>{tracking=false},{passive:true});
  });
 })();
-document.addEventListener("click",e=>{const closeLookup=e.target.closest("[data-close-lookup]");if(closeLookup){const panel=closeLookup.closest("#classicLookupResult,#radioLookupResult");if(panel)panel.style.display="none";return;}const b=e.target.closest("#playClassicAudio,#pauseClassicAudio,#stopClassicAudio");if(!b)return;e.preventDefault();speakClassic(b.id==="playClassicAudio"?"play":b.id==="pauseClassicAudio"?"pause":"stop")});
+document.addEventListener("click",e=>{const closeLookup=e.target.closest("[data-close-lookup]");if(closeLookup){const panel=closeLookup.closest("#classicLookupResult,#radioLookupResult,#ieltsLookupResult");if(panel)panel.style.display="none";return;}const b=e.target.closest("#playClassicAudio,#pauseClassicAudio,#stopClassicAudio");if(!b)return;e.preventDefault();speakClassic(b.id==="playClassicAudio"?"play":b.id==="pauseClassicAudio"?"pause":"stop")});
 const radioZhToggle=$("#radioShowTranslation");if(radioZhToggle)radioZhToggle.addEventListener("click",()=>document.querySelectorAll("#radioTranscript .radio-zh").forEach(el=>el.style.display=el.style.display==="none"?"":"none"));
 const radioAnalysisToggle=$("#radioShowAnalysis");if(radioAnalysisToggle)radioAnalysisToggle.addEventListener("click",()=>document.querySelectorAll("#radioTranscript .radio-analysis").forEach(el=>el.style.display=el.style.display==="none"?"block":"none"));
 const radioVocabToggle=$("#radioShowVocab");if(radioVocabToggle)radioVocabToggle.addEventListener("click",()=>{const el=$("#radioVocab");if(el)el.style.display=el.style.display==="none"?"block":"none"});
