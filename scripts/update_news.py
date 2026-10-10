@@ -124,12 +124,14 @@ def make_video_card(title, video_id, publisher, default_category, published, des
 def main():
     articles, seen = [], set()
     cutoff = datetime.now(timezone.utc).timestamp() - 14 * 86400
+    per_feed_limit = 4
     for publisher, channel_id, category in VIDEO_FEEDS:
         feed = "https://www.youtube.com/feeds/videos.xml?channel_id=" + channel_id
         try:
             root = ET.fromstring(fetch(feed))
             entries = root.findall("atom:entry", NS)
             print("Fetched", len(entries), "official videos from", publisher)
+            added_from_feed = 0
             for entry in entries:
                 title_node = entry.find("atom:title", NS)
                 id_node = entry.find("yt:videoId", NS)
@@ -155,7 +157,8 @@ def main():
                     continue
                 seen.add(video_id)
                 articles.append(make_video_card(title, video_id, publisher, category, published, description))
-                if len(articles) >= 8:
+                added_from_feed += 1
+                if added_from_feed >= per_feed_limit or len(articles) >= 8:
                     break
             if len(articles) >= 8:
                 break
