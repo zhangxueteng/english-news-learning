@@ -291,6 +291,33 @@ async function fetchOnlineWord(raw,targetSelector){
  }
  if(requestId!==lookupRequestId)return;
  if(!html){
+  /* Second structured fallback: Wiktionary's official REST definition API. */
+  try{
+   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),5000);
+   try{
+    const response=await fetch("https://en.wiktionary.org/api/rest_v1/page/definition/"+encodeURIComponent(word),{signal:controller.signal});
+    if(response.ok){
+     const data=await response.json(),entries=data.en||data.English||[];
+     const groups=[];
+     for(const group of entries.slice(0,5)){
+      const defs=(group.definitions||[]).slice(0,3).map(d=>({
+       text:String(d.definition||d.gloss||"").replace(/<[^>]*>/g," ").replace(/&nbsp;/g," ").replace(/\s+/g," ").trim(),
+       example:String(d.examples?.[0]?.text||d.examples?.[0]||"").replace(/<[^>]*>/g," ").replace(/\s+/g," ").trim()
+      })).filter(d=>d.text);
+      if(defs.length)groups.push({pos:group.partOfSpeech||"",defs});
+     }
+     if(groups.length){
+      detailedDefinition=groups.map(g=>(g.pos?g.pos+": ":"")+g.defs.map(d=>d.text).join("; ")).join("\n").slice(0,1200);
+      html='<div style="display:flex;align-items:baseline;gap:8px;flex-wrap:wrap"><b style="font-size:18px">'+esc(word)+'</b></div>'+
+       groups.map(g=>'<div style="margin-top:8px"><b>'+esc(g.pos)+'</b><br>'+g.defs.map(d=>'• '+esc(d.text)+(d.example?'<br><i>例句：'+esc(d.example)+'</i>':"")).join("<br>")+'</div>').join("")+
+       '<div style="margin-top:8px;font-size:11px;color:#64748b">词典来源：Wiktionary</div>';
+      dictionaryCache.set(key,html);
+     }
+    }
+   }finally{clearTimeout(timer)}
+  }catch(e){}
+ }
+ if(!html){
   const radioWord=document.querySelector("#radioTranscript .word[data-word='"+CSS.escape(word)+"']");
   const sentence=radioWord&&radioWord.closest(".sentence");
   const sentenceText=sentence&&sentence.querySelector(".radio-english")?sentence.querySelector(".radio-english").innerText:"";
@@ -307,7 +334,9 @@ async function fetchOnlineWord(raw,targetSelector){
  if(detailedDefinition){const detailHtml='<div style="margin-top:10px;padding:10px;background:#f7f9fc;border-radius:9px"><b>网络词典详细释义</b><div style="margin-top:6px;line-height:1.7">'+(translatedDefinition?'<div>'+esc(translatedDefinition).replace(/\\n/g,"<br>")+'</div><div style="margin-top:7px;color:#64748b;font-size:12px">英文原释义：<br>'+esc(detailedDefinition).replace(/\\n/g,"<br>")+'</div>':esc(detailedDefinition).replace(/\\n/g,"<br>"))+'</div></div>';html+=detailHtml;}
  const n=allNews.find(x=>x.id===window.currentNewsId)||allNews[0],local=(n?.vocab||[]).find(v=>v.word.toLowerCase()===key);
  const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]"),saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===key);
- const actions=targetSelector==="#radioLookupResult"?'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">＋ 加入生词本</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>':'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ const q=encodeURIComponent(word+" meaning definition examples");
+ const webSearchLinks='<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:10px"><a class="mini" style="text-decoration:none;display:inline-block" target="_blank" rel="noopener noreferrer" href="https://www.google.com/search?q='+q+'">Google 搜索释义 ↗</a><a class="mini" style="text-decoration:none;display:inline-block" target="_blank" rel="noopener noreferrer" href="https://www.bing.com/search?q='+q+'">Bing 搜索释义 ↗</a><a class="mini" style="text-decoration:none;display:inline-block" target="_blank" rel="noopener noreferrer" href="https://en.wiktionary.org/wiki/'+encodeURIComponent(word)+'">Wiktionary 原文 ↗</a></div>';
+ const actions=(targetSelector==="#radioLookupResult"?'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-radio-save="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">＋ 加入生词本</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>':'<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>')+webSearchLinks;
  result.innerHTML='<div class="lookup-popup-head"><b>单词查询 · '+esc(word)+'</b><button type="button" data-close-lookup>关闭 ×</button></div>'+html+(translationCache.get(key)||translation)+actions;
 }
 const fullTextVocab={
