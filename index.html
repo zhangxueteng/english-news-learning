@@ -264,7 +264,7 @@ async function fetchOnlineWord(raw,targetSelector){
  const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,""),key=word.toLowerCase(),result=targetSelector?$(targetSelector):($("#classicLookupResult")||$("#wordLookupResultGlobal")||$("#wordLookupResult"));
  if(!word||!result)return;
  const requestId=++lookupRequestId;
- result.style.display="block";result.innerHTML='<b>'+esc(word)+'</b><br>正在查询在线词典…';
+ result.style.display="block";result.innerHTML=(targetSelector==="#ieltsLookupResult"?'<div class="lookup-popup-head" style="touch-action:none;user-select:none;-webkit-user-select:none"><b>单词查询 · '+esc(word)+'</b><button type="button" data-close-lookup>关闭 ×</button></div>':"")+'<div><b>'+esc(word)+'</b><br>正在查询在线词典…</div>';
  let html="",translation="",detailedDefinition="",translatedDefinition="";
  if(dictionaryCache.has(key))html=dictionaryCache.get(key);
  else try{
@@ -280,7 +280,7 @@ async function fetchOnlineWord(raw,targetSelector){
   }finally{clearTimeout(timer)}
  }catch(err){}
  if(requestId!==lookupRequestId)return;
- if(targetSelector==="#ieltsLookupResult"&&result){const head=document.createElement("div");head.className="lookup-popup-head";head.style.cssText="touch-action:none;user-select:none;-webkit-user-select:none";head.innerHTML="<b>单词查询 · "+esc(word)+"</b><button type=\"button\" data-close-lookup onclick=\"this.closest('#ieltsLookupResult').style.setProperty('display','none','important')\">关闭 ×</button>";result.insertBefore(head,result.firstChild);}
+
  if(!html){
   try{
    const normalized=word.toLowerCase().replace(/[^a-z'-]/g,"");
