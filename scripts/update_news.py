@@ -15,7 +15,7 @@ UA = "NewslingoLearningSite/1.0 (official news video RSS learning mode)"
 # Official publisher channels. YouTube hosts the original video/audio; we do not download or rehost it.
 VIDEO_FEEDS = [
     ("BBC News", "UC16niRr50-MSBwiO3YDb3RA", "WORLD"),
-    ("CNN", "UCupvZG-5ko_eiXm5pPj9ZtA", "WORLD"),
+    ("CNN", "UCupvZG-5ko_eiXAupbDfxWw", "WORLD"),
 ]
 NS = {
     "atom": "http://www.w3.org/2005/Atom",
