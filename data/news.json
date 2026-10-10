@@ -10,9 +10,9 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-10",
-      "minutes": 3,
-      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
-      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "minutes": 5,
+      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
+      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=Trump%20announces%20deal%20for%20Russian%20diesel%20as%20Zelensky%20calls%20it%20a%20gift%20to%20Putin%20news%20video",
@@ -21,9 +21,19 @@
       "sourceNote": "RSS headline · free translation · open original publisher",
       "sentences": [
         {
-          "en": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "zh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
-          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+          "en": "The headline says that Donald Trump announced a deal involving Russian diesel, while Volodymyr Zelensky described the move as a gift to Vladimir Putin.",
+          "zh": "这则标题称，唐纳德·特朗普宣布了一项涉及俄罗斯柴油的协议，而弗拉基米尔·泽连斯基将这一举动形容为送给弗拉基米尔·普京的礼物。",
+          "note": "involving Russian diesel 是后置修饰语，说明 deal 涉及的内容。"
+        },
+        {
+          "en": "A headline gives readers the main point, but it cannot show every detail of a complicated diplomatic story.",
+          "zh": "标题能告诉读者主要信息，但无法呈现复杂外交事件的全部细节。",
+          "note": "but 连接转折关系；cannot show 表示“无法呈现”。"
+        },
+        {
+          "en": "To understand the issue, read the full report and check what each leader said, what the agreement covers, and whether independent sources confirm the details.",
+          "zh": "要理解这一事件，应阅读完整报道，核实各方领导人的具体表态、协议涉及的内容，以及是否有独立来源证实相关细节。",
+          "note": "what each leader said 是宾语从句；check 后可接多个并列内容。"
         }
       ],
       "vocab": [
@@ -31,49 +41,55 @@
           "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "美国政治人物唐纳德·特朗普；此处为新闻标题中的人物名称。",
           "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
           "word": "announces",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "宣布；正式对外公布。",
           "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
           "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
           "word": "deal",
-          "pos": "headline vocabulary",
+          "pos": "n. / v. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "协议；交易",
+          "ex": "The headline says that Donald Trump announced a deal involving Russian diesel, while Volodymyr Zelensky described the move as a gift to Vladimir Putin.",
+          "exZh": "这则标题称，唐纳德·特朗普宣布了一项涉及俄罗斯柴油的协议，而弗拉基米尔·泽连斯基将这一举动形容为送给弗拉基米尔·普京的礼物。",
+          "tip": "deal involving… = 涉及……的协议；reach a deal = 达成协议。"
         },
         {
-          "word": "Russian",
-          "pos": "headline vocabulary",
+          "word": "involving",
+          "pos": "v. / n. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "涉及；包含",
+          "ex": "To understand the issue, read the full report and check what each leader said, what the agreement covers, and whether independent sources confirm the details.",
+          "exZh": "要理解这一事件，应阅读完整报道，核实各方领导人的具体表态、协议涉及的内容，以及是否有独立来源证实相关细节。",
+          "tip": "留意该词在正式新闻英语中的搭配。"
         }
       ],
       "grammar": [
         {
-          "title": "新闻标题语序",
-          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+          "title": "新闻阅读策略",
+          "body": "先读标题，确认人物、行动和争议点；再阅读正文，核对时间、来源和直接引语。不要仅凭标题推断全部事实。"
         },
         {
-          "title": "分级说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+          "title": "事实与观点",
+          "body": "区分报道确认的事实、消息来源的说法和作者的分析。遇到有争议的标签或评价性词语时，查看是谁使用了这个说法。"
+        },
+        {
+          "title": "本篇句型",
+          "body": "involving Russian diesel 是后置修饰语，说明 deal 涉及的内容。 but 连接转折关系；cannot show 表示“无法呈现”。 what each leader said 是宾语从句；check 后可接多个并列内容。"
         }
-      ]
+      ],
+      "readingText": "The headline says that Donald Trump announced a deal involving Russian diesel, while Volodymyr Zelensky described the move as a gift to Vladimir Putin.\n\nA headline gives readers the main point, but it cannot show every detail of a complicated diplomatic story.\n\nTo understand the issue, read the full report and check what each leader said, what the agreement covers, and whether independent sources confirm the details.",
+      "readingTextZh": "这则标题称，唐纳德·特朗普宣布了一项涉及俄罗斯柴油的协议，而弗拉基米尔·泽连斯基将这一举动形容为送给弗拉基米尔·普京的礼物。\n\n标题能告诉读者主要信息，但无法呈现复杂外交事件的全部细节。\n\n要理解这一事件，应阅读完整报道，核实各方领导人的具体表态、协议涉及的内容，以及是否有独立来源证实相关细节。"
     },
     {
       "id": "rss-7709770626524339397",
@@ -83,9 +99,9 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 3,
-      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
-      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "minutes": 5,
+      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
+      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=Analysis%3A%20Trump%27s%20shock%20Russia%20deal%20highlights%20mounting%20pressure%20to%20curb%20fuel%20prices%20news%20video",
@@ -94,9 +110,19 @@
       "sourceNote": "RSS headline · free translation · open original publisher",
       "sentences": [
         {
-          "en": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "zh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
-          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+          "en": "The headline focuses on pressure to curb fuel prices and links that pressure to a reported deal involving Russia.",
+          "zh": "这则标题关注抑制燃油价格的压力，并将这种压力与一项涉及俄罗斯的协议联系起来。",
+          "note": "pressure to curb prices 中，to curb prices 说明压力所指向的目标。"
+        },
+        {
+          "en": "Fuel prices can be influenced by supply, transport costs, government policy and changes in international relations.",
+          "zh": "燃油价格可能受到供应、运输成本、政府政策和国际关系变化等因素影响。",
+          "note": "can be influenced by 是被动语态，表示“可能受到……影响”。"
+        },
+        {
+          "en": "An analysis article usually explains possible causes and consequences, so readers should distinguish the reported facts from the writer's interpretation.",
+          "zh": "分析类报道通常会解释可能的原因和后果，因此读者应区分报道中的事实与作者的解读。",
+          "note": "distinguish A from B = 区分 A 与 B。"
         }
       ],
       "vocab": [
@@ -104,49 +130,55 @@
           "word": "Analysis",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "分析；对事件原因和影响进行解释。",
           "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
           "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
           "word": "Trump's",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "Trump 的所有格形式，表示“特朗普的”。",
           "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
           "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
-          "word": "shock",
-          "pos": "headline vocabulary",
+          "word": "curb",
+          "pos": "n. / v. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "抑制；控制",
+          "ex": "The headline focuses on pressure to curb fuel prices and links that pressure to a reported deal involving Russia.",
+          "exZh": "这则标题关注抑制燃油价格的压力，并将这种压力与一项涉及俄罗斯的协议联系起来。",
+          "tip": "curb fuel prices = 抑制燃油价格；curb 也可作名词，表示路缘。"
         },
         {
-          "word": "Russia",
-          "pos": "headline vocabulary",
+          "word": "consequence",
+          "pos": "v. / n. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-          "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "后果；结果",
+          "ex": "An analysis article usually explains possible causes and consequences, so readers should distinguish the reported facts from the writer's interpretation.",
+          "exZh": "分析类报道通常会解释可能的原因和后果，因此读者应区分报道中的事实与作者的解读。",
+          "tip": "留意该词在正式新闻英语中的搭配。"
         }
       ],
       "grammar": [
         {
-          "title": "新闻标题语序",
-          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+          "title": "新闻阅读策略",
+          "body": "先读标题，确认人物、行动和争议点；再阅读正文，核对时间、来源和直接引语。不要仅凭标题推断全部事实。"
         },
         {
-          "title": "分级说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+          "title": "事实与观点",
+          "body": "区分报道确认的事实、消息来源的说法和作者的分析。遇到有争议的标签或评价性词语时，查看是谁使用了这个说法。"
+        },
+        {
+          "title": "本篇句型",
+          "body": "pressure to curb prices 中，to curb prices 说明压力所指向的目标。 can be influenced by 是被动语态，表示“可能受到……影响”。 distinguish A from B = 区分 A 与 B。"
         }
-      ]
+      ],
+      "readingText": "The headline focuses on pressure to curb fuel prices and links that pressure to a reported deal involving Russia.\n\nFuel prices can be influenced by supply, transport costs, government policy and changes in international relations.\n\nAn analysis article usually explains possible causes and consequences, so readers should distinguish the reported facts from the writer's interpretation.",
+      "readingTextZh": "这则标题关注抑制燃油价格的压力，并将这种压力与一项涉及俄罗斯的协议联系起来。\n\n燃油价格可能受到供应、运输成本、政府政策和国际关系变化等因素影响。\n\n分析类报道通常会解释可能的原因和后果，因此读者应区分报道中的事实与作者的解读。"
     },
     {
       "id": "rss-4413549508026050568",
@@ -156,9 +188,9 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 3,
-      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
-      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "minutes": 5,
+      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
+      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=US%20unveils%20sanctions%20on%20ICC%20in%20move%20court%20condemns%20as%20%27assault%20on%20rule%20of%20law%27%20news%20video",
@@ -167,9 +199,19 @@
       "sourceNote": "RSS headline · free translation · open original publisher",
       "sentences": [
         {
-          "en": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "zh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
-          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+          "en": "The headline reports new US sanctions involving the International Criminal Court, or ICC, and says the court condemned the move.",
+          "zh": "这则标题报道了美国针对国际刑事法院（ICC）采取的新制裁，并称该法院谴责了这一举动。",
+          "note": "involving the ICC 是现在分词短语，补充说明 sanctions 涉及的对象。"
+        },
+        {
+          "en": "The phrase “rule of law” refers to the principle that laws should apply fairly and that public power should be exercised under legal rules.",
+          "zh": "“法治”指的是法律应得到公平适用，公共权力应依照法律规则行使这一原则。",
+          "note": "that laws should apply fairly 是 principle 的内容说明。"
+        },
+        {
+          "en": "When reading about legal or political disputes, look for the official decision, the reasons given by each side and the legal context.",
+          "zh": "阅读法律或政治争议新闻时，应关注正式决定、各方给出的理由以及相关法律背景。",
+          "note": "look for 后面列举三个需要核实的信息。"
         }
       ],
       "vocab": [
@@ -177,49 +219,55 @@
           "word": "unveils",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "公布；正式披露。",
           "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
           "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
           "word": "sanctions",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "制裁；通常指国家或机构采取的限制性措施。",
           "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
           "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
-          "word": "move",
-          "pos": "headline vocabulary",
+          "word": "rule of law",
+          "pos": "n. / v. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "法治",
+          "ex": "The headline reports new US sanctions involving the International Criminal Court, or ICC, and says the court condemned the move.",
+          "exZh": "这则标题报道了美国针对国际刑事法院（ICC）采取的新制裁，并称该法院谴责了这一举动。",
+          "tip": "rule of law 是固定表达，意为法治。"
         },
         {
-          "word": "court",
-          "pos": "headline vocabulary",
+          "word": "condemn",
+          "pos": "v. / n. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "谴责；强烈反对",
+          "ex": "When reading about legal or political disputes, look for the official decision, the reasons given by each side and the legal context.",
+          "exZh": "阅读法律或政治争议新闻时，应关注正式决定、各方给出的理由以及相关法律背景。",
+          "tip": "留意该词在正式新闻英语中的搭配。"
         }
       ],
       "grammar": [
         {
-          "title": "新闻标题语序",
-          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+          "title": "新闻阅读策略",
+          "body": "先读标题，确认人物、行动和争议点；再阅读正文，核对时间、来源和直接引语。不要仅凭标题推断全部事实。"
         },
         {
-          "title": "分级说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+          "title": "事实与观点",
+          "body": "区分报道确认的事实、消息来源的说法和作者的分析。遇到有争议的标签或评价性词语时，查看是谁使用了这个说法。"
+        },
+        {
+          "title": "本篇句型",
+          "body": "involving the ICC 是现在分词短语，补充说明 sanctions 涉及的对象。 that laws should apply fairly 是 principle 的内容说明。 look for 后面列举三个需要核实的信息。"
         }
-      ]
+      ],
+      "readingText": "The headline reports new US sanctions involving the International Criminal Court, or ICC, and says the court condemned the move.\n\nThe phrase “rule of law” refers to the principle that laws should apply fairly and that public power should be exercised under legal rules.\n\nWhen reading about legal or political disputes, look for the official decision, the reasons given by each side and the legal context.",
+      "readingTextZh": "这则标题报道了美国针对国际刑事法院（ICC）采取的新制裁，并称该法院谴责了这一举动。\n\n“法治”指的是法律应得到公平适用，公共权力应依照法律规则行使这一原则。\n\n阅读法律或政治争议新闻时，应关注正式决定、各方给出的理由以及相关法律背景。"
     },
     {
       "id": "rss-4885170929721778800",
@@ -229,9 +277,9 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 3,
-      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
-      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "minutes": 5,
+      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
+      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=Thousands%20of%20security%20personnel%20deployed%20as%20Delhi%20braces%20for%20%E2%80%98cockroach%E2%80%99%20protest%20news%20video",
@@ -240,9 +288,19 @@
       "sourceNote": "RSS headline · free translation · open original publisher",
       "sentences": [
         {
-          "en": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "zh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
-          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+          "en": "The headline says that security personnel have been deployed in Delhi ahead of a protest described with the word “cockroach.”",
+          "zh": "这则标题称，在一场被称为“蟑螂”抗议的活动前，安全人员已部署到德里。",
+          "note": "have been deployed 是现在完成时的被动语态，强调部署已经发生。"
+        },
+        {
+          "en": "The word used to describe a protest may be a slogan, a nickname or a disputed label; its meaning depends on the surrounding context.",
+          "zh": "描述抗议活动的词语可能是口号、绰号或有争议的标签，其含义取决于上下文。",
+          "note": "used to describe… 是过去分词短语，修饰 word。"
+        },
+        {
+          "en": "Readers should check the original report to learn who uses the term, what the protest is about and how officials explain the security measures.",
+          "zh": "读者应查看原始报道，弄清是谁使用了这个说法、抗议的主题是什么，以及官方如何解释相关安保措施。",
+          "note": "who uses the term 等均为间接疑问句，使用陈述语序。"
         }
       ],
       "vocab": [
@@ -250,49 +308,55 @@
           "word": "Thousands",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "数千；表示数量较大但不精确。",
           "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
           "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
           "word": "security",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "安全；安保。",
           "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
           "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
-          "word": "personnel",
-          "pos": "headline vocabulary",
+          "word": "deploy",
+          "pos": "n. / v. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "部署；调配",
+          "ex": "The headline says that security personnel have been deployed in Delhi ahead of a protest described with the word “cockroach.”",
+          "exZh": "这则标题称，在一场被称为“蟑螂”抗议的活动前，安全人员已部署到德里。",
+          "tip": "deploy personnel = 部署人员；常用于安保和军事语境。"
         },
         {
-          "word": "deployed",
-          "pos": "headline vocabulary",
+          "word": "surrounding context",
+          "pos": "v. / n. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-          "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "周围语境；上下文",
+          "ex": "Readers should check the original report to learn who uses the term, what the protest is about and how officials explain the security measures.",
+          "exZh": "读者应查看原始报道，弄清是谁使用了这个说法、抗议的主题是什么，以及官方如何解释相关安保措施。",
+          "tip": "留意该词在正式新闻英语中的搭配。"
         }
       ],
       "grammar": [
         {
-          "title": "新闻标题语序",
-          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+          "title": "新闻阅读策略",
+          "body": "先读标题，确认人物、行动和争议点；再阅读正文，核对时间、来源和直接引语。不要仅凭标题推断全部事实。"
         },
         {
-          "title": "分级说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+          "title": "事实与观点",
+          "body": "区分报道确认的事实、消息来源的说法和作者的分析。遇到有争议的标签或评价性词语时，查看是谁使用了这个说法。"
+        },
+        {
+          "title": "本篇句型",
+          "body": "have been deployed 是现在完成时的被动语态，强调部署已经发生。 used to describe… 是过去分词短语，修饰 word。 who uses the term 等均为间接疑问句，使用陈述语序。"
         }
-      ]
+      ],
+      "readingText": "The headline says that security personnel have been deployed in Delhi ahead of a protest described with the word “cockroach.”\n\nThe word used to describe a protest may be a slogan, a nickname or a disputed label; its meaning depends on the surrounding context.\n\nReaders should check the original report to learn who uses the term, what the protest is about and how officials explain the security measures.",
+      "readingTextZh": "这则标题称，在一场被称为“蟑螂”抗议的活动前，安全人员已部署到德里。\n\n描述抗议活动的词语可能是口号、绰号或有争议的标签，其含义取决于上下文。\n\n读者应查看原始报道，弄清是谁使用了这个说法、抗议的主题是什么，以及官方如何解释相关安保措施。"
     },
     {
       "id": "rss-87946949668173386",
@@ -302,9 +366,9 @@
       "category": "WORLD",
       "source": "BBC News",
       "date": "2026-10-09",
-      "minutes": 3,
-      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
-      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "minutes": 5,
+      "summary": "Original English reading based on the headline, with context and critical-reading guidance. Open the linked BBC report for verified details.",
+      "summaryZh": "根据新闻标题编写的原创英文阅读材料，补充背景理解与新闻辨析方法。具体事实请以链接中的 BBC 原文为准。",
       "art": "◈",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
       "videoUrl": "https://www.youtube.com/results?search_query=JD%20Vance%20casts%20doubt%20on%20firing%20squad%20execution%20and%20says%20he%20will%20not%20watch%20it%20news%20video",
@@ -313,9 +377,19 @@
       "sourceNote": "RSS headline · free translation · open original publisher",
       "sentences": [
         {
-          "en": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "zh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
-          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+          "en": "The headline says that JD Vance questioned a firing-squad execution and stated that he would not watch it.",
+          "zh": "这则标题称，JD·万斯对行刑队执行死刑提出质疑，并表示自己不会观看。",
+          "note": "questioned 在这里表示“对……提出质疑”，不只是“提问”。"
+        },
+        {
+          "en": "News reports about criminal justice often involve legal procedures, public officials and ethical debate.",
+          "zh": "有关刑事司法的新闻通常涉及法律程序、公职人员和伦理讨论。",
+          "note": "involve 是“涉及”；often 表示通常发生的情况。"
+        },
+        {
+          "en": "To evaluate such a report, identify the exact statement, the context in which it was made and the difference between a person's opinion and an established fact.",
+          "zh": "要评估这类报道，应确认当事人的准确表态及其发表背景，并区分个人观点与已经证实的事实。",
+          "note": "the context in which it was made 是定语从句，修饰 context。"
         }
       ],
       "vocab": [
@@ -323,50 +397,56 @@
           "word": "Vance",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "美国政治人物 JD·万斯的姓氏。",
           "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
           "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
           "word": "casts",
           "pos": "headline vocabulary",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "zh": "在短语 cast doubt on 中，casts 表示“引起、提出”。",
           "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
           "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "tip": "请结合本篇新闻标题和正文语境理解；阅读原文时留意该词的搭配。"
         },
         {
-          "word": "doubt",
-          "pos": "headline vocabulary",
+          "word": "cast doubt on",
+          "pos": "n. / v. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "对……提出质疑",
+          "ex": "The headline says that JD Vance questioned a firing-squad execution and stated that he would not watch it.",
+          "exZh": "这则标题称，JD·万斯对行刑队执行死刑提出质疑，并表示自己不会观看。",
+          "tip": "cast doubt on something = 对某事表示怀疑。"
         },
         {
-          "word": "firing",
-          "pos": "headline vocabulary",
+          "word": "established fact",
+          "pos": "v. / n. / phrase",
           "ipa": "",
-          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
-          "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-          "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
-          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+          "zh": "已证实的事实",
+          "ex": "To evaluate such a report, identify the exact statement, the context in which it was made and the difference between a person's opinion and an established fact.",
+          "exZh": "要评估这类报道，应确认当事人的准确表态及其发表背景，并区分个人观点与已经证实的事实。",
+          "tip": "留意该词在正式新闻英语中的搭配。"
         }
       ],
       "grammar": [
         {
-          "title": "新闻标题语序",
-          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+          "title": "新闻阅读策略",
+          "body": "先读标题，确认人物、行动和争议点；再阅读正文，核对时间、来源和直接引语。不要仅凭标题推断全部事实。"
         },
         {
-          "title": "分级说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+          "title": "事实与观点",
+          "body": "区分报道确认的事实、消息来源的说法和作者的分析。遇到有争议的标签或评价性词语时，查看是谁使用了这个说法。"
+        },
+        {
+          "title": "本篇句型",
+          "body": "questioned 在这里表示“对……提出质疑”，不只是“提问”。 involve 是“涉及”；often 表示通常发生的情况。 the context in which it was made 是定语从句，修饰 context。"
         }
-      ]
+      ],
+      "readingText": "The headline says that JD Vance questioned a firing-squad execution and stated that he would not watch it.\n\nNews reports about criminal justice often involve legal procedures, public officials and ethical debate.\n\nTo evaluate such a report, identify the exact statement, the context in which it was made and the difference between a person's opinion and an established fact.",
+      "readingTextZh": "这则标题称，JD·万斯对行刑队执行死刑提出质疑，并表示自己不会观看。\n\n有关刑事司法的新闻通常涉及法律程序、公职人员和伦理讨论。\n\n要评估这类报道，应确认当事人的准确表态及其发表背景，并区分个人观点与已经证实的事实。"
     }
   ],
-  "notice": "Free RSS mode: headlines and source links are updated daily. Headline translation uses a public no-key translation endpoint and may be unavailable or inaccurate. Full articles and videos are opened at their original sources."
+  "notice": "Free RSS mode. Newslingo provides original English learning passages based on RSS headlines, not full republished articles. Translations and explanations are learning aids; check the original publisher for factual details."
 }
