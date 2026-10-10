@@ -180,18 +180,10 @@ function gradeReview(rating){
 function startDailyQuiz(){
  const bank=[],seen=new Set();
  const personNames=/\b(?:donald trump|trump|volodymyr zelensky|zelensky|vladimir putin|putin|joe biden|biden|barack obama|obama|kamala harris|harris|benjamin netanyahu|netanyahu|xi jinping)\b/i;
- const allText=allNews.map(n=>n.readingText||"").join(" ");
+ const allText=allNews.map(n=>n.readingText||"").join(" ").toLowerCase();
  function addBodyWord(word,zh,ex="",exZh=""){
   const key=String(word||"").trim().toLowerCase();
-  if(!key||!zh||seen.has(key)||personNames.test(key))return;
-  let found=false;
-  try{found=new RegExp("\\b"+key.replace(/[.*+?^${}()|[\\]\\]/g,"\\function startDailyQuiz(){
- const bank=[],seen=new Set();allNews.forEach(n=>(n.vocab||[]).forEach(v=>{const k=v.word.toLowerCase();if(!seen.has(k)&&v.zh){seen.add(k);bank.push({word:v.word,zh:v.zh,ex:v.ex||"",exZh:v.exZh||""})}}));
- readWords().forEach(w=>{if(w.zh&&!seen.has(w.word.toLowerCase())){seen.add(w.word.toLowerCase());bank.push({word:w.word,zh:w.zh})}});
- if(bank.length<4){toast("当前词汇量不足以生成选择题，请先阅读新闻并收藏重点词");return}
- const pool=bank.sort(()=>Math.random()-.5).slice(0,Math.min(10,bank.length));window.quizState={pool,index:0,score:0,bank,answered:false};$("#overlay").classList.add("show");document.body.style.overflow="hidden";showQuizQuestion();
-}").replace(/\\s+/g,"\\s+")+"\\b","i").test(allText)}catch(e){}
-  if(!found)return;
+  if(!key||!zh||seen.has(key)||personNames.test(key)||!allText.includes(key))return;
   seen.add(key);bank.push({word:key,zh,ex,exZh});
  }
  // 从全文词汇表匹配英文正文，确保题目不是只从标题选词。
@@ -202,7 +194,7 @@ function startDailyQuiz(){
   if(/headline vocabulary/i.test(v.pos||""))return;
   addBodyWord(v.word,v.zh,v.ex||"",v.exZh||"");
  }));
- // 收藏词也必须能在当前新闻正文中找到，避免无关词汇混入。
+ // 收藏词也必须能在新闻正文中找到，避免无关词汇混入。
  readWords().forEach(w=>addBodyWord(w.word,w.zh));
  if(bank.length<4){toast("正文可测词汇不足，请先打开新闻阅读正文");return}
  const pool=bank.slice().sort(()=>Math.random()-.5).slice(0,Math.min(10,bank.length));
