@@ -99,7 +99,7 @@ async function fetchOnlineWord(raw){
  else try{
   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),4500);
   try{const r=await fetch("https://api.dictionaryapi.dev/api/v2/entries/en/"+encodeURIComponent(word),{signal:controller.signal});
-   if(r.ok){const data=await r.json(),entry=data[0],phonetics=(entry.phonetics||[]).filter(p=>p.audio),us=phonetics.find(p=>/us[-_/]/i.test(p.audio)||/american/i.test(p.audio))||phonetics[0],uk=phonetics.find(p=>/uk[-_/]/i.test(p.audio)||/british/i.test(p.audio);
+   if(r.ok){const data=await r.json(),entry=data[0],phonetics=(entry.phonetics||[]).filter(p=>p.audio),us=phonetics.find(p=>/us[-_/]/i.test(p.audio)||/american/i.test(p.audio))||phonetics[0],uk=phonetics.find(p=>/uk[-_/]/i.test(p.audio)||/british/i.test(p.audio));
     const audioBtn=(p,label)=>p?'<button class="mini" type="button" data-play-audio="'+esc(p.audio)+'">▶ '+label+'发音</button>':"";
     const sounds=(us||uk)?'<div style="display:flex;gap:7px;flex-wrap:wrap;margin:8px 0">'+audioBtn(us,"美式")+(uk&&uk.audio!==(us&&us.audio)?audioBtn(uk,"英式"):"")+'</div>':"";
     const meanings=(entry.meanings||[]).slice(0,4).map(m=>'<div style="margin-top:8px"><b>'+esc(m.partOfSpeech||"")+'</b><br>'+(m.definitions||[]).slice(0,2).map(d=>'• '+esc(d.definition)+(d.example?'<br><i>例句：'+esc(d.example)+'</i>':"")).join("<br>")+'</div>').join("");
