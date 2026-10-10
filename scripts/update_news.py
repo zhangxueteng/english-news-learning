@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "news.json"
-UPDATER_VERSION = "original-audio-feed-v2"
+UPDATER_VERSION = "original-audio-feed-v3-description-match"
 UA = "NewslingoLearningSite/1.0 (official news video RSS learning mode)"
 # Official publisher channels. YouTube hosts the original video/audio; we do not download or rehost it.
 VIDEO_FEEDS = [
@@ -76,22 +76,29 @@ def make_video_card(title, video_id, publisher, default_category, published, des
         "ex": title, "exZh": title_zh,
         "tip": "听原声时留意这个词的重音、发音和上下文。"
     } for word in words[:4]]
-    reading = [
-        f'The original news video is titled: "{title}". Listen to the report and note the main people, places and events.',
-        "As you listen, separate confirmed information from opinions and predictions. Pay attention to names, dates, numbers and direct quotations.",
-        "After listening, summarise the report in your own words and compare your understanding with the publisher's video description or linked coverage."
-    ]
-    reading_zh = [
-        f'这段新闻原声视频的标题是：“{title_zh}”。请听报道，并记录主要人物、地点和事件。',
-        "听新闻时，应区分已确认的信息、观点和预测。注意人名、日期、数字以及直接引语。",
-        "听完后，尝试用自己的话概括报道，再对照媒体的视频说明或相关报道检查理解。"
-    ]
-    notes = [
-        "is titled 表示“标题为……”；listen to 后面接听的对象。",
-        "separate A from B = 区分 A 与 B；pay attention to = 留意。",
-        "in your own words = 用自己的话；compare A with B = 把 A 与 B 对照。"
-    ]
-    sentences = [{"en": reading[i], "zh": reading_zh[i], "note": notes[i]} for i in range(3)]
+    # Study text must come from the actual publisher-provided video description.
+    # Never fabricate generic paragraphs and present them as the video's transcript.
+    clean_description = (description or "").strip()
+    clean_description = re.sub(r"(?im)^\\s*(?:read more|watch more|subscribe|follow us|learn more at|learn more about your ad choices).*?$", "", clean_description)
+    clean_description = re.sub(r"(?im)^\\s*#\\w+(?:\\s+#\\w+)*\\s*$", "", clean_description)
+    clean_description = re.sub(r"https?://\\S+", "", clean_description)
+    clean_description = re.sub(r"\\n{3,}", "\\n\\n", clean_description).strip()
+    # Chapter markers/promotional tails are not useful as reading paragraphs.
+    clean_description = re.split(r"(?im)\\n\\s*(?:0?:?\\d{1,2}:\\d{2}\\s+|#\\w+|learn more about your ad choices)", clean_description)[0].strip()
+    if not clean_description:
+        clean_description = title
+    chunks = [x.strip() for x in re.split(r"(?<=[.!?])\\s+(?=[A-Z\\\"'])", clean_description) if x.strip()]
+    if not chunks:
+        chunks = [clean_description]
+    # Limit the learning panel to the publisher's actual description; never imply this is a transcript.
+    reading = chunks[:12]
+    reading_zh = []
+    for sentence in reading:
+        translated_sentence = translate(sentence)
+        reading_zh.append(translated_sentence or "该句中文翻译暂不可用。")
+        time.sleep(0.25)
+    notes = ["本句来自视频发布方简介，不是视频逐字字幕。"] * len(reading)
+    sentences = [{"en": reading[i], "zh": reading_zh[i], "note": notes[i]} for i in range(len(reading))]
     date = published or datetime.now(timezone.utc).date().isoformat()
     watch_url = "https://www.youtube.com/watch?v=" + video_id
     return {
@@ -172,7 +179,7 @@ def main():
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "mode": "official-video-rss",
         "articles": articles,
-        "notice": "All published news cards link to or embed videos from official publisher YouTube channels so playback uses original English audio. If an official channel feed is temporarily unavailable, the updater preserves the last known dataset instead of replacing it with text-only cards."
+        "notice": "All videos are from official publisher channels. Study text is taken from the publisher-provided video description, not fabricated transcript text; video descriptions may be shorter than the actual video. If an official channel feed is temporarily unavailable, the updater preserves the last known dataset."
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print("Wrote", len(articles), "original-audio news cards to", OUT)
