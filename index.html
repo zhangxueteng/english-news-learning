@@ -584,6 +584,8 @@ document.addEventListener("click",event=>{
  const word=event.target.closest("#ieltsContent .ielts-word");
  if(!word)return;
  event.preventDefault();event.stopPropagation();
+ const panel=document.querySelector("#ieltsLookupResult");
+ if(panel){panel.style.display="block";panel.style.position="fixed";panel.style.zIndex="10050";panel.style.right="12px";panel.style.left="12px";panel.style.bottom="16px";panel.style.top="auto";panel.style.width="auto";panel.style.maxHeight="65vh";panel.style.overflowY="auto";panel.innerHTML="<div style=\"font-weight:700\">"+esc(word.textContent)+"</div><div>正在查询在线词典…</div>";}
  if(typeof fetchOnlineWord==="function")fetchOnlineWord(word.textContent,"#ieltsLookupResult");
 },true);
 // 查词浮窗打开时锁定底层页面滚动，仅允许浮窗自身滚动。
