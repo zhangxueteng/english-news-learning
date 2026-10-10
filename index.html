@@ -118,7 +118,7 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
 </section>
 </main>
 <footer><div class="wrap"><b>newslingo</b> · 用真实新闻学英语<br>本学习工具提供语言学习辅助。新闻原文、视频及相关权利归各原始发布方所有；示例内容用于展示功能，自动更新后将由新闻数据文件提供内容。</div></footer>
-<div id="floatingAudioDock" aria-label="英语新闻音频快捷控制"><div class="floating-audio-top"><div><div class="floating-audio-title">VOA Audio · 英语新闻精听</div><div class="floating-audio-sub">阅读时可随时暂停 / 继续播放</div></div><button class="dock-minimize" id="toggleAudioDock" type="button">收起</button></div><div class="floating-audio-remote" style="display:flex;align-items:center;gap:10px"><button type="button" id="dockAudioPlayPause" class="dock-minimize" aria-label="播放或暂停音频">▶ / Ⅱ</button><span id="dockAudioTime" style="font-size:12px;white-space:nowrap">使用上方原位置播放器</span><input id="dockAudioSeek" type="range" min="0" max="100" value="0" aria-label="音频播放进度" style="flex:1;min-width:50px"></div></div><div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-label="新闻精读"><div class="drawer"><div class="drawer-head"><b>NEWSLINGO · 新闻精读</b><button class="close" id="close" aria-label="关闭">×</button></div><div class="detail" id="detail"></div></div></div><div class="toast" id="toast"></div>
+<div id="floatingAudioDock" aria-label="英语新闻音频快捷控制"><div class="floating-audio-top"><div><div class="floating-audio-title">VOA Audio · 英语新闻精听</div><div class="floating-audio-sub">阅读时可随时暂停 / 继续播放</div></div><button class="dock-minimize" id="toggleAudioDock" type="button">收起</button></div><div class="floating-audio-remote" style="display:flex;align-items:center;gap:10px"><button type="button" id="dockAudioPlayPause" class="dock-minimize" aria-label="播放或暂停音频">▶ / Ⅱ</button><span id="dockAudioTime" style="font-size:12px;white-space:nowrap">使用上方原位置播放器</span><input id="dockAudioSeek" type="range" min="0" max="100" value="0" aria-label="音频播放进度" style="flex:1;min-width:50px"></div><div class="floating-audio-speed" style="display:flex;align-items:center;gap:8px;margin-top:9px;font-size:12px;color:#d5deed"><label for="dockAudioSpeed">播放语速</label><select id="dockAudioSpeed" aria-label="播放语速" style="flex:1;max-width:180px;border:1px solid #64748b;background:#263955;color:#fff;border-radius:8px;padding:7px"><option value="0.6">0.6× 慢速</option><option value="0.75">0.75×</option><option value="0.9">0.9×</option><option value="1" selected>1.0× 正常</option><option value="1.1">1.1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option></select><span id="dockAudioSpeedValue">1.0×</span></div></div><div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-label="新闻精读"><div class="drawer"><div class="drawer-head"><b>NEWSLINGO · 新闻精读</b><button class="close" id="close" aria-label="关闭">×</button></div><div class="detail" id="detail"></div></div></div><div class="toast" id="toast"></div>
 <script>
 /* Visible diagnostics: surface startup errors instead of leaving loading placeholders forever. */
 window.addEventListener("error",function(event){
@@ -449,17 +449,19 @@ if(radioLesson&&floatingDock){
  window.addEventListener("resize",updateFloatingDockVisibility);
 }
 const dockToggle=$("#toggleAudioDock");if(dockToggle)dockToggle.addEventListener("click",()=>{const dock=$("#floatingAudioDock");if(!dock)return;dock.classList.toggle("is-collapsed");dockToggle.textContent=dock.classList.contains("is-collapsed")?"展开":"收起"});
-const dockPlayPause=$("#dockAudioPlayPause"),dockAudioTime=$("#dockAudioTime"),dockAudioSeek=$("#dockAudioSeek");
+const dockPlayPause=$("#dockAudioPlayPause"),dockAudioTime=$("#dockAudioTime"),dockAudioSeek=$("#dockAudioSeek"),dockAudioSpeed=$("#dockAudioSpeed"),dockAudioSpeedValue=$("#dockAudioSpeedValue");
 if(inlineAudio){
  const fmt=t=>{if(!Number.isFinite(t))return "0:00";const m=Math.floor(t/60),sec=Math.floor(t%60);return m+":"+String(sec).padStart(2,"0")};
  const updateDockControls=()=>{
   if(dockAudioTime)dockAudioTime.textContent=fmt(inlineAudio.currentTime)+" / "+fmt(inlineAudio.duration);
   if(dockAudioSeek){dockAudioSeek.value=Number.isFinite(inlineAudio.duration)&&inlineAudio.duration>0?String(inlineAudio.currentTime/inlineAudio.duration*100):"0";}
   if(dockPlayPause)dockPlayPause.textContent=inlineAudio.paused?"▶ 播放":"Ⅱ 暂停";
+  if(dockAudioSpeed&&dockAudioSpeedValue){dockAudioSpeed.value=String(inlineAudio.playbackRate||1);dockAudioSpeedValue.textContent=Number(inlineAudio.playbackRate||1).toFixed(2).replace(/0$/,"")+"×";}
  };
  ["timeupdate","loadedmetadata","durationchange","play","pause","ended","seeking"].forEach(ev=>inlineAudio.addEventListener(ev,updateDockControls));
  if(dockPlayPause)dockPlayPause.addEventListener("click",()=>{if(inlineAudio.paused){inlineAudio.play().catch(()=>{const status=$("#radioAudioStatus");if(status)status.textContent="播放失败，请检查网络或打开 VOA 原文。";});}else inlineAudio.pause();});
  if(dockAudioSeek)dockAudioSeek.addEventListener("input",()=>{if(Number.isFinite(inlineAudio.duration)&&inlineAudio.duration>0)inlineAudio.currentTime=inlineAudio.duration*Number(dockAudioSeek.value)/100;});
+ if(dockAudioSpeed)dockAudioSpeed.addEventListener("change",()=>{inlineAudio.playbackRate=Number(dockAudioSpeed.value)||1;if(dockAudioSpeedValue)dockAudioSpeedValue.textContent=inlineAudio.playbackRate.toFixed(2).replace(/0$/,"")+"×";});
  updateDockControls();
 }
 
@@ -666,5 +668,11 @@ function saveRadioWord(word,zh){
  const words=readWords(),key=word.toLowerCase();
  if(!words.some(w=>w.word.toLowerCase()===key)){words.push({word,zh,addedAt:new Date().toISOString(),dueAt:0,interval:0,reps:0});saveWords(words);updateStudyHub();toast("已加入生词本");}
 }
+/* Refresh the page at local midnight so day-based study content rotates; saved words remain in localStorage. */
+function scheduleMidnightRefresh(){
+ const now=new Date(),next=new Date(now.getFullYear(),now.getMonth(),now.getDate()+1,0,0,2);
+ setTimeout(()=>{location.reload();},next.getTime()-now.getTime());
+}
+scheduleMidnightRefresh();
 setToday();renderClassics();loadData();
 </script></body></html>
