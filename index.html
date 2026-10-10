@@ -501,6 +501,30 @@ function speakClassic(mode){
  const voices=window.speechSynthesis.getVoices();const voice=voices.find(v=>/^en-US/i.test(v.lang))||voices.find(v=>/^en/i.test(v.lang));if(voice)classicSpeechUtterance.voice=voice;
  window.speechSynthesis.speak(classicSpeechUtterance);
 }
+// 手机端查词弹窗：在弹窗顶部向下滑动时关闭；正常上下滚动词典内容不受影响。
+(function enableLookupSwipeToClose(){
+ const panels=["#classicLookupResult","#radioLookupResult"];
+ panels.forEach(selector=>{
+  const panel=document.querySelector(selector);
+  if(!panel)return;
+  let startX=0,startY=0,tracking=false;
+  panel.addEventListener("touchstart",event=>{
+   if(event.touches.length!==1)return;
+   const touch=event.touches[0];
+   startX=touch.clientX;startY=touch.clientY;
+   tracking=panel.scrollTop<=0;
+  },{passive:true});
+  panel.addEventListener("touchend",event=>{
+   if(!tracking||!event.changedTouches.length)return;
+   const touch=event.changedTouches[0],dx=touch.clientX-startX,dy=touch.clientY-startY;
+   if(dy>85&&dy>Math.abs(dx)*1.25&&panel.scrollTop<=0){
+    panel.style.display="none";
+    tracking=false;
+   }
+  },{passive:true});
+  panel.addEventListener("touchcancel",()=>{tracking=false},{passive:true});
+ });
+})();
 document.addEventListener("click",e=>{const closeLookup=e.target.closest("[data-close-lookup]");if(closeLookup){const panel=closeLookup.closest("#classicLookupResult,#radioLookupResult");if(panel)panel.style.display="none";return;}const b=e.target.closest("#playClassicAudio,#pauseClassicAudio,#stopClassicAudio");if(!b)return;e.preventDefault();speakClassic(b.id==="playClassicAudio"?"play":b.id==="pauseClassicAudio"?"pause":"stop")});
 const radioZhToggle=$("#radioShowTranslation");if(radioZhToggle)radioZhToggle.addEventListener("click",()=>document.querySelectorAll("#radioTranscript .radio-zh").forEach(el=>el.style.display=el.style.display==="none"?"":"none"));
 const radioAnalysisToggle=$("#radioShowAnalysis");if(radioAnalysisToggle)radioAnalysisToggle.addEventListener("click",()=>document.querySelectorAll("#radioTranscript .radio-analysis").forEach(el=>el.style.display=el.style.display==="none"?"block":"none"));
