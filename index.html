@@ -65,57 +65,60 @@ $("#overlay").addEventListener("click",e=>{if(e.target===$("#overlay")){$("#over
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){$("#overlay").classList.remove("show");document.body.style.overflow=""}});
 const dictionaryCache=new Map(),translationCache=new Map();
 let lookupRequestId=0;
-async function showWordLookup(raw){
+const quickMeanings={
+ announced:"announce 的过去式/过去分词：宣布；公布。",announce:"宣布；公布；通知。",deal:"协议；交易；处理。",involving:"involve 的 -ing 形式：涉及；包含。",involve:"涉及；包含；使参与。",while:"当……时；而；然而（表示对比）。",president:"总统；主席。",criticised:"criticise 的过去式：批评。",criticized:"criticize 的过去式：批评。",move:"行动；举措；移动。",described:"describe 的过去式：描述。",describe:"描述；形容。",gift:"礼物；赠品。",disagreement:"分歧；意见不一致。",places:"place 的第三人称单数/复数：放置；地方。",energy:"能源；精力。",policy:"政策；方针。",international:"国际的。",politics:"政治；政治事务。",debate:"辩论；讨论。",headline:"新闻标题。",alone:"单独地；仅仅。",however:"然而；不过。",explain:"解释；说明。",exact:"确切的；准确的。",terms:"条款；术语；条件。",work:"工作；起作用；奏效。",the:"定冠词，用于特指。",way:"方式；方法；道路。",people:"人们；人民。",learn:"学习；得知。",change:"改变；变化。",new:"新的。",skills:"技能（复数）。",help:"帮助；有助于。",using:"use 的 -ing 形式：使用。",companies:"公司（复数）。",still:"仍然；还。",important:"重要的。",pressure:"压力；压强。",supply:"供应；供给。",shortage:"短缺；不足。",increase:"增加；增长。",reduce:"减少；降低。",significant:"显著的；重要的。",concern:"担忧；涉及；关心。",impact:"影响；冲击。",evidence:"证据；依据。",claim:"声称；主张；索赔。",according:"根据；按照（according to）。",report:"报告；报道；报告称。",official:"官员；官方的。",government:"政府。",company:"公司。",market:"市场。",global:"全球的。",economy:"经济。",environment:"环境。",technology:"技术；科技。",develop:"发展；开发。",development:"发展；开发。",support:"支持；支撑。",provide:"提供。",require:"需要；要求。",remain:"保持；仍然是。",likely:"可能的；很可能。",possible:"可能的。",result:"结果；导致。",reason:"原因；理由。",issue:"问题；议题；发行。",major:"主要的；重大的。",recent:"最近的；近期的。",recently:"最近；近来。",continue:"继续；持续。",continued:"continue 的过去式：继续。",increase:"增加；增长。",reduce:"减少；降低。",ensure:"确保；保证。",consider:"考虑；认为。",include:"包括；包含。",including:"包括；包含。",available:"可获得的；可用的。",expected:"预期的；预计的。",decision:"决定；决策。",discuss:"讨论。",focus:"重点；集中注意力。",approach:"方法；接近；处理方式。",based:"基于；以……为基础。",despite:"尽管；即使。",although:"虽然；尽管。",therefore:"因此；所以。",instead:"代替；反而。",especially:"尤其；特别。",currently:"目前；当前。",potential:"潜在的；可能的。",effective:"有效的。",officials:"官员（复数）。",announces:"announce 的第三人称单数：宣布。",announcing:"announce 的 -ing 形式：宣布。"
+};
+function showWordLookup(raw){
  const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,"");
  if(!word){toast("请输入英文单词");return}
- const requestId=++lookupRequestId;
+ const requestId=++lookupRequestId,key=word.toLowerCase();
  const result=$("#wordLookupResultGlobal")||$("#wordLookupResult"),input=$("#wordLookupInputGlobal")||$("#wordLookupInput");
  if(input)input.value=word;if(!result)return;
  const n=allNews.find(x=>x.id===window.currentNewsId)||allNews[0];
- const local=(n?.vocab||[]).find(v=>v.word.toLowerCase()===word.toLowerCase());
+ const local=(n?.vocab||[]).find(v=>v.word.toLowerCase()===key);
+ const allVocab=allNews.flatMap(x=>x.vocab||[]);
+ const shared=allVocab.find(v=>v.word.toLowerCase()===key);
  const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]");
- const saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===word.toLowerCase());
- const actions='<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
- const render=(body,status="")=>{if(requestId!==lookupRequestId)return;result.style.display="block";result.innerHTML=body+actions+(status?'<div style="color:#64748b;font-size:10px;margin-top:8px">'+status+'</div>':"")};
- const localHtml=lookupWord(word,n);
- render(localHtml, "已显示本地释义"+(local?" · 来自本篇新闻词汇":"")+"；正在补充在线词典内容…");
- if(dictionaryCache.has(word.toLowerCase())){
-   render(dictionaryCache.get(word.toLowerCase())+(local?.zh?'<div style="margin-top:8px"><b>本篇新闻释义：</b>'+esc(local.zh)+'</div>':""),"来自本地缓存 · 即时显示");
-   return;
- }
- const dictionaryTask=(async()=>{
-  try{
-   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),4500);
-   try{
-    const r=await fetch("https://api.dictionaryapi.dev/api/v2/entries/en/"+encodeURIComponent(word),{signal:controller.signal});
-    if(!r.ok)throw new Error("not found");
-    const data=await r.json(),entry=data[0],phonetics=(entry.phonetics||[]).filter(p=>p.audio);
-    const us=phonetics.find(p=>/us[-_/]/i.test(p.audio)||/american/i.test(p.audio))||phonetics[0];
-    const uk=phonetics.find(p=>/uk[-_/]/i.test(p.audio)||/british/i.test(p.audio));
+ const saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===key);
+ const actions='<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||shared?.zh||quickMeanings[key]||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button><button class="mini" type="button" data-online-word="'+esc(word)+'">补充在线释义</button></div>';
+ const cached=dictionaryCache.get(key);
+ if(cached){result.style.display="block";result.innerHTML=cached+actions+'<div style="color:#64748b;font-size:10px;margin-top:8px">本地缓存 · 即时显示</div>';return}
+ let body="";
+ if(local||shared){const v=local||shared;body='<b style="font-size:18px">'+esc(v.word)+'</b> <span style="color:#64748b">'+esc(v.ipa||"")+'</span><br><b>词性：</b>'+esc(v.pos||"")+'<br><b>中文：</b>'+esc(v.zh||"")+(v.tip?'<br><b>用法：</b>'+esc(v.tip):"")+(v.ex?'<br><i>'+esc(v.ex)+'</i>':"")+(v.exZh?'<br>'+esc(v.exZh):"")}
+ else if(quickMeanings[key])body='<b style="font-size:18px">'+esc(word)+'</b><br><b>快速释义：</b>'+esc(quickMeanings[key]);
+ else body='<b style="font-size:18px">'+esc(word)+'</b><br><span style="color:#64748b">点击「补充在线释义」查询音标、词性和详细例句。</span>';
+ result.style.display="block";result.innerHTML=body+actions+'<div style="color:#64748b;font-size:10px;margin-top:8px">本地快速查询 · 无需等待网络。详细在线词典可按需加载。</div>';
+}
+async function fetchOnlineWord(raw){
+ const word=(raw||"").trim().replace(/[^A-Za-z'’-]/g,""),key=word.toLowerCase(),result=$("#wordLookupResultGlobal")||$("#wordLookupResult");
+ if(!word||!result)return;
+ const requestId=++lookupRequestId;
+ result.style.display="block";result.innerHTML='<b>'+esc(word)+'</b><br>正在查询在线词典…';
+ let html="",translation="";
+ if(dictionaryCache.has(key))html=dictionaryCache.get(key);
+ else try{
+  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),4500);
+  try{const r=await fetch("https://api.dictionaryapi.dev/api/v2/entries/en/"+encodeURIComponent(word),{signal:controller.signal});
+   if(r.ok){const data=await r.json(),entry=data[0],phonetics=(entry.phonetics||[]).filter(p=>p.audio),us=phonetics.find(p=>/us[-_/]/i.test(p.audio)||/american/i.test(p.audio))||phonetics[0],uk=phonetics.find(p=>/uk[-_/]/i.test(p.audio)||/british/i.test(p.audio);
     const audioBtn=(p,label)=>p?'<button class="mini" type="button" data-play-audio="'+esc(p.audio)+'">▶ '+label+'发音</button>':"";
     const sounds=(us||uk)?'<div style="display:flex;gap:7px;flex-wrap:wrap;margin:8px 0">'+audioBtn(us,"美式")+(uk&&uk.audio!==(us&&us.audio)?audioBtn(uk,"英式"):"")+'</div>':"";
     const meanings=(entry.meanings||[]).slice(0,4).map(m=>'<div style="margin-top:8px"><b>'+esc(m.partOfSpeech||"")+'</b><br>'+(m.definitions||[]).slice(0,2).map(d=>'• '+esc(d.definition)+(d.example?'<br><i>例句：'+esc(d.example)+'</i>':"")).join("<br>")+'</div>').join("");
-    const html='<div style="display:flex;align-items:baseline;gap:8px;flex-wrap:wrap"><b style="font-size:18px">'+esc(entry.word||word)+'</b><span style="color:#64748b">'+esc(entry.phonetic||((entry.phonetics||[]).find(p=>p.text)?.text)||"")+'</span></div>'+sounds+meanings+(local?.zh?'<div style="margin-top:8px"><b>本篇新闻释义：</b>'+esc(local.zh)+'</div>':"")+'<p style="color:#64748b;font-size:10px;margin:8px 0 0">在线英语词典 · 音标、释义和例句。</p>';
-    dictionaryCache.set(word.toLowerCase(),html);
-    return html;
-   }finally{clearTimeout(timer)}
-  }catch(err){return ""}
- })();
- const translationTask=local?.zh?Promise.resolve(""):(async()=>{
-  if(translationCache.has(word.toLowerCase()))return translationCache.get(word.toLowerCase());
-  try{
-   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),3500);
-   try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal});if(!r.ok)return "";
-    const td=await r.json(),candidate=td?.responseData?.translatedText;
-    if(candidate&&candidate.toLowerCase()!==word.toLowerCase()&&!/MYMEMORY WARNING/i.test(candidate)){const t='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(candidate)+'<div style="font-size:10px;color:#648071;margin-top:3px">机器翻译，仅供参考，请结合原句语境理解。</div></div>';translationCache.set(word.toLowerCase(),t);return t}return "";
-   }finally{clearTimeout(timer)}
-  }catch(err){return ""}
- })();
- const [dictionaryHtml,translationHtml]=await Promise.all([dictionaryTask,translationTask]);
+    html='<div style="display:flex;align-items:baseline;gap:8px;flex-wrap:wrap"><b style="font-size:18px">'+esc(entry.word||word)+'</b><span style="color:#64748b">'+esc(entry.phonetic||((entry.phonetics||[]).find(p=>p.text)?.text)||"")+'</span></div>'+sounds+meanings;
+    dictionaryCache.set(key,html);
+   }
+  }finally{clearTimeout(timer)}
+ }catch(err){}
  if(requestId!==lookupRequestId)return;
- if(dictionaryHtml)render(dictionaryHtml+translationHtml,"在线词典已更新");
- else if(translationHtml)render(localHtml+translationHtml,"在线词典暂不可用，已保留本地释义");
- else render(localHtml,"已优先显示可用释义；在线词典响应较慢或暂不可用");
+ if(!html)html='<b style="font-size:18px">'+esc(word)+'</b><br>'+esc(quickMeanings[key]||"在线词典暂不可用，请结合上下文理解。");
+ if(!translationCache.has(key)&&!quickMeanings[key])try{
+  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),2500);
+  try{const r=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN",{signal:controller.signal});if(r.ok){const d=await r.json(),t=d?.responseData?.translatedText;if(t&&t.toLowerCase()!==key&&!/MYMEMORY WARNING/i.test(t)){translation='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(t)+'<div style="font-size:10px;color:#648071">机器翻译，仅供参考。</div></div>';translationCache.set(key,translation)}}}finally{clearTimeout(timer)}
+ }catch(err){}
+ if(requestId!==lookupRequestId)return;
+ const n=allNews.find(x=>x.id===window.currentNewsId)||allNews[0],local=(n?.vocab||[]).find(v=>v.word.toLowerCase()===key);
+ const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]"),saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===key);
+ const actions='<div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px"><button class="open" type="button" data-saveword="'+esc(word)+'" data-zh="'+esc(local?.zh||quickMeanings[key]||"")+'">'+(saved?"✓ 已加入生词本":"＋ 加入生词本")+'</button><button class="mini" type="button" data-copyword="'+esc(word)+'">复制单词</button></div>';
+ result.innerHTML=html+(translationCache.get(key)||translation)+actions;
 }
 function renderWordBook(){
  const panel=$("#wordBookPanel");if(!panel)return;
@@ -123,7 +126,7 @@ function renderWordBook(){
  if(!words.length){panel.innerHTML='<p style="color:#64748b;margin:8px 0">生词本还是空的。阅读时点击单词，再选择「加入生词本」。</p>';return}
  panel.innerHTML='<div style="display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap"><b>已收藏 '+words.length+' 个词</b><button class="mini" type="button" id="exportWordBook">导出生词本 CSV</button></div>'+words.map((item,i)=>{const w=typeof item==="string"?{word:item,zh:""}:item;return '<div style="padding:10px 0;border-bottom:1px solid #e3e8f0;display:flex;gap:10px;align-items:start"><div style="flex:1"><b>'+esc(w.word)+'</b><div style="font-size:12px;color:#52627a">'+esc(w.zh||"结合新闻上下文复习")+'</div></div><button class="mini" data-reviewword="'+esc(w.word)+'" type="button">复习</button><button class="mini" data-removeword="'+i+'" type="button">移除</button></div>'}).join("");
 }
-$("#detail").addEventListener("click",e=>{if(e.target.id==="startWordReviewFromBook"){openReviewSession();return}if(e.target.id==="closeStudySession"){$("#overlay").classList.remove("show");document.body.style.overflow="";return}if(e.target.id==="revealReviewMeaning"){const m=$("#reviewMeaning");if(m)m.style.display="block";return}if(e.target.dataset.reviewGrade){gradeReview(e.target.dataset.reviewGrade);return}if(e.target.dataset.quizChoice!==undefined){answerQuiz(Number(e.target.dataset.quizChoice));return}if(e.target.id==="nextQuizQuestion"){window.quizState.index++;window.quizState.answered=false;showQuizQuestion();return}let w=e.target.closest("[data-word]");if(w){showWordLookup(w.dataset.word);return}let note=e.target.closest("[data-note]");if(note){let el=$("#note-"+note.dataset.note);el.classList.toggle("show");return}let cp=e.target.closest("[data-copy]");if(cp){let n=allNews.find(x=>x.id===window.currentNewsId);let s=n?.sentences?.[Number(cp.dataset.copy)];if(s)navigator.clipboard?.writeText(s.en).then(()=>toast("已复制英文句子")).catch(()=>toast(s.en));return}let sw=e.target.closest("[data-saveword]");if(sw){let words=JSON.parse(localStorage.getItem("newslingo-words")||"[]");const word=sw.dataset.saveword;const idx=words.findIndex(x=>(typeof x==="string"?x:x.word).toLowerCase()===word.toLowerCase());if(idx<0)words.push({word,zh:sw.dataset.zh||"",addedAt:new Date().toISOString(),dueAt:0,interval:0,reps:0});localStorage.setItem("newslingo-words",JSON.stringify(words));updateStudyHub();sw.textContent="✓ 已加入生词本";renderWordBook();toast("已加入生词本 · 共 "+words.length+" 个词");return}if(e.target.id==="wordLookupButtonGlobal"||e.target.id==="wordLookupButton"){showWordLookup(($("#wordLookupInputGlobal")||$("#wordLookupInput"))?.value);return}if(e.target.id==="toggleWordBook"){const p=$("#wordBookPanel");p.style.display=p.style.display==="none"?"block":"none";renderWordBook();return}if(e.target.id==="exportWordBook"){const words=JSON.parse(localStorage.getItem("newslingo-words")||"[]");const csv="Word,Chinese meaning\n"+words.map(x=>{const w=typeof x==="string"?{word:x,zh:""}:x;return '"'+w.word.replace(/"/g,'""')+'","'+(w.zh||"").replace(/"/g,'""')+'"'}).join("\n");const blob=new Blob(["\ufeff"+csv],{type:"text/csv;charset=utf-8"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="newslingo-vocabulary.csv";a.click();URL.revokeObjectURL(url);return}if(e.target.closest("[data-play-audio]")){const audio=new Audio(e.target.closest("[data-play-audio]").dataset.playAudio);audio.play().catch(()=>toast("暂时无法播放发音"));return}if(e.target.closest("[data-copyword]")){const word=e.target.closest("[data-copyword]").dataset.copyword;navigator.clipboard?.writeText(word).then(()=>toast("已复制 "+word)).catch(()=>toast(word));return}if(e.target.closest("[data-reviewword]")){showWordLookup(e.target.closest("[data-reviewword]").dataset.reviewword);return}if(e.target.closest("[data-removeword]")){const words=JSON.parse(localStorage.getItem("newslingo-words")||"[]");words.splice(Number(e.target.closest("[data-removeword]").dataset.removeword),1);localStorage.setItem("newslingo-words",JSON.stringify(words));updateStudyHub();if($("#detail")&&!$("#wordBookPanel"))openVocabularyInfo();else renderWordBook();return}if(e.target.id==="showAllTranslation"){document.querySelectorAll(".chinese").forEach(el=>el.style.display=el.style.display==="none"?"":"none")}if(e.target.id==="toggleReadingZh"){let el=$("#readingZh");if(el)el.style.display=el.style.display==="none"?"block":"none"}if(e.target.id==="markDone"){toast("本篇已记录学习！");$("#overlay").classList.remove("show");document.body.style.overflow="";renderCards()}});
+$("#detail").addEventListener("click",e=>{if(e.target.closest("[data-online-word]")){fetchOnlineWord(e.target.closest("[data-online-word]").dataset.onlineWord);return}if(e.target.id==="startWordReviewFromBook"){openReviewSession();return}if(e.target.id==="closeStudySession"){$("#overlay").classList.remove("show");document.body.style.overflow="";return}if(e.target.id==="revealReviewMeaning"){const m=$("#reviewMeaning");if(m)m.style.display="block";return}if(e.target.dataset.reviewGrade){gradeReview(e.target.dataset.reviewGrade);return}if(e.target.dataset.quizChoice!==undefined){answerQuiz(Number(e.target.dataset.quizChoice));return}if(e.target.id==="nextQuizQuestion"){window.quizState.index++;window.quizState.answered=false;showQuizQuestion();return}let w=e.target.closest("[data-word]");if(w){showWordLookup(w.dataset.word);return}let note=e.target.closest("[data-note]");if(note){let el=$("#note-"+note.dataset.note);el.classList.toggle("show");return}let cp=e.target.closest("[data-copy]");if(cp){let n=allNews.find(x=>x.id===window.currentNewsId);let s=n?.sentences?.[Number(cp.dataset.copy)];if(s)navigator.clipboard?.writeText(s.en).then(()=>toast("已复制英文句子")).catch(()=>toast(s.en));return}let sw=e.target.closest("[data-saveword]");if(sw){let words=JSON.parse(localStorage.getItem("newslingo-words")||"[]");const word=sw.dataset.saveword;const idx=words.findIndex(x=>(typeof x==="string"?x:x.word).toLowerCase()===word.toLowerCase());if(idx<0)words.push({word,zh:sw.dataset.zh||"",addedAt:new Date().toISOString(),dueAt:0,interval:0,reps:0});localStorage.setItem("newslingo-words",JSON.stringify(words));updateStudyHub();sw.textContent="✓ 已加入生词本";renderWordBook();toast("已加入生词本 · 共 "+words.length+" 个词");return}if(e.target.id==="wordLookupButtonGlobal"||e.target.id==="wordLookupButton"){showWordLookup(($("#wordLookupInputGlobal")||$("#wordLookupInput"))?.value);return}if(e.target.id==="toggleWordBook"){const p=$("#wordBookPanel");p.style.display=p.style.display==="none"?"block":"none";renderWordBook();return}if(e.target.id==="exportWordBook"){const words=JSON.parse(localStorage.getItem("newslingo-words")||"[]");const csv="Word,Chinese meaning\n"+words.map(x=>{const w=typeof x==="string"?{word:x,zh:""}:x;return '"'+w.word.replace(/"/g,'""')+'","'+(w.zh||"").replace(/"/g,'""')+'"'}).join("\n");const blob=new Blob(["\ufeff"+csv],{type:"text/csv;charset=utf-8"}),url=URL.createObjectURL(blob),a=document.createElement("a");a.href=url;a.download="newslingo-vocabulary.csv";a.click();URL.revokeObjectURL(url);return}if(e.target.closest("[data-play-audio]")){const audio=new Audio(e.target.closest("[data-play-audio]").dataset.playAudio);audio.play().catch(()=>toast("暂时无法播放发音"));return}if(e.target.closest("[data-copyword]")){const word=e.target.closest("[data-copyword]").dataset.copyword;navigator.clipboard?.writeText(word).then(()=>toast("已复制 "+word)).catch(()=>toast(word));return}if(e.target.closest("[data-reviewword]")){showWordLookup(e.target.closest("[data-reviewword]").dataset.reviewword);return}if(e.target.closest("[data-removeword]")){const words=JSON.parse(localStorage.getItem("newslingo-words")||"[]");words.splice(Number(e.target.closest("[data-removeword]").dataset.removeword),1);localStorage.setItem("newslingo-words",JSON.stringify(words));updateStudyHub();if($("#detail")&&!$("#wordBookPanel"))openVocabularyInfo();else renderWordBook();return}if(e.target.id==="showAllTranslation"){document.querySelectorAll(".chinese").forEach(el=>el.style.display=el.style.display==="none"?"":"none")}if(e.target.id==="toggleReadingZh"){let el=$("#readingZh");if(el)el.style.display=el.style.display==="none"?"block":"none"}if(e.target.id==="markDone"){toast("本篇已记录学习！");$("#overlay").classList.remove("show");document.body.style.overflow="";renderCards()}});
 const originalOpen=openNews;openNews=function(id){window.currentNewsId=id;return originalOpen(id)};
 function readWords(){try{return JSON.parse(localStorage.getItem("newslingo-words")||"[]").map(x=>typeof x==="string"?{word:x,zh:"",addedAt:new Date().toISOString(),dueAt:0,interval:0,reps:0}:x)}catch(e){return []}}
 function saveWords(words){localStorage.setItem("newslingo-words",JSON.stringify(words))}
