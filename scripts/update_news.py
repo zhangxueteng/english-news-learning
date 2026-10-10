@@ -72,30 +72,47 @@ def make_card(title, url, publisher, category, published):
             "exZh": zh or "本次免费翻译服务暂不可用。",
             "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
         })
-    sentence = {
-        "en": title,
-        "zh": zh or "免费翻译服务暂不可用，请点击原文链接核对标题含义。",
-        "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
-    }
+    title_zh = zh or "标题翻译暂不可用，请查看原文。"
+    reading = [
+        f'The headline reports: "{title}". A headline gives readers a quick summary, but it may leave out important background and details.',
+        "To understand the story, read the original report and identify the people or organisations involved, the action being described and the time when it happened.",
+        "For balanced news reading, separate confirmed facts from opinions, check direct quotations in context and compare reliable independent sources when possible."
+    ]
+    reading_zh = [
+        f'这则新闻标题报道：“{title_zh}”。标题可以帮助读者快速了解主题，但可能省略重要背景和细节。',
+        "要理解事件，应阅读原始报道，找出涉及的人物或机构、报道描述的行动，以及事件发生的时间。",
+        "为了更客观地阅读新闻，应区分已确认的事实与观点，在上下文中核对直接引语，并尽可能比较可靠的独立来源。"
+    ]
+    notes = [
+        "reports 后面接冒号引出标题内容；but 表示转折，may leave out 表示“可能省略”。",
+        "To understand the story 是目的状语；identify 后面并列三个需要确认的信息。",
+        "separate A from B = 区分 A 与 B；when possible = 在可能的情况下。"
+    ]
+    sentences = [
+        {"en": reading[k], "zh": reading_zh[k], "note": notes[k]}
+        for k in range(len(reading))
+    ]
     date = published or datetime.now(timezone.utc).date().isoformat()
     return {
         "id": "rss-" + str(abs(hash(url))),
         "title": title,
-        "titleZh": zh or "标题翻译暂不可用",
+        "titleZh": title_zh,
         "level": level,
         "category": category,
         "source": publisher,
         "date": date,
-        "minutes": 3,
-        "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
-        "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+        "minutes": 5,
+        "summary": "Original English reading passage with critical-reading tips, based on the RSS headline. Open the original report for verified details.",
+        "summaryZh": "根据新闻标题编写的原创英文阅读材料，包含新闻辨析提示。具体事实请以原始报道为准。",
         "art": "◈",
         "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
         "videoUrl": "https://www.youtube.com/results?search_query=" + urllib.parse.quote(title + " news video"),
         "articleUrl": url,
         "demo": False,
-        "sourceNote": "RSS headline · free translation · open original publisher",
-        "sentences": [sentence],
+        "sourceNote": "RSS headline · original reading passage · open original publisher",
+        "readingText": "\\n\\n".join(reading),
+        "readingTextZh": "\\n\\n".join(reading_zh),
+        "sentences": sentences,
         "vocab": vocab,
         "grammar": [
             {"title": "新闻标题语序", "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"},
@@ -140,7 +157,7 @@ def main():
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "mode": "free-rss",
         "articles": articles,
-        "notice": "Free RSS mode: headlines and source links are updated daily. Headline translation uses a public no-key translation endpoint and may be unavailable or inaccurate. Full articles and videos are opened at their original sources."
+        "notice": "Free RSS mode: headline cards and original English reading passages are updated daily. Reading passages are learning material based on headlines, not full republished articles. Check the publisher for verified details."
     }
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print("Wrote", len(articles), "free RSS learning cards to", OUT)
