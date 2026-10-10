@@ -21,7 +21,7 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
 @media(max-width:570px){.wrap{padding:0 15px}.top{height:65px}.hero{padding:32px 0 25px}.news-grid{grid-template-columns:1fr}.thumb{height:165px}.side{grid-template-columns:1fr}.section-head{align-items:start;flex-direction:column}.search{margin-left:0;width:100%}.search input{width:100%}.detail{padding:17px}.detail h1{font-size:24px}.vocab-grid{grid-template-columns:1fr}.hero-stats{gap:12px}.overlay{align-items:stretch}}
 
 #floatingAudioDock{display:none;position:fixed;right:20px;bottom:18px;z-index:60;width:min(420px,calc(100vw - 28px));background:#14233a;color:#fff;border:1px solid #40516d;border-radius:16px;padding:13px 15px;box-shadow:0 14px 42px #08132345}#floatingAudioDock .floating-audio-top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}#floatingAudioDock .floating-audio-title{font-size:12px;font-weight:700;line-height:1.4}#floatingAudioDock .floating-audio-sub{font-size:10px;color:#b9c7dc;margin-top:3px}#floatingAudioDock audio{display:block;width:100%;height:38px}#floatingAudioDock .dock-minimize{flex:0 0 auto;border:1px solid #64748b;background:#263955;color:#fff;border-radius:8px;padding:6px 9px;font-size:11px}#floatingAudioDock.is-collapsed{width:min(250px,calc(100vw - 28px));padding:10px 12px}#floatingAudioDock.is-collapsed .floating-audio-sub,#floatingAudioDock.is-collapsed audio{display:none}#classicLookupResult,#radioLookupResult{display:none;position:fixed;right:18px;bottom:18px;top:auto;left:auto;width:min(390px,calc(100vw - 28px));max-height:min(68vh,560px);overflow:auto;z-index:10050;background:#fff;border:1px solid #cbd8f2;border-radius:16px;padding:16px;box-shadow:0 18px 55px #10213b35;line-height:1.75;font-size:13px;scroll-margin-top:0}#classicLookupResult,#radioLookupResult{overscroll-behavior:contain;touch-action:pan-y;-webkit-overflow-scrolling:touch}#classicLookupResult .lookup-popup-head,#radioLookupResult .lookup-popup-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid #e5eaf3}#classicLookupResult .lookup-popup-head button,#radioLookupResult .lookup-popup-head button{border:0;background:#edf2ff;color:#2449b8;border-radius:7px;padding:5px 9px;cursor:pointer}.classic-english{font-size:16px;line-height:2.15;overflow-wrap:anywhere}.classic-sentence-unit{margin:0 0 12px}.classic-inline-zh{margin:2px 0 10px;padding:8px 11px;background:#f4f7ff;border-radius:8px;color:#526078;font-size:13px;line-height:1.8}.classic-zh-label{display:block;color:#4169e1;font-size:10px;font-weight:700;margin-bottom:2px}.classic-english .word{cursor:pointer;border-bottom:1px dashed #5475e7;color:#3156cb}.classic-english .word:hover{background:#edf2ff}.classic-paragraph{padding:15px 0;border-bottom:1px solid #edf0f5}.classic-tools{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.classic-section-title{margin:25px 0 10px;font-size:18px}.classic-phrase-card{border:1px solid var(--line);border-radius:12px;padding:13px;margin:9px 0;background:#fff}.classic-phrase-card strong{font-size:14px;color:#2449b8}.classic-phrase-card p{font-size:12px;line-height:1.8;margin:6px 0;color:#526078}.classic-phrase-card .classic-example{background:#f7f9fc;border-radius:8px;padding:9px;color:#26364d}.classic-summary-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.classic-summary-item{border:1px solid var(--line);border-radius:10px;padding:12px;background:#fff}.classic-summary-item b{font-size:13px}.classic-summary-item p{font-size:12px;line-height:1.7;margin:5px 0;color:#526078}.classic-study-note{background:#f4f7ff;border-left:3px solid #4169e1;border-radius:0 10px 10px 0;padding:12px;font-size:12px;line-height:1.8;margin:12px 0}@media(max-width:570px){#floatingAudioDock{right:10px;bottom:10px;width:calc(100vw - 20px)}.classic-summary-grid{grid-template-columns:1fr}.classic-english{font-size:15px}}
-</style></head>
+.module-heading{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.module-heading h3{margin:0}.module-toggle{white-space:nowrap}#ieltsContent[hidden],#classicsGrid[hidden],#radioLessonContent[hidden]{display:none!important}#ieltsContent .sentence{margin:12px 0;padding:14px;border:1px solid #e1e8f2;border-radius:12px}#ieltsContent .english{font-size:16px;line-height:1.9;color:#244e9b}#ieltsContent .chinese{margin-top:8px;line-height:1.8;color:#596579}#ieltsContent .explain{margin-top:8px;line-height:1.8;font-size:13px}</style></head>
 <body>
 <header><div class="wrap top"><div class="brand"><div class="logo">N</div><div>NewsLingo<small>每日英语新闻精读 · 听力与词汇</small></div></div><nav class="nav"><a href="#news">每日新闻</a><a href="#levels">英语分级</a><a href="#sources">新闻来源</a></nav><div class="today" id="today"></div></div></header>
 <section class="hero"><div class="wrap"><div class="eyebrow">Your daily English practice</div><h1>用真实世界的新闻，<br>练出真正的英语能力。</h1><p>每天精选新闻视频与英文报道。逐句翻译、点击查词、短语讲解和句型分析，让英语学习融入每天发生的世界。</p><div class="hero-stats"><div class="stat"><b id="articleCount">—</b>篇精选新闻</div><div class="stat"><b>A1–C1</b>五级难度</div><div class="stat"><b>3-in-1</b>听力 · 阅读 · 词汇</div></div></div></section>
@@ -111,6 +111,21 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
 <div class="grammar"><b>6. protect somebody from something</b><div>保护某人免受某事物伤害。例：protect people from unsafe sound levels。</div></div>
 </div>
 <p class="panel-note">来源说明：英文全文及音频来自 VOA Learning English 的公开页面；中文翻译和学习解析为本站新增的学习辅助内容。原报道发表于 2015 年，适合作为精听材料，不应当作今天的最新新闻。</p>
+</section>
+<section class="panel" id="ieltsLesson" style="margin:0 0 24px">
+ <div class="module-heading"><h3>IELTS Listening · 雅思语速精听</h3><button class="mini module-toggle" type="button" aria-expanded="false" data-toggle-module="ieltsContent">展开学习</button></div>
+ <div id="ieltsContent" hidden>
+  <p class="panel-note">难度约 IELTS 6–7：自然语速、较长句式和学术/社会类表达。此处为原创练习素材，使用浏览器英文语音朗读，不冒充官方雅思录音。</p>
+  <div class="ielts-tools" style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:12px 0">
+   <label for="ieltsRate">朗读语速</label><select id="ieltsRate" class="mini"><option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.1">1.1×</option><option value="1.2">1.2×</option><option value="1.3">1.3×</option></select>
+   <button class="open" type="button" id="ieltsPlay">▶ 朗读全文</button><button class="mini" type="button" id="ieltsPause">暂停 / 继续</button><button class="mini" type="button" id="ieltsStop">停止</button>
+  </div>
+  <div class="sentence"><div class="english">In recent years, many cities have invested heavily in public transport in an attempt to reduce traffic congestion and improve air quality. Although these projects can be expensive, their long-term benefits may outweigh the initial costs.</div><div class="chinese">近年来，许多城市大力投资公共交通，试图缓解交通拥堵并改善空气质量。尽管这些项目可能成本高昂，但其长期收益可能超过初始投入。</div><div class="explain"><b>重点表达：</b><i>invest heavily in</i> 大力投资；<i>in an attempt to</i> 试图；<i>traffic congestion</i> 交通拥堵；<i>outweigh</i> 超过，胜过。</div></div>
+  <div class="sentence"><div class="english">For example, reliable bus and rail services can encourage commuters to leave their cars at home, particularly when fares are affordable and services run frequently.</div><div class="chinese">例如，可靠的公交和铁路服务能够鼓励通勤者不开私家车出门，尤其是在票价合理、班次频繁的情况下。</div><div class="explain"><b>重点表达：</b><i>commuter</i> 通勤者；<i>leave their cars at home</i> 不开车出门；<i>particularly when</i> 尤其是在……情况下。</div></div>
+  <div class="sentence"><div class="english">Nevertheless, public transport alone cannot solve every urban problem. City planners also need to make walking and cycling safer, while ensuring that people living in outer suburbs can reach essential services without excessive delays.</div><div class="chinese">然而，仅靠公共交通无法解决所有城市问题。城市规划者还需要让步行和骑行更加安全，同时确保居住在远郊的人们能够及时抵达基本服务设施。</div><div class="explain"><b>重点表达：</b><i>let alone</i> 更不用说（拓展）；<i>city planner</i> 城市规划者；<i>outer suburbs</i> 远郊；<i>essential services</i> 基本公共服务；<i>excessive</i> 过度的。</div></div>
+  <div class="sentence"><div class="english">Ultimately, a successful transport policy requires more than new infrastructure. It depends on careful planning, consistent funding and a clear understanding of how residents actually travel.</div><div class="chinese">归根结底，成功的交通政策需要的不只是新建基础设施。它还取决于周密规划、持续资金投入，以及对居民实际出行方式的清晰了解。</div><div class="explain"><b>重点表达：</b><i>infrastructure</i> 基础设施；<i>consistent funding</i> 持续稳定的资金投入；<i>a clear understanding of</i> 对……有清晰认识。</div></div>
+  <p class="panel-note">学习顺序：先盲听全文，再逐段跟读，最后用英文概括文章观点。</p>
+ </div>
 </section>
 <section class="panel" style="margin:0 0 24px">
 <h3>广播新闻学习说明</h3>
@@ -501,6 +516,45 @@ function speakClassic(mode){
  const voices=window.speechSynthesis.getVoices();const voice=voices.find(v=>/^en-US/i.test(v.lang))||voices.find(v=>/^en/i.test(v.lang));if(voice)classicSpeechUtterance.voice=voice;
  window.speechSynthesis.speak(classicSpeechUtterance);
 }
+// 所有学习模块默认折叠，点击按钮后再展开。
+(function setupCollapsedModules(){
+ const classicGrid=document.querySelector("#classicsGrid");
+ const classicSection=document.querySelector("#classicsSection");
+ if(classicGrid&&classicSection){
+  classicGrid.hidden=true;
+  const head=classicSection.querySelector(".section-head");
+  if(head&&!head.querySelector("[data-toggle-module='classicsGrid']")){
+   const btn=document.createElement("button");btn.type="button";btn.className="mini module-toggle";btn.dataset.toggleModule="classicsGrid";btn.textContent="展开学习";btn.setAttribute("aria-expanded","false");head.appendChild(btn);
+  }
+ }
+ const radio=document.querySelector("#radioLesson");
+ if(radio){
+  const h=radio.querySelector("h3");
+  if(h&&!radio.querySelector("#radioLessonContent")){
+   const content=document.createElement("div");content.id="radioLessonContent";
+   while(h.nextSibling)content.appendChild(h.nextSibling);
+   content.hidden=true;radio.appendChild(content);
+   const row=document.createElement("div");row.className="module-heading";
+   h.parentNode.insertBefore(row,h);row.appendChild(h);
+   const btn=document.createElement("button");btn.type="button";btn.className="mini module-toggle";btn.dataset.toggleModule="radioLessonContent";btn.textContent="展开学习";btn.setAttribute("aria-expanded","false");row.appendChild(btn);
+  }
+ }
+ document.addEventListener("click",event=>{
+  const btn=event.target.closest("[data-toggle-module]");if(!btn)return;
+  const target=document.getElementById(btn.dataset.toggleModule);if(!target)return;
+  target.hidden=!target.hidden;
+  btn.textContent=target.hidden?"展开学习":"收起模块";
+  btn.setAttribute("aria-expanded",String(!target.hidden));
+ });
+ const rate=document.querySelector("#ieltsRate");
+ const getIeltsText=()=>Array.from(document.querySelectorAll("#ieltsContent .english")).map(el=>el.textContent.trim()).join(" ");
+ document.querySelector("#ieltsPlay")?.addEventListener("click",()=>{
+  if(!("speechSynthesis" in window)){alert("当前浏览器不支持语音朗读");return;}
+  speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(getIeltsText());utterance.lang="en-US";utterance.rate=Number(rate?.value||1);speechSynthesis.speak(utterance);
+ });
+ document.querySelector("#ieltsPause")?.addEventListener("click",()=>{if(!("speechSynthesis" in window))return;if(speechSynthesis.paused)speechSynthesis.resume();else speechSynthesis.pause();});
+ document.querySelector("#ieltsStop")?.addEventListener("click",()=>speechSynthesis.cancel());
+})();
 // 查词浮窗打开时锁定底层页面滚动，仅允许浮窗自身滚动。
 (function lockBackgroundWhileLookupOpen(){
  let locked=false,savedY=0;
