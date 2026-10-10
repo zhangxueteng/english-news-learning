@@ -353,13 +353,14 @@ function openVocabularyInfo(){
  $("#detail").innerHTML='<section class="detail-section"><div class="detail-tags"><span class="tag">MY VOCABULARY · 我的生词本</span></div><h2 style="margin-top:14px">已收藏 '+words.length+' 个词</h2><p style="color:#68758a;font-size:12px;line-height:1.7">通过间隔复习巩固记忆。每次复习后会自动安排下次复习日期。</p><button class="mini" id="exportWordBook">导出生词本 CSV</button>'+(words.length?words.map((w,i)=>'<div style="padding:12px 0;border-bottom:1px solid #e3e8f0;display:flex;gap:10px;align-items:center"><div style="flex:1;min-width:0"><b>'+esc(w.word)+'</b><div style="font-size:12px;color:#52627a">'+esc(w.zh||"暂无中文释义")+'</div><small style="color:#7b8798">下次复习：'+esc(w.dueAt?new Date(w.dueAt).toLocaleDateString("zh-CN"):"待首次复习")+'</small></div><button class="mini" data-reviewword="'+esc(w.word)+'">查词</button><button class="mini" data-removeword="'+i+'">移除</button></div>').join(""):'<p style="padding:15px 0;color:#68758a">生词本还是空的。打开新闻，点击英文单词并选择「加入生词本」。</p>')+'<button class="open" id="startWordReviewFromBook" style="margin-top:14px">开始到期复习</button></section>';
 }
 async function loadData(){try{const r=await fetch("./data/news.json",{cache:"no-store"});if(r.ok){const d=await r.json();if(Array.isArray(d.articles))allNews=d.articles.filter(hasOriginalAudio);}}catch(e){console.error("原声新闻加载失败",e);}renderCards();}
+const inlineAudio=$("#voaInlineAudio"),floatingAudio=$("#voaFloatingAudio");
 const floatingDock=$("#floatingAudioDock"),radioLesson=$("#radioLesson");
 let audioDockActivated=false;
 function updateFloatingDockVisibility(){
  if(!floatingDock||!radioLesson)return;
  const r=radioLesson.getBoundingClientRect();
  const sectionVisible=r.bottom>0&&r.top<window.innerHeight;
- floatingDock.style.display=audioDockActivated&&sectionVisible?"block":"none";
+ floatingDock.style.display=sectionVisible?"block":"none";
 }
 if(radioLesson&&floatingDock){
  floatingDock.style.display="none";
@@ -376,11 +377,11 @@ if(inlineAudio){
   if(dockPlayPause)dockPlayPause.textContent=inlineAudio.paused?"▶ 播放":"Ⅱ 暂停";
  };
  ["timeupdate","loadedmetadata","durationchange","play","pause","ended","seeking"].forEach(ev=>inlineAudio.addEventListener(ev,updateDockControls));
- if(dockPlayPause)dockPlayPause.addEventListener("click",()=>{if(inlineAudio.paused){inlineAudio.play().catch(()=>{if(audioStatus)audioStatus.textContent="播放失败，请检查网络或打开 VOA 原文。"});}else inlineAudio.pause();});
+ if(dockPlayPause)dockPlayPause.addEventListener("click",()=>{if(inlineAudio.paused){inlineAudio.play().catch(()=>{const status=$("#radioAudioStatus");if(status)status.textContent="播放失败，请检查网络或打开 VOA 原文。";});}else inlineAudio.pause();});
  if(dockAudioSeek)dockAudioSeek.addEventListener("input",()=>{if(Number.isFinite(inlineAudio.duration)&&inlineAudio.duration>0)inlineAudio.currentTime=inlineAudio.duration*Number(dockAudioSeek.value)/100;});
  updateDockControls();
 }
-const inlineAudio=$("#voaInlineAudio"),floatingAudio=$("#voaFloatingAudio");
+
 if(inlineAudio&&floatingAudio){
  /* The inline audio is the sole audio source. The floating control is a remote UI,
     not a second media element, so it can never produce overlapping sound. */
