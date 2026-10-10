@@ -128,7 +128,7 @@ const fullWordVocab={
 };
 function buildFullArticleVocab(n){
  const text=(n.readingText||"").replace(/\s+/g," "),lower=text.toLowerCase(),items=new Map();
- const add=(term,zh,kind,priority)=>{const key=term.toLowerCase();if(!lower.includes(key))return;const re=new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g,"\\function renderWordBook(){"),"i"),match=text.match(re);if(!match)return;const before=text.slice(0,match.index),sentenceStart=Math.max(before.lastIndexOf(". "),before.lastIndexOf("? "),before.lastIndexOf("! "))+2;let sentenceEnd=text.length;for(const mark of [". ","? ","! "]){const p=text.indexOf(mark,match.index+term.length);if(p>=0&&p<sentenceEnd)sentenceEnd=p+1}const example=text.slice(sentenceStart,sentenceEnd).trim();items.set(key,{word:term,zh,kind,priority,ex:example});};
+ const add=(term,zh,kind,priority)=>{const key=term.toLowerCase(),at=lower.indexOf(key);if(at<0)return;const before=text.slice(0,at),sentenceStart=Math.max(before.lastIndexOf(". "),before.lastIndexOf("? "),before.lastIndexOf("! "))+2;let sentenceEnd=text.length;for(const mark of [". ","? ","! "]){const p=text.indexOf(mark,at+term.length);if(p>=0&&p<sentenceEnd)sentenceEnd=p+1}const example=text.slice(sentenceStart,sentenceEnd).trim();items.set(key,{word:term,zh,kind,priority,ex:example});};
  Object.entries(fullTextVocab).forEach(([term,zh])=>add(term,zh,"短语",3));
  Object.entries(fullWordVocab).forEach(([term,zh])=>add(term,zh,"单词",2));
  (n.vocab||[]).forEach(v=>{if(lower.includes(v.word.toLowerCase()))add(v.word,v.zh||"",/phrase/i.test(v.pos||"")?"原文重点短语":"原文重点词",3)});
