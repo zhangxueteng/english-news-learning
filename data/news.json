@@ -1,5 +1,372 @@
 {
-  "updated_at": "2026-10-10T00:00:00Z",
-  "articles": [],
-  "notice": "Sample content is used until the daily updater is configured. Replace with reviewed, sourced news."
+  "updated_at": "2026-10-10T01:22:45.588014+00:00",
+  "mode": "free-rss",
+  "articles": [
+    {
+      "id": "rss-4705162532403998080",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "titleZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News",
+      "date": "2026-10-10",
+      "minutes": 3,
+      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
+      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "art": "◈",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/results?search_query=Trump%20announces%20deal%20for%20Russian%20diesel%20as%20Zelensky%20calls%20it%20a%20gift%20to%20Putin%20news%20video",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "demo": false,
+      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sentences": [
+        {
+          "en": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "zh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
+          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Trump",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "announces",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "deal",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "Russian",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "exZh": "特朗普宣布与俄罗斯达成柴油协议，泽伦斯基称这是给普京的礼物",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "新闻标题语序",
+          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+        },
+        {
+          "title": "分级说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "rss-7709770626524339397",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "titleZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News",
+      "date": "2026-10-09",
+      "minutes": 3,
+      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
+      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "art": "◈",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/results?search_query=Analysis%3A%20Trump%27s%20shock%20Russia%20deal%20highlights%20mounting%20pressure%20to%20curb%20fuel%20prices%20news%20video",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "demo": false,
+      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sentences": [
+        {
+          "en": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "zh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
+          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Analysis",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "Trump's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "shock",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "Russia",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+          "exZh": "分析：特朗普对俄罗斯协议的震惊凸显了遏制燃油价格的压力越来越大",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "新闻标题语序",
+          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+        },
+        {
+          "title": "分级说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "rss-4413549508026050568",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "titleZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
+      "level": "C1",
+      "category": "WORLD",
+      "source": "BBC News",
+      "date": "2026-10-09",
+      "minutes": 3,
+      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
+      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "art": "◈",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/results?search_query=US%20unveils%20sanctions%20on%20ICC%20in%20move%20court%20condemns%20as%20%27assault%20on%20rule%20of%20law%27%20news%20video",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "demo": false,
+      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sentences": [
+        {
+          "en": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "zh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
+          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "unveils",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "sanctions",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "move",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "court",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+          "exZh": "美国在MOVE法庭上公布对国际刑事法院的制裁，谴责其为“对法治的攻击”",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "新闻标题语序",
+          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+        },
+        {
+          "title": "分级说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "rss-4885170929721778800",
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "titleZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News",
+      "date": "2026-10-09",
+      "minutes": 3,
+      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
+      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "art": "◈",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/results?search_query=Thousands%20of%20security%20personnel%20deployed%20as%20Delhi%20braces%20for%20%E2%80%98cockroach%E2%80%99%20protest%20news%20video",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "demo": false,
+      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sentences": [
+        {
+          "en": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "zh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
+          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Thousands",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "security",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "personnel",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "deployed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+          "exZh": "数千名安全人员部署在德里，为“蟑螂”抗议做准备",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "新闻标题语序",
+          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+        },
+        {
+          "title": "分级说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "rss-87946949668173386",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "titleZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
+      "level": "C1",
+      "category": "WORLD",
+      "source": "BBC News",
+      "date": "2026-10-09",
+      "minutes": 3,
+      "summary": "Free daily RSS headline. Open the publisher's page for the full report; Newslingo does not republish the full article.",
+      "summaryZh": "免费每日新闻标题学习卡。请打开原始媒体链接阅读完整报道；本站不转载完整文章。",
+      "art": "◈",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/results?search_query=JD%20Vance%20casts%20doubt%20on%20firing%20squad%20execution%20and%20says%20he%20will%20not%20watch%20it%20news%20video",
+      "articleUrl": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "demo": false,
+      "sourceNote": "RSS headline · free translation · open original publisher",
+      "sentences": [
+        {
+          "en": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "zh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
+          "note": "新闻标题常省略冠词、助动词或 be 动词。阅读时先找核心名词和动词，再判断事件、人物与时间。标题翻译由免费公共翻译服务提供，建议结合原文核对。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Vance",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "casts",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "doubt",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        },
+        {
+          "word": "firing",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "点击英文单词查看词义；建议结合标题语境理解。",
+          "ex": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+          "exZh": "JD Vance对行刑队处决表示怀疑，并表示他不会观看",
+          "tip": "这是新闻标题中的重点词。点击正文中带下划线的单词，可查看本地学习提示。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "新闻标题语序",
+          "body": "英文新闻标题常使用简洁表达，可能省略冠词、be 动词或助动词。阅读时先识别核心主语和谓语，再理解修饰语。"
+        },
+        {
+          "title": "分级说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索自动估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    }
+  ],
+  "notice": "Free RSS mode: headlines and source links are updated daily. Headline translation uses a public no-key translation endpoint and may be unavailable or inaccurate. Full articles and videos are opened at their original sources."
 }
