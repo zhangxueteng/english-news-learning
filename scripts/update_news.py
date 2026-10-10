@@ -10,6 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "news.json"
+UPDATER_VERSION = "original-audio-feed-v2"
 UA = "NewslingoLearningSite/1.0 (official news video RSS learning mode)"
 # Official publisher channels. YouTube hosts the original video/audio; we do not download or rehost it.
 VIDEO_FEEDS = [
