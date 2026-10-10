@@ -1,5 +1,9 @@
 name: Update daily English news
 on:
+  push:
+    paths:
+      - "scripts/update_news.py"
+      - ".github/workflows/daily-news.yml"
   schedule:
     - cron: "15 22 * * *" # 06:15 in UTC+8
   workflow_dispatch:
