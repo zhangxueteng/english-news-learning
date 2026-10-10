@@ -115,16 +115,15 @@ footer{padding:24px 0;background:#101827;color:#9eabc0;font-size:11px;line-heigh
 <section class="panel" id="ieltsLesson" style="margin:0 0 24px">
  <div class="module-heading"><h3>IELTS Listening · 雅思语速精听</h3><button class="mini module-toggle" type="button" aria-expanded="false" data-toggle-module="ieltsContent">展开学习</button></div>
  <div id="ieltsContent" hidden>
-  <p class="panel-note">难度约 IELTS 6–7：自然语速、较长句式和学术/社会类表达。此处为原创练习素材，使用浏览器英文语音朗读，不冒充官方雅思录音。</p>
+  <p class="panel-note">官方 IELTS Listening 样题原声：使用 IELTS 官方提供的录音练习入口。下方文章为配套的雅思难度精读素材，并非该官方录音的逐字稿。官方听力通常包含不同口音与对话/独白。</p>
   <div class="ielts-tools" style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:12px 0">
-   <label for="ieltsRate">朗读语速</label><select id="ieltsRate" class="mini"><option value="0.9">0.9×</option><option value="1" selected>1.0×</option><option value="1.1">1.1×</option><option value="1.2">1.2×</option><option value="1.3">1.3×</option></select>
-   <button class="open" type="button" id="ieltsPlay">▶ 朗读全文</button><button class="mini" type="button" id="ieltsPause">暂停 / 继续</button><button class="mini" type="button" id="ieltsStop">停止</button>
+   <a class="open" href="https://www.ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test" target="_blank" rel="noopener noreferrer">▶ 打开官方 IELTS 原声样题 ↗</a><span class="panel-note">原声与官方题目在 IELTS 官网播放</span>
   </div>
-  <div class="sentence"><div class="english">In recent years, many cities have invested heavily in public transport in an attempt to reduce traffic congestion and improve air quality. Although these projects can be expensive, their long-term benefits may outweigh the initial costs.</div><div class="chinese">近年来，许多城市大力投资公共交通，试图缓解交通拥堵并改善空气质量。尽管这些项目可能成本高昂，但其长期收益可能超过初始投入。</div><div class="explain"><b>重点表达：</b><i>invest heavily in</i> 大力投资；<i>in an attempt to</i> 试图；<i>traffic congestion</i> 交通拥堵；<i>outweigh</i> 超过，胜过。</div></div>
+  <div class="sentence"><div class="english ielts-clickable">In recent years, many cities have invested heavily in public transport in an attempt to reduce traffic congestion and improve air quality. Although these projects can be expensive, their long-term benefits may outweigh the initial costs.</div><div class="chinese">近年来，许多城市大力投资公共交通，试图缓解交通拥堵并改善空气质量。尽管这些项目可能成本高昂，但其长期收益可能超过初始投入。</div><div class="explain"><b>重点表达：</b><i>invest heavily in</i> 大力投资；<i>in an attempt to</i> 试图；<i>traffic congestion</i> 交通拥堵；<i>outweigh</i> 超过，胜过。</div></div>
   <div class="sentence"><div class="english">For example, reliable bus and rail services can encourage commuters to leave their cars at home, particularly when fares are affordable and services run frequently.</div><div class="chinese">例如，可靠的公交和铁路服务能够鼓励通勤者不开私家车出门，尤其是在票价合理、班次频繁的情况下。</div><div class="explain"><b>重点表达：</b><i>commuter</i> 通勤者；<i>leave their cars at home</i> 不开车出门；<i>particularly when</i> 尤其是在……情况下。</div></div>
   <div class="sentence"><div class="english">Nevertheless, public transport alone cannot solve every urban problem. City planners also need to make walking and cycling safer, while ensuring that people living in outer suburbs can reach essential services without excessive delays.</div><div class="chinese">然而，仅靠公共交通无法解决所有城市问题。城市规划者还需要让步行和骑行更加安全，同时确保居住在远郊的人们能够及时抵达基本服务设施。</div><div class="explain"><b>重点表达：</b><i>let alone</i> 更不用说（拓展）；<i>city planner</i> 城市规划者；<i>outer suburbs</i> 远郊；<i>essential services</i> 基本公共服务；<i>excessive</i> 过度的。</div></div>
   <div class="sentence"><div class="english">Ultimately, a successful transport policy requires more than new infrastructure. It depends on careful planning, consistent funding and a clear understanding of how residents actually travel.</div><div class="chinese">归根结底，成功的交通政策需要的不只是新建基础设施。它还取决于周密规划、持续资金投入，以及对居民实际出行方式的清晰了解。</div><div class="explain"><b>重点表达：</b><i>infrastructure</i> 基础设施；<i>consistent funding</i> 持续稳定的资金投入；<i>a clear understanding of</i> 对……有清晰认识。</div></div>
-  <p class="panel-note">学习顺序：先盲听全文，再逐段跟读，最后用英文概括文章观点。</p>
+  <div id="ieltsLookupResult" class="lookup-result" aria-live="polite" style="display:none;margin-top:14px"></div><p class="panel-note">学习顺序：先听官方原声，再阅读配套精读材料；点击正文任意英文单词可查词。</p>
  </div>
 </section>
 <section class="panel" style="margin:0 0 24px">
@@ -546,14 +545,20 @@ function speakClassic(mode){
   btn.textContent=target.hidden?"展开学习":"收起模块";
   btn.setAttribute("aria-expanded",String(!target.hidden));
  });
- const rate=document.querySelector("#ieltsRate");
- const getIeltsText=()=>Array.from(document.querySelectorAll("#ieltsContent .english")).map(el=>el.textContent.trim()).join(" ");
- document.querySelector("#ieltsPlay")?.addEventListener("click",()=>{
-  if(!("speechSynthesis" in window)){alert("当前浏览器不支持语音朗读");return;}
-  speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(getIeltsText());utterance.lang="en-US";utterance.rate=Number(rate?.value||1);speechSynthesis.speak(utterance);
+ // 正文单词点击查词，复用网站现有词典查询能力。
+ document.querySelectorAll("#ieltsContent .english").forEach(el=>{
+  el.style.cursor="text";
+  el.addEventListener("click",event=>{
+   const selection=window.getSelection?.();
+   let word="";
+   if(selection&&selection.toString().trim())word=selection.toString().trim().match(/[A-Za-z][A-Za-z'’-]*/)?.[0]||"";
+   if(!word){
+    const range=document.caretRangeFromPoint?.(event.clientX,event.clientY);
+    if(range){const text=range.startContainer.textContent||"",pos=range.startOffset;const m=text.slice(0,pos).match(/[A-Za-z][A-Za-z'’-]*$/),n=text.slice(pos).match(/^[A-Za-z][A-Za-z'’-]*/);word=(m?.[0]||"")+(n?.[0]||"");}
+   }
+   if(word&&typeof fetchOnlineWord==="function")fetchOnlineWord(word,"#ieltsLookupResult");
+  });
  });
- document.querySelector("#ieltsPause")?.addEventListener("click",()=>{if(!("speechSynthesis" in window))return;if(speechSynthesis.paused)speechSynthesis.resume();else speechSynthesis.pause();});
- document.querySelector("#ieltsStop")?.addEventListener("click",()=>speechSynthesis.cancel());
 })();
 // 查词浮窗打开时锁定底层页面滚动，仅允许浮窗自身滚动。
 (function lockBackgroundWhileLookupOpen(){
