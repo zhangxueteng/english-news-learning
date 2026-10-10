@@ -80,6 +80,9 @@ try{
   html='<div style="display:flex;align-items:baseline;gap:8px;flex-wrap:wrap"><b style="font-size:18px">'+esc(entry.word||word)+'</b><span style="color:#64748b">'+esc(entry.phonetic||((entry.phonetics||[]).find(p=>p.text)?.text)||"")+'</span></div>'+sounds+meanings+'<p style="color:#64748b;font-size:11px;margin:8px 0 0">在线英语词典 · 音标、释义和例句；具体数据因单词而异。</p>';
  }
 }catch(err){html=lookupWord(word,n)+'<p style="color:#64748b;font-size:11px">在线词典暂不可用，显示本地词汇提示。</p>'}
+let zhTranslation="";
+try{const tr=await fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(word)+"&langpair=en|zh-CN");if(tr.ok){const td=await tr.json();const candidate=td?.responseData?.translatedText;if(candidate&&candidate.toLowerCase()!==word.toLowerCase()&&!/MYMEMORY WARNING/i.test(candidate))zhTranslation=candidate}}catch(err){}
+if(zhTranslation)html+='<div style="margin-top:10px;padding:9px 11px;background:#f0faf5;border-radius:8px"><b>中文参考：</b>'+esc(zhTranslation)+'<div style="font-size:10px;color:#648071;margin-top:3px">机器翻译，仅供参考，请结合原句语境理解。</div></div>';
 const known=JSON.parse(localStorage.getItem("newslingo-words")||"[]");
 const saved=known.some(x=>(typeof x==="string"?x:x.word).toLowerCase()===word.toLowerCase());
 const local=(n.vocab||[]).find(v=>v.word.toLowerCase()===word.toLowerCase());
