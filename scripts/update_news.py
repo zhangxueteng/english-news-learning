@@ -111,8 +111,8 @@ def make_video_card(title, video_id, publisher, default_category, published, des
         "articleUrl": watch_url,
         "demo": False,
         "sourceNote": "Official publisher video · original English audio",
-        "readingText": "\\n\\n".join(reading),
-        "readingTextZh": "\\n\\n".join(reading_zh),
+        "readingText": "\n\n".join(reading),
+        "readingTextZh": "\n\n".join(reading_zh),
         "sentences": sentences,
         "vocab": vocab,
         "grammar": [
@@ -151,7 +151,7 @@ def main():
                 description_node = entry.find("media:group/media:description", NS)
                 description = (description_node.text or "").strip() if description_node is not None else ""
                 # Avoid music, promos and non-news material where the title makes that clear.
-                if re.search(r"\\b(music video|official trailer|livestream replay|full episode)\\b", title, re.I):
+                if re.search(r"\b(music video|official trailer|livestream replay|full episode)\b", title, re.I):
                     continue
                 seen.add(video_id)
                 articles.append(make_video_card(title, video_id, publisher, category, published, description))
