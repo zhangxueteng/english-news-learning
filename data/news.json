@@ -1,165 +1,94 @@
 {
-  "updated_at": "2026-10-12T22:29:05.671660+00:00",
+  "updated_at": "2026-10-15T22:39:51.671848+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-EeccHekj7HA",
-      "title": "BBC on front line in Yemen's desert war. #MiddleEast #BBCNews",
-      "titleZh": "英国广播公司在也门沙漠战争的前线。#中东# BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-12",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=EeccHekj7HA",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/EeccHekj7HA",
-      "articleUrl": "https://www.youtube.com/watch?v=EeccHekj7HA",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "BBC on front line in Yemen's desert war. #MiddleEast #BBCNews",
-      "readingTextZh": "英国广播公司在也门沙漠战争的前线。#中东# BBC新闻",
-      "sentences": [
-        {
-          "en": "BBC on front line in Yemen's desert war. #MiddleEast #BBCNews",
-          "zh": "英国广播公司在也门沙漠战争的前线。#中东# BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "front",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "BBC on front line in Yemen's desert war. #MiddleEast #BBCNews",
-          "exZh": "英国广播公司在也门沙漠战争的前线。#中东# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "line",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "BBC on front line in Yemen's desert war. #MiddleEast #BBCNews",
-          "exZh": "英国广播公司在也门沙漠战争的前线。#中东# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Yemen's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "BBC on front line in Yemen's desert war. #MiddleEast #BBCNews",
-          "exZh": "英国广播公司在也门沙漠战争的前线。#中东# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "desert",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "BBC on front line in Yemen's desert war. #MiddleEast #BBCNews",
-          "exZh": "英国广播公司在也门沙漠战争的前线。#中东# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-JeYa984K1F8",
-      "title": "What we know about Houthi attacks on Saudi Arabia airports | BBC News",
-      "titleZh": "我们对胡塞武装袭击沙特阿拉伯机场的了解| BBC新闻",
+      "id": "video-ZOFGcfGengA",
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says | BBC News",
+      "titleZh": "胡塞武装对也门总统府的导弹袭击造成两人死亡，部长表示| BBC新闻",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-12",
+      "date": "2026-10-15",
       "minutes": 5,
-      "summary": "Saudi Arabia’s energy minister has threatened a 'serious' response to the deadly Houthi attacks on Riyadh's international airport. Flights remain suspended and are expected to remain so for days. \n \nThe Houthis said they launched the attacks in retaliation for \"brutal Saudi aggression\" against areas they control in western Yemen.\n \nThe BBC’s security correspondent Frank Gardner examines how it is that Saudia Arabia - which spends billions on its defence - can not stop the Houthis from attacking its people.  \n \nSubscribe here: http://bit.ly/1rbfUog \n \nFor more news, analysis and features, visit: www.bbc.com/news\n \n#SaudiArabia #Houthis #BBCNews",
+      "summary": "The Houthis in Yemen have attacked the presidential palace in the port city of Aden - the seat of the internationally-recognised government. \n \nMeanwhile, President Masoud Pezeshkian has told Iranians that the country is facing its most intense blockade since the 1979 Islamic Revolution, and has accused the US of seeking to provoke public protests.\n \nThe Saudi-led military coalition fighting Yemen's Houthis says it has intercepted a missile in the Medina region. The Houthis have threatened more attacks on Saudi Arabia but have denied carrying out this one.\n \nFinally, according to reports, the US is considering using its biggest non-nuclear bomb against Iran if President Donald Trump should decide to renew combat in the war that has hit a deadlock.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Houthis #Yemen #DonaldTrump #US #BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=JeYa984K1F8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/JeYa984K1F8",
-      "articleUrl": "https://www.youtube.com/watch?v=JeYa984K1F8",
+      "videoUrl": "https://www.youtube.com/watch?v=ZOFGcfGengA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/ZOFGcfGengA",
+      "articleUrl": "https://www.youtube.com/watch?v=ZOFGcfGengA",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Saudi Arabia’s energy minister has threatened a 'serious' response to the deadly Houthi attacks on Riyadh's international airport.\n\nFlights remain suspended and are expected to remain so for days.\n\nThe Houthis said they launched the attacks in retaliation for \"brutal Saudi aggression\" against areas they control in western Yemen.\n\nThe BBC’s security correspondent Frank Gardner examines how it is that Saudia Arabia - which spends billions on its defence - can not stop the Houthis from attacking its people.\n\nFor more news, analysis and features, visit: www.bbc.com/news",
-      "readingTextZh": "沙特阿拉伯能源部长威胁要对胡塞武装袭击利雅得国际机场的致命事件做出“严肃”回应。\n\n航班仍处于暂停状态，预计将持续数天。\n\n胡塞武装表示，他们发动袭击是为了报复沙特对他们控制的也门西部地区的“野蛮侵略”。\n\n英国广播公司的安全记者弗兰克·加德纳（ Frank Gardner ）研究了沙特阿拉伯如何无法阻止胡塞武装袭击其人民。沙特阿拉伯花费了数十亿美元用于防御。\n\n如需了解更多新闻、分析和专题报道，请访问： www.bbc.com/news",
+      "readingText": "The Houthis in Yemen have attacked the presidential palace in the port city of Aden - the seat of the internationally-recognised government.\n\nMeanwhile, President Masoud Pezeshkian has told Iranians that the country is facing its most intense blockade since the 1979 Islamic Revolution, and has accused the US of seeking to provoke public protests.\n\nThe Saudi-led military coalition fighting Yemen's Houthis says it has intercepted a missile in the Medina region.\n\nThe Houthis have threatened more attacks on Saudi Arabia but have denied carrying out this one.\n\nFinally, according to reports, the US is considering using its biggest non-nuclear bomb against Iran if President Donald Trump should decide to renew combat in the war that has hit a deadlock.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "也门的胡塞武装袭击了港口城市亚丁的总统府--国际公认的政府所在地。\n\n与此同时，伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）告诉伊朗人，该国正面临自1979年伊斯兰革命以来最严厉的封锁，并指责美国试图挑起公众抗议。\n\n沙特领导的打击也门胡塞武装的军事联盟表示，它已经在麦地那地区拦截了一枚导弹。\n\n胡塞武装威胁要对沙特阿拉伯发动更多袭击，但否认进行了这次袭击。\n\n最后，据报道，如果唐纳德·特朗普总统决定在陷入僵局的战争中重启战斗，美国正在考虑对伊朗使用其最大的非核炸弹。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Saudi Arabia’s energy minister has threatened a 'serious' response to the deadly Houthi attacks on Riyadh's international airport.",
-          "zh": "沙特阿拉伯能源部长威胁要对胡塞武装袭击利雅得国际机场的致命事件做出“严肃”回应。",
+          "en": "The Houthis in Yemen have attacked the presidential palace in the port city of Aden - the seat of the internationally-recognised government.",
+          "zh": "也门的胡塞武装袭击了港口城市亚丁的总统府--国际公认的政府所在地。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Flights remain suspended and are expected to remain so for days.",
-          "zh": "航班仍处于暂停状态，预计将持续数天。",
+          "en": "Meanwhile, President Masoud Pezeshkian has told Iranians that the country is facing its most intense blockade since the 1979 Islamic Revolution, and has accused the US of seeking to provoke public protests.",
+          "zh": "与此同时，伊朗总统马苏德·佩泽什基安（ Masoud Pezeshkian ）告诉伊朗人，该国正面临自1979年伊斯兰革命以来最严厉的封锁，并指责美国试图挑起公众抗议。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The Houthis said they launched the attacks in retaliation for \"brutal Saudi aggression\" against areas they control in western Yemen.",
-          "zh": "胡塞武装表示，他们发动袭击是为了报复沙特对他们控制的也门西部地区的“野蛮侵略”。",
+          "en": "The Saudi-led military coalition fighting Yemen's Houthis says it has intercepted a missile in the Medina region.",
+          "zh": "沙特领导的打击也门胡塞武装的军事联盟表示，它已经在麦地那地区拦截了一枚导弹。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The BBC’s security correspondent Frank Gardner examines how it is that Saudia Arabia - which spends billions on its defence - can not stop the Houthis from attacking its people.",
-          "zh": "英国广播公司的安全记者弗兰克·加德纳（ Frank Gardner ）研究了沙特阿拉伯如何无法阻止胡塞武装袭击其人民。沙特阿拉伯花费了数十亿美元用于防御。",
+          "en": "The Houthis have threatened more attacks on Saudi Arabia but have denied carrying out this one.",
+          "zh": "胡塞武装威胁要对沙特阿拉伯发动更多袭击，但否认进行了这次袭击。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "For more news, analysis and features, visit: www.bbc.com/news",
-          "zh": "如需了解更多新闻、分析和专题报道，请访问： www.bbc.com/news",
+          "en": "Finally, according to reports, the US is considering using its biggest non-nuclear bomb against Iran if President Donald Trump should decide to renew combat in the war that has hit a deadlock.",
+          "zh": "最后，据报道，如果唐纳德·特朗普总统决定在陷入僵局的战争中重启战斗，美国正在考虑对伊朗使用其最大的非核炸弹。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
-        {
-          "word": "know",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Houthi attacks on Saudi Arabia airports | BBC News",
-          "exZh": "我们对胡塞武装袭击沙特阿拉伯机场的了解| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
         {
           "word": "Houthi",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Houthi attacks on Saudi Arabia airports | BBC News",
-          "exZh": "我们对胡塞武装袭击沙特阿拉伯机场的了解| BBC新闻",
+          "ex": "Houthi missile attack on Yemeni presidential palace kills two, minister says | BBC News",
+          "exZh": "胡塞武装对也门总统府的导弹袭击造成两人死亡，部长表示| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "attacks",
+          "word": "missile",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Houthi attacks on Saudi Arabia airports | BBC News",
-          "exZh": "我们对胡塞武装袭击沙特阿拉伯机场的了解| BBC新闻",
+          "ex": "Houthi missile attack on Yemeni presidential palace kills two, minister says | BBC News",
+          "exZh": "胡塞武装对也门总统府的导弹袭击造成两人死亡，部长表示| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Saudi",
+          "word": "attack",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Houthi attacks on Saudi Arabia airports | BBC News",
-          "exZh": "我们对胡塞武装袭击沙特阿拉伯机场的了解| BBC新闻",
+          "ex": "Houthi missile attack on Yemeni presidential palace kills two, minister says | BBC News",
+          "exZh": "胡塞武装对也门总统府的导弹袭击造成两人死亡，部长表示| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Yemeni",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Houthi missile attack on Yemeni presidential palace kills two, minister says | BBC News",
+          "exZh": "胡塞武装对也门总统府的导弹袭击造成两人死亡，部长表示| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -175,112 +104,163 @@
       ]
     },
     {
-      "id": "video-DGY8DD2UQoA",
-      "title": "John Simpson on the pivotal moments that shaped the world as we know it | The Global Story",
-      "titleZh": "约翰·辛普森谈塑造我们所知世界的关键时刻|全球故事",
+      "id": "video-fmUOJz5Pr40",
+      "title": "Why did the US government raid Ilhan Omar’s home? #BBCNews",
+      "titleZh": "美国政府为什么突袭伊尔汗·奥马尔的家？ # BBCNews",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-15",
+      "minutes": 5,
+      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=fmUOJz5Pr40",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/fmUOJz5Pr40",
+      "articleUrl": "https://www.youtube.com/watch?v=fmUOJz5Pr40",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Why did the US government raid Ilhan Omar’s home? #BBCNews",
+      "readingTextZh": "美国政府为什么突袭伊尔汗·奥马尔的家？ # BBCNews",
+      "sentences": [
+        {
+          "en": "Why did the US government raid Ilhan Omar’s home? #BBCNews",
+          "zh": "美国政府为什么突袭伊尔汗·奥马尔的家？ # BBCNews",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "government",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why did the US government raid Ilhan Omar’s home? #BBCNews",
+          "exZh": "美国政府为什么突袭伊尔汗·奥马尔的家？ # BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "raid",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why did the US government raid Ilhan Omar’s home? #BBCNews",
+          "exZh": "美国政府为什么突袭伊尔汗·奥马尔的家？ # BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Ilhan",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why did the US government raid Ilhan Omar’s home? #BBCNews",
+          "exZh": "美国政府为什么突袭伊尔汗·奥马尔的家？ # BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Omar",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why did the US government raid Ilhan Omar’s home? #BBCNews",
+          "exZh": "美国政府为什么突袭伊尔汗·奥马尔的家？ # BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-QEKOyOMGrwI",
+      "title": "The IDF says it’s investigating hundreds of deadly incidents. What happened to them? | BBC Verify",
+      "titleZh": "以色列国防军表示，它正在调查数百起致命事件。他们怎么了？ | BBC Verify",
       "level": "C1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-12",
+      "date": "2026-10-15",
       "minutes": 5,
-      "summary": "Politicians and commentators keep telling us we’re living through unprecedented times. But how unusual is the world we’re living in, really? \n\nJohn Simpson has spent 60 years reporting for the BBC, witnessing some of the most consequential moments in modern history. He was on the plane that brought Ayatollah Khomeini back to Iran during the 1979 revolution. He watched the Berlin Wall come down. And he reported from Beijing during the protests in Tiananmen Square. \n\nThose experiences have left Simpson with a perspective that’s not entirely pessimistic. Having lived through the Cold War, the collapse of the Soviet Union and the end of apartheid, Simpson has seen seemingly entrenched systems change in ways few thought possible. \n\nNow, as wars rage and the global order shifts again, he joins The Global Story’s Asma Khalid to reflect on what those moments can tell us about the present — and whether today’s conflicts are repeating familiar patterns.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n \nTimecodes:\n0:00 Are we living through unprecedented times? \n0:54 John Simpson and his career throughout the BBC\n3:50 The Iranian revolution of 1979\n5:55 Did it feel the revolution would last as long as it has?\n7:13 The fall of the Berlin wall in 1989\n12:55 What is John's main takeaway from the Berlin wall?\n13:23 Tiananmen Square incident in China, 1989\n15:12 The U.S and British involvement in Iraq and Afghanistan\n17:37 Are more unprecedented times ahead?\n20:30 John's message to the younger generation \n\n#BBCNews",
+      "summary": "The BBC has identified 254 incidents in which the Israeli military has been accused of killing or injuring people that it said it was investigating but have had no public outcome. \n \nBBC Verify analysed incidents in Gaza, Lebanon, the occupied West Bank and Israel in which the Israel Defense Forces (IDF) faced allegations of harm since the start of the Gaza war, which was triggered by the Hamas-led attacks on 7 October 2023. \n \nWe approached the IDF multiple times but only received information on two incidents. It said that it took “every allegation or report raising concerns about conduct\" seriously.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\nKey times\n\n00:00 - How this investigation began\n01:29 - The search for the incidents \n02:37 - What we found\n03:49 - One of the deadliest incidents \n04:26 - How the IDF investigates alleged misconduct\n05:04 - The IDF’s response\n06:34 - A former top lawyer for the IDF \n08:04 - What are the legal implications? \n09:32 - An unexpected phone call with the Israeli military\n11:07 - \"What we really need is an external review\"\n13:23 - Reflections\n\n#Gaza #Israel #BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=DGY8DD2UQoA",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/DGY8DD2UQoA",
-      "articleUrl": "https://www.youtube.com/watch?v=DGY8DD2UQoA",
+      "videoUrl": "https://www.youtube.com/watch?v=QEKOyOMGrwI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/QEKOyOMGrwI",
+      "articleUrl": "https://www.youtube.com/watch?v=QEKOyOMGrwI",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Politicians and commentators keep telling us we’re living through unprecedented times.\n\nBut how unusual is the world we’re living in, really?\n\nJohn Simpson has spent 60 years reporting for the BBC, witnessing some of the most consequential moments in modern history.\n\nHe was on the plane that brought Ayatollah Khomeini back to Iran during the 1979 revolution.\n\nHe watched the Berlin Wall come down.\n\nAnd he reported from Beijing during the protests in Tiananmen Square.\n\nThose experiences have left Simpson with a perspective that’s not entirely pessimistic.\n\nHaving lived through the Cold War, the collapse of the Soviet Union and the end of apartheid, Simpson has seen seemingly entrenched systems change in ways few thought possible.\n\nNow, as wars rage and the global order shifts again, he joins The Global Story’s Asma Khalid to reflect on what those moments can tell us about the present — and whether today’s conflicts are repeating familiar patterns.\n\nFor the latest news download the BBC News app or visit BBC.com/news\n \nTimecodes:",
-      "readingTextZh": "政客和评论家不断告诉我们，我们正在经历前所未有的时代。\n\n但是，我们生活的这个世界到底有多不寻常呢？\n\n约翰·辛普森（ John Simpson ）在英国广播公司（ BBC ）工作了60年，见证了现代历史上一些最重要的时刻。\n\n他在1979年革命期间乘坐飞机将阿亚图拉·霍梅尼带回伊朗。\n\n他看着柏林墙倒塌。\n\n他在天安门广场的抗议活动中从北京报道。\n\n这些经历给辛普森留下了一个并不完全悲观的视角。\n\n辛普森经历了冷战、苏联解体和种族隔离的结束，看到了看似根深蒂固的系统以几乎不可能的方式发生变化。\n\n现在，随着战争的肆虐和全球秩序的再次转变，他加入了《全球故事》的阿斯玛·哈立德（ Asma Khalid ） ，反思这些时刻可以告诉我们当下的情况，以及当今的冲突是否正在重复熟悉的模式。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news\n \n时间码：",
+      "readingText": "The BBC has identified 254 incidents in which the Israeli military has been accused of killing or injuring people that it said it was investigating but have had no public outcome.\n\nBBC Verify analysed incidents in Gaza, Lebanon, the occupied West Bank and Israel in which the Israel Defense Forces (IDF) faced allegations of harm since the start of the Gaza war, which was triggered by the Hamas-led attacks on 7 October 2023.\n\nWe approached the IDF multiple times but only received information on two incidents.\n\nIt said that it took “every allegation or report raising concerns about conduct\" seriously.\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\nKey times",
+      "readingTextZh": "英国广播公司已经确定了254起以色列军方被指控杀害或伤害人员的事件，它表示正在调查这些事件，但没有公开结果。\n\nBBC Verify分析了自2023年10月7日哈马斯领导的袭击引发的加沙战争开始以来，以色列国防军（ IDF ）在加沙、黎巴嫩、被占领的约旦河西岸和以色列面临伤害指控的事件。\n\n我们多次联系以色列国防军，但只收到两起事件的信息。\n\n它说，它认真对待“每一项引起对行为的担忧的指控或报告”。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news\n\n关键时刻",
       "sentences": [
         {
-          "en": "Politicians and commentators keep telling us we’re living through unprecedented times.",
-          "zh": "政客和评论家不断告诉我们，我们正在经历前所未有的时代。",
+          "en": "The BBC has identified 254 incidents in which the Israeli military has been accused of killing or injuring people that it said it was investigating but have had no public outcome.",
+          "zh": "英国广播公司已经确定了254起以色列军方被指控杀害或伤害人员的事件，它表示正在调查这些事件，但没有公开结果。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "But how unusual is the world we’re living in, really?",
-          "zh": "但是，我们生活的这个世界到底有多不寻常呢？",
+          "en": "BBC Verify analysed incidents in Gaza, Lebanon, the occupied West Bank and Israel in which the Israel Defense Forces (IDF) faced allegations of harm since the start of the Gaza war, which was triggered by the Hamas-led attacks on 7 October 2023.",
+          "zh": "BBC Verify分析了自2023年10月7日哈马斯领导的袭击引发的加沙战争开始以来，以色列国防军（ IDF ）在加沙、黎巴嫩、被占领的约旦河西岸和以色列面临伤害指控的事件。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "John Simpson has spent 60 years reporting for the BBC, witnessing some of the most consequential moments in modern history.",
-          "zh": "约翰·辛普森（ John Simpson ）在英国广播公司（ BBC ）工作了60年，见证了现代历史上一些最重要的时刻。",
+          "en": "We approached the IDF multiple times but only received information on two incidents.",
+          "zh": "我们多次联系以色列国防军，但只收到两起事件的信息。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "He was on the plane that brought Ayatollah Khomeini back to Iran during the 1979 revolution.",
-          "zh": "他在1979年革命期间乘坐飞机将阿亚图拉·霍梅尼带回伊朗。",
+          "en": "It said that it took “every allegation or report raising concerns about conduct\" seriously.",
+          "zh": "它说，它认真对待“每一项引起对行为的担忧的指控或报告”。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "He watched the Berlin Wall come down.",
-          "zh": "他看着柏林墙倒塌。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "And he reported from Beijing during the protests in Tiananmen Square.",
-          "zh": "他在天安门广场的抗议活动中从北京报道。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Those experiences have left Simpson with a perspective that’s not entirely pessimistic.",
-          "zh": "这些经历给辛普森留下了一个并不完全悲观的视角。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Having lived through the Cold War, the collapse of the Soviet Union and the end of apartheid, Simpson has seen seemingly entrenched systems change in ways few thought possible.",
-          "zh": "辛普森经历了冷战、苏联解体和种族隔离的结束，看到了看似根深蒂固的系统以几乎不可能的方式发生变化。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Now, as wars rage and the global order shifts again, he joins The Global Story’s Asma Khalid to reflect on what those moments can tell us about the present — and whether today’s conflicts are repeating familiar patterns.",
-          "zh": "现在，随着战争的肆虐和全球秩序的再次转变，他加入了《全球故事》的阿斯玛·哈立德（ Asma Khalid ） ，反思这些时刻可以告诉我们当下的情况，以及当今的冲突是否正在重复熟悉的模式。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news\n \nTimecodes:",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news\n \n时间码：",
+          "en": "For the latest news download the BBC News app or visit BBC.com/news\n\nKey times",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news\n\n关键时刻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "John",
+          "word": "investigating",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "John Simpson on the pivotal moments that shaped the world as we know it | The Global Story",
-          "exZh": "约翰·辛普森谈塑造我们所知世界的关键时刻|全球故事",
+          "ex": "The IDF says it’s investigating hundreds of deadly incidents. What happened to them? | BBC Verify",
+          "exZh": "以色列国防军表示，它正在调查数百起致命事件。他们怎么了？ | BBC Verify",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Simpson",
+          "word": "hundreds",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "John Simpson on the pivotal moments that shaped the world as we know it | The Global Story",
-          "exZh": "约翰·辛普森谈塑造我们所知世界的关键时刻|全球故事",
+          "ex": "The IDF says it’s investigating hundreds of deadly incidents. What happened to them? | BBC Verify",
+          "exZh": "以色列国防军表示，它正在调查数百起致命事件。他们怎么了？ | BBC Verify",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "pivotal",
+          "word": "deadly",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "John Simpson on the pivotal moments that shaped the world as we know it | The Global Story",
-          "exZh": "约翰·辛普森谈塑造我们所知世界的关键时刻|全球故事",
+          "ex": "The IDF says it’s investigating hundreds of deadly incidents. What happened to them? | BBC Verify",
+          "exZh": "以色列国防军表示，它正在调查数百起致命事件。他们怎么了？ | BBC Verify",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "moments",
+          "word": "incidents",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "John Simpson on the pivotal moments that shaped the world as we know it | The Global Story",
-          "exZh": "约翰·辛普森谈塑造我们所知世界的关键时刻|全球故事",
+          "ex": "The IDF says it’s investigating hundreds of deadly incidents. What happened to them? | BBC Verify",
+          "exZh": "以色列国防军表示，它正在调查数百起致命事件。他们怎么了？ | BBC Verify",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -296,82 +276,92 @@
       ]
     },
     {
-      "id": "video-wsIfoS-y6xg",
-      "title": "Trump says you ‘can’t fight’ data centres - but many are | BBC News",
-      "titleZh": "特朗普说你“无法对抗”数据中心-但许多是|英国广播公司新闻",
-      "level": "B2",
+      "id": "video-Oo8YJ734Sdk",
+      "title": "Did US President Donald Trump 'betray' Ukraine? | BBC News",
+      "titleZh": "美国总统唐纳德·特朗普是否“背叛”乌克兰？ | BBC新闻",
+      "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-12",
+      "date": "2026-10-15",
       "minutes": 5,
-      "summary": "AI data centres are becoming a major US political issue.\n\nCandidates and lawmakers in both parties are challenging their growth, but Donald Trump supports them - calling critics “backwards”.\n\nWith the midterm elections around the corner, could this issue lose Trump votes? In this video…\n\n1:39 - What are data centres used for?\n2:01 - How many are there across the US?\n2:45 - What are the environmental impacts?\n3:21 - How much water do they really use?\n4:37 - How unpopular are they in the US?\n5:15 - What is the impact on nearby residents?\n6:19 - How could they influence the US midterms?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#US #DataCentres #BBCNews",
+      "summary": "President Zelensky admitted he felt ‘betrayed’ by Trump in an interview with Piers Morgan. Where does that leave the US-Ukraine relationship?\n\nAdam is joined by Sarah Smith, Americast host, and Shashank Joshi, Washington bureau chief at The Economist, to discuss what we’ve learned from Zelensky’s interview. Plus, what is going on with intelligence sharing between the US and Ukraine? And why is Starlink so important to the Ukrainian battlefield?\n\nAnd, Keith Brown, Depute Leader of the SNP, is in Aberdeen to discuss the party conference and the SNP’s focus on securing another independence referendum, plus whether Andy Burnham travelling to Scotland during conference is a distraction.\n\n#Ukraine #Zelensky #Newscast \n\n00:00 Zelensky says he’s been betrayed by Trump\n05:50 What are US voters thinking about Ukraine and Iran?\n09:40 An update on the Ukraine war\n11:49 An update on the firing squad live stream\n13:13 Wes Streeting meets Pete Hegseth\n14:55 The new Whitehouse press secretary\n17:24 The DUP party\n20:13 Andy Burnham’s position on the EU\n21:22 The law of referendum \n25:11 Cost of living in Scotland\n27:30 Andy Burnham’s visit to Scotland \n28:51 The television industry in Scotland \nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=wsIfoS-y6xg",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/wsIfoS-y6xg",
-      "articleUrl": "https://www.youtube.com/watch?v=wsIfoS-y6xg",
+      "videoUrl": "https://www.youtube.com/watch?v=Oo8YJ734Sdk",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Oo8YJ734Sdk",
+      "articleUrl": "https://www.youtube.com/watch?v=Oo8YJ734Sdk",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "AI data centres are becoming a major US political issue.\n\nCandidates and lawmakers in both parties are challenging their growth, but Donald Trump supports them - calling critics “backwards”.\n\nWith the midterm elections around the corner, could this issue lose Trump votes?\n\nIn this video…",
-      "readingTextZh": "人工智能数据中心正在成为美国的一个主要政治问题。\n\n两党的候选人和立法者都在挑战他们的成长，但唐纳德特朗普支持他们-称批评者“落后”。\n\n随着中期选举的临近，这个问题会失去特朗普的选票吗？\n\n在这个视频中",
+      "readingText": "President Zelensky admitted he felt ‘betrayed’ by Trump in an interview with Piers Morgan.\n\nWhere does that leave the US-Ukraine relationship?\n\nAdam is joined by Sarah Smith, Americast host, and Shashank Joshi, Washington bureau chief at The Economist, to discuss what we’ve learned from Zelensky’s interview.\n\nPlus, what is going on with intelligence sharing between the US and Ukraine?\n\nAnd why is Starlink so important to the Ukrainian battlefield?\n\nAnd, Keith Brown, Depute Leader of the SNP, is in Aberdeen to discuss the party conference and the SNP’s focus on securing another independence referendum, plus whether Andy Burnham travelling to Scotland during conference is a distraction.",
+      "readingTextZh": "泽伦斯基总统承认，他在接受皮尔斯·摩根（ Piers Morgan ）采访时感到被特朗普“背叛”。\n\n这对美乌关系有何影响？\n\n美国体验达人Sarah Smith和《经济学人》华盛顿分社社长Shashank Joshi与Adam一起讨论了我们从Zelensky的采访中学到的东西。\n\n此外，美国和乌克兰之间的情报共享情况如何？\n\n为什么Starlink在乌克兰战场上如此重要？\n\n此外，苏格兰民族党领袖基思·布朗（ Keith Brown ）正在阿伯丁（ Aberdeen ）讨论党内会议和苏格兰民族党对确保另一次独立公投的关注，以及安迪·伯纳姆（ Andy Burnham ）在会议期间前往苏格兰是否会分散注意力。",
       "sentences": [
         {
-          "en": "AI data centres are becoming a major US political issue.",
-          "zh": "人工智能数据中心正在成为美国的一个主要政治问题。",
+          "en": "President Zelensky admitted he felt ‘betrayed’ by Trump in an interview with Piers Morgan.",
+          "zh": "泽伦斯基总统承认，他在接受皮尔斯·摩根（ Piers Morgan ）采访时感到被特朗普“背叛”。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Candidates and lawmakers in both parties are challenging their growth, but Donald Trump supports them - calling critics “backwards”.",
-          "zh": "两党的候选人和立法者都在挑战他们的成长，但唐纳德特朗普支持他们-称批评者“落后”。",
+          "en": "Where does that leave the US-Ukraine relationship?",
+          "zh": "这对美乌关系有何影响？",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "With the midterm elections around the corner, could this issue lose Trump votes?",
-          "zh": "随着中期选举的临近，这个问题会失去特朗普的选票吗？",
+          "en": "Adam is joined by Sarah Smith, Americast host, and Shashank Joshi, Washington bureau chief at The Economist, to discuss what we’ve learned from Zelensky’s interview.",
+          "zh": "美国体验达人Sarah Smith和《经济学人》华盛顿分社社长Shashank Joshi与Adam一起讨论了我们从Zelensky的采访中学到的东西。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "In this video…",
-          "zh": "在这个视频中",
+          "en": "Plus, what is going on with intelligence sharing between the US and Ukraine?",
+          "zh": "此外，美国和乌克兰之间的情报共享情况如何？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "And why is Starlink so important to the Ukrainian battlefield?",
+          "zh": "为什么Starlink在乌克兰战场上如此重要？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "And, Keith Brown, Depute Leader of the SNP, is in Aberdeen to discuss the party conference and the SNP’s focus on securing another independence referendum, plus whether Andy Burnham travelling to Scotland during conference is a distraction.",
+          "zh": "此外，苏格兰民族党领袖基思·布朗（ Keith Brown ）正在阿伯丁（ Aberdeen ）讨论党内会议和苏格兰民族党对确保另一次独立公投的关注，以及安迪·伯纳姆（ Andy Burnham ）在会议期间前往苏格兰是否会分散注意力。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
+        {
+          "word": "President",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Did US President Donald Trump 'betray' Ukraine? | BBC News",
+          "exZh": "美国总统唐纳德·特朗普是否“背叛”乌克兰？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Donald",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Did US President Donald Trump 'betray' Ukraine? | BBC News",
+          "exZh": "美国总统唐纳德·特朗普是否“背叛”乌克兰？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
         {
           "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says you ‘can’t fight’ data centres - but many are | BBC News",
-          "exZh": "特朗普说你“无法对抗”数据中心-但许多是|英国广播公司新闻",
+          "ex": "Did US President Donald Trump 'betray' Ukraine? | BBC News",
+          "exZh": "美国总统唐纳德·特朗普是否“背叛”乌克兰？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "fight",
+          "word": "'betray'",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says you ‘can’t fight’ data centres - but many are | BBC News",
-          "exZh": "特朗普说你“无法对抗”数据中心-但许多是|英国广播公司新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "data",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says you ‘can’t fight’ data centres - but many are | BBC News",
-          "exZh": "特朗普说你“无法对抗”数据中心-但许多是|英国广播公司新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "centres",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says you ‘can’t fight’ data centres - but many are | BBC News",
-          "exZh": "特朗普说你“无法对抗”数据中心-但许多是|英国广播公司新闻",
+          "ex": "Did US President Donald Trump 'betray' Ukraine? | BBC News",
+          "exZh": "美国总统唐纳德·特朗普是否“背叛”乌克兰？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -387,82 +377,163 @@
       ]
     },
     {
-      "id": "video-AX0x_k-KlOg",
-      "title": "Trump weighs joining Saudi fight against Houthis: Military experts react",
-      "titleZh": "特朗普权衡加入沙特与胡塞武装的斗争：军事专家的反应",
+      "id": "video-yv44W2GiNRU",
+      "title": "Epstein campaign ads flood the midterms",
+      "titleZh": "爱泼斯坦竞选广告涌入期中考试",
+      "level": "A2",
+      "category": "SCIENCE",
+      "source": "CNN · Official Video",
+      "date": "2026-10-15",
+      "minutes": 5,
+      "summary": "Jeffrey Epstein has been dead for seven years, but he's all over campaign ads this election season, invoked overwhelmingly by Democrats – and occasionally by Republicans – to attack opponents or promote themselves. CNN's David Wright reports.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=yv44W2GiNRU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/yv44W2GiNRU",
+      "articleUrl": "https://www.youtube.com/watch?v=yv44W2GiNRU",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Jeffrey Epstein has been dead for seven years, but he's all over campaign ads this election season, invoked overwhelmingly by Democrats – and occasionally by Republicans – to attack opponents or promote themselves.\n\nCNN's David Wright reports.",
+      "readingTextZh": "杰弗里·爱泼斯坦（ Jeffrey Epstein ）已经去世七年了，但在这个选举季节，他到处都是竞选广告，绝大多数被民主党人--偶尔被共和党人--用来攻击对手或宣传自己。\n\nCNN的David Wright报道。",
+      "sentences": [
+        {
+          "en": "Jeffrey Epstein has been dead for seven years, but he's all over campaign ads this election season, invoked overwhelmingly by Democrats – and occasionally by Republicans – to attack opponents or promote themselves.",
+          "zh": "杰弗里·爱泼斯坦（ Jeffrey Epstein ）已经去世七年了，但在这个选举季节，他到处都是竞选广告，绝大多数被民主党人--偶尔被共和党人--用来攻击对手或宣传自己。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN's David Wright reports.",
+          "zh": "CNN的David Wright报道。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Epstein",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Epstein campaign ads flood the midterms",
+          "exZh": "爱泼斯坦竞选广告涌入期中考试",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "campaign",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Epstein campaign ads flood the midterms",
+          "exZh": "爱泼斯坦竞选广告涌入期中考试",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "flood",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Epstein campaign ads flood the midterms",
+          "exZh": "爱泼斯坦竞选广告涌入期中考试",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "midterms",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Epstein campaign ads flood the midterms",
+          "exZh": "爱泼斯坦竞选广告涌入期中考试",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-Z-zTFz6mEEc",
+      "title": "She was all in on MAGA. Then came the Epstein Files.",
+      "titleZh": "她全神贯注于MAGA。然后是爱泼斯坦档案。",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-12",
+      "date": "2026-10-15",
       "minutes": 5,
-      "summary": "President Trump is reportedly considering getting involved after Houthi rebels carried out a deadly attack at Riyadh Airport in Saudi Arabia.\nRetired Brigadier General Mark Kimmitt, retired U.S. Navy Admiral James Stavridis and retired U.S. Air Force Colonel Cedric Leighton weigh in on the possibilities.\n\n0:00 Security footage of the deadly Houthi missile strikes hitting Riyadh\n2:30 Iran's strategy to pressure vital energy transit corridors\n5:21 How Houthi forces execute coordinated swarm tactics to overwhelm Patriot missile batteries\n7:14 Tehran's broader objective of pinning down Saudi Arabia on multiple fronts\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #saudiarabia #iran",
+      "summary": "She went to 42 Trump rallies, sold everything to follow his campaign, and devoted years of her life to MAGA. Then, Trump's handling of the Epstein files changed everything. Former Trump supporter Trisha Hope tells @doniecnn about the moment she walked away... and her emotional encounter with an Epstein survivor. To hear more, check out The Whole Story with Anderson Cooper Saturday, October 17 at 8pm on CNN and available to subscribers on the CNN App.    \n\n00:00  Inside the Trump-Epstein exhibit \n01:25  A life devoted to MAGA \n02:14  The moment everything changed\n03:15 Questioning Trump, but not the 2020 election \n04:49  An emotional meeting with an Epstein survivor \n06:17 Leaving MAGA behind\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=AX0x_k-KlOg",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/AX0x_k-KlOg",
-      "articleUrl": "https://www.youtube.com/watch?v=AX0x_k-KlOg",
+      "videoUrl": "https://www.youtube.com/watch?v=Z-zTFz6mEEc",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Z-zTFz6mEEc",
+      "articleUrl": "https://www.youtube.com/watch?v=Z-zTFz6mEEc",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "President Trump is reportedly considering getting involved after Houthi rebels carried out a deadly attack at Riyadh Airport in Saudi Arabia.\n\nRetired Brigadier General Mark Kimmitt, retired U.S.\n\nNavy Admiral James Stavridis and retired U.S.\n\nAir Force Colonel Cedric Leighton weigh in on the possibilities.",
-      "readingTextZh": "据报道，在胡塞叛乱分子在沙特阿拉伯利雅得机场发动致命袭击后，特朗普总统正在考虑介入。\n\n退役准将Mark Kimmitt ，退役美国\n\n海军上将詹姆斯·斯塔夫里迪斯和退役的美国\n\n空军上校塞德里克·莱顿（ Cedric Leighton ）对这些可能性进行了权衡。",
+      "readingText": "She went to 42 Trump rallies, sold everything to follow his campaign, and devoted years of her life to MAGA.\n\nThen, Trump's handling of the Epstein files changed everything.\n\nFormer Trump supporter Trisha Hope tells @doniecnn about the moment she walked away... and her emotional encounter with an Epstein survivor.\n\nTo hear more, check out The Whole Story with Anderson Cooper Saturday, October 17 at 8pm on CNN and available to subscribers on the CNN App.",
+      "readingTextZh": "她参加了42次特朗普集会，出售了一切以跟随他的竞选活动，并将她生命中的岁月奉献给了MAGA。\n\n然后，特朗普对爱泼斯坦文件的处理改变了一切。\n\n前特朗普支持者Trisha Hope向@ doniecnn讲述了她离开的那一刻……以及她与爱泼斯坦幸存者的情感遭遇。\n\n如需了解更多信息，请于10月17日星期六晚上8点在CNN上查看The Whole Story with Anderson Cooper ，并在CNN应用程序上向订阅者开放。",
       "sentences": [
         {
-          "en": "President Trump is reportedly considering getting involved after Houthi rebels carried out a deadly attack at Riyadh Airport in Saudi Arabia.",
-          "zh": "据报道，在胡塞叛乱分子在沙特阿拉伯利雅得机场发动致命袭击后，特朗普总统正在考虑介入。",
+          "en": "She went to 42 Trump rallies, sold everything to follow his campaign, and devoted years of her life to MAGA.",
+          "zh": "她参加了42次特朗普集会，出售了一切以跟随他的竞选活动，并将她生命中的岁月奉献给了MAGA。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Retired Brigadier General Mark Kimmitt, retired U.S.",
-          "zh": "退役准将Mark Kimmitt ，退役美国",
+          "en": "Then, Trump's handling of the Epstein files changed everything.",
+          "zh": "然后，特朗普对爱泼斯坦文件的处理改变了一切。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Navy Admiral James Stavridis and retired U.S.",
-          "zh": "海军上将詹姆斯·斯塔夫里迪斯和退役的美国",
+          "en": "Former Trump supporter Trisha Hope tells @doniecnn about the moment she walked away... and her emotional encounter with an Epstein survivor.",
+          "zh": "前特朗普支持者Trisha Hope向@ doniecnn讲述了她离开的那一刻……以及她与爱泼斯坦幸存者的情感遭遇。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Air Force Colonel Cedric Leighton weigh in on the possibilities.",
-          "zh": "空军上校塞德里克·莱顿（ Cedric Leighton ）对这些可能性进行了权衡。",
+          "en": "To hear more, check out The Whole Story with Anderson Cooper Saturday, October 17 at 8pm on CNN and available to subscribers on the CNN App.",
+          "zh": "如需了解更多信息，请于10月17日星期六晚上8点在CNN上查看The Whole Story with Anderson Cooper ，并在CNN应用程序上向订阅者开放。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Trump",
+          "word": "MAGA",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump weighs joining Saudi fight against Houthis: Military experts react",
-          "exZh": "特朗普权衡加入沙特与胡塞武装的斗争：军事专家的反应",
+          "ex": "She was all in on MAGA. Then came the Epstein Files.",
+          "exZh": "她全神贯注于MAGA。然后是爱泼斯坦档案。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "weighs",
+          "word": "Then",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump weighs joining Saudi fight against Houthis: Military experts react",
-          "exZh": "特朗普权衡加入沙特与胡塞武装的斗争：军事专家的反应",
+          "ex": "She was all in on MAGA. Then came the Epstein Files.",
+          "exZh": "她全神贯注于MAGA。然后是爱泼斯坦档案。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "joining",
+          "word": "came",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump weighs joining Saudi fight against Houthis: Military experts react",
-          "exZh": "特朗普权衡加入沙特与胡塞武装的斗争：军事专家的反应",
+          "ex": "She was all in on MAGA. Then came the Epstein Files.",
+          "exZh": "她全神贯注于MAGA。然后是爱泼斯坦档案。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Saudi",
+          "word": "Epstein",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump weighs joining Saudi fight against Houthis: Military experts react",
-          "exZh": "特朗普权衡加入沙特与胡塞武装的斗争：军事专家的反应",
+          "ex": "She was all in on MAGA. Then came the Epstein Files.",
+          "exZh": "她全神贯注于MAGA。然后是爱泼斯坦档案。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -478,87 +549,72 @@
       ]
     },
     {
-      "id": "video-eZZaTQR-FbI",
-      "title": "Breaking down the Maine Senate race",
-      "titleZh": "打破缅因州参议院竞选",
-      "level": "A2",
+      "id": "video-w_8C1dG4VE0",
+      "title": "Shooter dead and multiple injured in shooting at Oregon elementary school",
+      "titleZh": "俄勒冈州小学枪击事件中枪手死亡，多人受伤",
+      "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-12",
+      "date": "2026-10-15",
       "minutes": 5,
-      "summary": "Sen. Bernie Sanders hit the campaign trail over the weekend to support Democrat Troy Jackson as he attempts to block Republican Sen. Susan Collins from a sixth term. CNN’s Arlette Saenz explains the state of the crucial race that Democrats believe is a possible pickup opportunity. Discover more videos, including live streams and exclusive storytelling, on our Watch page.",
+      "summary": "Multiple people, including children, were injured and a shooter is dead after gunfire erupted at an elementary school in Bend, Oregon, on Thursday, according to police. The shooter had already been shot and killed inside the school when police arrived at the scene at about 1 p.m.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=eZZaTQR-FbI",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/eZZaTQR-FbI",
-      "articleUrl": "https://www.youtube.com/watch?v=eZZaTQR-FbI",
+      "videoUrl": "https://www.youtube.com/watch?v=w_8C1dG4VE0",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/w_8C1dG4VE0",
+      "articleUrl": "https://www.youtube.com/watch?v=w_8C1dG4VE0",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Sen.\n\nBernie Sanders hit the campaign trail over the weekend to support Democrat Troy Jackson as he attempts to block Republican Sen.\n\nSusan Collins from a sixth term.\n\nCNN’s Arlette Saenz explains the state of the crucial race that Democrats believe is a possible pickup opportunity.\n\nDiscover more videos, including live streams and exclusive storytelling, on our Watch page.",
-      "readingTextZh": "政协代表\n\n伯尼·桑德斯（ Bernie Sanders ）周末参加了竞选活动，以支持民主党特洛伊·杰克逊（ Troy Jackson ）试图阻止共和党参议员\n\n苏珊·柯林斯（ Susan Collins ） ，第六\n\n美国有线电视新闻网（ CNN ）的阿莱特·萨恩斯（ Arlette Saenz ）解释了民主党人认为是可能的接机机会的关键比赛的状态。\n\n在我们的观看页面上发现更多视频，包括直播和独家故事讲述。",
+      "readingText": "Multiple people, including children, were injured and a shooter is dead after gunfire erupted at an elementary school in Bend, Oregon, on Thursday, according to police.\n\nThe shooter had already been shot and killed inside the school when police arrived at the scene at about 1 p.m.",
+      "readingTextZh": "据警方称，周四在俄勒冈州本德的一所小学发生枪击事件后，包括儿童在内的多人受伤，一名枪手死亡。\n\n当警察在下午1点左右到达现场时，枪手已经在学校内被枪杀。",
       "sentences": [
         {
-          "en": "Sen.",
-          "zh": "政协代表",
+          "en": "Multiple people, including children, were injured and a shooter is dead after gunfire erupted at an elementary school in Bend, Oregon, on Thursday, according to police.",
+          "zh": "据警方称，周四在俄勒冈州本德的一所小学发生枪击事件后，包括儿童在内的多人受伤，一名枪手死亡。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Bernie Sanders hit the campaign trail over the weekend to support Democrat Troy Jackson as he attempts to block Republican Sen.",
-          "zh": "伯尼·桑德斯（ Bernie Sanders ）周末参加了竞选活动，以支持民主党特洛伊·杰克逊（ Troy Jackson ）试图阻止共和党参议员",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Susan Collins from a sixth term.",
-          "zh": "苏珊·柯林斯（ Susan Collins ） ，第六",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN’s Arlette Saenz explains the state of the crucial race that Democrats believe is a possible pickup opportunity.",
-          "zh": "美国有线电视新闻网（ CNN ）的阿莱特·萨恩斯（ Arlette Saenz ）解释了民主党人认为是可能的接机机会的关键比赛的状态。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Discover more videos, including live streams and exclusive storytelling, on our Watch page.",
-          "zh": "在我们的观看页面上发现更多视频，包括直播和独家故事讲述。",
+          "en": "The shooter had already been shot and killed inside the school when police arrived at the scene at about 1 p.m.",
+          "zh": "当警察在下午1点左右到达现场时，枪手已经在学校内被枪杀。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Breaking",
+          "word": "Shooter",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Breaking down the Maine Senate race",
-          "exZh": "打破缅因州参议院竞选",
+          "ex": "Shooter dead and multiple injured in shooting at Oregon elementary school",
+          "exZh": "俄勒冈州小学枪击事件中枪手死亡，多人受伤",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "down",
+          "word": "dead",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Breaking down the Maine Senate race",
-          "exZh": "打破缅因州参议院竞选",
+          "ex": "Shooter dead and multiple injured in shooting at Oregon elementary school",
+          "exZh": "俄勒冈州小学枪击事件中枪手死亡，多人受伤",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Maine",
+          "word": "multiple",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Breaking down the Maine Senate race",
-          "exZh": "打破缅因州参议院竞选",
+          "ex": "Shooter dead and multiple injured in shooting at Oregon elementary school",
+          "exZh": "俄勒冈州小学枪击事件中枪手死亡，多人受伤",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Senate",
+          "word": "injured",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Breaking down the Maine Senate race",
-          "exZh": "打破缅因州参议院竞选",
+          "ex": "Shooter dead and multiple injured in shooting at Oregon elementary school",
+          "exZh": "俄勒冈州小学枪击事件中枪手死亡，多人受伤",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -574,153 +630,72 @@
       ]
     },
     {
-      "id": "video-TjMrggOHTcU",
-      "title": "Is a serial killer responsible for five deaths on a Michigan trail?",
-      "titleZh": "连环杀手是否应对密歇根州小径上的五起死亡事件负责？",
-      "level": "B2",
+      "id": "video-S3JQleWwzEk",
+      "title": "Eight states sue OpenAI over child safety concerns",
+      "titleZh": "八个州因儿童安全问题起诉OpenAI",
+      "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-12",
+      "date": "2026-10-15",
       "minutes": 5,
-      "summary": "Police in Lansing, Michigan, are investigating whether five deaths since October 2025 are connected. The attacks appear to have targeted white, unhoused men who were sleeping along the same popular trail.",
+      "summary": "Eight states filed separate consumer protection lawsuits against OpenAI, alleging that the company deceived parents and hurt children with its chatbot ChatGPT. The states that filed lawsuits include Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=TjMrggOHTcU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/TjMrggOHTcU",
-      "articleUrl": "https://www.youtube.com/watch?v=TjMrggOHTcU",
+      "videoUrl": "https://www.youtube.com/watch?v=S3JQleWwzEk",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/S3JQleWwzEk",
+      "articleUrl": "https://www.youtube.com/watch?v=S3JQleWwzEk",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Police in Lansing, Michigan, are investigating whether five deaths since October 2025 are connected.\n\nThe attacks appear to have targeted white, unhoused men who were sleeping along the same popular trail.",
-      "readingTextZh": "密歇根州兰辛市警方正在调查自2025年10月以来是否与五起死亡事件有关。\n\n袭击的目标似乎是在同一条流行小径上睡觉的白人无家可归者。",
+      "readingText": "Eight states filed separate consumer protection lawsuits against OpenAI, alleging that the company deceived parents and hurt children with its chatbot ChatGPT.\n\nThe states that filed lawsuits include Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana.",
+      "readingTextZh": "八个州分别对OpenAI提起消费者保护诉讼，指控该公司通过其聊天机器人ChatGPT欺骗父母并伤害儿童。\n\n提起诉讼的州包括爱荷华州、堪萨斯州、内布拉斯加州、西弗吉尼亚州、阿肯色州、亚利桑那州、爱达荷州和蒙大拿州。",
       "sentences": [
         {
-          "en": "Police in Lansing, Michigan, are investigating whether five deaths since October 2025 are connected.",
-          "zh": "密歇根州兰辛市警方正在调查自2025年10月以来是否与五起死亡事件有关。",
+          "en": "Eight states filed separate consumer protection lawsuits against OpenAI, alleging that the company deceived parents and hurt children with its chatbot ChatGPT.",
+          "zh": "八个州分别对OpenAI提起消费者保护诉讼，指控该公司通过其聊天机器人ChatGPT欺骗父母并伤害儿童。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The attacks appear to have targeted white, unhoused men who were sleeping along the same popular trail.",
-          "zh": "袭击的目标似乎是在同一条流行小径上睡觉的白人无家可归者。",
+          "en": "The states that filed lawsuits include Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana.",
+          "zh": "提起诉讼的州包括爱荷华州、堪萨斯州、内布拉斯加州、西弗吉尼亚州、阿肯色州、亚利桑那州、爱达荷州和蒙大拿州。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "serial",
+          "word": "Eight",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is a serial killer responsible for five deaths on a Michigan trail?",
-          "exZh": "连环杀手是否应对密歇根州小径上的五起死亡事件负责？",
+          "ex": "Eight states sue OpenAI over child safety concerns",
+          "exZh": "八个州因儿童安全问题起诉OpenAI",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "killer",
+          "word": "states",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is a serial killer responsible for five deaths on a Michigan trail?",
-          "exZh": "连环杀手是否应对密歇根州小径上的五起死亡事件负责？",
+          "ex": "Eight states sue OpenAI over child safety concerns",
+          "exZh": "八个州因儿童安全问题起诉OpenAI",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "responsible",
+          "word": "OpenAI",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is a serial killer responsible for five deaths on a Michigan trail?",
-          "exZh": "连环杀手是否应对密歇根州小径上的五起死亡事件负责？",
+          "ex": "Eight states sue OpenAI over child safety concerns",
+          "exZh": "八个州因儿童安全问题起诉OpenAI",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "five",
+          "word": "child",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is a serial killer responsible for five deaths on a Michigan trail?",
-          "exZh": "连环杀手是否应对密歇根州小径上的五起死亡事件负责？",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-JodWt4PN0U0",
-      "title": "Arrested over online data center threats",
-      "titleZh": "因在线数据中心威胁被捕",
-      "level": "A2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-12",
-      "minutes": 5,
-      "summary": "A CNN review of more than 100 police incident reports and recordings shows how rage against data centers is roiling small towns and suburban communities across the US. Watch Senior Investigative Correspondent Kyung Lah’s full story on cnn.com",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=JodWt4PN0U0",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/JodWt4PN0U0",
-      "articleUrl": "https://www.youtube.com/watch?v=JodWt4PN0U0",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "A CNN review of more than 100 police incident reports and recordings shows how rage against data centers is roiling small towns and suburban communities across the US.\n\nWatch Senior Investigative Correspondent Kyung Lah’s full story on cnn.com",
-      "readingTextZh": "美国有线电视新闻网（ CNN ）对100多份警方事件报告和录音的审查显示，对数据中心的愤怒正在席卷美国各地的小城镇和郊区社区。\n\n在cnn.com上观看高级调查记者Kyung Lah的完整故事",
-      "sentences": [
-        {
-          "en": "A CNN review of more than 100 police incident reports and recordings shows how rage against data centers is roiling small towns and suburban communities across the US.",
-          "zh": "美国有线电视新闻网（ CNN ）对100多份警方事件报告和录音的审查显示，对数据中心的愤怒正在席卷美国各地的小城镇和郊区社区。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Watch Senior Investigative Correspondent Kyung Lah’s full story on cnn.com",
-          "zh": "在cnn.com上观看高级调查记者Kyung Lah的完整故事",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Arrested",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Arrested over online data center threats",
-          "exZh": "因在线数据中心威胁被捕",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "online",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Arrested over online data center threats",
-          "exZh": "因在线数据中心威胁被捕",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "data",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Arrested over online data center threats",
-          "exZh": "因在线数据中心威胁被捕",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "center",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Arrested over online data center threats",
-          "exZh": "因在线数据中心威胁被捕",
+          "ex": "Eight states sue OpenAI over child safety concerns",
+          "exZh": "八个州因儿童安全问题起诉OpenAI",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
