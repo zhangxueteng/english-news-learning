@@ -1,69 +1,241 @@
 {
-  "updated_at": "2026-10-19T22:39:29.512793+00:00",
+  "updated_at": "2026-10-20T22:39:26.963577+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-lQTkfMDZ00E",
-      "title": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
-      "titleZh": "为什么日本要向火星月球火卫一发射宇宙飞船？ # BBCNews",
+      "id": "video-ZGv8KcEWGB0",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy | BBC News",
+      "titleZh": "泽伦斯基表示，在与特朗普特使会谈后，美国情报共享“现在起作用” |英国广播公司新闻",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-20",
+      "minutes": 5,
+      "summary": "Ukraine's President Volodymyr Zelensky has said US intelligence sharing on deadly Russian missile attacks \"works now\" after talks with US President Donald Trump's special envoy Steve Witkoff.\n \nThe meeting in Oslo came after accusations by Kyiv that Washington was withholding key intelligence - a claim rejected as \"scandalous\" by US Secretary of State Marco Rubio.\n \nFinnish President Alexander Stubb, who also took part in the talks, said \"genuine progress\" was made on proposals to achieve peace but gave no details and warned that patience would be needed.\n \nRelations between Ukraine and the US have soured in recent weeks to the extent that Trump has said it is time for Ukraine to get a new president, and most recently \"for somebody else to negotiate on behalf of Ukraine\".\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Ukraine #Russia #US #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=ZGv8KcEWGB0",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/ZGv8KcEWGB0",
+      "articleUrl": "https://www.youtube.com/watch?v=ZGv8KcEWGB0",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Ukraine's President Volodymyr Zelensky has said US intelligence sharing on deadly Russian missile attacks \"works now\" after talks with US President Donald Trump's special envoy Steve Witkoff.\n\nThe meeting in Oslo came after accusations by Kyiv that Washington was withholding key intelligence - a claim rejected as \"scandalous\" by US Secretary of State Marco Rubio.\n\nFinnish President Alexander Stubb, who also took part in the talks, said \"genuine progress\" was made on proposals to achieve peace but gave no details and warned that patience would be needed.\n\nRelations between Ukraine and the US have soured in recent weeks to the extent that Trump has said it is time for Ukraine to get a new president, and most recently \"for somebody else to negotiate on behalf of Ukraine\".\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）在与美国总统唐纳德·特朗普（ Donald Trump ）的特使史蒂夫·维特科夫（ Steve Witkoff ）会谈后表示，美国就致命的俄罗斯导弹袭击\n\n在奥斯陆举行会议之前，基辅指责华盛顿扣留了关键情报-这一说法被美国国务卿马可·卢比奥（ Marco Rubio ）驳回为“丑闻”。\n\n芬兰总统亚历山大·斯图布（ Alexander Stubb ）也参加了会谈，他说，在实现和平的建议上取得了“真正的进展” ，但没有提供任何细节，并警告说需要耐心。\n\n最近几周，乌克兰和美国之间的关系恶化，以至于特朗普表示，现在是乌克兰选出新总统的时候了，最近一次是“让其他人代表乌克兰进行谈判”。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "Ukraine's President Volodymyr Zelensky has said US intelligence sharing on deadly Russian missile attacks \"works now\" after talks with US President Donald Trump's special envoy Steve Witkoff.",
+          "zh": "乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）在与美国总统唐纳德·特朗普（ Donald Trump ）的特使史蒂夫·维特科夫（ Steve Witkoff ）会谈后表示，美国就致命的俄罗斯导弹袭击",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The meeting in Oslo came after accusations by Kyiv that Washington was withholding key intelligence - a claim rejected as \"scandalous\" by US Secretary of State Marco Rubio.",
+          "zh": "在奥斯陆举行会议之前，基辅指责华盛顿扣留了关键情报-这一说法被美国国务卿马可·卢比奥（ Marco Rubio ）驳回为“丑闻”。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Finnish President Alexander Stubb, who also took part in the talks, said \"genuine progress\" was made on proposals to achieve peace but gave no details and warned that patience would be needed.",
+          "zh": "芬兰总统亚历山大·斯图布（ Alexander Stubb ）也参加了会谈，他说，在实现和平的建议上取得了“真正的进展” ，但没有提供任何细节，并警告说需要耐心。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Relations between Ukraine and the US have soured in recent weeks to the extent that Trump has said it is time for Ukraine to get a new president, and most recently \"for somebody else to negotiate on behalf of Ukraine\".",
+          "zh": "最近几周，乌克兰和美国之间的关系恶化，以至于特朗普表示，现在是乌克兰选出新总统的时候了，最近一次是“让其他人代表乌克兰进行谈判”。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Zelensky",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy | BBC News",
+          "exZh": "泽伦斯基表示，在与特朗普特使会谈后，美国情报共享“现在起作用” |英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "intelligence",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy | BBC News",
+          "exZh": "泽伦斯基表示，在与特朗普特使会谈后，美国情报共享“现在起作用” |英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "sharing",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy | BBC News",
+          "exZh": "泽伦斯基表示，在与特朗普特使会谈后，美国情报共享“现在起作用” |英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "'works",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy | BBC News",
+          "exZh": "泽伦斯基表示，在与特朗普特使会谈后，美国情报共享“现在起作用” |英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-6QccozjPNqc",
+      "title": "Police used 'justified' force in fatal shooting of child, says attorney general. #BBCNews",
+      "titleZh": "司法部长表示，警方在致命的儿童枪击事件中使用了“正当”武力。# BBCNews",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-20",
+      "minutes": 5,
+      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=6QccozjPNqc",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/6QccozjPNqc",
+      "articleUrl": "https://www.youtube.com/watch?v=6QccozjPNqc",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Police used 'justified' force in fatal shooting of child, says attorney general. #BBCNews",
+      "readingTextZh": "司法部长表示，警方在致命的儿童枪击事件中使用了“正当”武力。# BBCNews",
+      "sentences": [
+        {
+          "en": "Police used 'justified' force in fatal shooting of child, says attorney general. #BBCNews",
+          "zh": "司法部长表示，警方在致命的儿童枪击事件中使用了“正当”武力。# BBCNews",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Police",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Police used 'justified' force in fatal shooting of child, says attorney general. #BBCNews",
+          "exZh": "司法部长表示，警方在致命的儿童枪击事件中使用了“正当”武力。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "used",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Police used 'justified' force in fatal shooting of child, says attorney general. #BBCNews",
+          "exZh": "司法部长表示，警方在致命的儿童枪击事件中使用了“正当”武力。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "'justified'",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Police used 'justified' force in fatal shooting of child, says attorney general. #BBCNews",
+          "exZh": "司法部长表示，警方在致命的儿童枪击事件中使用了“正当”武力。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "force",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Police used 'justified' force in fatal shooting of child, says attorney general. #BBCNews",
+          "exZh": "司法部长表示，警方在致命的儿童枪击事件中使用了“正当”武力。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-FpMMjRzmuWM",
+      "title": "'Without the voice of the Pope we are disorientated'. #BBCNews",
+      "titleZh": "“没有教皇的声音，我们迷失了方向”。# BBCNews",
       "level": "B1",
-      "category": "TECHNOLOGY",
+      "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "minutes": 5,
       "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=lQTkfMDZ00E",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/lQTkfMDZ00E",
-      "articleUrl": "https://www.youtube.com/watch?v=lQTkfMDZ00E",
+      "videoUrl": "https://www.youtube.com/watch?v=FpMMjRzmuWM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/FpMMjRzmuWM",
+      "articleUrl": "https://www.youtube.com/watch?v=FpMMjRzmuWM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
-      "readingTextZh": "为什么日本要向火星月球火卫一发射宇宙飞船？ # BBCNews",
+      "readingText": "'Without the voice of the Pope we are disorientated'. #BBCNews",
+      "readingTextZh": "“没有教皇的声音，我们迷失了方向”。# BBCNews",
       "sentences": [
         {
-          "en": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
-          "zh": "为什么日本要向火星月球火卫一发射宇宙飞船？ # BBCNews",
+          "en": "'Without the voice of the Pope we are disorientated'. #BBCNews",
+          "zh": "“没有教皇的声音，我们迷失了方向”。# BBCNews",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Japan",
+          "word": "'Without",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
-          "exZh": "为什么日本要向火星月球火卫一发射宇宙飞船？ # BBCNews",
+          "ex": "'Without the voice of the Pope we are disorientated'. #BBCNews",
+          "exZh": "“没有教皇的声音，我们迷失了方向”。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "sent",
+          "word": "voice",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
-          "exZh": "为什么日本要向火星月球火卫一发射宇宙飞船？ # BBCNews",
+          "ex": "'Without the voice of the Pope we are disorientated'. #BBCNews",
+          "exZh": "“没有教皇的声音，我们迷失了方向”。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "spacecraft",
+          "word": "Pope",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
-          "exZh": "为什么日本要向火星月球火卫一发射宇宙飞船？ # BBCNews",
+          "ex": "'Without the voice of the Pope we are disorientated'. #BBCNews",
+          "exZh": "“没有教皇的声音，我们迷失了方向”。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Mars'",
+          "word": "disorientated'",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why has Japan sent a spacecraft to Mars' moon Phobos? #BBCNews",
-          "exZh": "为什么日本要向火星月球火卫一发射宇宙飞船？ # BBCNews",
+          "ex": "'Without the voice of the Pope we are disorientated'. #BBCNews",
+          "exZh": "“没有教皇的声音，我们迷失了方向”。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -79,122 +251,82 @@
       ]
     },
     {
-      "id": "video-q_jpLJ57Kig",
-      "title": "France riots latest - curfews imposed in Paris and other cities after days of violent disorder",
-      "titleZh": "法国最近发生骚乱-巴黎和其他城市在几天的暴力骚乱后实施宵禁",
-      "level": "C1",
+      "id": "video-dZKboJ50lQQ",
+      "title": "UK to send jets to defend Saudi Arabia from Houthi attacks | BBC News",
+      "titleZh": "英国派喷气式飞机保护沙特阿拉伯免受胡塞武装袭击| BBC新闻",
+      "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "minutes": 5,
-      "summary": "French police have imposed curfews in cities across the country, after days of violent disorder, with shops looted and buildings set on fire. \n\nIn parts of central Paris, people will be banned from the streets between 2300 and 0600.   In Nice the curfew applies only  to young people.  There are also restrictions in Lyon and Lille and Marseille.\n\nThe Prime Minister French PM Sébastien Lecornu gave local authorities the power to impose the curfews after days of rioting, with thousands of arrests.  In a statement, he said: \"We will not be dictated and ruled by the breakers, by the thieves, by the thugs\".\n\nThe disorder began last month with students protesting over school conditions but has escalated to take in a wide range of grievances. Lecornu claimed the movement was being led by what he called “ultra-Left radical groups” who he said were hoping to \"create chaos\" ahead of next year’s French presidential election.  More than half a million people took to the streets at the weekend to protest against his government and its policies. \n\nFrance’s neighbours in Europe are watching events with concern. Many of them, including Italy, Spain, Belgium, Portugal and Albania are seeing their own domestic protests, driven in large part by public anger over price increases and the rising cost of living. \n\nFiona Bruce presents BBC News at Ten reporting by Katya Adler, Nick Beake and Nick Thorpe. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "The UK says it will send RAF fighter jets to defend Saudi Arabia from Houthi attacks, as the Iran-backed group targets the kingdom's airports and energy infrastructure.\n\nAlso in the programme, US Defence Secretary Pete Hegseth makes an unannounced visit to Israel, and discusses the Iran war with Benjamin Netanyahu. \n\nAnd Pakistan's most senior mediator arrives in Tehran, in an effort to bring the US and Iran closer to an agreement.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=q_jpLJ57Kig",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/q_jpLJ57Kig",
-      "articleUrl": "https://www.youtube.com/watch?v=q_jpLJ57Kig",
+      "videoUrl": "https://www.youtube.com/watch?v=dZKboJ50lQQ",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/dZKboJ50lQQ",
+      "articleUrl": "https://www.youtube.com/watch?v=dZKboJ50lQQ",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "French police have imposed curfews in cities across the country, after days of violent disorder, with shops looted and buildings set on fire.\n\nIn parts of central Paris, people will be banned from the streets between 2300 and 0600.\n\nIn Nice the curfew applies only  to young people.\n\nThere are also restrictions in Lyon and Lille and Marseille.\n\nThe Prime Minister French PM Sébastien Lecornu gave local authorities the power to impose the curfews after days of rioting, with thousands of arrests.\n\nIn a statement, he said: \"We will not be dictated and ruled by the breakers, by the thieves, by the thugs\".\n\nThe disorder began last month with students protesting over school conditions but has escalated to take in a wide range of grievances.\n\nLecornu claimed the movement was being led by what he called “ultra-Left radical groups” who he said were hoping to \"create chaos\" ahead of next year’s French presidential election.\n\nMore than half a million people took to the streets at the weekend to protest against his government and its policies.\n\nFrance’s neighbours in Europe are watching events with concern.\n\nMany of them, including Italy, Spain, Belgium, Portugal and Albania are seeing their own domestic protests, driven in large part by public anger over price increases and the rising cost of living.\n\nFiona Bruce presents BBC News at Ten reporting by Katya Adler, Nick Beake and Nick Thorpe.",
-      "readingTextZh": "在几天的暴力骚乱之后，法国警方在全国各地的城市实施宵禁，商店被洗劫一空，建筑物被烧毁。\n\n在巴黎市中心的部分地区，人们将在2300至0600之间被禁止上街。\n\n在尼斯，宵禁仅适用于年轻人。\n\n里昂、里尔和马赛也有限制。\n\n法国总理塞巴斯蒂安·勒科尔努（ Sébastien Lecornu ）在数天的骚乱后赋予地方当局实施宵禁的权力，并逮捕了数千人。\n\n他在一份声明中说： “我们不会受到破坏者、小偷和暴徒的指挥和统治。”\n\n这种疾病始于上个月，当时学生抗议学校的条件，但已经升级为接受广泛的不满。\n\n勒科努声称，这场运动是由他所谓的“极左激进组织”领导的，他说他们希望在明年法国总统大选之前“制造混乱”。\n\n周末，超过50万人走上街头抗议他的政府及其政策。\n\n法国在欧洲的邻国正在关注这些事件。\n\n包括意大利、西班牙、比利时、葡萄牙和阿尔巴尼亚在内的许多国家正在发生自己的国内抗议活动，这在很大程度上是由于公众对价格上涨和生活成本上升的愤怒。\n\n菲奥娜·布鲁斯（ Fiona Bruce ）主持了由卡蒂亚·阿德勒（ Katya Adler ）、尼克·比克（ Nick Beake ）",
+      "readingText": "The UK says it will send RAF fighter jets to defend Saudi Arabia from Houthi attacks, as the Iran-backed group targets the kingdom's airports and energy infrastructure.\n\nAlso in the programme, US Defence Secretary Pete Hegseth makes an unannounced visit to Israel, and discusses the Iran war with Benjamin Netanyahu.\n\nAnd Pakistan's most senior mediator arrives in Tehran, in an effort to bring the US and Iran closer to an agreement.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "英国表示，它将派遣英国皇家空军战斗机保护沙特阿拉伯免受胡塞武装的袭击，因为伊朗支持的团体瞄准了该国的机场和能源基础设施。\n\n同样在该计划中，美国国防部长皮特·赫格塞特（ Pete Hegseth ）对以色列进行了突访，并与本雅明·内塔尼亚胡（ Benjamin Netanyahu ）讨论了伊朗战争。\n\n巴基斯坦最高调解员抵达德黑兰，努力使美国和伊朗更接近达成协议。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "French police have imposed curfews in cities across the country, after days of violent disorder, with shops looted and buildings set on fire.",
-          "zh": "在几天的暴力骚乱之后，法国警方在全国各地的城市实施宵禁，商店被洗劫一空，建筑物被烧毁。",
+          "en": "The UK says it will send RAF fighter jets to defend Saudi Arabia from Houthi attacks, as the Iran-backed group targets the kingdom's airports and energy infrastructure.",
+          "zh": "英国表示，它将派遣英国皇家空军战斗机保护沙特阿拉伯免受胡塞武装的袭击，因为伊朗支持的团体瞄准了该国的机场和能源基础设施。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "In parts of central Paris, people will be banned from the streets between 2300 and 0600.",
-          "zh": "在巴黎市中心的部分地区，人们将在2300至0600之间被禁止上街。",
+          "en": "Also in the programme, US Defence Secretary Pete Hegseth makes an unannounced visit to Israel, and discusses the Iran war with Benjamin Netanyahu.",
+          "zh": "同样在该计划中，美国国防部长皮特·赫格塞特（ Pete Hegseth ）对以色列进行了突访，并与本雅明·内塔尼亚胡（ Benjamin Netanyahu ）讨论了伊朗战争。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "In Nice the curfew applies only  to young people.",
-          "zh": "在尼斯，宵禁仅适用于年轻人。",
+          "en": "And Pakistan's most senior mediator arrives in Tehran, in an effort to bring the US and Iran closer to an agreement.",
+          "zh": "巴基斯坦最高调解员抵达德黑兰，努力使美国和伊朗更接近达成协议。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "There are also restrictions in Lyon and Lille and Marseille.",
-          "zh": "里昂、里尔和马赛也有限制。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The Prime Minister French PM Sébastien Lecornu gave local authorities the power to impose the curfews after days of rioting, with thousands of arrests.",
-          "zh": "法国总理塞巴斯蒂安·勒科尔努（ Sébastien Lecornu ）在数天的骚乱后赋予地方当局实施宵禁的权力，并逮捕了数千人。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In a statement, he said: \"We will not be dictated and ruled by the breakers, by the thieves, by the thugs\".",
-          "zh": "他在一份声明中说： “我们不会受到破坏者、小偷和暴徒的指挥和统治。”",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The disorder began last month with students protesting over school conditions but has escalated to take in a wide range of grievances.",
-          "zh": "这种疾病始于上个月，当时学生抗议学校的条件，但已经升级为接受广泛的不满。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Lecornu claimed the movement was being led by what he called “ultra-Left radical groups” who he said were hoping to \"create chaos\" ahead of next year’s French presidential election.",
-          "zh": "勒科努声称，这场运动是由他所谓的“极左激进组织”领导的，他说他们希望在明年法国总统大选之前“制造混乱”。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "More than half a million people took to the streets at the weekend to protest against his government and its policies.",
-          "zh": "周末，超过50万人走上街头抗议他的政府及其政策。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "France’s neighbours in Europe are watching events with concern.",
-          "zh": "法国在欧洲的邻国正在关注这些事件。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Many of them, including Italy, Spain, Belgium, Portugal and Albania are seeing their own domestic protests, driven in large part by public anger over price increases and the rising cost of living.",
-          "zh": "包括意大利、西班牙、比利时、葡萄牙和阿尔巴尼亚在内的许多国家正在发生自己的国内抗议活动，这在很大程度上是由于公众对价格上涨和生活成本上升的愤怒。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Fiona Bruce presents BBC News at Ten reporting by Katya Adler, Nick Beake and Nick Thorpe.",
-          "zh": "菲奥娜·布鲁斯（ Fiona Bruce ）主持了由卡蒂亚·阿德勒（ Katya Adler ）、尼克·比克（ Nick Beake ）",
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "France",
+          "word": "send",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France riots latest - curfews imposed in Paris and other cities after days of violent disorder",
-          "exZh": "法国最近发生骚乱-巴黎和其他城市在几天的暴力骚乱后实施宵禁",
+          "ex": "UK to send jets to defend Saudi Arabia from Houthi attacks | BBC News",
+          "exZh": "英国派喷气式飞机保护沙特阿拉伯免受胡塞武装袭击| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "riots",
+          "word": "jets",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France riots latest - curfews imposed in Paris and other cities after days of violent disorder",
-          "exZh": "法国最近发生骚乱-巴黎和其他城市在几天的暴力骚乱后实施宵禁",
+          "ex": "UK to send jets to defend Saudi Arabia from Houthi attacks | BBC News",
+          "exZh": "英国派喷气式飞机保护沙特阿拉伯免受胡塞武装袭击| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "latest",
+          "word": "defend",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France riots latest - curfews imposed in Paris and other cities after days of violent disorder",
-          "exZh": "法国最近发生骚乱-巴黎和其他城市在几天的暴力骚乱后实施宵禁",
+          "ex": "UK to send jets to defend Saudi Arabia from Houthi attacks | BBC News",
+          "exZh": "英国派喷气式飞机保护沙特阿拉伯免受胡塞武装袭击| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "curfews",
+          "word": "Saudi",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France riots latest - curfews imposed in Paris and other cities after days of violent disorder",
-          "exZh": "法国最近发生骚乱-巴黎和其他城市在几天的暴力骚乱后实施宵禁",
+          "ex": "UK to send jets to defend Saudi Arabia from Houthi attacks | BBC News",
+          "exZh": "英国派喷气式飞机保护沙特阿拉伯免受胡塞武装袭击| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -210,67 +342,72 @@
       ]
     },
     {
-      "id": "video-bdaV-MRZk-c",
-      "title": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
-      "titleZh": "法国各地发生骚乱后，巴黎部分地区和其他城市宣布实行夜间宵禁。# BBCNews",
-      "level": "C1",
+      "id": "video-Weav7SJ8UBM",
+      "title": "Live: Memphis weighs data center pause amid Elon Musk AI backlash",
+      "titleZh": "现场：孟菲斯在埃隆·马斯克（ Elon Musk ）的人工智能反弹中权衡数据中心的暂停",
+      "level": "B2",
       "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-19",
+      "source": "CNN · Official Video",
+      "date": "2026-10-20",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Memphis, TN leaders are set to consider a contentious plan today to pause new data center developments for up to a year — two weeks after a meeting on the issue led to protests, calls to police and a fist fight at City Hall. \n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#ai #elonmusk #News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=bdaV-MRZk-c",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/bdaV-MRZk-c",
-      "articleUrl": "https://www.youtube.com/watch?v=bdaV-MRZk-c",
+      "videoUrl": "https://www.youtube.com/watch?v=Weav7SJ8UBM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Weav7SJ8UBM",
+      "articleUrl": "https://www.youtube.com/watch?v=Weav7SJ8UBM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
-      "readingTextZh": "法国各地发生骚乱后，巴黎部分地区和其他城市宣布实行夜间宵禁。# BBCNews",
+      "readingText": "Memphis, TN leaders are set to consider a contentious plan today to pause new data center developments for up to a year — two weeks after a meeting on the issue led to protests, calls to police and a fist fight at City Hall.\n\nWatch 24/7 live news with CNN Headlines: \n\nStream more on CNN with an All Access subscription:",
+      "readingTextZh": "田纳西州孟菲斯市的领导人今天将考虑一项有争议的计划，暂停新的数据中心开发长达一年—两周后，关于这个问题的会议引发了抗议，呼吁警察和市政厅的拳击。\n\n通过CNN Headlines观看全天候实时新闻： \n\n通过All Access订阅在CNN上播放更多内容：",
       "sentences": [
         {
-          "en": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
-          "zh": "法国各地发生骚乱后，巴黎部分地区和其他城市宣布实行夜间宵禁。# BBCNews",
+          "en": "Memphis, TN leaders are set to consider a contentious plan today to pause new data center developments for up to a year — two weeks after a meeting on the issue led to protests, calls to police and a fist fight at City Hall.",
+          "zh": "田纳西州孟菲斯市的领导人今天将考虑一项有争议的计划，暂停新的数据中心开发长达一年—两周后，关于这个问题的会议引发了抗议，呼吁警察和市政厅的拳击。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Watch 24/7 live news with CNN Headlines: \n\nStream more on CNN with an All Access subscription:",
+          "zh": "通过CNN Headlines观看全天候实时新闻： \n\n通过All Access订阅在CNN上播放更多内容：",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Overnight",
+          "word": "Live",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
-          "exZh": "法国各地发生骚乱后，巴黎部分地区和其他城市宣布实行夜间宵禁。# BBCNews",
+          "ex": "Live: Memphis weighs data center pause amid Elon Musk AI backlash",
+          "exZh": "现场：孟菲斯在埃隆·马斯克（ Elon Musk ）的人工智能反弹中权衡数据中心的暂停",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "curfews",
+          "word": "Memphis",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
-          "exZh": "法国各地发生骚乱后，巴黎部分地区和其他城市宣布实行夜间宵禁。# BBCNews",
+          "ex": "Live: Memphis weighs data center pause amid Elon Musk AI backlash",
+          "exZh": "现场：孟菲斯在埃隆·马斯克（ Elon Musk ）的人工智能反弹中权衡数据中心的暂停",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "announced",
+          "word": "weighs",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
-          "exZh": "法国各地发生骚乱后，巴黎部分地区和其他城市宣布实行夜间宵禁。# BBCNews",
+          "ex": "Live: Memphis weighs data center pause amid Elon Musk AI backlash",
+          "exZh": "现场：孟菲斯在埃隆·马斯克（ Elon Musk ）的人工智能反弹中权衡数据中心的暂停",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "parts",
+          "word": "data",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Overnight curfews announced in parts of Paris and other cities after riots across France. #BBCNews",
-          "exZh": "法国各地发生骚乱后，巴黎部分地区和其他城市宣布实行夜间宵禁。# BBCNews",
+          "ex": "Live: Memphis weighs data center pause amid Elon Musk AI backlash",
+          "exZh": "现场：孟菲斯在埃隆·马斯克（ Elon Musk ）的人工智能反弹中权衡数据中心的暂停",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -286,320 +423,148 @@
       ]
     },
     {
-      "id": "video-2rIiShz9m_0",
-      "title": "Should Alberta separate from Canada? #BBCNews",
-      "titleZh": "阿尔伯塔省是否应该脱离加拿大？ # BBCNews",
+      "id": "video-J1LbU7PFrlA",
+      "title": "MS attorney general says use of force was justified in death of 1-year-old",
+      "titleZh": "MS总检察长说，在1岁儿童死亡的情况下，使用武力是合理的",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-10-20",
+      "minutes": 5,
+      "summary": "Mississippi’s attorney general says a Senatobia officer was justified in using force when he responded to a shoplifting call and fired at a moving vehicle that investigators said was driving toward police, killing a 1-year-old boy who was inside the car. CNN’s Rafael Romo reports.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=J1LbU7PFrlA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/J1LbU7PFrlA",
+      "articleUrl": "https://www.youtube.com/watch?v=J1LbU7PFrlA",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Mississippi’s attorney general says a Senatobia officer was justified in using force when he responded to a shoplifting call and fired at a moving vehicle that investigators said was driving toward police, killing a 1-year-old boy who was inside the car.\n\nCNN’s Rafael Romo reports.",
+      "readingTextZh": "密西西比州总检察长表示，一名Senatobia官员在回应入店行窃电话并向一辆行驶中的车辆开枪时使用武力是合理的，调查人员称这辆车正在向警方开车，杀死了一名在车内的1岁男孩。\n\nCNN的Rafael Romo报道。",
+      "sentences": [
+        {
+          "en": "Mississippi’s attorney general says a Senatobia officer was justified in using force when he responded to a shoplifting call and fired at a moving vehicle that investigators said was driving toward police, killing a 1-year-old boy who was inside the car.",
+          "zh": "密西西比州总检察长表示，一名Senatobia官员在回应入店行窃电话并向一辆行驶中的车辆开枪时使用武力是合理的，调查人员称这辆车正在向警方开车，杀死了一名在车内的1岁男孩。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN’s Rafael Romo reports.",
+          "zh": "CNN的Rafael Romo报道。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "attorney",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "MS attorney general says use of force was justified in death of 1-year-old",
+          "exZh": "MS总检察长说，在1岁儿童死亡的情况下，使用武力是合理的",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "general",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "MS attorney general says use of force was justified in death of 1-year-old",
+          "exZh": "MS总检察长说，在1岁儿童死亡的情况下，使用武力是合理的",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "force",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "MS attorney general says use of force was justified in death of 1-year-old",
+          "exZh": "MS总检察长说，在1岁儿童死亡的情况下，使用武力是合理的",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "justified",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "MS attorney general says use of force was justified in death of 1-year-old",
+          "exZh": "MS总检察长说，在1岁儿童死亡的情况下，使用武力是合理的",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-s19EklrBJO4",
+      "title": "Trump asked about Vance 2028 support",
+      "titleZh": "特朗普询问了万斯2028的支持情况",
       "level": "A2",
       "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-19",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=2rIiShz9m_0",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/2rIiShz9m_0",
-      "articleUrl": "https://www.youtube.com/watch?v=2rIiShz9m_0",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Should Alberta separate from Canada? #BBCNews",
-      "readingTextZh": "阿尔伯塔省是否应该脱离加拿大？ # BBCNews",
-      "sentences": [
-        {
-          "en": "Should Alberta separate from Canada? #BBCNews",
-          "zh": "阿尔伯塔省是否应该脱离加拿大？ # BBCNews",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Alberta",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Should Alberta separate from Canada? #BBCNews",
-          "exZh": "阿尔伯塔省是否应该脱离加拿大？ # BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "separate",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Should Alberta separate from Canada? #BBCNews",
-          "exZh": "阿尔伯塔省是否应该脱离加拿大？ # BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Canada",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Should Alberta separate from Canada? #BBCNews",
-          "exZh": "阿尔伯塔省是否应该脱离加拿大？ # BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "BBCNews",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Should Alberta separate from Canada? #BBCNews",
-          "exZh": "阿尔伯塔省是否应该脱离加拿大？ # BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-JLuWApdYHbs",
-      "title": "Record-breaking ad spending is pouring into states Trump won",
-      "titleZh": "创纪录的广告支出涌入特朗普赢得的各州",
-      "level": "B1",
-      "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "minutes": 5,
-      "summary": "In the final weeks of the midterm elections, hundreds of millions of dollars are targeting key races in states that Trump won comfortably in 2024. CNN’s David Wright takes a look at where the money is moving in the closing sprint.",
+      "summary": "A day after Vice President JD Vance said he believed Donald Trump would endorse him if he ran in 2028, the president said the two haven’t discussed it.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=JLuWApdYHbs",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/JLuWApdYHbs",
-      "articleUrl": "https://www.youtube.com/watch?v=JLuWApdYHbs",
+      "videoUrl": "https://www.youtube.com/watch?v=s19EklrBJO4",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/s19EklrBJO4",
+      "articleUrl": "https://www.youtube.com/watch?v=s19EklrBJO4",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "In the final weeks of the midterm elections, hundreds of millions of dollars are targeting key races in states that Trump won comfortably in 2024.\n\nCNN’s David Wright takes a look at where the money is moving in the closing sprint.",
-      "readingTextZh": "在中期选举的最后几周，数亿美元的目标是特朗普在2024年轻松获胜的州的关键比赛。\n\n美国有线电视新闻网（ CNN ）的大卫·赖特（ David Wright ）研究了在最后冲刺中资金的流动情况。",
+      "readingText": "A day after Vice President JD Vance said he believed Donald Trump would endorse him if he ran in 2028, the president said the two haven’t discussed it.",
+      "readingTextZh": "副总统万斯（ JD Vance ）表示，如果他在2028年参选，他相信唐纳德·特朗普（ Donald Trump ）会支持他，一天后，总统表示两人没有讨论过这个问题。",
       "sentences": [
         {
-          "en": "In the final weeks of the midterm elections, hundreds of millions of dollars are targeting key races in states that Trump won comfortably in 2024.",
-          "zh": "在中期选举的最后几周，数亿美元的目标是特朗普在2024年轻松获胜的州的关键比赛。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN’s David Wright takes a look at where the money is moving in the closing sprint.",
-          "zh": "美国有线电视新闻网（ CNN ）的大卫·赖特（ David Wright ）研究了在最后冲刺中资金的流动情况。",
+          "en": "A day after Vice President JD Vance said he believed Donald Trump would endorse him if he ran in 2028, the president said the two haven’t discussed it.",
+          "zh": "副总统万斯（ JD Vance ）表示，如果他在2028年参选，他相信唐纳德·特朗普（ Donald Trump ）会支持他，一天后，总统表示两人没有讨论过这个问题。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
-        {
-          "word": "Record",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record-breaking ad spending is pouring into states Trump won",
-          "exZh": "创纪录的广告支出涌入特朗普赢得的各州",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "breaking",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record-breaking ad spending is pouring into states Trump won",
-          "exZh": "创纪录的广告支出涌入特朗普赢得的各州",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "spending",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record-breaking ad spending is pouring into states Trump won",
-          "exZh": "创纪录的广告支出涌入特朗普赢得的各州",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "pouring",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record-breaking ad spending is pouring into states Trump won",
-          "exZh": "创纪录的广告支出涌入特朗普赢得的各州",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-GW6CROMVxM8",
-      "title": "Latinos in Miami rethink past votes for Trump",
-      "titleZh": "迈阿密的拉美裔美国人重新考虑过去对特朗普的投票",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-19",
-      "minutes": 5,
-      "summary": "Rising prices and immigration enforcement are affecting some Miami-Dade Latino voters ahead of the midterms. Arlette Saenz reports.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=GW6CROMVxM8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/GW6CROMVxM8",
-      "articleUrl": "https://www.youtube.com/watch?v=GW6CROMVxM8",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Rising prices and immigration enforcement are affecting some Miami-Dade Latino voters ahead of the midterms.\n\nArlette Saenz reports.",
-      "readingTextZh": "在中期选举之前，价格上涨和移民执法正在影响一些迈阿密-戴德拉丁裔选民。\n\nArlette Saenz报道。",
-      "sentences": [
-        {
-          "en": "Rising prices and immigration enforcement are affecting some Miami-Dade Latino voters ahead of the midterms.",
-          "zh": "在中期选举之前，价格上涨和移民执法正在影响一些迈阿密-戴德拉丁裔选民。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Arlette Saenz reports.",
-          "zh": "Arlette Saenz报道。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Latinos",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Latinos in Miami rethink past votes for Trump",
-          "exZh": "迈阿密的拉美裔美国人重新考虑过去对特朗普的投票",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Miami",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Latinos in Miami rethink past votes for Trump",
-          "exZh": "迈阿密的拉美裔美国人重新考虑过去对特朗普的投票",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "rethink",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Latinos in Miami rethink past votes for Trump",
-          "exZh": "迈阿密的拉美裔美国人重新考虑过去对特朗普的投票",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "past",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Latinos in Miami rethink past votes for Trump",
-          "exZh": "迈阿密的拉美裔美国人重新考虑过去对特朗普的投票",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-Ofj3QphQNB4",
-      "title": "Could Latino voters cost Trump and Republicans Congress?",
-      "titleZh": "拉丁裔选民会让特朗普和共和党国会付出代价吗？",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-19",
-      "minutes": 5,
-      "summary": "Latinos have emerged in recent years as perhaps the biggest group of swing voters in the United States. And if results next month mirror polls that suggest the nation’s 36 million Latino voters are shifting in significant numbers in Democrats’ favor, those voters could be responsible for handing the party control of Congress for the final two years of Trump’s presidency.\nTraditionally a Democratic-leaning portion of the electorate in most of the nation, Latinos swung heavily toward Trump in the 2024 election — igniting Republican dreams of a long-term political realignment that could remake the American political map, particularly across the growing South.\nBut the economic frustrations that helped propel Trump to victory are now fueling dissatisfaction among many of those same voters with Republicans who fully control the federal government.\n\n0:00 How Trump's low approval rating among Latinos could affect the midterms\n2:52 The Democratic Party focuses on winning back Latino voters' support\n5:00 Has the Republican Party taken the Latino vote for granted?\n6:25 GOP losing support among Latino voters in Allentown, Pennsylvania\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #Election #Trump",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Ofj3QphQNB4",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Ofj3QphQNB4",
-      "articleUrl": "https://www.youtube.com/watch?v=Ofj3QphQNB4",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Latinos have emerged in recent years as perhaps the biggest group of swing voters in the United States.\n\nAnd if results next month mirror polls that suggest the nation’s 36 million Latino voters are shifting in significant numbers in Democrats’ favor, those voters could be responsible for handing the party control of Congress for the final two years of Trump’s presidency.\n\nTraditionally a Democratic-leaning portion of the electorate in most of the nation, Latinos swung heavily toward Trump in the 2024 election — igniting Republican dreams of a long-term political realignment that could remake the American political map, particularly across the growing South.\n\nBut the economic frustrations that helped propel Trump to victory are now fueling dissatisfaction among many of those same voters with Republicans who fully control the federal government.",
-      "readingTextZh": "近年来，拉美裔可能成为美国最大的摇摆选民群体。\n\n如果下个月的民意调查结果显示，全国3600万拉丁裔选民正在大量转向民主党人，那么这些选民可能有责任在特朗普总统任期的最后两年将党对国会的控制权移交给国会。\n\n拉美裔传统上是美国大部分地区的民主党选民，他们在2024年大选中大举转向特朗普，点燃了共和党长期政治重组的梦想，这可能会重塑美国的政治版图，特别是在不断增长的南方。\n\n但现在，推动特朗普获胜的经济挫折加剧了许多选民对完全控制联邦政府的共和党人的不满。",
-      "sentences": [
-        {
-          "en": "Latinos have emerged in recent years as perhaps the biggest group of swing voters in the United States.",
-          "zh": "近年来，拉美裔可能成为美国最大的摇摆选民群体。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "And if results next month mirror polls that suggest the nation’s 36 million Latino voters are shifting in significant numbers in Democrats’ favor, those voters could be responsible for handing the party control of Congress for the final two years of Trump’s presidency.",
-          "zh": "如果下个月的民意调查结果显示，全国3600万拉丁裔选民正在大量转向民主党人，那么这些选民可能有责任在特朗普总统任期的最后两年将党对国会的控制权移交给国会。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Traditionally a Democratic-leaning portion of the electorate in most of the nation, Latinos swung heavily toward Trump in the 2024 election — igniting Republican dreams of a long-term political realignment that could remake the American political map, particularly across the growing South.",
-          "zh": "拉美裔传统上是美国大部分地区的民主党选民，他们在2024年大选中大举转向特朗普，点燃了共和党长期政治重组的梦想，这可能会重塑美国的政治版图，特别是在不断增长的南方。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "But the economic frustrations that helped propel Trump to victory are now fueling dissatisfaction among many of those same voters with Republicans who fully control the federal government.",
-          "zh": "但现在，推动特朗普获胜的经济挫折加剧了许多选民对完全控制联邦政府的共和党人的不满。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Latino",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Could Latino voters cost Trump and Republicans Congress?",
-          "exZh": "拉丁裔选民会让特朗普和共和党国会付出代价吗？",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "voters",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Could Latino voters cost Trump and Republicans Congress?",
-          "exZh": "拉丁裔选民会让特朗普和共和党国会付出代价吗？",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "cost",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Could Latino voters cost Trump and Republicans Congress?",
-          "exZh": "拉丁裔选民会让特朗普和共和党国会付出代价吗？",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
         {
           "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Could Latino voters cost Trump and Republicans Congress?",
-          "exZh": "拉丁裔选民会让特朗普和共和党国会付出代价吗？",
+          "ex": "Trump asked about Vance 2028 support",
+          "exZh": "特朗普询问了万斯2028的支持情况",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "asked",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump asked about Vance 2028 support",
+          "exZh": "特朗普询问了万斯2028的支持情况",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Vance",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump asked about Vance 2028 support",
+          "exZh": "特朗普询问了万斯2028的支持情况",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "support",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump asked about Vance 2028 support",
+          "exZh": "特朗普询问了万斯2028的支持情况",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -615,67 +580,82 @@
       ]
     },
     {
-      "id": "video-vP7Mk0XYOOs",
-      "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-      "titleZh": "Christiane Amanpour宣布她将在43年后离开CNN",
+      "id": "video-jmnJh8coG5g",
+      "title": "Why Kansas emerged as a surprise battleground in the midterms",
+      "titleZh": "为什么堪萨斯州在中期选举中成为一个令人惊讶的战场",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "minutes": 5,
-      "summary": "CNN legend Christiane Amanpour, the network’s chief international anchor, said Monday that she will sign off from CNN next June.",
+      "summary": "President Donald Trump held a rally in Kansas on Monday, supporting Republican Sen. Roger Marshall in his tight race against Democrat Adam Hamilton. CNN’s Betsy Klein explains why undecided voters are making reliably red Kansas a state to watch this election season. Discover more videos, including live streams and exclusive storytelling, on our Watch page.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=vP7Mk0XYOOs",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/vP7Mk0XYOOs",
-      "articleUrl": "https://www.youtube.com/watch?v=vP7Mk0XYOOs",
+      "videoUrl": "https://www.youtube.com/watch?v=jmnJh8coG5g",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/jmnJh8coG5g",
+      "articleUrl": "https://www.youtube.com/watch?v=jmnJh8coG5g",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN legend Christiane Amanpour, the network’s chief international anchor, said Monday that she will sign off from CNN next June.",
-      "readingTextZh": "美国有线电视新闻网（ CNN ）传奇人物克里斯蒂安·阿曼普尔（ Christiane Amanpour ）周一表示，她将于明年6月与CNN签约。",
+      "readingText": "President Donald Trump held a rally in Kansas on Monday, supporting Republican Sen.\n\nRoger Marshall in his tight race against Democrat Adam Hamilton.\n\nCNN’s Betsy Klein explains why undecided voters are making reliably red Kansas a state to watch this election season.\n\nDiscover more videos, including live streams and exclusive storytelling, on our Watch page.",
+      "readingTextZh": "唐纳德·特朗普总统周一在堪萨斯州举行集会，支持共和党参议员。\n\n罗杰·马歇尔（ Roger Marshall ）在与民主党人亚当·汉密尔顿（ Adam Hamilton ）\n\n美国有线电视新闻网（ CNN ）的贝特西·克莱因（ Betsy Klein ）解释了为什么犹豫不决的选民会让可靠的红色堪萨斯州成为这个选举季\n\n在我们的观看页面上发现更多视频，包括直播和独家故事讲述。",
       "sentences": [
         {
-          "en": "CNN legend Christiane Amanpour, the network’s chief international anchor, said Monday that she will sign off from CNN next June.",
-          "zh": "美国有线电视新闻网（ CNN ）传奇人物克里斯蒂安·阿曼普尔（ Christiane Amanpour ）周一表示，她将于明年6月与CNN签约。",
+          "en": "President Donald Trump held a rally in Kansas on Monday, supporting Republican Sen.",
+          "zh": "唐纳德·特朗普总统周一在堪萨斯州举行集会，支持共和党参议员。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Roger Marshall in his tight race against Democrat Adam Hamilton.",
+          "zh": "罗杰·马歇尔（ Roger Marshall ）在与民主党人亚当·汉密尔顿（ Adam Hamilton ）",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN’s Betsy Klein explains why undecided voters are making reliably red Kansas a state to watch this election season.",
+          "zh": "美国有线电视新闻网（ CNN ）的贝特西·克莱因（ Betsy Klein ）解释了为什么犹豫不决的选民会让可靠的红色堪萨斯州成为这个选举季",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Discover more videos, including live streams and exclusive storytelling, on our Watch page.",
+          "zh": "在我们的观看页面上发现更多视频，包括直播和独家故事讲述。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Christiane",
+          "word": "Kansas",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-          "exZh": "Christiane Amanpour宣布她将在43年后离开CNN",
+          "ex": "Why Kansas emerged as a surprise battleground in the midterms",
+          "exZh": "为什么堪萨斯州在中期选举中成为一个令人惊讶的战场",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Amanpour",
+          "word": "emerged",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-          "exZh": "Christiane Amanpour宣布她将在43年后离开CNN",
+          "ex": "Why Kansas emerged as a surprise battleground in the midterms",
+          "exZh": "为什么堪萨斯州在中期选举中成为一个令人惊讶的战场",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "announces",
+          "word": "surprise",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-          "exZh": "Christiane Amanpour宣布她将在43年后离开CNN",
+          "ex": "Why Kansas emerged as a surprise battleground in the midterms",
+          "exZh": "为什么堪萨斯州在中期选举中成为一个令人惊讶的战场",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "leaving",
+          "word": "battleground",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-          "exZh": "Christiane Amanpour宣布她将在43年后离开CNN",
+          "ex": "Why Kansas emerged as a surprise battleground in the midterms",
+          "exZh": "为什么堪萨斯州在中期选举中成为一个令人惊讶的战场",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
