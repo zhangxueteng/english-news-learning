@@ -1,192 +1,56 @@
 {
-  "updated_at": "2026-10-21T22:41:02.557453+00:00",
+  "updated_at": "2026-10-22T22:38:52.519142+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-moy3waNDQa8",
-      "title": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
-      "titleZh": "随着人工智能揭示严重的网络安全威胁，网站在全球范围内被删除| BBC新闻",
+      "id": "video-LNZU5jqkZbI",
+      "title": "Have we just entered a new era for cyber security? | BBC Newscast",
+      "titleZh": "我们是否刚刚进入网络安全的新时代？ | BBC新闻广播",
       "level": "B2",
       "category": "TECHNOLOGY",
       "source": "BBC News · Official Video",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "minutes": 5,
-      "summary": "Websites have been taken down worldwide after critical weaknesses were revealed in a programming language which powers much of the internet.  Governments and agencies are urging websites to address the problem immediately. \n\nThe vulnerabilities were found within the PHP programming language. The flaws were discovered by AI, with cyber-security experts saying are were the most severe vulnerabilities ever discovered by the technology, which is reshaping the cyber security landscape.\n\nThe US National Security Agency issued a warning for organisations to take their systems offline if they are unable to immediately apply a fix, which has now been issued.   The governments of France and Finland were among those ordering shut down of some web services, along with many private organisations around the world.  Japan’s prime minister urged people to check if their publicly accessible websites ran on PHP. \n \nThe vulnerabilities were discovered by cyber-security researchers at the firms Calif and Wiz and were part of a program started by the internet firm OpenAI, called Patch the Planet.  They discovered the issue after being given access to the AI company's advanced AI tools, in order to find and fix flaws in web development language.\n\nOpenAi said the discovery was \"one of the most impactful security issues in recent memory\".  The flaws had gone undetected for more than a decade.  It’s estimated that around 70% of the internet could be vulnerable to the threat. \n\nIt had been intended to release details of the issue later this month along with a fix, or software patch, or the problem. However details of the flaw were leaked on social media, forcing PHP Foundation to rush out an announcement of the vulnerability and its huge scale.\n\nJane Hill presents BBC News at Ten reporting by Joe Tidy.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "Millions of websites around the world are dealing with the discovery of a potential cyber-security threat using artificial intelligence.\n\nVulnerabilities were found in the PHP programming language, which is used on roughly 70% of the internet, by researchers using AI. These flaws had gone undetected for over a decade, with the boss of the UK's National Cyber Security Centre saying the scale of the issue has been “unprecedented”.\n\nTechnology and AI editor Zoe Kleinman joins Adam to explain what has happened, and how the weakness was identified.\n\nPlus, President Trump’s special envoy Steve Witkoff has had talks with Volodymyr Zelensky and Vladimir Putin, whom he called a “humanitarian”. Russia editor Steve Rosenberg tells us what’s significant about the latest developments and whether the prospect of peace is any closer.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=moy3waNDQa8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/moy3waNDQa8",
-      "articleUrl": "https://www.youtube.com/watch?v=moy3waNDQa8",
+      "videoUrl": "https://www.youtube.com/watch?v=LNZU5jqkZbI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/LNZU5jqkZbI",
+      "articleUrl": "https://www.youtube.com/watch?v=LNZU5jqkZbI",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Websites have been taken down worldwide after critical weaknesses were revealed in a programming language which powers much of the internet.\n\nGovernments and agencies are urging websites to address the problem immediately.\n\nThe vulnerabilities were found within the PHP programming language.\n\nThe flaws were discovered by AI, with cyber-security experts saying are were the most severe vulnerabilities ever discovered by the technology, which is reshaping the cyber security landscape.\n\nThe US National Security Agency issued a warning for organisations to take their systems offline if they are unable to immediately apply a fix, which has now been issued.\n\nThe governments of France and Finland were among those ordering shut down of some web services, along with many private organisations around the world.\n\nJapan’s prime minister urged people to check if their publicly accessible websites ran on PHP.\n\nThe vulnerabilities were discovered by cyber-security researchers at the firms Calif and Wiz and were part of a program started by the internet firm OpenAI, called Patch the Planet.\n\nThey discovered the issue after being given access to the AI company's advanced AI tools, in order to find and fix flaws in web development language.\n\nOpenAi said the discovery was \"one of the most impactful security issues in recent memory\".\n\nThe flaws had gone undetected for more than a decade.\n\nIt’s estimated that around 70% of the internet could be vulnerable to the threat.",
-      "readingTextZh": "在一种支持大部分互联网的编程语言暴露出关键弱点后，网站已在全球范围内被删除。\n\n各国政府和机构正在敦促网站立即解决这个问题。\n\n在PHP编程语言中发现了漏洞。\n\n这些漏洞是人工智能发现的，网络安全专家表示，这些漏洞是该技术发现的最严重的漏洞，正在重塑网络安全格局。\n\n美国国家安全局发出警告，如果组织无法立即应用修复程序，请将其系统离线，该修复程序现已发布。\n\n法国和芬兰政府与世界各地的许多私人组织一起下令关闭一些网络服务。\n\n日本首相敦促人们检查其可公开访问的网站是否运行PHP。\n\n这些漏洞是由加利福尼亚州和Wiz公司的网络安全研究人员发现的，是互联网公司OpenAI发起的一个名为Patch the Planet的项目的一部分。\n\n他们在获得人工智能公司高级人工智能工具的访问权限后发现了这个问题，以便发现并修复Web开发语言中的缺陷。\n\nOpenAi表示，这一发现是“近期记忆中最具影响力的安全问题之一”。\n\n十多年来，这些缺陷一直没有被发现。\n\n据估计，大约70%的互联网可能容易受到这种威胁。",
+      "readingText": "Millions of websites around the world are dealing with the discovery of a potential cyber-security threat using artificial intelligence.\n\nVulnerabilities were found in the PHP programming language, which is used on roughly 70% of the internet, by researchers using AI.\n\nThese flaws had gone undetected for over a decade, with the boss of the UK's National Cyber Security Centre saying the scale of the issue has been “unprecedented”.\n\nTechnology and AI editor Zoe Kleinman joins Adam to explain what has happened, and how the weakness was identified.\n\nPlus, President Trump’s special envoy Steve Witkoff has had talks with Volodymyr Zelensky and Vladimir Putin, whom he called a “humanitarian”.\n\nRussia editor Steve Rosenberg tells us what’s significant about the latest developments and whether the prospect of peace is any closer.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "全球数以百万计的网站正在处理使用人工智能发现的潜在网络安全威胁。\n\n研究人员使用人工智能，在大约70 ％的互联网上使用的PHP编程语言中发现了漏洞。\n\n十多年来，这些漏洞一直没有被发现，英国国家网络安全中心的老板表示，这个问题的规模是“前所未有的”。\n\n技术和人工智能编辑Zoe Kleinman与Adam一起解释发生了什么，以及如何识别弱点。\n\n此外，特朗普总统的特使史蒂夫·维特科夫（ Steve Witkoff ）与弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）和弗拉基米尔·普京（ Vladimir Putin ）进行了会\n\n俄罗斯编辑史蒂夫·罗森伯格（ Steve Rosenberg ）向我们介绍了最新事态发展的重要性，以及和平的前景是否更加接近。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Websites have been taken down worldwide after critical weaknesses were revealed in a programming language which powers much of the internet.",
-          "zh": "在一种支持大部分互联网的编程语言暴露出关键弱点后，网站已在全球范围内被删除。",
+          "en": "Millions of websites around the world are dealing with the discovery of a potential cyber-security threat using artificial intelligence.",
+          "zh": "全球数以百万计的网站正在处理使用人工智能发现的潜在网络安全威胁。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Governments and agencies are urging websites to address the problem immediately.",
-          "zh": "各国政府和机构正在敦促网站立即解决这个问题。",
+          "en": "Vulnerabilities were found in the PHP programming language, which is used on roughly 70% of the internet, by researchers using AI.",
+          "zh": "研究人员使用人工智能，在大约70 ％的互联网上使用的PHP编程语言中发现了漏洞。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The vulnerabilities were found within the PHP programming language.",
-          "zh": "在PHP编程语言中发现了漏洞。",
+          "en": "These flaws had gone undetected for over a decade, with the boss of the UK's National Cyber Security Centre saying the scale of the issue has been “unprecedented”.",
+          "zh": "十多年来，这些漏洞一直没有被发现，英国国家网络安全中心的老板表示，这个问题的规模是“前所未有的”。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The flaws were discovered by AI, with cyber-security experts saying are were the most severe vulnerabilities ever discovered by the technology, which is reshaping the cyber security landscape.",
-          "zh": "这些漏洞是人工智能发现的，网络安全专家表示，这些漏洞是该技术发现的最严重的漏洞，正在重塑网络安全格局。",
+          "en": "Technology and AI editor Zoe Kleinman joins Adam to explain what has happened, and how the weakness was identified.",
+          "zh": "技术和人工智能编辑Zoe Kleinman与Adam一起解释发生了什么，以及如何识别弱点。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The US National Security Agency issued a warning for organisations to take their systems offline if they are unable to immediately apply a fix, which has now been issued.",
-          "zh": "美国国家安全局发出警告，如果组织无法立即应用修复程序，请将其系统离线，该修复程序现已发布。",
+          "en": "Plus, President Trump’s special envoy Steve Witkoff has had talks with Volodymyr Zelensky and Vladimir Putin, whom he called a “humanitarian”.",
+          "zh": "此外，特朗普总统的特使史蒂夫·维特科夫（ Steve Witkoff ）与弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）和弗拉基米尔·普京（ Vladimir Putin ）进行了会",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The governments of France and Finland were among those ordering shut down of some web services, along with many private organisations around the world.",
-          "zh": "法国和芬兰政府与世界各地的许多私人组织一起下令关闭一些网络服务。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Japan’s prime minister urged people to check if their publicly accessible websites ran on PHP.",
-          "zh": "日本首相敦促人们检查其可公开访问的网站是否运行PHP。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The vulnerabilities were discovered by cyber-security researchers at the firms Calif and Wiz and were part of a program started by the internet firm OpenAI, called Patch the Planet.",
-          "zh": "这些漏洞是由加利福尼亚州和Wiz公司的网络安全研究人员发现的，是互联网公司OpenAI发起的一个名为Patch the Planet的项目的一部分。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "They discovered the issue after being given access to the AI company's advanced AI tools, in order to find and fix flaws in web development language.",
-          "zh": "他们在获得人工智能公司高级人工智能工具的访问权限后发现了这个问题，以便发现并修复Web开发语言中的缺陷。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "OpenAi said the discovery was \"one of the most impactful security issues in recent memory\".",
-          "zh": "OpenAi表示，这一发现是“近期记忆中最具影响力的安全问题之一”。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The flaws had gone undetected for more than a decade.",
-          "zh": "十多年来，这些缺陷一直没有被发现。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "It’s estimated that around 70% of the internet could be vulnerable to the threat.",
-          "zh": "据估计，大约70%的互联网可能容易受到这种威胁。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Websites",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
-          "exZh": "随着人工智能揭示严重的网络安全威胁，网站在全球范围内被删除| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "taken",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
-          "exZh": "随着人工智能揭示严重的网络安全威胁，网站在全球范围内被删除| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "down",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
-          "exZh": "随着人工智能揭示严重的网络安全威胁，网站在全球范围内被删除| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "worldwide",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down worldwide as AI reveals critical cyber-security threat | BBC News",
-          "exZh": "随着人工智能揭示严重的网络安全威胁，网站在全球范围内被删除| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-BAkY6gyq5q4",
-      "title": "Is Ukraine being shut out of its own future? | The Global Story",
-      "titleZh": "乌克兰是否被排除在自己的未来之外？ |全球故事",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-21",
-      "minutes": 5,
-      "summary": "Can Ukraine still rely on America?\n\nMore than 80 years after the Yalta conference reshaped post-war Europe, some observers fear a new era of great-power diplomacy could once again shape the continent's future. Reports of a possible meeting between Donald Trump, Vladimir Putin and Xi Jinping have prompted questions about what role Ukraine would play in any discussion about ending the war.\n\nThe speculation comes amid a sharp deterioration in relations between Washington and Kyiv. From disputes over Starlink access to growing concerns about Trump's outreach to Moscow, Ukrainian officials worry they are losing influence with their most powerful ally. \n\nAt the centre of the debate is a simple question: does Trump see Ukraine as an indispensable partner, or an obstacle to broader deals with Russia? \n\nThe Global Story’s Tristan Redman speaks to Simon Shuster of The Atlantic about the state of the war, the future of US support and why Kyiv is increasingly worried about being left out of the room. \nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Ukraine #Trump #Putin\n\n00:00 Intro\n00:29 Could a Trump-Putin summit become a new Yalta?\n01:05 Why Ukraine fears a deal between great powers\n02:14 Is Trump already appeasing Russia?\n03:00 What is behind the latest diplomatic push?\n04:39 The growing tensions between Washington and Kyiv\n05:34 Why the US wants business deals with Russia\n07:42 The deals Trump hopes to strike with Putin\n08:51 Why Trump is blaming Ukraine\n09:55 Russia’s strategy on the battlefield\n12:19 How Russia is trying to break Ukraine’s will\n13:06 How crucial is US support for Ukraine?\n13:39 What is Starlink and why does Ukraine rely on it?\n14:58 Did the US restrict Ukraine’s access to Starlink?\n15:52 How SpaceX can disrupt Ukraine’s drone operations\n17:23 What the Starlink disruption means for Ukraine\n17:56 Who ordered the Starlink restrictions?\n19:16 Why US intelligence sharing matters\n20:35 Is the US-Ukraine relationship at a new low?\n21:42 What does the American public think about Ukraine?\n22:03 Trump’s diesel deal and the midterm elections\n23:14 Does attacking Zelensky appeal to Trump’s base?",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=BAkY6gyq5q4",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/BAkY6gyq5q4",
-      "articleUrl": "https://www.youtube.com/watch?v=BAkY6gyq5q4",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Can Ukraine still rely on America?\n\nMore than 80 years after the Yalta conference reshaped post-war Europe, some observers fear a new era of great-power diplomacy could once again shape the continent's future.\n\nReports of a possible meeting between Donald Trump, Vladimir Putin and Xi Jinping have prompted questions about what role Ukraine would play in any discussion about ending the war.\n\nThe speculation comes amid a sharp deterioration in relations between Washington and Kyiv.\n\nFrom disputes over Starlink access to growing concerns about Trump's outreach to Moscow, Ukrainian officials worry they are losing influence with their most powerful ally.\n\nAt the centre of the debate is a simple question: does Trump see Ukraine as an indispensable partner, or an obstacle to broader deals with Russia?\n\nThe Global Story’s Tristan Redman speaks to Simon Shuster of The Atlantic about the state of the war, the future of US support and why Kyiv is increasingly worried about being left out of the room.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "乌克兰还能依靠美国吗？\n\n在雅尔塔会议重塑战后欧洲80多年后，一些观察家担心大国外交的新时代可能再次塑造欧洲大陆的未来。\n\n有关唐纳德•特朗普(Donald Trump)、弗拉基米尔•普京(Vladimir Putin)和习近平(Xi Jinping)可能会晤的报道引发了有关乌克兰将在任何关于结束战争的讨论中发挥什么作用\n\n这一猜测是在华盛顿和基辅之间的关系急剧恶化之际出现的。\n\n从对Starlink访问权的争议到对特朗普与莫斯科接触的日益担忧，乌克兰官员担心他们正在失去与最强大盟友的影响力。\n\n辩论的核心是一个简单的问题：特朗普是否将乌克兰视为不可或缺的伙伴，还是与俄罗斯达成更广泛交易的障碍？\n\n《全球故事》的特里斯坦·雷德曼（ Tristan Redman ）向《大西洋月刊》的西蒙·舒斯特（ Simon Shuster ）讲述了战争的状况、美国支持的未来以及为什么基辅越来越担心被排除在外。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "Can Ukraine still rely on America?",
-          "zh": "乌克兰还能依靠美国吗？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "More than 80 years after the Yalta conference reshaped post-war Europe, some observers fear a new era of great-power diplomacy could once again shape the continent's future.",
-          "zh": "在雅尔塔会议重塑战后欧洲80多年后，一些观察家担心大国外交的新时代可能再次塑造欧洲大陆的未来。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Reports of a possible meeting between Donald Trump, Vladimir Putin and Xi Jinping have prompted questions about what role Ukraine would play in any discussion about ending the war.",
-          "zh": "有关唐纳德•特朗普(Donald Trump)、弗拉基米尔•普京(Vladimir Putin)和习近平(Xi Jinping)可能会晤的报道引发了有关乌克兰将在任何关于结束战争的讨论中发挥什么作用",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The speculation comes amid a sharp deterioration in relations between Washington and Kyiv.",
-          "zh": "这一猜测是在华盛顿和基辅之间的关系急剧恶化之际出现的。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "From disputes over Starlink access to growing concerns about Trump's outreach to Moscow, Ukrainian officials worry they are losing influence with their most powerful ally.",
-          "zh": "从对Starlink访问权的争议到对特朗普与莫斯科接触的日益担忧，乌克兰官员担心他们正在失去与最强大盟友的影响力。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "At the centre of the debate is a simple question: does Trump see Ukraine as an indispensable partner, or an obstacle to broader deals with Russia?",
-          "zh": "辩论的核心是一个简单的问题：特朗普是否将乌克兰视为不可或缺的伙伴，还是与俄罗斯达成更广泛交易的障碍？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The Global Story’s Tristan Redman speaks to Simon Shuster of The Atlantic about the state of the war, the future of US support and why Kyiv is increasingly worried about being left out of the room.",
-          "zh": "《全球故事》的特里斯坦·雷德曼（ Tristan Redman ）向《大西洋月刊》的西蒙·舒斯特（ Simon Shuster ）讲述了战争的状况、美国支持的未来以及为什么基辅越来越担心被排除在外。",
+          "en": "Russia editor Steve Rosenberg tells us what’s significant about the latest developments and whether the prospect of peace is any closer.",
+          "zh": "俄罗斯编辑史蒂夫·罗森伯格（ Steve Rosenberg ）向我们介绍了最新事态发展的重要性，以及和平的前景是否更加接近。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
@@ -197,39 +61,39 @@
       ],
       "vocab": [
         {
-          "word": "Ukraine",
+          "word": "just",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is Ukraine being shut out of its own future? | The Global Story",
-          "exZh": "乌克兰是否被排除在自己的未来之外？ |全球故事",
+          "ex": "Have we just entered a new era for cyber security? | BBC Newscast",
+          "exZh": "我们是否刚刚进入网络安全的新时代？ | BBC新闻广播",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "shut",
+          "word": "entered",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is Ukraine being shut out of its own future? | The Global Story",
-          "exZh": "乌克兰是否被排除在自己的未来之外？ |全球故事",
+          "ex": "Have we just entered a new era for cyber security? | BBC Newscast",
+          "exZh": "我们是否刚刚进入网络安全的新时代？ | BBC新闻广播",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "future",
+          "word": "cyber",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is Ukraine being shut out of its own future? | The Global Story",
-          "exZh": "乌克兰是否被排除在自己的未来之外？ |全球故事",
+          "ex": "Have we just entered a new era for cyber security? | BBC Newscast",
+          "exZh": "我们是否刚刚进入网络安全的新时代？ | BBC新闻广播",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Global",
+          "word": "security",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is Ukraine being shut out of its own future? | The Global Story",
-          "exZh": "乌克兰是否被排除在自己的未来之外？ |全球故事",
+          "ex": "Have we just entered a new era for cyber security? | BBC Newscast",
+          "exZh": "我们是否刚刚进入网络安全的新时代？ | BBC新闻广播",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -245,67 +109,67 @@
       ]
     },
     {
-      "id": "video-jzXwVNUbyR8",
-      "title": "Websites taken down as critical security update issued. #BBCNews",
-      "titleZh": "作为关键安全更新发布的网站已被删除。# BBCNews",
+      "id": "video-WlTYoTDlaM4",
+      "title": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
+      "titleZh": "Raye赢得2026年水星奖。# Raye # MercuryPrize # BBC新闻",
       "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "minutes": 5,
       "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=jzXwVNUbyR8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/jzXwVNUbyR8",
-      "articleUrl": "https://www.youtube.com/watch?v=jzXwVNUbyR8",
+      "videoUrl": "https://www.youtube.com/watch?v=WlTYoTDlaM4",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/WlTYoTDlaM4",
+      "articleUrl": "https://www.youtube.com/watch?v=WlTYoTDlaM4",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Websites taken down as critical security update issued. #BBCNews",
-      "readingTextZh": "作为关键安全更新发布的网站已被删除。# BBCNews",
+      "readingText": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
+      "readingTextZh": "Raye赢得2026年水星奖。# Raye # MercuryPrize # BBC新闻",
       "sentences": [
         {
-          "en": "Websites taken down as critical security update issued. #BBCNews",
-          "zh": "作为关键安全更新发布的网站已被删除。# BBCNews",
+          "en": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
+          "zh": "Raye赢得2026年水星奖。# Raye # MercuryPrize # BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Websites",
+          "word": "Raye",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down as critical security update issued. #BBCNews",
-          "exZh": "作为关键安全更新发布的网站已被删除。# BBCNews",
+          "ex": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
+          "exZh": "Raye赢得2026年水星奖。# Raye # MercuryPrize # BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "taken",
+          "word": "wins",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down as critical security update issued. #BBCNews",
-          "exZh": "作为关键安全更新发布的网站已被删除。# BBCNews",
+          "ex": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
+          "exZh": "Raye赢得2026年水星奖。# Raye # MercuryPrize # BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "down",
+          "word": "Mercury",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down as critical security update issued. #BBCNews",
-          "exZh": "作为关键安全更新发布的网站已被删除。# BBCNews",
+          "ex": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
+          "exZh": "Raye赢得2026年水星奖。# Raye # MercuryPrize # BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "critical",
+          "word": "Prize",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Websites taken down as critical security update issued. #BBCNews",
-          "exZh": "作为关键安全更新发布的网站已被删除。# BBCNews",
+          "ex": "Raye wins 2026 Mercury Prize award. #Raye #MercuryPrize #BBCNews",
+          "exZh": "Raye赢得2026年水星奖。# Raye # MercuryPrize # BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -321,39 +185,54 @@
       ]
     },
     {
-      "id": "video-hVln5puVrMw",
-      "title": "France promises military support to Saudi Arabia | BBC News",
-      "titleZh": "法国承诺向沙特阿拉伯提供军事支持| BBC新闻",
+      "id": "video-lVIi5lMJVlM",
+      "title": "Donald Trump blames Iran for high oil prices | BBC News",
+      "titleZh": "唐纳德·特朗普指责伊朗油价高企| BBC新闻",
       "level": "B1",
-      "category": "WORLD",
+      "category": "BUSINESS",
       "source": "BBC News · Official Video",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "minutes": 5,
-      "summary": "Another of Saudi Arabia's European allies promises military support to the kingdom, as it struggles to contain Houthi strikes.\n \nAlso in the programme, Russian President Vladimir Putin meets US Special Envoy Steve Witkoff, and says he's ready to help resolve the Iran war.\n \nAnd Pakistan's most senior mediator leaves Tehran, after failing to bring Iran and the US closer to an agreement.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #BBCNews",
+      "summary": "US President Donald Trump has said that something will happen \"fairly soon\" in his country's conflict with Iran. It comes amid reports that the US and Israeli militaries have developed plans for a major new wave of strikes.\n \nMeanwhile, oil prices have risen to their highest for five months. Trump puts the blame on Iran, saying the country is doing all it can to drive prices up before the US midterm elections.\n \nReports from Saudi Arabia say that the state oil company Aramco has evacuated its headquarters in the eastern city of Dhahran, as Houthi attacks on the country continue.\n \nAnd inside Yemen, the United Nations says more than two million children are malnourished.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #US #MiddleEast #BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=hVln5puVrMw",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/hVln5puVrMw",
-      "articleUrl": "https://www.youtube.com/watch?v=hVln5puVrMw",
+      "videoUrl": "https://www.youtube.com/watch?v=lVIi5lMJVlM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/lVIi5lMJVlM",
+      "articleUrl": "https://www.youtube.com/watch?v=lVIi5lMJVlM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Another of Saudi Arabia's European allies promises military support to the kingdom, as it struggles to contain Houthi strikes.\n\nAlso in the programme, Russian President Vladimir Putin meets US Special Envoy Steve Witkoff, and says he's ready to help resolve the Iran war.\n\nAnd Pakistan's most senior mediator leaves Tehran, after failing to bring Iran and the US closer to an agreement.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "沙特阿拉伯的另一个欧洲盟友承诺向该国提供军事支持，因为它正在努力遏制胡塞武装的袭击。\n\n同样在该计划中，俄罗斯总统弗拉基米尔·普京会见了美国特使史蒂夫·维特科夫（ Steve Witkoff ） ，并表示他已准备好帮助解决伊朗战争。\n\n巴基斯坦最高调解员在未能使伊朗和美国更接近达成协议后离开德黑兰。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "US President Donald Trump has said that something will happen \"fairly soon\" in his country's conflict with Iran.\n\nIt comes amid reports that the US and Israeli militaries have developed plans for a major new wave of strikes.\n\nMeanwhile, oil prices have risen to their highest for five months.\n\nTrump puts the blame on Iran, saying the country is doing all it can to drive prices up before the US midterm elections.\n\nReports from Saudi Arabia say that the state oil company Aramco has evacuated its headquarters in the eastern city of Dhahran, as Houthi attacks on the country continue.\n\nAnd inside Yemen, the United Nations says more than two million children are malnourished.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "美国总统唐纳德·特朗普（ Donald Trump ）曾表示，在他的国家与伊朗的冲突中， “很快”就会发生一些事情。\n\n有报道称，美国和以色列军方已经制定了新一轮重大罢工的计划。\n\n与此同时，油价已升至五个月来的最高水平。\n\n特朗普将责任归咎于伊朗，称该国正在尽一切努力在美国中期选举之前推高价格。\n\n来自沙特阿拉伯的报道称，由于胡塞武装对该国的袭击仍在继续，沙特阿拉伯国家石油公司已撤离其在东部城市宰赫兰的总部。\n\n在也门，联合国表示有200多万儿童营养不良。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Another of Saudi Arabia's European allies promises military support to the kingdom, as it struggles to contain Houthi strikes.",
-          "zh": "沙特阿拉伯的另一个欧洲盟友承诺向该国提供军事支持，因为它正在努力遏制胡塞武装的袭击。",
+          "en": "US President Donald Trump has said that something will happen \"fairly soon\" in his country's conflict with Iran.",
+          "zh": "美国总统唐纳德·特朗普（ Donald Trump ）曾表示，在他的国家与伊朗的冲突中， “很快”就会发生一些事情。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Also in the programme, Russian President Vladimir Putin meets US Special Envoy Steve Witkoff, and says he's ready to help resolve the Iran war.",
-          "zh": "同样在该计划中，俄罗斯总统弗拉基米尔·普京会见了美国特使史蒂夫·维特科夫（ Steve Witkoff ） ，并表示他已准备好帮助解决伊朗战争。",
+          "en": "It comes amid reports that the US and Israeli militaries have developed plans for a major new wave of strikes.",
+          "zh": "有报道称，美国和以色列军方已经制定了新一轮重大罢工的计划。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "And Pakistan's most senior mediator leaves Tehran, after failing to bring Iran and the US closer to an agreement.",
-          "zh": "巴基斯坦最高调解员在未能使伊朗和美国更接近达成协议后离开德黑兰。",
+          "en": "Meanwhile, oil prices have risen to their highest for five months.",
+          "zh": "与此同时，油价已升至五个月来的最高水平。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Trump puts the blame on Iran, saying the country is doing all it can to drive prices up before the US midterm elections.",
+          "zh": "特朗普将责任归咎于伊朗，称该国正在尽一切努力在美国中期选举之前推高价格。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Reports from Saudi Arabia say that the state oil company Aramco has evacuated its headquarters in the eastern city of Dhahran, as Houthi attacks on the country continue.",
+          "zh": "来自沙特阿拉伯的报道称，由于胡塞武装对该国的袭击仍在继续，沙特阿拉伯国家石油公司已撤离其在东部城市宰赫兰的总部。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "And inside Yemen, the United Nations says more than two million children are malnourished.",
+          "zh": "在也门，联合国表示有200多万儿童营养不良。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
@@ -364,39 +243,39 @@
       ],
       "vocab": [
         {
-          "word": "France",
+          "word": "Donald",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France promises military support to Saudi Arabia | BBC News",
-          "exZh": "法国承诺向沙特阿拉伯提供军事支持| BBC新闻",
+          "ex": "Donald Trump blames Iran for high oil prices | BBC News",
+          "exZh": "唐纳德·特朗普指责伊朗油价高企| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "promises",
+          "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France promises military support to Saudi Arabia | BBC News",
-          "exZh": "法国承诺向沙特阿拉伯提供军事支持| BBC新闻",
+          "ex": "Donald Trump blames Iran for high oil prices | BBC News",
+          "exZh": "唐纳德·特朗普指责伊朗油价高企| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "military",
+          "word": "blames",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France promises military support to Saudi Arabia | BBC News",
-          "exZh": "法国承诺向沙特阿拉伯提供军事支持| BBC新闻",
+          "ex": "Donald Trump blames Iran for high oil prices | BBC News",
+          "exZh": "唐纳德·特朗普指责伊朗油价高企| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "support",
+          "word": "Iran",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "France promises military support to Saudi Arabia | BBC News",
-          "exZh": "法国承诺向沙特阿拉伯提供军事支持| BBC新闻",
+          "ex": "Donald Trump blames Iran for high oil prices | BBC News",
+          "exZh": "唐纳德·特朗普指责伊朗油价高企| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -412,320 +291,421 @@
       ]
     },
     {
-      "id": "video-nNuLlNdc_Co",
-      "title": "Trump's broken record, GOP's popularity peril & more | Enten roundup",
-      "titleZh": "特朗普的破纪录、共和党的受欢迎程度等| Enten综述",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-21",
+      "id": "video-zHzEshHcjLk",
+      "title": "Is AI helping or harming cyber-security amid the PHP hacking attempts | Global News Podcast",
+      "titleZh": "在PHP黑客攻击企图中，人工智能是在帮助还是在损害网络安全|全球新闻播客",
+      "level": "C1",
+      "category": "TECHNOLOGY",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-22",
       "minutes": 5,
-      "summary": "CNN Chief Data Analyst Harry Enten runs the midterm numbers, from Republican unpopularity to Democrats' potential key voter demographic.\n\n0:00 Trump's net approval rating is \"Terribly bad\"\n2:40 Is Trump's low popularity dragging down Republicans?\n5:53 The Democrats' secret advantage\n9:09 JD Vance 2028 chances are dropping\n12:02 New CNN poll numbers for key Senate races\n\nWatch Harry’s show, 'The Enten Scale', on CNN: https://cnn.it/4rXUcHz\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Election #Midterms #News",
+      "summary": "Cyber-security experts have used AI tools to uncover a major flaw in the programming language behind many websites, known as PHP. That has led governments, businesses and other organisations around the world scrambling to fix the problem, with many sites going dark. Analysts say hackers have made millions of attempts - using AI - to try to exploit the problem. \n\nWe hear from cyber researcher Ryan Austin, who discovered the PHP flaw, and ask our tech correspondent about the power and danger of AI. \n\nAlso in the Global News Podcast:  \n\n07:23 We hear from Arab-Israeli voters - also known as Palestinian citizens of Israel - as Israel prepares for its first general election since the Hamas attacks of 7th October 2023. Polls show that neither Prime Minister Benjamin Netanyahu nor his main rivals have an easy path to forming a coalition government. That means small Arab-majority parties could hold the balance of power, depending on whom they decide to support. \n\nThe Global News Podcast brings you the best of the BBC’s news coverage and analysis from around the world. \n\nNew audio episodes of the Global News Podcast are published twice a day. You can listen here: https://link.mgln.ai/GNP-YT\n\nAnd you can find more of our YouTube episodes here: https://bbc.in/GlobalNewsPodcast\n\nIf you would like to get in touch, you can email us at globalpodcast@bbc.co.uk. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=nNuLlNdc_Co",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/nNuLlNdc_Co",
-      "articleUrl": "https://www.youtube.com/watch?v=nNuLlNdc_Co",
+      "videoUrl": "https://www.youtube.com/watch?v=zHzEshHcjLk",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/zHzEshHcjLk",
+      "articleUrl": "https://www.youtube.com/watch?v=zHzEshHcjLk",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN Chief Data Analyst Harry Enten runs the midterm numbers, from Republican unpopularity to Democrats' potential key voter demographic.",
-      "readingTextZh": "美国有线电视新闻网首席数据分析师哈里·恩滕（ Harry Enten ）负责中期数据，从共和党的不受欢迎程度到民主党潜在的关键选民群体。",
+      "readingText": "Cyber-security experts have used AI tools to uncover a major flaw in the programming language behind many websites, known as PHP.\n\nThat has led governments, businesses and other organisations around the world scrambling to fix the problem, with many sites going dark.\n\nAnalysts say hackers have made millions of attempts - using AI - to try to exploit the problem.\n\nWe hear from cyber researcher Ryan Austin, who discovered the PHP flaw, and ask our tech correspondent about the power and danger of AI.\n\nAlso in the Global News Podcast:",
+      "readingTextZh": "网络安全专家使用人工智能工具来发现许多网站（称为PHP ）背后的编程语言中的一个重大缺陷。\n\n这导致世界各地的政府、企业和其他组织争先恐后地解决这个问题，许多网站都陷入了黑暗。\n\n分析师表示，黑客已经使用人工智能进行了数百万次尝试，试图利用这个问题。\n\n我们听取了网络研究员Ryan Austin的发现，他发现了PHP漏洞，并向我们的技术记者询问了人工智能的力量和危险。\n\n同样在全球新闻播客中：",
       "sentences": [
         {
-          "en": "CNN Chief Data Analyst Harry Enten runs the midterm numbers, from Republican unpopularity to Democrats' potential key voter demographic.",
-          "zh": "美国有线电视新闻网首席数据分析师哈里·恩滕（ Harry Enten ）负责中期数据，从共和党的不受欢迎程度到民主党潜在的关键选民群体。",
+          "en": "Cyber-security experts have used AI tools to uncover a major flaw in the programming language behind many websites, known as PHP.",
+          "zh": "网络安全专家使用人工智能工具来发现许多网站（称为PHP ）背后的编程语言中的一个重大缺陷。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "That has led governments, businesses and other organisations around the world scrambling to fix the problem, with many sites going dark.",
+          "zh": "这导致世界各地的政府、企业和其他组织争先恐后地解决这个问题，许多网站都陷入了黑暗。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Analysts say hackers have made millions of attempts - using AI - to try to exploit the problem.",
+          "zh": "分析师表示，黑客已经使用人工智能进行了数百万次尝试，试图利用这个问题。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "We hear from cyber researcher Ryan Austin, who discovered the PHP flaw, and ask our tech correspondent about the power and danger of AI.",
+          "zh": "我们听取了网络研究员Ryan Austin的发现，他发现了PHP漏洞，并向我们的技术记者询问了人工智能的力量和危险。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Also in the Global News Podcast:",
+          "zh": "同样在全球新闻播客中：",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
+        {
+          "word": "helping",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI helping or harming cyber-security amid the PHP hacking attempts | Global News Podcast",
+          "exZh": "在PHP黑客攻击企图中，人工智能是在帮助还是在损害网络安全|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "harming",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI helping or harming cyber-security amid the PHP hacking attempts | Global News Podcast",
+          "exZh": "在PHP黑客攻击企图中，人工智能是在帮助还是在损害网络安全|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "cyber",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI helping or harming cyber-security amid the PHP hacking attempts | Global News Podcast",
+          "exZh": "在PHP黑客攻击企图中，人工智能是在帮助还是在损害网络安全|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "security",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI helping or harming cyber-security amid the PHP hacking attempts | Global News Podcast",
+          "exZh": "在PHP黑客攻击企图中，人工智能是在帮助还是在损害网络安全|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-dMz2cFE43GQ",
+      "title": "Zelensky makes urgent plea to Trump as Putin targets Ukraine",
+      "titleZh": "泽伦斯基在普京瞄准乌克兰之际向特朗普发出紧急呼吁",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-10-22",
+      "minutes": 5,
+      "summary": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me and Trump, he told CNN, but cozying up to Vladimir Putin would only “make him stronger.”\n\nTies between the US and Ukraine have badly deteriorated in recent weeks.\n\n0:00 Diplomatic talks and security guarantees\n2:04 Negotiations over occupied territory\n5:00 U.S. relations and lifting Russian sanctions\n8:04 Intelligence sharing and Starlink limitations\n14:00 Winter defense risks and air defense needs\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#ukraine #russia #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=dMz2cFE43GQ",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/dMz2cFE43GQ",
+      "articleUrl": "https://www.youtube.com/watch?v=dMz2cFE43GQ",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me and Trump, he told CNN, but cozying up to Vladimir Putin would only “make him stronger.”\n\nTies between the US and Ukraine have badly deteriorated in recent weeks.",
+      "readingTextZh": "在与唐纳德·特朗普（ Donald Trump ）发生激烈分歧后，许多乌克兰人担心美国总统再次落后于俄罗斯，总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）直言不讳地解决了这场争端：他告诉美国有线电视新闻网（ CNN ） ，我和特朗普之间没有任何个人关系，但与弗拉基米尔·普京（ Vladimir Putin ）亲近只会“\n\n最近几周，美国和乌克兰之间的关系严重恶化。",
+      "sentences": [
+        {
+          "en": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me and Trump, he told CNN, but cozying up to Vladimir Putin would only “make him stronger.”\n\nTies between the US and Ukraine have badly deteriorated in recent weeks.",
+          "zh": "在与唐纳德·特朗普（ Donald Trump ）发生激烈分歧后，许多乌克兰人担心美国总统再次落后于俄罗斯，总统沃洛季米尔·泽伦斯基（ Volodymyr Zelensky ）直言不讳地解决了这场争端：他告诉美国有线电视新闻网（ CNN ） ，我和特朗普之间没有任何个人关系，但与弗拉基米尔·普京（ Vladimir Putin ）亲近只会“\n\n最近几周，美国和乌克兰之间的关系严重恶化。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Zelensky",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky makes urgent plea to Trump as Putin targets Ukraine",
+          "exZh": "泽伦斯基在普京瞄准乌克兰之际向特朗普发出紧急呼吁",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "makes",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky makes urgent plea to Trump as Putin targets Ukraine",
+          "exZh": "泽伦斯基在普京瞄准乌克兰之际向特朗普发出紧急呼吁",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "urgent",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky makes urgent plea to Trump as Putin targets Ukraine",
+          "exZh": "泽伦斯基在普京瞄准乌克兰之际向特朗普发出紧急呼吁",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "plea",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Zelensky makes urgent plea to Trump as Putin targets Ukraine",
+          "exZh": "泽伦斯基在普京瞄准乌克兰之际向特朗普发出紧急呼吁",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-JCj4a0L3fUo",
+      "title": "The spooky secret hiding inside Pacific Northwest Glaciers",
+      "titleZh": "隐藏在太平洋西北冰川中的诡异秘密",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-10-22",
+      "minutes": 5,
+      "summary": "Glacier ice worms look like monsters from a horror movie. But they could reveal clues to how life survives in extremes — if they survive human-made warming.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=JCj4a0L3fUo",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/JCj4a0L3fUo",
+      "articleUrl": "https://www.youtube.com/watch?v=JCj4a0L3fUo",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Glacier ice worms look like monsters from a horror movie.\n\nBut they could reveal clues to how life survives in extremes — if they survive human-made warming.",
+      "readingTextZh": "冰川冰虫看起来像恐怖电影中的怪物。\n\n但他们可以揭示生命如何在极端情况下生存的线索—如果他们在人为变暖中生存的话。",
+      "sentences": [
+        {
+          "en": "Glacier ice worms look like monsters from a horror movie.",
+          "zh": "冰川冰虫看起来像恐怖电影中的怪物。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "But they could reveal clues to how life survives in extremes — if they survive human-made warming.",
+          "zh": "但他们可以揭示生命如何在极端情况下生存的线索—如果他们在人为变暖中生存的话。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "spooky",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The spooky secret hiding inside Pacific Northwest Glaciers",
+          "exZh": "隐藏在太平洋西北冰川中的诡异秘密",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "secret",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The spooky secret hiding inside Pacific Northwest Glaciers",
+          "exZh": "隐藏在太平洋西北冰川中的诡异秘密",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "hiding",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The spooky secret hiding inside Pacific Northwest Glaciers",
+          "exZh": "隐藏在太平洋西北冰川中的诡异秘密",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "inside",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The spooky secret hiding inside Pacific Northwest Glaciers",
+          "exZh": "隐藏在太平洋西北冰川中的诡异秘密",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-0mAgG-IHYdI",
+      "title": "Trump defends Vivek Ramaswamy's ad featuring Amy Acton's estranged mother",
+      "titleZh": "特朗普为维韦克·拉马斯瓦米（ Vivek Ramaswamy ）主演艾米·阿克顿（ Amy Acton ）疏远",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-10-22",
+      "minutes": 5,
+      "summary": "President Donald Trump on Thursday encouraged Republican Ohio gubernatorial candidate Vivek Ramaswamy to keep running a controversial ad featuring his opponent Amy Acton's estranged mother. CNN's Kaitlan Collins reports.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=0mAgG-IHYdI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/0mAgG-IHYdI",
+      "articleUrl": "https://www.youtube.com/watch?v=0mAgG-IHYdI",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "President Donald Trump on Thursday encouraged Republican Ohio gubernatorial candidate Vivek Ramaswamy to keep running a controversial ad featuring his opponent Amy Acton's estranged mother.\n\nCNN's Kaitlan Collins reports.",
+      "readingTextZh": "唐纳德·特朗普总统周四鼓励共和党俄亥俄州州长候选人维韦克·拉马斯瓦米（ Vivek Ramaswamy ）继续刊登一则有争议的广告，宣传他的对手艾米·阿克顿（ Amy Acton ）疏远的母亲。\n\nCNN的Kaitlan Collins报道。",
+      "sentences": [
+        {
+          "en": "President Donald Trump on Thursday encouraged Republican Ohio gubernatorial candidate Vivek Ramaswamy to keep running a controversial ad featuring his opponent Amy Acton's estranged mother.",
+          "zh": "唐纳德·特朗普总统周四鼓励共和党俄亥俄州州长候选人维韦克·拉马斯瓦米（ Vivek Ramaswamy ）继续刊登一则有争议的广告，宣传他的对手艾米·阿克顿（ Amy Acton ）疏远的母亲。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN's Kaitlan Collins reports.",
+          "zh": "CNN的Kaitlan Collins报道。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Trump",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump defends Vivek Ramaswamy's ad featuring Amy Acton's estranged mother",
+          "exZh": "特朗普为维韦克·拉马斯瓦米（ Vivek Ramaswamy ）主演艾米·阿克顿（ Amy Acton ）疏远",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "defends",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump defends Vivek Ramaswamy's ad featuring Amy Acton's estranged mother",
+          "exZh": "特朗普为维韦克·拉马斯瓦米（ Vivek Ramaswamy ）主演艾米·阿克顿（ Amy Acton ）疏远",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Vivek",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump defends Vivek Ramaswamy's ad featuring Amy Acton's estranged mother",
+          "exZh": "特朗普为维韦克·拉马斯瓦米（ Vivek Ramaswamy ）主演艾米·阿克顿（ Amy Acton ）疏远",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Ramaswamy's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump defends Vivek Ramaswamy's ad featuring Amy Acton's estranged mother",
+          "exZh": "特朗普为维韦克·拉马斯瓦米（ Vivek Ramaswamy ）主演艾米·阿克顿（ Amy Acton ）疏远",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-g3z35yqyRdY",
+      "title": "Billionaire pardoned after hiring Trump's ex-lawyer for $50M: NYT",
+      "titleZh": "亿万富翁以5000万美元聘请特朗普的前律师后获得赦免：纽约时报",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-10-22",
+      "minutes": 5,
+      "summary": "Trump ally Alina Habba accepted a job that would pay her $50 million even as she served as a top adviser in Trump’s Justice Department — shortly before the billionaire Venezuelan banker who hired her got a pardon he had been seeking. She denied any role in the pardon.\n\nThe New York Times’ Tyler Pager reported that Alina Habba secured the $50 million employment deal with a company that had only recently been set up and doesn’t have a public profile. She also reportedly finalized the deal even as she was still serving as US attorney in New Jersey, and she began the job when she was serving as a special government employee advising then-Attorney General Pam Bondi. Two weeks after she started her job, the Venezuelan banker who hired her — Julio Herrera Velutini — received his pardon, the Times reported.\n\n0:00 NYT: Billionaire got Trump pardon after $50M deal with Alina Habba\n0:54 Habba denies any role in the pardon\n1:20 NY Times White House correspondent Tyler Pager outlines the story\n4:20 AC360 panel unpacks government corruption as a key issue among voters\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #pardon #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=g3z35yqyRdY",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/g3z35yqyRdY",
+      "articleUrl": "https://www.youtube.com/watch?v=g3z35yqyRdY",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Trump ally Alina Habba accepted a job that would pay her $50 million even as she served as a top adviser in Trump’s Justice Department — shortly before the billionaire Venezuelan banker who hired her got a pardon he had been seeking.\n\nShe denied any role in the pardon.\n\nThe New York Times’ Tyler Pager reported that Alina Habba secured the $50 million employment deal with a company that had only recently been set up and doesn’t have a public profile.\n\nShe also reportedly finalized the deal even as she was still serving as US attorney in New Jersey, and she began the job when she was serving as a special government employee advising then-Attorney General Pam Bondi.\n\nTwo weeks after she started her job, the Venezuelan banker who hired her — Julio Herrera Velutini — received his pardon, the Times reported.",
+      "readingTextZh": "特朗普的盟友阿丽娜·哈巴（ Alina Habba ）接受了一份薪水为5000万美元的工作，尽管她曾在特朗普司法部担任高级顾问—就在这位雇用她的亿万富翁委内瑞拉银行家获得他一直在寻求的赦免之前不久。\n\n她否认在赦免中扮演任何角色。\n\n《纽约时报》的泰勒·佩格（ Tyler Pager ）报道说，阿丽娜·哈巴（ Alina Habba ）与一家最近才成立但没有公开资料的公司达成了5000万美元的就业协议$。\n\n据报道，即使她仍在新泽西州担任美国检察官，她也完成了这笔交易，她在担任特别政府雇员时开始了这项工作，为当时的司法部长Pam Bondi提供咨询。\n\n据《泰晤士报》报道，在她开始工作两周后，雇用她的委内瑞拉银行家胡里奥·埃雷拉·韦卢蒂尼（ Julio Herrera Velutini ）获得了赦免。",
+      "sentences": [
+        {
+          "en": "Trump ally Alina Habba accepted a job that would pay her $50 million even as she served as a top adviser in Trump’s Justice Department — shortly before the billionaire Venezuelan banker who hired her got a pardon he had been seeking.",
+          "zh": "特朗普的盟友阿丽娜·哈巴（ Alina Habba ）接受了一份薪水为5000万美元的工作，尽管她曾在特朗普司法部担任高级顾问—就在这位雇用她的亿万富翁委内瑞拉银行家获得他一直在寻求的赦免之前不久。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "She denied any role in the pardon.",
+          "zh": "她否认在赦免中扮演任何角色。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The New York Times’ Tyler Pager reported that Alina Habba secured the $50 million employment deal with a company that had only recently been set up and doesn’t have a public profile.",
+          "zh": "《纽约时报》的泰勒·佩格（ Tyler Pager ）报道说，阿丽娜·哈巴（ Alina Habba ）与一家最近才成立但没有公开资料的公司达成了5000万美元的就业协议$。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "She also reportedly finalized the deal even as she was still serving as US attorney in New Jersey, and she began the job when she was serving as a special government employee advising then-Attorney General Pam Bondi.",
+          "zh": "据报道，即使她仍在新泽西州担任美国检察官，她也完成了这笔交易，她在担任特别政府雇员时开始了这项工作，为当时的司法部长Pam Bondi提供咨询。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Two weeks after she started her job, the Venezuelan banker who hired her — Julio Herrera Velutini — received his pardon, the Times reported.",
+          "zh": "据《泰晤士报》报道，在她开始工作两周后，雇用她的委内瑞拉银行家胡里奥·埃雷拉·韦卢蒂尼（ Julio Herrera Velutini ）获得了赦免。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Billionaire",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Billionaire pardoned after hiring Trump's ex-lawyer for $50M: NYT",
+          "exZh": "亿万富翁以5000万美元聘请特朗普的前律师后获得赦免：纽约时报",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "pardoned",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Billionaire pardoned after hiring Trump's ex-lawyer for $50M: NYT",
+          "exZh": "亿万富翁以5000万美元聘请特朗普的前律师后获得赦免：纽约时报",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "hiring",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Billionaire pardoned after hiring Trump's ex-lawyer for $50M: NYT",
+          "exZh": "亿万富翁以5000万美元聘请特朗普的前律师后获得赦免：纽约时报",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
         {
           "word": "Trump's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's broken record, GOP's popularity peril & more | Enten roundup",
-          "exZh": "特朗普的破纪录、共和党的受欢迎程度等| Enten综述",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "broken",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's broken record, GOP's popularity peril & more | Enten roundup",
-          "exZh": "特朗普的破纪录、共和党的受欢迎程度等| Enten综述",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "record",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's broken record, GOP's popularity peril & more | Enten roundup",
-          "exZh": "特朗普的破纪录、共和党的受欢迎程度等| Enten综述",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "GOP's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's broken record, GOP's popularity peril & more | Enten roundup",
-          "exZh": "特朗普的破纪录、共和党的受欢迎程度等| Enten综述",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-jUnyRPOZC7o",
-      "title": "Neurologist reveals the ‘number one thing’ anyone can do for their brain health today",
-      "titleZh": "神经病学家揭示了当今任何人都可以为大脑健康做的“第一件事”",
-      "level": "B2",
-      "category": "HEALTH",
-      "source": "CNN · Official Video",
-      "date": "2026-10-21",
-      "minutes": 5,
-      "summary": "CNN's Dr. Sanjay Gupta talks with neurologist and Alzheimer's researcher Dr. Richard Isaacson at CNN's Health Innovation Summit about the things everyone can do to promote brain health. You can stream the Health Innovation Summit on CNN on October 28 with an All Access subscription.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=jUnyRPOZC7o",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/jUnyRPOZC7o",
-      "articleUrl": "https://www.youtube.com/watch?v=jUnyRPOZC7o",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN's Dr.\n\nSanjay Gupta talks with neurologist and Alzheimer's researcher Dr.\n\nRichard Isaacson at CNN's Health Innovation Summit about the things everyone can do to promote brain health.\n\nYou can stream the Health Innovation Summit on CNN on October 28 with an All Access subscription.",
-      "readingTextZh": "CNN的Dr.\n\nSanjay Gupta与神经学家和阿尔茨海默氏症研究员Dr.\n\n理查德·艾萨克森（ Richard Isaacson ）在美国有线电视新闻网（ CNN ）的健康创新峰会上谈到了每个人都可以做\n\n您可以在10月28日通过All Access订阅在CNN上直播健康创新峰会。",
-      "sentences": [
-        {
-          "en": "CNN's Dr.",
-          "zh": "CNN的Dr.",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Sanjay Gupta talks with neurologist and Alzheimer's researcher Dr.",
-          "zh": "Sanjay Gupta与神经学家和阿尔茨海默氏症研究员Dr.",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Richard Isaacson at CNN's Health Innovation Summit about the things everyone can do to promote brain health.",
-          "zh": "理查德·艾萨克森（ Richard Isaacson ）在美国有线电视新闻网（ CNN ）的健康创新峰会上谈到了每个人都可以做",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "You can stream the Health Innovation Summit on CNN on October 28 with an All Access subscription.",
-          "zh": "您可以在10月28日通过All Access订阅在CNN上直播健康创新峰会。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Neurologist",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Neurologist reveals the ‘number one thing’ anyone can do for their brain health today",
-          "exZh": "神经病学家揭示了当今任何人都可以为大脑健康做的“第一件事”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "reveals",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Neurologist reveals the ‘number one thing’ anyone can do for their brain health today",
-          "exZh": "神经病学家揭示了当今任何人都可以为大脑健康做的“第一件事”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "number",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Neurologist reveals the ‘number one thing’ anyone can do for their brain health today",
-          "exZh": "神经病学家揭示了当今任何人都可以为大脑健康做的“第一件事”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "thing",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Neurologist reveals the ‘number one thing’ anyone can do for their brain health today",
-          "exZh": "神经病学家揭示了当今任何人都可以为大脑健康做的“第一件事”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-zUJxxAb5Pug",
-      "title": "How Netanyahu’s government has reshaped the West Bank",
-      "titleZh": "内塔尼亚胡政府如何重塑约旦河西岸",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-21",
-      "minutes": 5,
-      "summary": "Esh Kodesh is just one of more than 100 new settlements in the occupied West Bank that the Israeli government has approved since it took power at the close of 2022, many of which were first established illegally as outposts. \n\nCNN’s Jeremy Diamond reports that since then, violence and attacks against Palestinians in the area have escalated.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=zUJxxAb5Pug",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/zUJxxAb5Pug",
-      "articleUrl": "https://www.youtube.com/watch?v=zUJxxAb5Pug",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Esh Kodesh is just one of more than 100 new settlements in the occupied West Bank that the Israeli government has approved since it took power at the close of 2022, many of which were first established illegally as outposts.\n\nCNN’s Jeremy Diamond reports that since then, violence and attacks against Palestinians in the area have escalated.",
-      "readingTextZh": "Esh Kodesh只是以色列政府自2022年底上台以来在被占领的约旦河西岸批准的100多个新定居点之一，其中许多定居点最初是非法建立的前哨站。\n\n美国有线电视新闻网（ CNN ）的杰里米·戴蒙德（ Jeremy Diamond ）报道说，自那时以来，该地区针对巴勒斯坦人的暴力和袭击事件",
-      "sentences": [
-        {
-          "en": "Esh Kodesh is just one of more than 100 new settlements in the occupied West Bank that the Israeli government has approved since it took power at the close of 2022, many of which were first established illegally as outposts.",
-          "zh": "Esh Kodesh只是以色列政府自2022年底上台以来在被占领的约旦河西岸批准的100多个新定居点之一，其中许多定居点最初是非法建立的前哨站。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN’s Jeremy Diamond reports that since then, violence and attacks against Palestinians in the area have escalated.",
-          "zh": "美国有线电视新闻网（ CNN ）的杰里米·戴蒙德（ Jeremy Diamond ）报道说，自那时以来，该地区针对巴勒斯坦人的暴力和袭击事件",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Netanyahu",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How Netanyahu’s government has reshaped the West Bank",
-          "exZh": "内塔尼亚胡政府如何重塑约旦河西岸",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "government",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How Netanyahu’s government has reshaped the West Bank",
-          "exZh": "内塔尼亚胡政府如何重塑约旦河西岸",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "reshaped",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How Netanyahu’s government has reshaped the West Bank",
-          "exZh": "内塔尼亚胡政府如何重塑约旦河西岸",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "West",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How Netanyahu’s government has reshaped the West Bank",
-          "exZh": "内塔尼亚胡政府如何重塑约旦河西岸",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-EJ5FjdQRa9Q",
-      "title": "Chemical tank explosion in Ohio forces residents to evacuate",
-      "titleZh": "俄亥俄州化学品罐爆炸迫使居民撤离",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-21",
-      "minutes": 5,
-      "summary": "A chemical tank explosion in Toledo, Ohio prompted residents to evacuate and shelter-in-place as officials assessed the risk of exposure. Officials identified the released chemical as glycidyl methacrylate, a toxic material used in coatings which can cause irritation.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=EJ5FjdQRa9Q",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/EJ5FjdQRa9Q",
-      "articleUrl": "https://www.youtube.com/watch?v=EJ5FjdQRa9Q",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "A chemical tank explosion in Toledo, Ohio prompted residents to evacuate and shelter-in-place as officials assessed the risk of exposure.\n\nOfficials identified the released chemical as glycidyl methacrylate, a toxic material used in coatings which can cause irritation.",
-      "readingTextZh": "俄亥俄州托莱多发生化学品罐爆炸，促使居民撤离和就地避难，因为官员评估了暴露的风险。\n\n官员们将释放的化学物质确定为甲基丙烯酸缩水甘油酯，这是一种用于涂料的有毒材料，可引起刺激。",
-      "sentences": [
-        {
-          "en": "A chemical tank explosion in Toledo, Ohio prompted residents to evacuate and shelter-in-place as officials assessed the risk of exposure.",
-          "zh": "俄亥俄州托莱多发生化学品罐爆炸，促使居民撤离和就地避难，因为官员评估了暴露的风险。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Officials identified the released chemical as glycidyl methacrylate, a toxic material used in coatings which can cause irritation.",
-          "zh": "官员们将释放的化学物质确定为甲基丙烯酸缩水甘油酯，这是一种用于涂料的有毒材料，可引起刺激。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Chemical",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Chemical tank explosion in Ohio forces residents to evacuate",
-          "exZh": "俄亥俄州化学品罐爆炸迫使居民撤离",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "tank",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Chemical tank explosion in Ohio forces residents to evacuate",
-          "exZh": "俄亥俄州化学品罐爆炸迫使居民撤离",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "explosion",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Chemical tank explosion in Ohio forces residents to evacuate",
-          "exZh": "俄亥俄州化学品罐爆炸迫使居民撤离",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Ohio",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Chemical tank explosion in Ohio forces residents to evacuate",
-          "exZh": "俄亥俄州化学品罐爆炸迫使居民撤离",
+          "ex": "Billionaire pardoned after hiring Trump's ex-lawyer for $50M: NYT",
+          "exZh": "亿万富翁以5000万美元聘请特朗普的前律师后获得赦免：纽约时报",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
