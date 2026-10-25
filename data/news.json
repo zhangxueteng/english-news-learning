@@ -1,41 +1,117 @@
 {
-  "updated_at": "2026-10-24T22:37:21.973753+00:00",
+  "updated_at": "2026-10-25T22:36:20.085390+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-kNUedqBNAlY",
-      "title": "What happens behind the scenes when the UK prepares for economic announcements? | BBC News",
-      "titleZh": "当英国为经济公告做准备时，幕后会发生什么？ | BBC新闻",
+      "id": "video-EAyVoxqyy2I",
+      "title": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
+      "titleZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "minutes": 5,
-      "summary": "On Wednesday the Chancellor John Healey will deliver his first Budget.\n\nIn this episode we hear from his predecessor’s chief of staff of nearly five years.\n\nKatie Martin lifts the lid on codenames for government policy, what she thinks Healey should do, and what really happened with the winter fuel payment cut decision.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews #ukpolitics #ukbudget",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=kNUedqBNAlY",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/kNUedqBNAlY",
-      "articleUrl": "https://www.youtube.com/watch?v=kNUedqBNAlY",
+      "videoUrl": "https://www.youtube.com/watch?v=EAyVoxqyy2I",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/EAyVoxqyy2I",
+      "articleUrl": "https://www.youtube.com/watch?v=EAyVoxqyy2I",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "On Wednesday the Chancellor John Healey will deliver his first Budget.\n\nIn this episode we hear from his predecessor’s chief of staff of nearly five years.\n\nKatie Martin lifts the lid on codenames for government policy, what she thinks Healey should do, and what really happened with the winter fuel payment cut decision.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "周三，财政大臣约翰·希利（ John Healey ）将提交他的第一份预算。\n\n在这一集中，我们听到了他前任近五年的参谋长。\n\nKatie Martin揭开了政府政策的代号，她认为Healey应该做什么，以及冬季燃料付款削减决定的真实情况。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
+      "readingTextZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
       "sentences": [
         {
-          "en": "On Wednesday the Chancellor John Healey will deliver his first Budget.",
-          "zh": "周三，财政大臣约翰·希利（ John Healey ）将提交他的第一份预算。",
+          "en": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
+          "zh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Israel's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
+          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "election",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
+          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "important",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
+          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "history",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
+          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-NyzzLugFl_I",
+      "title": "Who will be the next James Bond? | BBC News",
+      "titleZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-25",
+      "minutes": 5,
+      "summary": "Callum Turner, Jack Lowden and Josh O'Connor are among the actors thought to be taking part in final auditions to play James Bond, according to reports.\n\nScreen tests are said to be taking place this weekend, according to the Hollywood Reporter, with between three and five actors understood to have reached the last stages of the process.\n\nThe finalists are said to be taking part in auditions with three components - stunts, camera presence and dialogue.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=NyzzLugFl_I",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/NyzzLugFl_I",
+      "articleUrl": "https://www.youtube.com/watch?v=NyzzLugFl_I",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Callum Turner, Jack Lowden and Josh O'Connor are among the actors thought to be taking part in final auditions to play James Bond, according to reports.\n\nScreen tests are said to be taking place this weekend, according to the Hollywood Reporter, with between three and five actors understood to have reached the last stages of the process.\n\nThe finalists are said to be taking part in auditions with three components - stunts, camera presence and dialogue.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "据报道，卡勒姆·特纳（ Callum Turner ）、杰克·洛登（ Jack Lowden ）和乔希·奥康纳（ Josh O'Connor ）等演员被认为正在参加詹姆斯·邦德（ James Bond\n\n据“好莱坞报道”报道，据说本周末将进行屏幕测试，据了解，有三到五名演员已经达到了这个过程的最后阶段。\n\n据说决赛选手将参加试镜，包括三个部分：特技、镜头和对话。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "Callum Turner, Jack Lowden and Josh O'Connor are among the actors thought to be taking part in final auditions to play James Bond, according to reports.",
+          "zh": "据报道，卡勒姆·特纳（ Callum Turner ）、杰克·洛登（ Jack Lowden ）和乔希·奥康纳（ Josh O'Connor ）等演员被认为正在参加詹姆斯·邦德（ James Bond",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "In this episode we hear from his predecessor’s chief of staff of nearly five years.",
-          "zh": "在这一集中，我们听到了他前任近五年的参谋长。",
+          "en": "Screen tests are said to be taking place this weekend, according to the Hollywood Reporter, with between three and five actors understood to have reached the last stages of the process.",
+          "zh": "据“好莱坞报道”报道，据说本周末将进行屏幕测试，据了解，有三到五名演员已经达到了这个过程的最后阶段。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Katie Martin lifts the lid on codenames for government policy, what she thinks Healey should do, and what really happened with the winter fuel payment cut decision.",
-          "zh": "Katie Martin揭开了政府政策的代号，她认为Healey应该做什么，以及冬季燃料付款削减决定的真实情况。",
+          "en": "The finalists are said to be taking part in auditions with three components - stunts, camera presence and dialogue.",
+          "zh": "据说决赛选手将参加试镜，包括三个部分：特技、镜头和对话。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
@@ -46,39 +122,39 @@
       ],
       "vocab": [
         {
-          "word": "happens",
+          "word": "next",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What happens behind the scenes when the UK prepares for economic announcements? | BBC News",
-          "exZh": "当英国为经济公告做准备时，幕后会发生什么？ | BBC新闻",
+          "ex": "Who will be the next James Bond? | BBC News",
+          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "behind",
+          "word": "James",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What happens behind the scenes when the UK prepares for economic announcements? | BBC News",
-          "exZh": "当英国为经济公告做准备时，幕后会发生什么？ | BBC新闻",
+          "ex": "Who will be the next James Bond? | BBC News",
+          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "scenes",
+          "word": "Bond",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What happens behind the scenes when the UK prepares for economic announcements? | BBC News",
-          "exZh": "当英国为经济公告做准备时，幕后会发生什么？ | BBC新闻",
+          "ex": "Who will be the next James Bond? | BBC News",
+          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "prepares",
+          "word": "News",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What happens behind the scenes when the UK prepares for economic announcements? | BBC News",
-          "exZh": "当英国为经济公告做准备时，幕后会发生什么？ | BBC新闻",
+          "ex": "Who will be the next James Bond? | BBC News",
+          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -94,67 +170,149 @@
       ]
     },
     {
-      "id": "video-HxeICv4o02U",
-      "title": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says. #BBCNews",
-      "titleZh": "Mark Ronson说，艺术家希望与我合作，因为Amy Winehouse的歌曲。# BBCNews",
-      "level": "C1",
+      "id": "video-lW2fXSGbdso",
+      "title": "Is the UK trying to renegotiate Brexit? | BBC News",
+      "titleZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
+      "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
+      "minutes": 5,
+      "summary": "UK Prime Minister Andy Burnham has said he would welcome an \"honest discussion\" about the prospect of returning to free movement between the UK and European Union.\n\nIn an interview with the Sunday Times political editor Ben Riley-Smith, he said a new relationship with Brussels could also include full EU membership or joining the single market.\n\nBen is in the studio to talk about what the PM told him, along with Laura, Paddy and Joe Pike.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews #ukpolitics #andyburnham",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=lW2fXSGbdso",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/lW2fXSGbdso",
+      "articleUrl": "https://www.youtube.com/watch?v=lW2fXSGbdso",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "UK Prime Minister Andy Burnham has said he would welcome an \"honest discussion\" about the prospect of returning to free movement between the UK and European Union.\n\nIn an interview with the Sunday Times political editor Ben Riley-Smith, he said a new relationship with Brussels could also include full EU membership or joining the single market.\n\nBen is in the studio to talk about what the PM told him, along with Laura, Paddy and Joe Pike.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "英国首相安迪·伯纳姆（ Andy Burnham ）表示，他欢迎就英国和欧盟之间恢复自由流动的前景进行“诚实的讨论”。\n\n他在接受《星期日泰晤士报》政治编辑本·莱利-史密斯（ Ben Riley-Smith ）采访时表示，与布鲁塞尔的新关系还可能包括正式加入欧盟或加入单一市场。\n\nBen在工作室与Laura、Paddy和Joe Pike一起谈论首相告诉他的事情。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "UK Prime Minister Andy Burnham has said he would welcome an \"honest discussion\" about the prospect of returning to free movement between the UK and European Union.",
+          "zh": "英国首相安迪·伯纳姆（ Andy Burnham ）表示，他欢迎就英国和欧盟之间恢复自由流动的前景进行“诚实的讨论”。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In an interview with the Sunday Times political editor Ben Riley-Smith, he said a new relationship with Brussels could also include full EU membership or joining the single market.",
+          "zh": "他在接受《星期日泰晤士报》政治编辑本·莱利-史密斯（ Ben Riley-Smith ）采访时表示，与布鲁塞尔的新关系还可能包括正式加入欧盟或加入单一市场。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Ben is in the studio to talk about what the PM told him, along with Laura, Paddy and Joe Pike.",
+          "zh": "Ben在工作室与Laura、Paddy和Joe Pike一起谈论首相告诉他的事情。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "trying",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
+          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "renegotiate",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
+          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Brexit",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
+          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "News",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
+          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-tNAPrapIWqU",
+      "title": "Should you buy or rent a home? #BBCNews",
+      "titleZh": "您应该购买或租赁房屋吗？ # BBCNews",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-25",
       "minutes": 5,
       "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=HxeICv4o02U",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/HxeICv4o02U",
-      "articleUrl": "https://www.youtube.com/watch?v=HxeICv4o02U",
+      "videoUrl": "https://www.youtube.com/watch?v=tNAPrapIWqU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/tNAPrapIWqU",
+      "articleUrl": "https://www.youtube.com/watch?v=tNAPrapIWqU",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says. #BBCNews",
-      "readingTextZh": "Mark Ronson说，艺术家希望与我合作，因为Amy Winehouse的歌曲。# BBCNews",
+      "readingText": "Should you buy or rent a home? #BBCNews",
+      "readingTextZh": "您应该购买或租赁房屋吗？ # BBCNews",
       "sentences": [
         {
-          "en": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says. #BBCNews",
-          "zh": "Mark Ronson说，艺术家希望与我合作，因为Amy Winehouse的歌曲。# BBCNews",
+          "en": "Should you buy or rent a home? #BBCNews",
+          "zh": "您应该购买或租赁房屋吗？ # BBCNews",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Artists",
+          "word": "rent",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says. #BBCNews",
-          "exZh": "Mark Ronson说，艺术家希望与我合作，因为Amy Winehouse的歌曲。# BBCNews",
+          "ex": "Should you buy or rent a home? #BBCNews",
+          "exZh": "您应该购买或租赁房屋吗？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "want",
+          "word": "home",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says. #BBCNews",
-          "exZh": "Mark Ronson说，艺术家希望与我合作，因为Amy Winehouse的歌曲。# BBCNews",
+          "ex": "Should you buy or rent a home? #BBCNews",
+          "exZh": "您应该购买或租赁房屋吗？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "work",
+          "word": "BBCNews",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says. #BBCNews",
-          "exZh": "Mark Ronson说，艺术家希望与我合作，因为Amy Winehouse的歌曲。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "because",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Artists want to work with me because of Amy Winehouse song, Mark Ronson says. #BBCNews",
-          "exZh": "Mark Ronson说，艺术家希望与我合作，因为Amy Winehouse的歌曲。# BBCNews",
+          "ex": "Should you buy or rent a home? #BBCNews",
+          "exZh": "您应该购买或租赁房屋吗？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -170,401 +328,67 @@
       ]
     },
     {
-      "id": "video-W3LbjzivSb0",
-      "title": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany. #BBCNews",
-      "titleZh": "大火吞噬了德国巴伐利亚州阿道夫·希特勒的山顶鹰巢度假胜地。# BBCNews",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-24",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=W3LbjzivSb0",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/W3LbjzivSb0",
-      "articleUrl": "https://www.youtube.com/watch?v=W3LbjzivSb0",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany. #BBCNews",
-      "readingTextZh": "大火吞噬了德国巴伐利亚州阿道夫·希特勒的山顶鹰巢度假胜地。# BBCNews",
-      "sentences": [
-        {
-          "en": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany. #BBCNews",
-          "zh": "大火吞噬了德国巴伐利亚州阿道夫·希特勒的山顶鹰巢度假胜地。# BBCNews",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Fire",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany. #BBCNews",
-          "exZh": "大火吞噬了德国巴伐利亚州阿道夫·希特勒的山顶鹰巢度假胜地。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "engulfs",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany. #BBCNews",
-          "exZh": "大火吞噬了德国巴伐利亚州阿道夫·希特勒的山顶鹰巢度假胜地。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Adolf",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany. #BBCNews",
-          "exZh": "大火吞噬了德国巴伐利亚州阿道夫·希特勒的山顶鹰巢度假胜地。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Hitler's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Fire engulfs Adolf Hitler's mountaintop Eagle's Nest retreat in Bavaria, Germany. #BBCNews",
-          "exZh": "大火吞噬了德国巴伐利亚州阿道夫·希特勒的山顶鹰巢度假胜地。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-BfWIsrjRHuY",
-      "title": "Rocks thrown in Albanian capital as students join wider anti-government protest. #Albania #BBCNews",
-      "titleZh": "学生参加更广泛的反政府抗议活动时，在阿尔巴尼亚首都投掷石块。#阿尔巴尼亚# BBC新闻",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-24",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=BfWIsrjRHuY",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/BfWIsrjRHuY",
-      "articleUrl": "https://www.youtube.com/watch?v=BfWIsrjRHuY",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Rocks thrown in Albanian capital as students join wider anti-government protest. #Albania #BBCNews",
-      "readingTextZh": "学生参加更广泛的反政府抗议活动时，在阿尔巴尼亚首都投掷石块。#阿尔巴尼亚# BBC新闻",
-      "sentences": [
-        {
-          "en": "Rocks thrown in Albanian capital as students join wider anti-government protest. #Albania #BBCNews",
-          "zh": "学生参加更广泛的反政府抗议活动时，在阿尔巴尼亚首都投掷石块。#阿尔巴尼亚# BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Rocks",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rocks thrown in Albanian capital as students join wider anti-government protest. #Albania #BBCNews",
-          "exZh": "学生参加更广泛的反政府抗议活动时，在阿尔巴尼亚首都投掷石块。#阿尔巴尼亚# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "thrown",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rocks thrown in Albanian capital as students join wider anti-government protest. #Albania #BBCNews",
-          "exZh": "学生参加更广泛的反政府抗议活动时，在阿尔巴尼亚首都投掷石块。#阿尔巴尼亚# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Albanian",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rocks thrown in Albanian capital as students join wider anti-government protest. #Albania #BBCNews",
-          "exZh": "学生参加更广泛的反政府抗议活动时，在阿尔巴尼亚首都投掷石块。#阿尔巴尼亚# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "capital",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rocks thrown in Albanian capital as students join wider anti-government protest. #Albania #BBCNews",
-          "exZh": "学生参加更广泛的反政府抗议活动时，在阿尔巴尼亚首都投掷石块。#阿尔巴尼亚# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-UjbbY2CLubg",
-      "title": "Houthis hit more Saudi targets, new US warship deployed & more | Experts on Iran",
-      "titleZh": "胡塞武装袭击了更多沙特目标，部署了新的美国战舰等|伊朗问题专家",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-24",
-      "minutes": 5,
-      "summary": "The United Kingdom said Tuesday it will deploy fighter jets to defend Saudi Arabia against attacks by the Iran-allied Houthi rebels in Yemen. Over the past month, the Houthis have intensified their attacks on Saudi Arabia, launching ballistic missiles and drones at key infrastructure, including oil facilities and airports.\n\nThe US has stepped up its support for the kingdom militarily by boosting intelligence and targeting support. But Saudi Arabia has been asking the US for more offensive support, and so far, President Donald Trump has decided against striking the Houthis.\n\nCNN talks to regional experts about this and other developments from the region.\n\n0:00 What recent Houthi attacks say about their new strategy (October 23)\n3:43 Trump envoy: US moving away from ‘guarantor’ role in Middle East (October 20)\n3:57 A regional expert reacts to the envoy’s message (October 20)\n7:20 What’s the next step for the US in Iran?\n9:31 The push to label the Houtis as terrorist organization (October 20)\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #iran #houthis",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=UjbbY2CLubg",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/UjbbY2CLubg",
-      "articleUrl": "https://www.youtube.com/watch?v=UjbbY2CLubg",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The United Kingdom said Tuesday it will deploy fighter jets to defend Saudi Arabia against attacks by the Iran-allied Houthi rebels in Yemen.\n\nOver the past month, the Houthis have intensified their attacks on Saudi Arabia, launching ballistic missiles and drones at key infrastructure, including oil facilities and airports.\n\nThe US has stepped up its support for the kingdom militarily by boosting intelligence and targeting support.\n\nBut Saudi Arabia has been asking the US for more offensive support, and so far, President Donald Trump has decided against striking the Houthis.\n\nCNN talks to regional experts about this and other developments from the region.",
-      "readingTextZh": "英国周二表示，将部署战斗机保护沙特阿拉伯免受伊朗盟友胡塞叛乱分子在也门的袭击。\n\n在过去的一个月里，胡塞武装加强了对沙特阿拉伯的袭击，向包括石油设施和机场在内的关键基础设施发射了弹道导弹和无人机。\n\n美国通过加强情报和定向支持，在军事上加强了对沙特的支持。\n\n但沙特阿拉伯一直在要求美国提供更多进攻性支持，到目前为止，唐纳德·特朗普总统已决定不打击胡塞武装。\n\n美国有线电视新闻网与区域专家讨论了这一问题以及该地区的其他事态发展。",
-      "sentences": [
-        {
-          "en": "The United Kingdom said Tuesday it will deploy fighter jets to defend Saudi Arabia against attacks by the Iran-allied Houthi rebels in Yemen.",
-          "zh": "英国周二表示，将部署战斗机保护沙特阿拉伯免受伊朗盟友胡塞叛乱分子在也门的袭击。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Over the past month, the Houthis have intensified their attacks on Saudi Arabia, launching ballistic missiles and drones at key infrastructure, including oil facilities and airports.",
-          "zh": "在过去的一个月里，胡塞武装加强了对沙特阿拉伯的袭击，向包括石油设施和机场在内的关键基础设施发射了弹道导弹和无人机。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The US has stepped up its support for the kingdom militarily by boosting intelligence and targeting support.",
-          "zh": "美国通过加强情报和定向支持，在军事上加强了对沙特的支持。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "But Saudi Arabia has been asking the US for more offensive support, and so far, President Donald Trump has decided against striking the Houthis.",
-          "zh": "但沙特阿拉伯一直在要求美国提供更多进攻性支持，到目前为止，唐纳德·特朗普总统已决定不打击胡塞武装。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN talks to regional experts about this and other developments from the region.",
-          "zh": "美国有线电视新闻网与区域专家讨论了这一问题以及该地区的其他事态发展。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Houthis",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Houthis hit more Saudi targets, new US warship deployed & more | Experts on Iran",
-          "exZh": "胡塞武装袭击了更多沙特目标，部署了新的美国战舰等|伊朗问题专家",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Saudi",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Houthis hit more Saudi targets, new US warship deployed & more | Experts on Iran",
-          "exZh": "胡塞武装袭击了更多沙特目标，部署了新的美国战舰等|伊朗问题专家",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "targets",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Houthis hit more Saudi targets, new US warship deployed & more | Experts on Iran",
-          "exZh": "胡塞武装袭击了更多沙特目标，部署了新的美国战舰等|伊朗问题专家",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "warship",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Houthis hit more Saudi targets, new US warship deployed & more | Experts on Iran",
-          "exZh": "胡塞武装袭击了更多沙特目标，部署了新的美国战舰等|伊朗问题专家",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-GU9tYe0YJ-8",
-      "title": "Clarissa Ward on protests in France wrap",
-      "titleZh": "克拉丽莎·沃德（ Clarissa Ward ）讲述法国抗议活动",
-      "level": "A2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-24",
-      "minutes": 5,
-      "summary": "Protesters in Paris clashed with police as peaceful protests once again turned chaotic, with tear gas and water cannons being used in an attempt to disperse the crowd. CNN’s Clarissa Ward reports.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=GU9tYe0YJ-8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/GU9tYe0YJ-8",
-      "articleUrl": "https://www.youtube.com/watch?v=GU9tYe0YJ-8",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Protesters in Paris clashed with police as peaceful protests once again turned chaotic, with tear gas and water cannons being used in an attempt to disperse the crowd.\n\nCNN’s Clarissa Ward reports.",
-      "readingTextZh": "巴黎的抗议者与警方发生冲突，和平抗议再次变得混乱，催泪瓦斯和水炮被用来驱散人群。\n\nCNN的Clarissa Ward报道。",
-      "sentences": [
-        {
-          "en": "Protesters in Paris clashed with police as peaceful protests once again turned chaotic, with tear gas and water cannons being used in an attempt to disperse the crowd.",
-          "zh": "巴黎的抗议者与警方发生冲突，和平抗议再次变得混乱，催泪瓦斯和水炮被用来驱散人群。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN’s Clarissa Ward reports.",
-          "zh": "CNN的Clarissa Ward报道。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Clarissa",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Clarissa Ward on protests in France wrap",
-          "exZh": "克拉丽莎·沃德（ Clarissa Ward ）讲述法国抗议活动",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Ward",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Clarissa Ward on protests in France wrap",
-          "exZh": "克拉丽莎·沃德（ Clarissa Ward ）讲述法国抗议活动",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "protests",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Clarissa Ward on protests in France wrap",
-          "exZh": "克拉丽莎·沃德（ Clarissa Ward ）讲述法国抗议活动",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "France",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Clarissa Ward on protests in France wrap",
-          "exZh": "克拉丽莎·沃德（ Clarissa Ward ）讲述法国抗议活动",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-Vfq9WgdoRXg",
-      "title": "Epstein survivor plans to vote for first time",
-      "titleZh": "爱泼斯坦幸存者计划首次投票",
+      "id": "video-v6rBB57y71E",
+      "title": "Canadian cliff diver becomes first known woman to dive off iceberg",
+      "titleZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "minutes": 5,
-      "summary": "Wendy Pesante was around 15 when she was abused by Jeffrey Epstein. She and other survivors hope the midterm elections will show that the Epstein issue matters.",
+      "summary": "Canadian cliff diver Molly Carlson became the first known woman to dive off an iceberg after taking the plunge off the coast of Newfoundland.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Vfq9WgdoRXg",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Vfq9WgdoRXg",
-      "articleUrl": "https://www.youtube.com/watch?v=Vfq9WgdoRXg",
+      "videoUrl": "https://www.youtube.com/watch?v=v6rBB57y71E",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/v6rBB57y71E",
+      "articleUrl": "https://www.youtube.com/watch?v=v6rBB57y71E",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Wendy Pesante was around 15 when she was abused by Jeffrey Epstein.\n\nShe and other survivors hope the midterm elections will show that the Epstein issue matters.",
-      "readingTextZh": "温迪·佩桑特（ Wendy Pesante ）在15岁左右被杰弗里·爱泼斯坦（ Jeffrey Epstein\n\n她和其他幸存者希望中期选举将表明爱泼斯坦的问题很重要。",
+      "readingText": "Canadian cliff diver Molly Carlson became the first known woman to dive off an iceberg after taking the plunge off the coast of Newfoundland.",
+      "readingTextZh": "加拿大悬崖潜水员莫莉·卡尔森（ Molly Carlson ）在纽芬兰（ Newfoundland ）海岸跳水后，成为第一位从冰山上潜水的已知女性。",
       "sentences": [
         {
-          "en": "Wendy Pesante was around 15 when she was abused by Jeffrey Epstein.",
-          "zh": "温迪·佩桑特（ Wendy Pesante ）在15岁左右被杰弗里·爱泼斯坦（ Jeffrey Epstein",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "She and other survivors hope the midterm elections will show that the Epstein issue matters.",
-          "zh": "她和其他幸存者希望中期选举将表明爱泼斯坦的问题很重要。",
+          "en": "Canadian cliff diver Molly Carlson became the first known woman to dive off an iceberg after taking the plunge off the coast of Newfoundland.",
+          "zh": "加拿大悬崖潜水员莫莉·卡尔森（ Molly Carlson ）在纽芬兰（ Newfoundland ）海岸跳水后，成为第一位从冰山上潜水的已知女性。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Epstein",
+          "word": "Canadian",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Epstein survivor plans to vote for first time",
-          "exZh": "爱泼斯坦幸存者计划首次投票",
+          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
+          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "survivor",
+          "word": "cliff",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Epstein survivor plans to vote for first time",
-          "exZh": "爱泼斯坦幸存者计划首次投票",
+          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
+          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "plans",
+          "word": "diver",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Epstein survivor plans to vote for first time",
-          "exZh": "爱泼斯坦幸存者计划首次投票",
+          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
+          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "vote",
+          "word": "becomes",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Epstein survivor plans to vote for first time",
-          "exZh": "爱泼斯坦幸存者计划首次投票",
+          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
+          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -580,67 +404,219 @@
       ]
     },
     {
-      "id": "video-wNuYnCmDv3M",
-      "title": "Ukrainian President Zelensky confirms access to Starshield has been restored",
-      "titleZh": "乌克兰总统泽伦斯基确认Starshield的访问权限已恢复",
+      "id": "video-yZIIkGsOcLw",
+      "title": "Midterm numbers are heading into blowout territory: What to know",
+      "titleZh": "中期数据正在进入井喷区域：需要了解的内容",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "minutes": 5,
-      "summary": "After a week of slow Starlink speeds hindering Ukrainian military operations, the Ukrainian defense ministry announced on Saturday that full access to the military grade internet service has been restored.",
+      "summary": "As millions of voters head to the polls, CNN's Harry Enten reveals why this election may not be as close as some expect and the signs that point to a blowout victory.\n\n0:00 Harry reveals that the data points to a blowout victory\n0:32 How the race for the House has changed\n2:32 Where the polls are trending in the race for Congress\n4:00 Why the polls might still be underestimating Republican support\n5:25 The chance of a blowout in the House\n6:28 The chance of a blowout in the Senate\n10:22 Who’s leading in the races that will determine control?\n11:23 The factors working against Republicans\n\nWatch Harry’s show, 'The Enten Scale', on CNN: https://cnn.it/4rXUcHz\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Election #Midterms #News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=wNuYnCmDv3M",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/wNuYnCmDv3M",
-      "articleUrl": "https://www.youtube.com/watch?v=wNuYnCmDv3M",
+      "videoUrl": "https://www.youtube.com/watch?v=yZIIkGsOcLw",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/yZIIkGsOcLw",
+      "articleUrl": "https://www.youtube.com/watch?v=yZIIkGsOcLw",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "After a week of slow Starlink speeds hindering Ukrainian military operations, the Ukrainian defense ministry announced on Saturday that full access to the military grade internet service has been restored.",
-      "readingTextZh": "经过一周缓慢的Starlink速度阻碍了乌克兰的军事行动，乌克兰国防部周六宣布已恢复对军事级互联网服务的完全访问。",
+      "readingText": "As millions of voters head to the polls, CNN's Harry Enten reveals why this election may not be as close as some expect and the signs that point to a blowout victory.",
+      "readingTextZh": "随着数百万选民前往投票站，美国有线电视新闻网（ CNN ）的哈里·恩滕（ Harry Enten ）揭示了为什么这次选举可能没有一些人预期的那么接近，以及指向井喷式胜利的迹象。",
       "sentences": [
         {
-          "en": "After a week of slow Starlink speeds hindering Ukrainian military operations, the Ukrainian defense ministry announced on Saturday that full access to the military grade internet service has been restored.",
-          "zh": "经过一周缓慢的Starlink速度阻碍了乌克兰的军事行动，乌克兰国防部周六宣布已恢复对军事级互联网服务的完全访问。",
+          "en": "As millions of voters head to the polls, CNN's Harry Enten reveals why this election may not be as close as some expect and the signs that point to a blowout victory.",
+          "zh": "随着数百万选民前往投票站，美国有线电视新闻网（ CNN ）的哈里·恩滕（ Harry Enten ）揭示了为什么这次选举可能没有一些人预期的那么接近，以及指向井喷式胜利的迹象。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Ukrainian",
+          "word": "Midterm",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ukrainian President Zelensky confirms access to Starshield has been restored",
-          "exZh": "乌克兰总统泽伦斯基确认Starshield的访问权限已恢复",
+          "ex": "Midterm numbers are heading into blowout territory: What to know",
+          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "President",
+          "word": "numbers",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ukrainian President Zelensky confirms access to Starshield has been restored",
-          "exZh": "乌克兰总统泽伦斯基确认Starshield的访问权限已恢复",
+          "ex": "Midterm numbers are heading into blowout territory: What to know",
+          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Zelensky",
+          "word": "heading",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ukrainian President Zelensky confirms access to Starshield has been restored",
-          "exZh": "乌克兰总统泽伦斯基确认Starshield的访问权限已恢复",
+          "ex": "Midterm numbers are heading into blowout territory: What to know",
+          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "confirms",
+          "word": "blowout",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ukrainian President Zelensky confirms access to Starshield has been restored",
-          "exZh": "乌克兰总统泽伦斯基确认Starshield的访问权限已恢复",
+          "ex": "Midterm numbers are heading into blowout territory: What to know",
+          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-VgmXEESq-hE",
+      "title": "Drone video shows where Colorado highway was washed out by floodwaters",
+      "titleZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
+      "level": "B1",
+      "category": "SCIENCE",
+      "source": "CNN · Official Video",
+      "date": "2026-10-25",
+      "minutes": 5,
+      "summary": "A segment of roadway was washed away by floodwaters near Devil Mountain, Colorado, after nearly three inches of rain fell on Thursday, with an additional half an inch Saturday.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=VgmXEESq-hE",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/VgmXEESq-hE",
+      "articleUrl": "https://www.youtube.com/watch?v=VgmXEESq-hE",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "A segment of roadway was washed away by floodwaters near Devil Mountain, Colorado, after nearly three inches of rain fell on Thursday, with an additional half an inch Saturday.",
+      "readingTextZh": "周四降雨近3英寸后，科罗拉多州魔鬼山附近的一段道路被洪水冲走，周六又增加了半英寸。",
+      "sentences": [
+        {
+          "en": "A segment of roadway was washed away by floodwaters near Devil Mountain, Colorado, after nearly three inches of rain fell on Thursday, with an additional half an inch Saturday.",
+          "zh": "周四降雨近3英寸后，科罗拉多州魔鬼山附近的一段道路被洪水冲走，周六又增加了半英寸。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Drone",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
+          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "video",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
+          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "shows",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
+          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Colorado",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
+          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-ANF19VjiL-s",
+      "title": "Stevens dodges questions on whether she supports El-Sayed",
+      "titleZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-10-25",
+      "minutes": 5,
+      "summary": "Haley Stevens says she’s “on the Democratic ticket” but hasn’t campaigned alongside Abdul El-Sayed and says she doesn’t agree with everything that’s gone on in the race.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=ANF19VjiL-s",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/ANF19VjiL-s",
+      "articleUrl": "https://www.youtube.com/watch?v=ANF19VjiL-s",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Haley Stevens says she’s “on the Democratic ticket” but hasn’t campaigned alongside Abdul El-Sayed and says she doesn’t agree with everything that’s gone on in the race.",
+      "readingTextZh": "海莉·史蒂文斯（ Haley Stevens ）说她“在民主党的票上” ，但没有与阿卜杜勒·埃尔·赛义德（ Abdul El-Sayed ）一起竞选，并说她不同意比赛中发生的一切。",
+      "sentences": [
+        {
+          "en": "Haley Stevens says she’s “on the Democratic ticket” but hasn’t campaigned alongside Abdul El-Sayed and says she doesn’t agree with everything that’s gone on in the race.",
+          "zh": "海莉·史蒂文斯（ Haley Stevens ）说她“在民主党的票上” ，但没有与阿卜杜勒·埃尔·赛义德（ Abdul El-Sayed ）一起竞选，并说她不同意比赛中发生的一切。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Stevens",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Stevens dodges questions on whether she supports El-Sayed",
+          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "dodges",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Stevens dodges questions on whether she supports El-Sayed",
+          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "questions",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Stevens dodges questions on whether she supports El-Sayed",
+          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "whether",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Stevens dodges questions on whether she supports El-Sayed",
+          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
