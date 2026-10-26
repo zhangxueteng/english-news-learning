@@ -1,31 +1,319 @@
 {
-  "updated_at": "2026-10-25T22:36:20.085390+00:00",
+  "updated_at": "2026-10-26T22:42:50.673989+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-EAyVoxqyy2I",
-      "title": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
-      "titleZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
-      "level": "B2",
+      "id": "video-8cJoD3C_mDo",
+      "title": "Can the government actually end rough sleeping by Christmas?  | BBC Newscast",
+      "titleZh": "政府真的可以在圣诞节前结束粗暴睡眠吗？ | BBC新闻广播",
+      "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Today, Andy Burnham has doubled the funding for his pledge to get rough sleepers off the streets by Christmas. £432 million pound will be announced for the plan in Wednesday’s budget. Adam and Chris are joined by housing correspondent Tarah Welsh to discuss how the money could be spent and why the government has chosen to focus on rough sleeping.\n\nPlus, with elections taking place in Brazil and Serbia over the weekend and Israeli voters set to go to the polls tomorrow Adam caught up with political scientist Ben Ansell from the University of Oxford to break down what the elections tell us about trends in global politics.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=EAyVoxqyy2I",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/EAyVoxqyy2I",
-      "articleUrl": "https://www.youtube.com/watch?v=EAyVoxqyy2I",
+      "videoUrl": "https://www.youtube.com/watch?v=8cJoD3C_mDo",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/8cJoD3C_mDo",
+      "articleUrl": "https://www.youtube.com/watch?v=8cJoD3C_mDo",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
-      "readingTextZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+      "readingText": "Today, Andy Burnham has doubled the funding for his pledge to get rough sleepers off the streets by Christmas. £432 million pound will be announced for the plan in Wednesday’s budget.\n\nAdam and Chris are joined by housing correspondent Tarah Welsh to discuss how the money could be spent and why the government has chosen to focus on rough sleeping.\n\nPlus, with elections taking place in Brazil and Serbia over the weekend and Israeli voters set to go to the polls tomorrow Adam caught up with political scientist Ben Ansell from the University of Oxford to break down what the elections tell us about trends in global politics.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "今天，安迪·伯纳姆（ Andy Burnham ）将承诺在圣诞节前让露宿者离开街头的资金增加了一倍。周三的预算中将宣布£ 4.32亿英镑的计划。\n\n亚当和克里斯与住房记者塔拉·威尔士（ Tarah Welsh ）一起讨论如何花钱，以及政府为什么选择专注于粗暴睡眠。\n\n此外，随着巴西和塞尔维亚周末举行选举，以色列选民将于明天前往投票站，亚当采访了牛津大学的政治学家本·安塞尔（ Ben Ansell ） ，以细分选举告诉我们的全球政治趋势。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
-          "zh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "en": "Today, Andy Burnham has doubled the funding for his pledge to get rough sleepers off the streets by Christmas. £432 million pound will be announced for the plan in Wednesday’s budget.",
+          "zh": "今天，安迪·伯纳姆（ Andy Burnham ）将承诺在圣诞节前让露宿者离开街头的资金增加了一倍。周三的预算中将宣布£ 4.32亿英镑的计划。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Adam and Chris are joined by housing correspondent Tarah Welsh to discuss how the money could be spent and why the government has chosen to focus on rough sleeping.",
+          "zh": "亚当和克里斯与住房记者塔拉·威尔士（ Tarah Welsh ）一起讨论如何花钱，以及政府为什么选择专注于粗暴睡眠。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Plus, with elections taking place in Brazil and Serbia over the weekend and Israeli voters set to go to the polls tomorrow Adam caught up with political scientist Ben Ansell from the University of Oxford to break down what the elections tell us about trends in global politics.",
+          "zh": "此外，随着巴西和塞尔维亚周末举行选举，以色列选民将于明天前往投票站，亚当采访了牛津大学的政治学家本·安塞尔（ Ben Ansell ） ，以细分选举告诉我们的全球政治趋势。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "government",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Can the government actually end rough sleeping by Christmas?  | BBC Newscast",
+          "exZh": "政府真的可以在圣诞节前结束粗暴睡眠吗？ | BBC新闻广播",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "actually",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Can the government actually end rough sleeping by Christmas?  | BBC Newscast",
+          "exZh": "政府真的可以在圣诞节前结束粗暴睡眠吗？ | BBC新闻广播",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "rough",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Can the government actually end rough sleeping by Christmas?  | BBC Newscast",
+          "exZh": "政府真的可以在圣诞节前结束粗暴睡眠吗？ | BBC新闻广播",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "sleeping",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Can the government actually end rough sleeping by Christmas?  | BBC Newscast",
+          "exZh": "政府真的可以在圣诞节前结束粗暴睡眠吗？ | BBC新闻广播",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-3G04KooY2J0",
+      "title": "Iran's president holds talks with Saudi Arabia, Pakistan and Turkey in Tehran | BBC News",
+      "titleZh": "伊朗总统在德黑兰与沙特阿拉伯、巴基斯坦和土耳其举行会谈| BBC新闻",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-26",
+      "minutes": 5,
+      "summary": "Iran hosts talks in Tehran with senior military and security officials from Saudi Arabia, Pakistan and Turkey for talks in Tehran to discuss regional coordination.\n\nUS President Donald Trump backs Benjamin Netanyahu to win Tuesday's Israeli election while Egypt approves military support for Saudi Arabia in its fight against the Houthis.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=3G04KooY2J0",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/3G04KooY2J0",
+      "articleUrl": "https://www.youtube.com/watch?v=3G04KooY2J0",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Iran hosts talks in Tehran with senior military and security officials from Saudi Arabia, Pakistan and Turkey for talks in Tehran to discuss regional coordination.\n\nUS President Donald Trump backs Benjamin Netanyahu to win Tuesday's Israeli election while Egypt approves military support for Saudi Arabia in its fight against the Houthis.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "伊朗在德黑兰与沙特阿拉伯、巴基斯坦和土耳其的高级军事和安全官员举行会谈，讨论区域协调问题。\n\n美国总统唐纳德·特朗普（ Donald Trump ）支持本雅明·内塔尼亚胡（ Benjamin Netanyahu ）赢得周二的以色列大选，而埃及则批准对沙特阿拉伯打击胡塞武装的军事支持。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "Iran hosts talks in Tehran with senior military and security officials from Saudi Arabia, Pakistan and Turkey for talks in Tehran to discuss regional coordination.",
+          "zh": "伊朗在德黑兰与沙特阿拉伯、巴基斯坦和土耳其的高级军事和安全官员举行会谈，讨论区域协调问题。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "US President Donald Trump backs Benjamin Netanyahu to win Tuesday's Israeli election while Egypt approves military support for Saudi Arabia in its fight against the Houthis.",
+          "zh": "美国总统唐纳德·特朗普（ Donald Trump ）支持本雅明·内塔尼亚胡（ Benjamin Netanyahu ）赢得周二的以色列大选，而埃及则批准对沙特阿拉伯打击胡塞武装的军事支持。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Iran's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Iran's president holds talks with Saudi Arabia, Pakistan and Turkey in Tehran | BBC News",
+          "exZh": "伊朗总统在德黑兰与沙特阿拉伯、巴基斯坦和土耳其举行会谈| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "president",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Iran's president holds talks with Saudi Arabia, Pakistan and Turkey in Tehran | BBC News",
+          "exZh": "伊朗总统在德黑兰与沙特阿拉伯、巴基斯坦和土耳其举行会谈| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "holds",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Iran's president holds talks with Saudi Arabia, Pakistan and Turkey in Tehran | BBC News",
+          "exZh": "伊朗总统在德黑兰与沙特阿拉伯、巴基斯坦和土耳其举行会谈| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "talks",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Iran's president holds talks with Saudi Arabia, Pakistan and Turkey in Tehran | BBC News",
+          "exZh": "伊朗总统在德黑兰与沙特阿拉伯、巴基斯坦和土耳其举行会谈| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-wiBSDYDK2Uc",
+      "title": "How Brazil's President Lula beat Bolsonaro in a runoff election | Global News Podcast",
+      "titleZh": "巴西总统卢拉如何在第二轮选举中击败博尔索纳罗|全球新闻播客",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-26",
+      "minutes": 5,
+      "summary": "Has Brazil turned back the tide of right-wing, pro-Trump leaders, sweeping across Latin America? Left-wing President Luiz Inácio Lula da Silva has won re-election against Flavio Bolsonaro - the son of the jailed former president Jair Bolsonaro, whose family has close ties to Donald Trump. Analysts have described it as a stunning comeback victory, after Lula finished second to Mr Bolsonaro in the first round of voting. Mr Bolsonaro has refused to concede defeat, and is calling for the result of be annulled. \n\nIn this episode, we look at how President Lula's campaign turned its fortunes around, and ask what grounds Mr Bolsonaro has to challenge the election outcome. Plus, we'll ask our reporter what Lula's victory means for Brazil's position in an increasingly conservative region, and the country's relationship with Washington. \n\n00:00 Introduction\n1:46 Lula is re-elected in Brazil \n04:24 Why is Flavio Bolsonaro rejecting Brazil's election result?\n06:12 Brazil, Trump and right-wing populism in Latin America\n\nThe Global News Podcast brings you the best of the BBC’s news coverage and analysis from around the world. New audio episodes of the Global News Podcast are published twice a day. You can listen here: https://link.mgln.ai/GNP-YT\n\nAnd you can find more of our YouTube episodes here: https://bbc.in/GlobalNewsPodcast\n\nIf you would like to get in touch, you can email us at globalpodcast@bbc.co.uk. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Brazil #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=wiBSDYDK2Uc",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/wiBSDYDK2Uc",
+      "articleUrl": "https://www.youtube.com/watch?v=wiBSDYDK2Uc",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Has Brazil turned back the tide of right-wing, pro-Trump leaders, sweeping across Latin America?\n\nLeft-wing President Luiz Inácio Lula da Silva has won re-election against Flavio Bolsonaro - the son of the jailed former president Jair Bolsonaro, whose family has close ties to Donald Trump.\n\nAnalysts have described it as a stunning comeback victory, after Lula finished second to Mr Bolsonaro in the first round of voting.\n\nMr Bolsonaro has refused to concede defeat, and is calling for the result of be annulled.\n\nIn this episode, we look at how President Lula's campaign turned its fortunes around, and ask what grounds Mr Bolsonaro has to challenge the election outcome.\n\nPlus, we'll ask our reporter what Lula's victory means for Brazil's position in an increasingly conservative region, and the country's relationship with Washington.",
+      "readingTextZh": "巴西是否已经扭转了右翼、亲特朗普领导人的潮流，席卷了整个拉丁美洲？\n\n左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）赢得了连任，反对弗拉维奥·博尔索纳罗（ Flavio Bolsonaro ） -被监禁的前总统雅伊尔·博尔索纳罗（ Jair Bolsonaro ）的儿子，\n\n分析师将其描述为惊人的复出胜利，此前卢拉在第一轮投票中仅次于博尔索纳罗。\n\n博尔索纳罗拒绝承认失败，并呼吁取消失败的结果。\n\n在这一集中，我们将看看卢拉总统的竞选活动如何扭转局面，并询问博尔索纳罗先生有什么理由挑战选举结果。\n\n此外，我们还会询问记者，卢拉的胜利对巴西在一个日益保守的地区的地位以及该国与华盛顿的关系意味着什么。",
+      "sentences": [
+        {
+          "en": "Has Brazil turned back the tide of right-wing, pro-Trump leaders, sweeping across Latin America?",
+          "zh": "巴西是否已经扭转了右翼、亲特朗普领导人的潮流，席卷了整个拉丁美洲？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Left-wing President Luiz Inácio Lula da Silva has won re-election against Flavio Bolsonaro - the son of the jailed former president Jair Bolsonaro, whose family has close ties to Donald Trump.",
+          "zh": "左翼总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）赢得了连任，反对弗拉维奥·博尔索纳罗（ Flavio Bolsonaro ） -被监禁的前总统雅伊尔·博尔索纳罗（ Jair Bolsonaro ）的儿子，",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Analysts have described it as a stunning comeback victory, after Lula finished second to Mr Bolsonaro in the first round of voting.",
+          "zh": "分析师将其描述为惊人的复出胜利，此前卢拉在第一轮投票中仅次于博尔索纳罗。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Mr Bolsonaro has refused to concede defeat, and is calling for the result of be annulled.",
+          "zh": "博尔索纳罗拒绝承认失败，并呼吁取消失败的结果。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In this episode, we look at how President Lula's campaign turned its fortunes around, and ask what grounds Mr Bolsonaro has to challenge the election outcome.",
+          "zh": "在这一集中，我们将看看卢拉总统的竞选活动如何扭转局面，并询问博尔索纳罗先生有什么理由挑战选举结果。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Plus, we'll ask our reporter what Lula's victory means for Brazil's position in an increasingly conservative region, and the country's relationship with Washington.",
+          "zh": "此外，我们还会询问记者，卢拉的胜利对巴西在一个日益保守的地区的地位以及该国与华盛顿的关系意味着什么。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Brazil's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How Brazil's President Lula beat Bolsonaro in a runoff election | Global News Podcast",
+          "exZh": "巴西总统卢拉如何在第二轮选举中击败博尔索纳罗|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "President",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How Brazil's President Lula beat Bolsonaro in a runoff election | Global News Podcast",
+          "exZh": "巴西总统卢拉如何在第二轮选举中击败博尔索纳罗|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Lula",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How Brazil's President Lula beat Bolsonaro in a runoff election | Global News Podcast",
+          "exZh": "巴西总统卢拉如何在第二轮选举中击败博尔索纳罗|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "beat",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How Brazil's President Lula beat Bolsonaro in a runoff election | Global News Podcast",
+          "exZh": "巴西总统卢拉如何在第二轮选举中击败博尔索纳罗|全球新闻播客",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-siYdveYFQKo",
+      "title": "How Israel's general election could impact the world | BBC News",
+      "titleZh": "以色列大选将如何影响世界| BBC新闻",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-10-26",
+      "minutes": 5,
+      "summary": "Israeli voters are preparing to head to the polls in the country's first general election since the Hamas-led attacks of 7 October 2023.\n \nTuesday's vote could see Benjamin Netanyahu's lengthy rule end.\n \nIn this video...\n \n0:00 - Israel elections\n01:00 - Main contenders\n01:59 - How do elections work in Israel?\n02:58 - What are the main issues?\n04:58 - What does it mean for Palestinians?\n06:21 - What does it mean for the rest of the world?\n07:49 - When will we know the result?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Netanyahu #Israel #IsraelElection #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=siYdveYFQKo",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/siYdveYFQKo",
+      "articleUrl": "https://www.youtube.com/watch?v=siYdveYFQKo",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Israeli voters are preparing to head to the polls in the country's first general election since the Hamas-led attacks of 7 October 2023.\n\nTuesday's vote could see Benjamin Netanyahu's lengthy rule end.\n\nIn this video...",
+      "readingTextZh": "以色列选民正准备参加该国自2023年10月7日哈马斯领导的袭击以来的首次大选。\n\n周二的投票可能会让本雅明·内塔尼亚胡(Benjamin Netanyahu)漫长的统治结束。\n\n在这个视频中",
+      "sentences": [
+        {
+          "en": "Israeli voters are preparing to head to the polls in the country's first general election since the Hamas-led attacks of 7 October 2023.",
+          "zh": "以色列选民正准备参加该国自2023年10月7日哈马斯领导的袭击以来的首次大选。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Tuesday's vote could see Benjamin Netanyahu's lengthy rule end.",
+          "zh": "周二的投票可能会让本雅明·内塔尼亚胡(Benjamin Netanyahu)漫长的统治结束。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In this video...",
+          "zh": "在这个视频中",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
@@ -35,8 +323,17 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
-          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "ex": "How Israel's general election could impact the world | BBC News",
+          "exZh": "以色列大选将如何影响世界| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "general",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How Israel's general election could impact the world | BBC News",
+          "exZh": "以色列大选将如何影响世界| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
@@ -44,26 +341,17 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
-          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "ex": "How Israel's general election could impact the world | BBC News",
+          "exZh": "以色列大选将如何影响世界| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "important",
+          "word": "impact",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
-          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "history",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why Israel's election is the most important in its history. #Israel #Netanyahu #BBCNews",
-          "exZh": "为什么以色列的选举是其历史上最重要的选举。#以色列#内塔尼亚胡#英国广播公司新闻",
+          "ex": "How Israel's general election could impact the world | BBC News",
+          "exZh": "以色列大选将如何影响世界| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -79,173 +367,82 @@
       ]
     },
     {
-      "id": "video-NyzzLugFl_I",
-      "title": "Who will be the next James Bond? | BBC News",
-      "titleZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
-      "level": "B1",
+      "id": "video-EHP0eg-PHDQ",
+      "title": "Republicans show concern in Mississippi Senate race",
+      "titleZh": "共和党人对密西西比州参议院竞选表示担忧",
+      "level": "A2",
       "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-25",
+      "source": "CNN · Official Video",
+      "date": "2026-10-26",
       "minutes": 5,
-      "summary": "Callum Turner, Jack Lowden and Josh O'Connor are among the actors thought to be taking part in final auditions to play James Bond, according to reports.\n\nScreen tests are said to be taking place this weekend, according to the Hollywood Reporter, with between three and five actors understood to have reached the last stages of the process.\n\nThe finalists are said to be taking part in auditions with three components - stunts, camera presence and dialogue.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "President Donald Trump is rallying for Sen. Cindy Hyde-Smith in reliably red Mississippi on Monday. CNN’s Kevin Liptak explains why Democrats think their candidate, Scott Colom, could have a path to victory this midterm election. Discover more videos, including live streams and exclusive storytelling, on our Watch page.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=NyzzLugFl_I",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/NyzzLugFl_I",
-      "articleUrl": "https://www.youtube.com/watch?v=NyzzLugFl_I",
+      "videoUrl": "https://www.youtube.com/watch?v=EHP0eg-PHDQ",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/EHP0eg-PHDQ",
+      "articleUrl": "https://www.youtube.com/watch?v=EHP0eg-PHDQ",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Callum Turner, Jack Lowden and Josh O'Connor are among the actors thought to be taking part in final auditions to play James Bond, according to reports.\n\nScreen tests are said to be taking place this weekend, according to the Hollywood Reporter, with between three and five actors understood to have reached the last stages of the process.\n\nThe finalists are said to be taking part in auditions with three components - stunts, camera presence and dialogue.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "据报道，卡勒姆·特纳（ Callum Turner ）、杰克·洛登（ Jack Lowden ）和乔希·奥康纳（ Josh O'Connor ）等演员被认为正在参加詹姆斯·邦德（ James Bond\n\n据“好莱坞报道”报道，据说本周末将进行屏幕测试，据了解，有三到五名演员已经达到了这个过程的最后阶段。\n\n据说决赛选手将参加试镜，包括三个部分：特技、镜头和对话。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "President Donald Trump is rallying for Sen.\n\nCindy Hyde-Smith in reliably red Mississippi on Monday.\n\nCNN’s Kevin Liptak explains why Democrats think their candidate, Scott Colom, could have a path to victory this midterm election.\n\nDiscover more videos, including live streams and exclusive storytelling, on our Watch page.",
+      "readingTextZh": "唐纳德·特朗普总统正在为参议员集会。\n\n辛迪·海德-史密斯（ Cindy Hyde-Smith ）周一在可靠的红色密西西比州\n\n美国有线电视新闻网的凯文·利普塔克（ Kevin Liptak ）解释了为什么民主党人认为他们的候选人斯科特·科洛姆（ Scott Colom ）可能会在这次中期选举中获胜。\n\n在我们的观看页面上发现更多视频，包括直播和独家故事讲述。",
       "sentences": [
         {
-          "en": "Callum Turner, Jack Lowden and Josh O'Connor are among the actors thought to be taking part in final auditions to play James Bond, according to reports.",
-          "zh": "据报道，卡勒姆·特纳（ Callum Turner ）、杰克·洛登（ Jack Lowden ）和乔希·奥康纳（ Josh O'Connor ）等演员被认为正在参加詹姆斯·邦德（ James Bond",
+          "en": "President Donald Trump is rallying for Sen.",
+          "zh": "唐纳德·特朗普总统正在为参议员集会。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Screen tests are said to be taking place this weekend, according to the Hollywood Reporter, with between three and five actors understood to have reached the last stages of the process.",
-          "zh": "据“好莱坞报道”报道，据说本周末将进行屏幕测试，据了解，有三到五名演员已经达到了这个过程的最后阶段。",
+          "en": "Cindy Hyde-Smith in reliably red Mississippi on Monday.",
+          "zh": "辛迪·海德-史密斯（ Cindy Hyde-Smith ）周一在可靠的红色密西西比州",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The finalists are said to be taking part in auditions with three components - stunts, camera presence and dialogue.",
-          "zh": "据说决赛选手将参加试镜，包括三个部分：特技、镜头和对话。",
+          "en": "CNN’s Kevin Liptak explains why Democrats think their candidate, Scott Colom, could have a path to victory this midterm election.",
+          "zh": "美国有线电视新闻网的凯文·利普塔克（ Kevin Liptak ）解释了为什么民主党人认为他们的候选人斯科特·科洛姆（ Scott Colom ）可能会在这次中期选举中获胜。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "en": "Discover more videos, including live streams and exclusive storytelling, on our Watch page.",
+          "zh": "在我们的观看页面上发现更多视频，包括直播和独家故事讲述。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "next",
+          "word": "Republicans",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who will be the next James Bond? | BBC News",
-          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
+          "ex": "Republicans show concern in Mississippi Senate race",
+          "exZh": "共和党人对密西西比州参议院竞选表示担忧",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "James",
+          "word": "show",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who will be the next James Bond? | BBC News",
-          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
+          "ex": "Republicans show concern in Mississippi Senate race",
+          "exZh": "共和党人对密西西比州参议院竞选表示担忧",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Bond",
+          "word": "concern",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who will be the next James Bond? | BBC News",
-          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
+          "ex": "Republicans show concern in Mississippi Senate race",
+          "exZh": "共和党人对密西西比州参议院竞选表示担忧",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "News",
+          "word": "Mississippi",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who will be the next James Bond? | BBC News",
-          "exZh": "谁将成为下一个詹姆斯·邦德？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-lW2fXSGbdso",
-      "title": "Is the UK trying to renegotiate Brexit? | BBC News",
-      "titleZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-25",
-      "minutes": 5,
-      "summary": "UK Prime Minister Andy Burnham has said he would welcome an \"honest discussion\" about the prospect of returning to free movement between the UK and European Union.\n\nIn an interview with the Sunday Times political editor Ben Riley-Smith, he said a new relationship with Brussels could also include full EU membership or joining the single market.\n\nBen is in the studio to talk about what the PM told him, along with Laura, Paddy and Joe Pike.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews #ukpolitics #andyburnham",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=lW2fXSGbdso",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/lW2fXSGbdso",
-      "articleUrl": "https://www.youtube.com/watch?v=lW2fXSGbdso",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "UK Prime Minister Andy Burnham has said he would welcome an \"honest discussion\" about the prospect of returning to free movement between the UK and European Union.\n\nIn an interview with the Sunday Times political editor Ben Riley-Smith, he said a new relationship with Brussels could also include full EU membership or joining the single market.\n\nBen is in the studio to talk about what the PM told him, along with Laura, Paddy and Joe Pike.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "英国首相安迪·伯纳姆（ Andy Burnham ）表示，他欢迎就英国和欧盟之间恢复自由流动的前景进行“诚实的讨论”。\n\n他在接受《星期日泰晤士报》政治编辑本·莱利-史密斯（ Ben Riley-Smith ）采访时表示，与布鲁塞尔的新关系还可能包括正式加入欧盟或加入单一市场。\n\nBen在工作室与Laura、Paddy和Joe Pike一起谈论首相告诉他的事情。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "UK Prime Minister Andy Burnham has said he would welcome an \"honest discussion\" about the prospect of returning to free movement between the UK and European Union.",
-          "zh": "英国首相安迪·伯纳姆（ Andy Burnham ）表示，他欢迎就英国和欧盟之间恢复自由流动的前景进行“诚实的讨论”。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In an interview with the Sunday Times political editor Ben Riley-Smith, he said a new relationship with Brussels could also include full EU membership or joining the single market.",
-          "zh": "他在接受《星期日泰晤士报》政治编辑本·莱利-史密斯（ Ben Riley-Smith ）采访时表示，与布鲁塞尔的新关系还可能包括正式加入欧盟或加入单一市场。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Ben is in the studio to talk about what the PM told him, along with Laura, Paddy and Joe Pike.",
-          "zh": "Ben在工作室与Laura、Paddy和Joe Pike一起谈论首相告诉他的事情。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "trying",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
-          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "renegotiate",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
-          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Brexit",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
-          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "News",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is the UK trying to renegotiate Brexit? | BBC News",
-          "exZh": "英国是否试图重新谈判英国脱欧？ | BBC新闻",
+          "ex": "Republicans show concern in Mississippi Senate race",
+          "exZh": "共和党人对密西西比州参议院竞选表示担忧",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -261,134 +458,87 @@
       ]
     },
     {
-      "id": "video-tNAPrapIWqU",
-      "title": "Should you buy or rent a home? #BBCNews",
-      "titleZh": "您应该购买或租赁房屋吗？ # BBCNews",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-25",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=tNAPrapIWqU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/tNAPrapIWqU",
-      "articleUrl": "https://www.youtube.com/watch?v=tNAPrapIWqU",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Should you buy or rent a home? #BBCNews",
-      "readingTextZh": "您应该购买或租赁房屋吗？ # BBCNews",
-      "sentences": [
-        {
-          "en": "Should you buy or rent a home? #BBCNews",
-          "zh": "您应该购买或租赁房屋吗？ # BBCNews",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "rent",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Should you buy or rent a home? #BBCNews",
-          "exZh": "您应该购买或租赁房屋吗？ # BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "home",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Should you buy or rent a home? #BBCNews",
-          "exZh": "您应该购买或租赁房屋吗？ # BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "BBCNews",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Should you buy or rent a home? #BBCNews",
-          "exZh": "您应该购买或租赁房屋吗？ # BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-v6rBB57y71E",
-      "title": "Canadian cliff diver becomes first known woman to dive off iceberg",
-      "titleZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
+      "id": "video-CyqB6YatBsM",
+      "title": "'Dead wrong': Legal analyst picks apart Blanche's AK election lawsuit",
+      "titleZh": "“大错特错” ：法律分析师将布兰奇的AK选举诉讼分开",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "minutes": 5,
-      "summary": "Canadian cliff diver Molly Carlson became the first known woman to dive off an iceberg after taking the plunge off the coast of Newfoundland.",
+      "summary": "CNN senior legal analyst Elie Honig explains that Attorney General Todd Blanche and the DOJ have ‘no legal relevance’ to intervene in Alaska and California's elections. \n\nLast week, the Trump administration preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen. Dan Sullivan loses in the critical contest which could decide the balance of power in the Senate. \n\nAlso, Longtime Republican election lawyer Ben Ginsberg points out this isn't the first time Sen. Dan Sullivan has been joined on an Alaskan ballot by another Dan Sullivan. \n\n0:00 AG Todd Blanche defends the DOJ's preemptive Alaska election lawsuit \n1:20 Elie Honig says Blanche is \"simply dead wrong\" \n5:29 Trump speaks out about the Alaska lawsuit \n6:28 GOP election lawyer says the Trump admin is \"trying to hide behind the law\" \n11:45 CNN political analyst calls the lawsuit \"a major escalation\" \n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#ToddBlanche #Trump #News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=v6rBB57y71E",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/v6rBB57y71E",
-      "articleUrl": "https://www.youtube.com/watch?v=v6rBB57y71E",
+      "videoUrl": "https://www.youtube.com/watch?v=CyqB6YatBsM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/CyqB6YatBsM",
+      "articleUrl": "https://www.youtube.com/watch?v=CyqB6YatBsM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Canadian cliff diver Molly Carlson became the first known woman to dive off an iceberg after taking the plunge off the coast of Newfoundland.",
-      "readingTextZh": "加拿大悬崖潜水员莫莉·卡尔森（ Molly Carlson ）在纽芬兰（ Newfoundland ）海岸跳水后，成为第一位从冰山上潜水的已知女性。",
+      "readingText": "CNN senior legal analyst Elie Honig explains that Attorney General Todd Blanche and the DOJ have ‘no legal relevance’ to intervene in Alaska and California's elections.\n\nLast week, the Trump administration preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.\n\nDan Sullivan loses in the critical contest which could decide the balance of power in the Senate.\n\nAlso, Longtime Republican election lawyer Ben Ginsberg points out this isn't the first time Sen.\n\nDan Sullivan has been joined on an Alaskan ballot by another Dan Sullivan.",
+      "readingTextZh": "美国有线电视新闻网高级法律分析师埃利·霍尼格（ Elie Honig ）解释说，司法部长托德·布兰奇（ Todd Blanche ）和司法部对干预阿拉斯加和加利福尼亚州的选举“没有法律意义”。\n\n上周，特朗普政府先发制人地提起诉讼，试图阻止共和党现任参议员对阿拉斯加州美国参议院选举的认证。\n\n丹·沙利文（ Dan Sullivan ）在可能决定参议院权力平衡的关键竞赛中失利。\n\n此外，长期担任共和党选举律师的本·金斯伯格（ Ben Ginsberg ）指出，这不是参议院第一次。\n\nDan Sullivan与另一位Dan Sullivan一起参加了阿拉斯加的投票。",
       "sentences": [
         {
-          "en": "Canadian cliff diver Molly Carlson became the first known woman to dive off an iceberg after taking the plunge off the coast of Newfoundland.",
-          "zh": "加拿大悬崖潜水员莫莉·卡尔森（ Molly Carlson ）在纽芬兰（ Newfoundland ）海岸跳水后，成为第一位从冰山上潜水的已知女性。",
+          "en": "CNN senior legal analyst Elie Honig explains that Attorney General Todd Blanche and the DOJ have ‘no legal relevance’ to intervene in Alaska and California's elections.",
+          "zh": "美国有线电视新闻网高级法律分析师埃利·霍尼格（ Elie Honig ）解释说，司法部长托德·布兰奇（ Todd Blanche ）和司法部对干预阿拉斯加和加利福尼亚州的选举“没有法律意义”。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Last week, the Trump administration preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
+          "zh": "上周，特朗普政府先发制人地提起诉讼，试图阻止共和党现任参议员对阿拉斯加州美国参议院选举的认证。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Dan Sullivan loses in the critical contest which could decide the balance of power in the Senate.",
+          "zh": "丹·沙利文（ Dan Sullivan ）在可能决定参议院权力平衡的关键竞赛中失利。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Also, Longtime Republican election lawyer Ben Ginsberg points out this isn't the first time Sen.",
+          "zh": "此外，长期担任共和党选举律师的本·金斯伯格（ Ben Ginsberg ）指出，这不是参议院第一次。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Dan Sullivan has been joined on an Alaskan ballot by another Dan Sullivan.",
+          "zh": "Dan Sullivan与另一位Dan Sullivan一起参加了阿拉斯加的投票。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Canadian",
+          "word": "'Dead",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
-          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
+          "ex": "'Dead wrong': Legal analyst picks apart Blanche's AK election lawsuit",
+          "exZh": "“大错特错” ：法律分析师将布兰奇的AK选举诉讼分开",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "cliff",
+          "word": "wrong'",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
-          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
+          "ex": "'Dead wrong': Legal analyst picks apart Blanche's AK election lawsuit",
+          "exZh": "“大错特错” ：法律分析师将布兰奇的AK选举诉讼分开",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "diver",
+          "word": "Legal",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
-          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
+          "ex": "'Dead wrong': Legal analyst picks apart Blanche's AK election lawsuit",
+          "exZh": "“大错特错” ：法律分析师将布兰奇的AK选举诉讼分开",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "becomes",
+          "word": "analyst",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Canadian cliff diver becomes first known woman to dive off iceberg",
-          "exZh": "加拿大悬崖潜水员成为第一位在冰山下潜的女性",
+          "ex": "'Dead wrong': Legal analyst picks apart Blanche's AK election lawsuit",
+          "exZh": "“大错特错” ：法律分析师将布兰奇的AK选举诉讼分开",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -404,219 +554,168 @@
       ]
     },
     {
-      "id": "video-yZIIkGsOcLw",
-      "title": "Midterm numbers are heading into blowout territory: What to know",
-      "titleZh": "中期数据正在进入井喷区域：需要了解的内容",
+      "id": "video-mOJAhsMheks",
+      "title": "This officer used Flock to track his diabetic wife. Then he was fired",
+      "titleZh": "这名警官使用Flock来追踪他患有糖尿病的妻子。然后他被解雇了",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-10-26",
+      "minutes": 5,
+      "summary": "The wife of a former police officer who says he was fired for using Flock has come forward to defend him. Mariam Dula says her husband, Randy Dula, used the technology to find his wife as she often suffered from diabetic emergencies. It’s a crime in Georgia to use Flock outside of law enforcement purposes. Dula is appealing his termination, his attorney says.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=mOJAhsMheks",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/mOJAhsMheks",
+      "articleUrl": "https://www.youtube.com/watch?v=mOJAhsMheks",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "The wife of a former police officer who says he was fired for using Flock has come forward to defend him.\n\nMariam Dula says her husband, Randy Dula, used the technology to find his wife as she often suffered from diabetic emergencies.\n\nIt’s a crime in Georgia to use Flock outside of law enforcement purposes.\n\nDula is appealing his termination, his attorney says.",
+      "readingTextZh": "一名前警察的妻子说，他因使用Flock而被解雇，她已经站出来为他辩护。\n\n玛丽亚姆·杜拉（ Mariam Dula ）说，她的丈夫兰迪·杜拉（ Randy Dula ）使用这项技术找到了他的妻子，因为她经常患有糖尿病紧急情况。\n\n在格鲁吉亚，在执法目的之外使用Flock属于犯罪行为。\n\n他的律师说，杜拉正在对他的解雇提出上诉。",
+      "sentences": [
+        {
+          "en": "The wife of a former police officer who says he was fired for using Flock has come forward to defend him.",
+          "zh": "一名前警察的妻子说，他因使用Flock而被解雇，她已经站出来为他辩护。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Mariam Dula says her husband, Randy Dula, used the technology to find his wife as she often suffered from diabetic emergencies.",
+          "zh": "玛丽亚姆·杜拉（ Mariam Dula ）说，她的丈夫兰迪·杜拉（ Randy Dula ）使用这项技术找到了他的妻子，因为她经常患有糖尿病紧急情况。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "It’s a crime in Georgia to use Flock outside of law enforcement purposes.",
+          "zh": "在格鲁吉亚，在执法目的之外使用Flock属于犯罪行为。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Dula is appealing his termination, his attorney says.",
+          "zh": "他的律师说，杜拉正在对他的解雇提出上诉。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "officer",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "This officer used Flock to track his diabetic wife. Then he was fired",
+          "exZh": "这名警官使用Flock来追踪他患有糖尿病的妻子。然后他被解雇了",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "used",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "This officer used Flock to track his diabetic wife. Then he was fired",
+          "exZh": "这名警官使用Flock来追踪他患有糖尿病的妻子。然后他被解雇了",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Flock",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "This officer used Flock to track his diabetic wife. Then he was fired",
+          "exZh": "这名警官使用Flock来追踪他患有糖尿病的妻子。然后他被解雇了",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "track",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "This officer used Flock to track his diabetic wife. Then he was fired",
+          "exZh": "这名警官使用Flock来追踪他患有糖尿病的妻子。然后他被解雇了",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-04oUtidRqSc",
+      "title": "Trump made a promise here. What happened next?",
+      "titleZh": "特朗普在这里做出了承诺。接下来发生了什么？",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "minutes": 5,
-      "summary": "As millions of voters head to the polls, CNN's Harry Enten reveals why this election may not be as close as some expect and the signs that point to a blowout victory.\n\n0:00 Harry reveals that the data points to a blowout victory\n0:32 How the race for the House has changed\n2:32 Where the polls are trending in the race for Congress\n4:00 Why the polls might still be underestimating Republican support\n5:25 The chance of a blowout in the House\n6:28 The chance of a blowout in the Senate\n10:22 Who’s leading in the races that will determine control?\n11:23 The factors working against Republicans\n\nWatch Harry’s show, 'The Enten Scale', on CNN: https://cnn.it/4rXUcHz\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Election #Midterms #News",
+      "summary": "A Las Vegas chef faces eviction despite working full-time. A bartender works more than 100 hours a week. At the restaurant where President Trump first unveiled \"no tax on tips,\" employees tell CNN’s Kyung Lah they're working harder than ever and still falling behind.\n\n0:00 Trump's promises to help the service industry\n1:00 How the affordability crisis is affecting restaurants\n2:17 One chef is making more, but is still underwater\n4:19 This bartender works 100+ hours a week\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #nevada #affordability",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=yZIIkGsOcLw",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/yZIIkGsOcLw",
-      "articleUrl": "https://www.youtube.com/watch?v=yZIIkGsOcLw",
+      "videoUrl": "https://www.youtube.com/watch?v=04oUtidRqSc",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/04oUtidRqSc",
+      "articleUrl": "https://www.youtube.com/watch?v=04oUtidRqSc",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "As millions of voters head to the polls, CNN's Harry Enten reveals why this election may not be as close as some expect and the signs that point to a blowout victory.",
-      "readingTextZh": "随着数百万选民前往投票站，美国有线电视新闻网（ CNN ）的哈里·恩滕（ Harry Enten ）揭示了为什么这次选举可能没有一些人预期的那么接近，以及指向井喷式胜利的迹象。",
+      "readingText": "A Las Vegas chef faces eviction despite working full-time.\n\nA bartender works more than 100 hours a week.\n\nAt the restaurant where President Trump first unveiled \"no tax on tips,\" employees tell CNN’s Kyung Lah they're working harder than ever and still falling behind.",
+      "readingTextZh": "一名拉斯维加斯厨师尽管全职工作，但仍面临被驱逐的风险。\n\n调酒师每周工作超过100小时。\n\n在特朗普总统首次推出“不对小费征税”的餐厅，员工告诉CNN的Kyung Lah ，他们比以往任何时候都更加努力，但仍然落后。",
       "sentences": [
         {
-          "en": "As millions of voters head to the polls, CNN's Harry Enten reveals why this election may not be as close as some expect and the signs that point to a blowout victory.",
-          "zh": "随着数百万选民前往投票站，美国有线电视新闻网（ CNN ）的哈里·恩滕（ Harry Enten ）揭示了为什么这次选举可能没有一些人预期的那么接近，以及指向井喷式胜利的迹象。",
+          "en": "A Las Vegas chef faces eviction despite working full-time.",
+          "zh": "一名拉斯维加斯厨师尽管全职工作，但仍面临被驱逐的风险。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "A bartender works more than 100 hours a week.",
+          "zh": "调酒师每周工作超过100小时。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "At the restaurant where President Trump first unveiled \"no tax on tips,\" employees tell CNN’s Kyung Lah they're working harder than ever and still falling behind.",
+          "zh": "在特朗普总统首次推出“不对小费征税”的餐厅，员工告诉CNN的Kyung Lah ，他们比以往任何时候都更加努力，但仍然落后。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Midterm",
+          "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Midterm numbers are heading into blowout territory: What to know",
-          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
+          "ex": "Trump made a promise here. What happened next?",
+          "exZh": "特朗普在这里做出了承诺。接下来发生了什么？",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "numbers",
+          "word": "made",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Midterm numbers are heading into blowout territory: What to know",
-          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
+          "ex": "Trump made a promise here. What happened next?",
+          "exZh": "特朗普在这里做出了承诺。接下来发生了什么？",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "heading",
+          "word": "promise",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Midterm numbers are heading into blowout territory: What to know",
-          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
+          "ex": "Trump made a promise here. What happened next?",
+          "exZh": "特朗普在这里做出了承诺。接下来发生了什么？",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "blowout",
+          "word": "here",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Midterm numbers are heading into blowout territory: What to know",
-          "exZh": "中期数据正在进入井喷区域：需要了解的内容",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-VgmXEESq-hE",
-      "title": "Drone video shows where Colorado highway was washed out by floodwaters",
-      "titleZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
-      "level": "B1",
-      "category": "SCIENCE",
-      "source": "CNN · Official Video",
-      "date": "2026-10-25",
-      "minutes": 5,
-      "summary": "A segment of roadway was washed away by floodwaters near Devil Mountain, Colorado, after nearly three inches of rain fell on Thursday, with an additional half an inch Saturday.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=VgmXEESq-hE",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/VgmXEESq-hE",
-      "articleUrl": "https://www.youtube.com/watch?v=VgmXEESq-hE",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "A segment of roadway was washed away by floodwaters near Devil Mountain, Colorado, after nearly three inches of rain fell on Thursday, with an additional half an inch Saturday.",
-      "readingTextZh": "周四降雨近3英寸后，科罗拉多州魔鬼山附近的一段道路被洪水冲走，周六又增加了半英寸。",
-      "sentences": [
-        {
-          "en": "A segment of roadway was washed away by floodwaters near Devil Mountain, Colorado, after nearly three inches of rain fell on Thursday, with an additional half an inch Saturday.",
-          "zh": "周四降雨近3英寸后，科罗拉多州魔鬼山附近的一段道路被洪水冲走，周六又增加了半英寸。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Drone",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
-          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "video",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
-          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "shows",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
-          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Colorado",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Drone video shows where Colorado highway was washed out by floodwaters",
-          "exZh": "无人机视频显示科罗拉多州高速公路被洪水冲毁的地方",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-ANF19VjiL-s",
-      "title": "Stevens dodges questions on whether she supports El-Sayed",
-      "titleZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-10-25",
-      "minutes": 5,
-      "summary": "Haley Stevens says she’s “on the Democratic ticket” but hasn’t campaigned alongside Abdul El-Sayed and says she doesn’t agree with everything that’s gone on in the race.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=ANF19VjiL-s",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/ANF19VjiL-s",
-      "articleUrl": "https://www.youtube.com/watch?v=ANF19VjiL-s",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Haley Stevens says she’s “on the Democratic ticket” but hasn’t campaigned alongside Abdul El-Sayed and says she doesn’t agree with everything that’s gone on in the race.",
-      "readingTextZh": "海莉·史蒂文斯（ Haley Stevens ）说她“在民主党的票上” ，但没有与阿卜杜勒·埃尔·赛义德（ Abdul El-Sayed ）一起竞选，并说她不同意比赛中发生的一切。",
-      "sentences": [
-        {
-          "en": "Haley Stevens says she’s “on the Democratic ticket” but hasn’t campaigned alongside Abdul El-Sayed and says she doesn’t agree with everything that’s gone on in the race.",
-          "zh": "海莉·史蒂文斯（ Haley Stevens ）说她“在民主党的票上” ，但没有与阿卜杜勒·埃尔·赛义德（ Abdul El-Sayed ）一起竞选，并说她不同意比赛中发生的一切。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Stevens",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stevens dodges questions on whether she supports El-Sayed",
-          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "dodges",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stevens dodges questions on whether she supports El-Sayed",
-          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "questions",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stevens dodges questions on whether she supports El-Sayed",
-          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "whether",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stevens dodges questions on whether she supports El-Sayed",
-          "exZh": "史蒂文斯回避了她是否支持El-Sayed的问题",
+          "ex": "Trump made a promise here. What happened next?",
+          "exZh": "特朗普在这里做出了承诺。接下来发生了什么？",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
