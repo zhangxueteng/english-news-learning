@@ -1,69 +1,155 @@
 {
-  "updated_at": "2026-10-31T22:41:48.228397+00:00",
+  "updated_at": "2026-11-01T22:42:28.371848+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-YrJoUofv2P8",
-      "title": "How this Scottish village inspired the latest Silent Hill game. #SilentHill #Gaming #BBCNews",
-      "titleZh": "这个苏格兰村庄是如何启发最新的寂静岭游戏的。# SilentHill #游戏# BBCNews",
+      "id": "video-oKe81VFrc-k",
+      "title": "Are ICE raids in Miami turning Latinos against Republicans?| BBC News",
+      "titleZh": "迈阿密的ICE突袭是否会让拉丁裔人反对共和党人？ | BBC新闻",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-01",
+      "minutes": 5,
+      "summary": "In Florida, immigration enforcement operations have sent shockwaves through the Miami’s large Latino community.\n\nBBC's Sumi Somaskanda speaks to Venezuelan Americans and Cuban Americans who are moving away from President Trump and Republicans.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#USmidterms #ICE #trump #Florida #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=oKe81VFrc-k",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/oKe81VFrc-k",
+      "articleUrl": "https://www.youtube.com/watch?v=oKe81VFrc-k",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "In Florida, immigration enforcement operations have sent shockwaves through the Miami’s large Latino community.\n\nBBC's Sumi Somaskanda speaks to Venezuelan Americans and Cuban Americans who are moving away from President Trump and Republicans.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "在佛罗里达州，移民执法行动给迈阿密庞大的拉丁裔社区带来了冲击。\n\n英国广播公司的苏米·索马斯坎达（ Sumi Somaskanda ）与委内瑞拉裔美国人和古巴裔美国人交谈，他们正在远离特朗普总统和共和\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "In Florida, immigration enforcement operations have sent shockwaves through the Miami’s large Latino community.",
+          "zh": "在佛罗里达州，移民执法行动给迈阿密庞大的拉丁裔社区带来了冲击。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "BBC's Sumi Somaskanda speaks to Venezuelan Americans and Cuban Americans who are moving away from President Trump and Republicans.",
+          "zh": "英国广播公司的苏米·索马斯坎达（ Sumi Somaskanda ）与委内瑞拉裔美国人和古巴裔美国人交谈，他们正在远离特朗普总统和共和",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "raids",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Are ICE raids in Miami turning Latinos against Republicans?| BBC News",
+          "exZh": "迈阿密的ICE突袭是否会让拉丁裔人反对共和党人？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Miami",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Are ICE raids in Miami turning Latinos against Republicans?| BBC News",
+          "exZh": "迈阿密的ICE突袭是否会让拉丁裔人反对共和党人？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "turning",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Are ICE raids in Miami turning Latinos against Republicans?| BBC News",
+          "exZh": "迈阿密的ICE突袭是否会让拉丁裔人反对共和党人？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Latinos",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Are ICE raids in Miami turning Latinos against Republicans?| BBC News",
+          "exZh": "迈阿密的ICE突袭是否会让拉丁裔人反对共和党人？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-9eSho5hTbKM",
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign. #India #BBCNews",
+      "titleZh": "成千上万的人向印度最高法院游行，要求选举负责人辞职。#印度# BBCNews",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Subscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=YrJoUofv2P8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/YrJoUofv2P8",
-      "articleUrl": "https://www.youtube.com/watch?v=YrJoUofv2P8",
+      "videoUrl": "https://www.youtube.com/watch?v=9eSho5hTbKM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/9eSho5hTbKM",
+      "articleUrl": "https://www.youtube.com/watch?v=9eSho5hTbKM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "How this Scottish village inspired the latest Silent Hill game. #SilentHill #Gaming #BBCNews",
-      "readingTextZh": "这个苏格兰村庄是如何启发最新的寂静岭游戏的。# SilentHill #游戏# BBCNews",
+      "readingText": "For the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "How this Scottish village inspired the latest Silent Hill game. #SilentHill #Gaming #BBCNews",
-          "zh": "这个苏格兰村庄是如何启发最新的寂静岭游戏的。# SilentHill #游戏# BBCNews",
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Scottish",
+          "word": "Thousands",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How this Scottish village inspired the latest Silent Hill game. #SilentHill #Gaming #BBCNews",
-          "exZh": "这个苏格兰村庄是如何启发最新的寂静岭游戏的。# SilentHill #游戏# BBCNews",
+          "ex": "Thousands march to Indian Supreme Court to demand election chief resign. #India #BBCNews",
+          "exZh": "成千上万的人向印度最高法院游行，要求选举负责人辞职。#印度# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "village",
+          "word": "march",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How this Scottish village inspired the latest Silent Hill game. #SilentHill #Gaming #BBCNews",
-          "exZh": "这个苏格兰村庄是如何启发最新的寂静岭游戏的。# SilentHill #游戏# BBCNews",
+          "ex": "Thousands march to Indian Supreme Court to demand election chief resign. #India #BBCNews",
+          "exZh": "成千上万的人向印度最高法院游行，要求选举负责人辞职。#印度# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "inspired",
+          "word": "Indian",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How this Scottish village inspired the latest Silent Hill game. #SilentHill #Gaming #BBCNews",
-          "exZh": "这个苏格兰村庄是如何启发最新的寂静岭游戏的。# SilentHill #游戏# BBCNews",
+          "ex": "Thousands march to Indian Supreme Court to demand election chief resign. #India #BBCNews",
+          "exZh": "成千上万的人向印度最高法院游行，要求选举负责人辞职。#印度# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "latest",
+          "word": "Supreme",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How this Scottish village inspired the latest Silent Hill game. #SilentHill #Gaming #BBCNews",
-          "exZh": "这个苏格兰村庄是如何启发最新的寂静岭游戏的。# SilentHill #游戏# BBCNews",
+          "ex": "Thousands march to Indian Supreme Court to demand election chief resign. #India #BBCNews",
+          "exZh": "成千上万的人向印度最高法院游行，要求选举负责人辞职。#印度# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -79,67 +165,77 @@
       ]
     },
     {
-      "id": "video-Q6KUXi8GiSQ",
-      "title": "Hundreds of Oleshky residents evacuated due to Melania Trump deal. #BBCNews",
-      "titleZh": "由于Melania Trump的交易，数百名Oleshky居民撤离。# BBCNews",
-      "level": "B1",
+      "id": "video-odu797q0d3c",
+      "title": "Why is the UK Prime Minister saying he's open to a slavery apology? | BBC News",
+      "titleZh": "为什么英国首相说他愿意接受奴隶制道歉？ |英国广播公司新闻",
+      "level": "C1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Before King Charles's Caribbean tour, Buckingham Palace said the he would not shy away from the impact of the slave trade but, in line with the UK government position, would not apologise for Britain's role in the slave trade or offer reparations.\n \nLaura Kuenssberg, Joe Pike and Paddy O’Connell discuss the what the timing of Andy Burnham’s comments mean for the King.\n \nNewscast | Listen on BBC Sounds\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Q6KUXi8GiSQ",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Q6KUXi8GiSQ",
-      "articleUrl": "https://www.youtube.com/watch?v=Q6KUXi8GiSQ",
+      "videoUrl": "https://www.youtube.com/watch?v=odu797q0d3c",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/odu797q0d3c",
+      "articleUrl": "https://www.youtube.com/watch?v=odu797q0d3c",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Hundreds of Oleshky residents evacuated due to Melania Trump deal. #BBCNews",
-      "readingTextZh": "由于Melania Trump的交易，数百名Oleshky居民撤离。# BBCNews",
+      "readingText": "Before King Charles's Caribbean tour, Buckingham Palace said the he would not shy away from the impact of the slave trade but, in line with the UK government position, would not apologise for Britain's role in the slave trade or offer reparations.\n\nLaura Kuenssberg, Joe Pike and Paddy O’Connell discuss the what the timing of Andy Burnham’s comments mean for the King.\n\nNewscast | Listen on BBC Sounds\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "在查尔斯国王的加勒比之行之前，白金汉宫表示，他不会回避奴隶贸易的影响，但与英国政府的立场一致，不会为英国在奴隶贸易中的作用道歉或提供赔偿。\n\n劳拉·昆斯伯格（ Laura Kuenssberg ）、乔·派克（ Joe Pike ）和帕迪·奥康奈尔（ Paddy O’Connell ）讨论了安迪·伯纳姆（ Andy Burnham ）\n\n新闻广播|收听BBC音频\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Hundreds of Oleshky residents evacuated due to Melania Trump deal. #BBCNews",
-          "zh": "由于Melania Trump的交易，数百名Oleshky居民撤离。# BBCNews",
+          "en": "Before King Charles's Caribbean tour, Buckingham Palace said the he would not shy away from the impact of the slave trade but, in line with the UK government position, would not apologise for Britain's role in the slave trade or offer reparations.",
+          "zh": "在查尔斯国王的加勒比之行之前，白金汉宫表示，他不会回避奴隶贸易的影响，但与英国政府的立场一致，不会为英国在奴隶贸易中的作用道歉或提供赔偿。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Laura Kuenssberg, Joe Pike and Paddy O’Connell discuss the what the timing of Andy Burnham’s comments mean for the King.",
+          "zh": "劳拉·昆斯伯格（ Laura Kuenssberg ）、乔·派克（ Joe Pike ）和帕迪·奥康奈尔（ Paddy O’Connell ）讨论了安迪·伯纳姆（ Andy Burnham ）",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Newscast | Listen on BBC Sounds\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "新闻广播|收听BBC音频\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Hundreds",
+          "word": "Prime",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Hundreds of Oleshky residents evacuated due to Melania Trump deal. #BBCNews",
-          "exZh": "由于Melania Trump的交易，数百名Oleshky居民撤离。# BBCNews",
+          "ex": "Why is the UK Prime Minister saying he's open to a slavery apology? | BBC News",
+          "exZh": "为什么英国首相说他愿意接受奴隶制道歉？ |英国广播公司新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Oleshky",
+          "word": "Minister",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Hundreds of Oleshky residents evacuated due to Melania Trump deal. #BBCNews",
-          "exZh": "由于Melania Trump的交易，数百名Oleshky居民撤离。# BBCNews",
+          "ex": "Why is the UK Prime Minister saying he's open to a slavery apology? | BBC News",
+          "exZh": "为什么英国首相说他愿意接受奴隶制道歉？ |英国广播公司新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "residents",
+          "word": "saying",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Hundreds of Oleshky residents evacuated due to Melania Trump deal. #BBCNews",
-          "exZh": "由于Melania Trump的交易，数百名Oleshky居民撤离。# BBCNews",
+          "ex": "Why is the UK Prime Minister saying he's open to a slavery apology? | BBC News",
+          "exZh": "为什么英国首相说他愿意接受奴隶制道歉？ |英国广播公司新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "evacuated",
+          "word": "he's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Hundreds of Oleshky residents evacuated due to Melania Trump deal. #BBCNews",
-          "exZh": "由于Melania Trump的交易，数百名Oleshky居民撤离。# BBCNews",
+          "ex": "Why is the UK Prime Minister saying he's open to a slavery apology? | BBC News",
+          "exZh": "为什么英国首相说他愿意接受奴隶制道歉？ |英国广播公司新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -155,143 +251,67 @@
       ]
     },
     {
-      "id": "video-s-JKw87NNZQ",
-      "title": "What are the US midterms? #Midterms #USPolitics #BBCNews",
-      "titleZh": "什么是美国期中考试？ #中期#美国政治# BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-10-31",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=s-JKw87NNZQ",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/s-JKw87NNZQ",
-      "articleUrl": "https://www.youtube.com/watch?v=s-JKw87NNZQ",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "What are the US midterms? #Midterms #USPolitics #BBCNews",
-      "readingTextZh": "什么是美国期中考试？ #中期#美国政治# BBC新闻",
-      "sentences": [
-        {
-          "en": "What are the US midterms? #Midterms #USPolitics #BBCNews",
-          "zh": "什么是美国期中考试？ #中期#美国政治# BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "midterms",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What are the US midterms? #Midterms #USPolitics #BBCNews",
-          "exZh": "什么是美国期中考试？ #中期#美国政治# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Midterms",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What are the US midterms? #Midterms #USPolitics #BBCNews",
-          "exZh": "什么是美国期中考试？ #中期#美国政治# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "USPolitics",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What are the US midterms? #Midterms #USPolitics #BBCNews",
-          "exZh": "什么是美国期中考试？ #中期#美国政治# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "BBCNews",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What are the US midterms? #Midterms #USPolitics #BBCNews",
-          "exZh": "什么是美国期中考试？ #中期#美国政治# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-wpreqAa0deQ",
-      "title": "Molotov cocktails thrown at police as more protests break out in Albania. #Albania #BBCNews",
-      "titleZh": "随着阿尔巴尼亚爆发更多抗议活动，莫洛托夫鸡尾酒向警方投掷。#阿尔巴尼亚# BBC新闻",
+      "id": "video-lYkCsv8WK9M",
+      "title": "Is North Carolina about to send a Democrat back to Washington? #BBCNews",
+      "titleZh": "北卡罗来纳州是否将派遣民主党人返回华盛顿？ # BBCNews",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "minutes": 5,
       "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=wpreqAa0deQ",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/wpreqAa0deQ",
-      "articleUrl": "https://www.youtube.com/watch?v=wpreqAa0deQ",
+      "videoUrl": "https://www.youtube.com/watch?v=lYkCsv8WK9M",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/lYkCsv8WK9M",
+      "articleUrl": "https://www.youtube.com/watch?v=lYkCsv8WK9M",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Molotov cocktails thrown at police as more protests break out in Albania. #Albania #BBCNews",
-      "readingTextZh": "随着阿尔巴尼亚爆发更多抗议活动，莫洛托夫鸡尾酒向警方投掷。#阿尔巴尼亚# BBC新闻",
+      "readingText": "Is North Carolina about to send a Democrat back to Washington? #BBCNews",
+      "readingTextZh": "北卡罗来纳州是否将派遣民主党人返回华盛顿？ # BBCNews",
       "sentences": [
         {
-          "en": "Molotov cocktails thrown at police as more protests break out in Albania. #Albania #BBCNews",
-          "zh": "随着阿尔巴尼亚爆发更多抗议活动，莫洛托夫鸡尾酒向警方投掷。#阿尔巴尼亚# BBC新闻",
+          "en": "Is North Carolina about to send a Democrat back to Washington? #BBCNews",
+          "zh": "北卡罗来纳州是否将派遣民主党人返回华盛顿？ # BBCNews",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Molotov",
+          "word": "North",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Molotov cocktails thrown at police as more protests break out in Albania. #Albania #BBCNews",
-          "exZh": "随着阿尔巴尼亚爆发更多抗议活动，莫洛托夫鸡尾酒向警方投掷。#阿尔巴尼亚# BBC新闻",
+          "ex": "Is North Carolina about to send a Democrat back to Washington? #BBCNews",
+          "exZh": "北卡罗来纳州是否将派遣民主党人返回华盛顿？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "cocktails",
+          "word": "Carolina",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Molotov cocktails thrown at police as more protests break out in Albania. #Albania #BBCNews",
-          "exZh": "随着阿尔巴尼亚爆发更多抗议活动，莫洛托夫鸡尾酒向警方投掷。#阿尔巴尼亚# BBC新闻",
+          "ex": "Is North Carolina about to send a Democrat back to Washington? #BBCNews",
+          "exZh": "北卡罗来纳州是否将派遣民主党人返回华盛顿？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "thrown",
+          "word": "send",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Molotov cocktails thrown at police as more protests break out in Albania. #Albania #BBCNews",
-          "exZh": "随着阿尔巴尼亚爆发更多抗议活动，莫洛托夫鸡尾酒向警方投掷。#阿尔巴尼亚# BBC新闻",
+          "ex": "Is North Carolina about to send a Democrat back to Washington? #BBCNews",
+          "exZh": "北卡罗来纳州是否将派遣民主党人返回华盛顿？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "police",
+          "word": "Democrat",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Molotov cocktails thrown at police as more protests break out in Albania. #Albania #BBCNews",
-          "exZh": "随着阿尔巴尼亚爆发更多抗议活动，莫洛托夫鸡尾酒向警方投掷。#阿尔巴尼亚# BBC新闻",
+          "ex": "Is North Carolina about to send a Democrat back to Washington? #BBCNews",
+          "exZh": "北卡罗来纳州是否将派遣民主党人返回华盛顿？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -307,67 +327,67 @@
       ]
     },
     {
-      "id": "video-n-HpCC36SbM",
-      "title": "Families reunite after months without food in occupied Ukrainian town",
-      "titleZh": "几个月后，在被占领的乌克兰城镇，家人在没有食物的情况下团聚",
+      "id": "video-rc-CP4-n1Qk",
+      "title": "DNC chair: ‘We’re prepared’ for legal battles",
+      "titleZh": "DNC主席： “我们为法律诉讼做好了准备”",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "minutes": 5,
-      "summary": "Hundreds of people were finally able to evacuate and reunite with loved ones after surviving an occupied town in Ukraine for months with little food and supplies, thanks to a ceasefire agreement negotiated by first lady Melania Trump.",
+      "summary": "Democratic National Committee Chair Ken Martin said on Sunday that he expects lawsuits may follow the midterms but his party is \"prepared\" for what might come.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=n-HpCC36SbM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/n-HpCC36SbM",
-      "articleUrl": "https://www.youtube.com/watch?v=n-HpCC36SbM",
+      "videoUrl": "https://www.youtube.com/watch?v=rc-CP4-n1Qk",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/rc-CP4-n1Qk",
+      "articleUrl": "https://www.youtube.com/watch?v=rc-CP4-n1Qk",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Hundreds of people were finally able to evacuate and reunite with loved ones after surviving an occupied town in Ukraine for months with little food and supplies, thanks to a ceasefire agreement negotiated by first lady Melania Trump.",
-      "readingTextZh": "得益于第一夫人梅拉尼娅·特朗普（ Melania Trump ）谈判达成的停火协议，数百人在乌克兰的一个被占领城镇度过了数月，仅剩很少的食物和物资，最终得以撤离并与亲人团聚。",
+      "readingText": "Democratic National Committee Chair Ken Martin said on Sunday that he expects lawsuits may follow the midterms but his party is \"prepared\" for what might come.",
+      "readingTextZh": "民主党全国委员会主席肯·马丁（ Ken Martin ）周日表示，他预计诉讼可能会在中期选举之后进行，但他的政党已为可能发生的事情“做好准备”。",
       "sentences": [
         {
-          "en": "Hundreds of people were finally able to evacuate and reunite with loved ones after surviving an occupied town in Ukraine for months with little food and supplies, thanks to a ceasefire agreement negotiated by first lady Melania Trump.",
-          "zh": "得益于第一夫人梅拉尼娅·特朗普（ Melania Trump ）谈判达成的停火协议，数百人在乌克兰的一个被占领城镇度过了数月，仅剩很少的食物和物资，最终得以撤离并与亲人团聚。",
+          "en": "Democratic National Committee Chair Ken Martin said on Sunday that he expects lawsuits may follow the midterms but his party is \"prepared\" for what might come.",
+          "zh": "民主党全国委员会主席肯·马丁（ Ken Martin ）周日表示，他预计诉讼可能会在中期选举之后进行，但他的政党已为可能发生的事情“做好准备”。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Families",
+          "word": "chair",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Families reunite after months without food in occupied Ukrainian town",
-          "exZh": "几个月后，在被占领的乌克兰城镇，家人在没有食物的情况下团聚",
+          "ex": "DNC chair: ‘We’re prepared’ for legal battles",
+          "exZh": "DNC主席： “我们为法律诉讼做好了准备”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "reunite",
+          "word": "prepared",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Families reunite after months without food in occupied Ukrainian town",
-          "exZh": "几个月后，在被占领的乌克兰城镇，家人在没有食物的情况下团聚",
+          "ex": "DNC chair: ‘We’re prepared’ for legal battles",
+          "exZh": "DNC主席： “我们为法律诉讼做好了准备”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "months",
+          "word": "legal",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Families reunite after months without food in occupied Ukrainian town",
-          "exZh": "几个月后，在被占领的乌克兰城镇，家人在没有食物的情况下团聚",
+          "ex": "DNC chair: ‘We’re prepared’ for legal battles",
+          "exZh": "DNC主席： “我们为法律诉讼做好了准备”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "without",
+          "word": "battles",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Families reunite after months without food in occupied Ukrainian town",
-          "exZh": "几个月后，在被占领的乌克兰城镇，家人在没有食物的情况下团聚",
+          "ex": "DNC chair: ‘We’re prepared’ for legal battles",
+          "exZh": "DNC主席： “我们为法律诉讼做好了准备”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -383,72 +403,163 @@
       ]
     },
     {
-      "id": "video-0RmO4OgMlGg",
-      "title": "Olivia Rodrigo gives Amy Acton flowers during Ohio concert",
-      "titleZh": "Olivia Rodrigo在俄亥俄州音乐会上为Amy Acton献花",
+      "id": "video-nl2oy2do3OM",
+      "title": "Trump says he has 'concepts of a very good deal' with Canada",
+      "titleZh": "特朗普表示，他与加拿大有“非常好的交易概念”",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-01",
+      "minutes": 5,
+      "summary": "President Donald Trump on Sunday said he spoke with Canadian Prime Minister Mark Carney and said the two leaders agreed to a “concept of a very good deal” to end the ongoing US-Canada trade stalemate. Trump claimed that Canada will build and pay for the long-stalled Keystone XL Pipeline project.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=nl2oy2do3OM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/nl2oy2do3OM",
+      "articleUrl": "https://www.youtube.com/watch?v=nl2oy2do3OM",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "President Donald Trump on Sunday said he spoke with Canadian Prime Minister Mark Carney and said the two leaders agreed to a “concept of a very good deal” to end the ongoing US-Canada trade stalemate.\n\nTrump claimed that Canada will build and pay for the long-stalled Keystone XL Pipeline project.",
+      "readingTextZh": "唐纳德特朗普总统周日表示，他与加拿大总理马克卡尼进行了交谈，并表示两位领导人同意“非常好的协议概念” ，以结束正在进行的美加贸易僵局。\n\n特朗普声称，加拿大将建造并支付长期停滞的Keystone XL管道项目。",
+      "sentences": [
+        {
+          "en": "President Donald Trump on Sunday said he spoke with Canadian Prime Minister Mark Carney and said the two leaders agreed to a “concept of a very good deal” to end the ongoing US-Canada trade stalemate.",
+          "zh": "唐纳德特朗普总统周日表示，他与加拿大总理马克卡尼进行了交谈，并表示两位领导人同意“非常好的协议概念” ，以结束正在进行的美加贸易僵局。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Trump claimed that Canada will build and pay for the long-stalled Keystone XL Pipeline project.",
+          "zh": "特朗普声称，加拿大将建造并支付长期停滞的Keystone XL管道项目。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Trump",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump says he has 'concepts of a very good deal' with Canada",
+          "exZh": "特朗普表示，他与加拿大有“非常好的交易概念”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "'concepts",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump says he has 'concepts of a very good deal' with Canada",
+          "exZh": "特朗普表示，他与加拿大有“非常好的交易概念”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "very",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump says he has 'concepts of a very good deal' with Canada",
+          "exZh": "特朗普表示，他与加拿大有“非常好的交易概念”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "good",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump says he has 'concepts of a very good deal' with Canada",
+          "exZh": "特朗普表示，他与加拿大有“非常好的交易概念”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-3qk46xLxn28",
+      "title": "Federal judge throws out Trump DOJ's Alaska Senate lawsuit",
+      "titleZh": "联邦法官驳回特朗普在阿拉斯加州参议院的诉讼",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "minutes": 5,
-      "summary": "Olivia Rodrigo showed her support for the Democratic Ohio gubernatorial candidate Amy Acton during her Ohio concerts Thursday and Friday, wearing “Dr. Amy Acton for Governor” T-shirt and giving Acton flowers.",
+      "summary": "A federal judge on Sunday threw out the Justice Department’s lawsuit seeking to segregate ballots and delay certification of Alaska’s Senate race, the latest legal rebuke to a rash of Trump administration attempts to meddle in the 2026 midterms. \n\nUS District Judge Sharon Gleason said the federal government doesn’t have the standing to force Alaska to segregate ballots and that such a move would violate the right of voters to cast a secret ballot. Regardless, she added, it’s too late for the courts to force such a major change on the eve of an election. \n\nCNN's Gabe Cohen has the details and CNN's Kyung Lah reports from an Anchorage, Alaska, polling place. \n\n0:00 Trump reacts to the DOJ lawsuit being dismissed \n1:25 CNN's Gabe Cohen shares details of the judge's ruling \n5:50 Are Alaska voters concerned about having a \"spoiler candidate\" on the ballot? \n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #Election #News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=0RmO4OgMlGg",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/0RmO4OgMlGg",
-      "articleUrl": "https://www.youtube.com/watch?v=0RmO4OgMlGg",
+      "videoUrl": "https://www.youtube.com/watch?v=3qk46xLxn28",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/3qk46xLxn28",
+      "articleUrl": "https://www.youtube.com/watch?v=3qk46xLxn28",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Olivia Rodrigo showed her support for the Democratic Ohio gubernatorial candidate Amy Acton during her Ohio concerts Thursday and Friday, wearing “Dr.\n\nAmy Acton for Governor” T-shirt and giving Acton flowers.",
-      "readingTextZh": "奥利维亚·罗德里戈（ Olivia Rodrigo ）在周四和周五的俄亥俄州音乐会上表示支持民主党俄亥俄州州长候选人艾米·阿克顿（ Amy Acton ） ，\n\nAmy Acton for Governor ”T恤并赠送Acton鲜花。",
+      "readingText": "A federal judge on Sunday threw out the Justice Department’s lawsuit seeking to segregate ballots and delay certification of Alaska’s Senate race, the latest legal rebuke to a rash of Trump administration attempts to meddle in the 2026 midterms.\n\nUS District Judge Sharon Gleason said the federal government doesn’t have the standing to force Alaska to segregate ballots and that such a move would violate the right of voters to cast a secret ballot.\n\nRegardless, she added, it’s too late for the courts to force such a major change on the eve of an election.\n\nCNN's Gabe Cohen has the details and CNN's Kyung Lah reports from an Anchorage, Alaska, polling place.",
+      "readingTextZh": "周日，一名联邦法官驳回了司法部寻求隔离选票和推迟阿拉斯加参议院竞选认证的诉讼，这是对特朗普政府试图干涉2026年中期选举的最新法律谴责。\n\n美国地区法官沙龙·格里森（ Sharon Gleason ）表示，联邦政府没有资格迫使阿拉斯加州进行投票隔离，此举将侵犯选民进行无记名投票的权利。\n\n她补充说，无论如何，法院在选举前夕强制进行如此重大的变革为时已晚。\n\n美国有线电视新闻网（ CNN ）的加布·科恩（ Gabe Cohen ）从阿拉斯加州安克雷奇的一个投票站获得了详细信息和美国有线电视新闻网（ CNN ）的",
       "sentences": [
         {
-          "en": "Olivia Rodrigo showed her support for the Democratic Ohio gubernatorial candidate Amy Acton during her Ohio concerts Thursday and Friday, wearing “Dr.",
-          "zh": "奥利维亚·罗德里戈（ Olivia Rodrigo ）在周四和周五的俄亥俄州音乐会上表示支持民主党俄亥俄州州长候选人艾米·阿克顿（ Amy Acton ） ，",
+          "en": "A federal judge on Sunday threw out the Justice Department’s lawsuit seeking to segregate ballots and delay certification of Alaska’s Senate race, the latest legal rebuke to a rash of Trump administration attempts to meddle in the 2026 midterms.",
+          "zh": "周日，一名联邦法官驳回了司法部寻求隔离选票和推迟阿拉斯加参议院竞选认证的诉讼，这是对特朗普政府试图干涉2026年中期选举的最新法律谴责。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Amy Acton for Governor” T-shirt and giving Acton flowers.",
-          "zh": "Amy Acton for Governor ”T恤并赠送Acton鲜花。",
+          "en": "US District Judge Sharon Gleason said the federal government doesn’t have the standing to force Alaska to segregate ballots and that such a move would violate the right of voters to cast a secret ballot.",
+          "zh": "美国地区法官沙龙·格里森（ Sharon Gleason ）表示，联邦政府没有资格迫使阿拉斯加州进行投票隔离，此举将侵犯选民进行无记名投票的权利。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Regardless, she added, it’s too late for the courts to force such a major change on the eve of an election.",
+          "zh": "她补充说，无论如何，法院在选举前夕强制进行如此重大的变革为时已晚。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN's Gabe Cohen has the details and CNN's Kyung Lah reports from an Anchorage, Alaska, polling place.",
+          "zh": "美国有线电视新闻网（ CNN ）的加布·科恩（ Gabe Cohen ）从阿拉斯加州安克雷奇的一个投票站获得了详细信息和美国有线电视新闻网（ CNN ）的",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Olivia",
+          "word": "Federal",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Olivia Rodrigo gives Amy Acton flowers during Ohio concert",
-          "exZh": "Olivia Rodrigo在俄亥俄州音乐会上为Amy Acton献花",
+          "ex": "Federal judge throws out Trump DOJ's Alaska Senate lawsuit",
+          "exZh": "联邦法官驳回特朗普在阿拉斯加州参议院的诉讼",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Rodrigo",
+          "word": "judge",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Olivia Rodrigo gives Amy Acton flowers during Ohio concert",
-          "exZh": "Olivia Rodrigo在俄亥俄州音乐会上为Amy Acton献花",
+          "ex": "Federal judge throws out Trump DOJ's Alaska Senate lawsuit",
+          "exZh": "联邦法官驳回特朗普在阿拉斯加州参议院的诉讼",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "gives",
+          "word": "throws",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Olivia Rodrigo gives Amy Acton flowers during Ohio concert",
-          "exZh": "Olivia Rodrigo在俄亥俄州音乐会上为Amy Acton献花",
+          "ex": "Federal judge throws out Trump DOJ's Alaska Senate lawsuit",
+          "exZh": "联邦法官驳回特朗普在阿拉斯加州参议院的诉讼",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Acton",
+          "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Olivia Rodrigo gives Amy Acton flowers during Ohio concert",
-          "exZh": "Olivia Rodrigo在俄亥俄州音乐会上为Amy Acton献花",
+          "ex": "Federal judge throws out Trump DOJ's Alaska Senate lawsuit",
+          "exZh": "联邦法官驳回特朗普在阿拉斯加州参议院的诉讼",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -464,158 +575,67 @@
       ]
     },
     {
-      "id": "video-8neLrR65dyM",
-      "title": "America's sppokiest haunted hospital",
-      "titleZh": "美国最闹鬼的医院",
-      "level": "A1",
-      "category": "HEALTH",
-      "source": "CNN · Official Video",
-      "date": "2026-10-31",
-      "minutes": 5,
-      "summary": "The Trans-Allegheny Lunatic Asylum in West Virginia looks like the asylum of nightmares and for many, it was. But it started out as a place of compassion whose massive overcrowding lead to desperate measures by doctors and staff. Daily and nightly tours now offer visitors its complex history, along with an occasional paranormal scare.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=8neLrR65dyM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/8neLrR65dyM",
-      "articleUrl": "https://www.youtube.com/watch?v=8neLrR65dyM",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The Trans-Allegheny Lunatic Asylum in West Virginia looks like the asylum of nightmares and for many, it was.\n\nBut it started out as a place of compassion whose massive overcrowding lead to desperate measures by doctors and staff.\n\nDaily and nightly tours now offer visitors its complex history, along with an occasional paranormal scare.",
-      "readingTextZh": "西弗吉尼亚州的跨阿勒格尼精神病院（ Trans-Allegheny Lunatic Asylum ）看起来像是噩梦的庇护所，对许多人来说确实如此。\n\n但它最初是一个富有同情心的地方，其巨大的拥挤导致医生和工作人员采取绝望的措施。\n\n每日和每晚的游览现在为游客提供了复杂的历史，以及偶尔的超自然恐慌。",
-      "sentences": [
-        {
-          "en": "The Trans-Allegheny Lunatic Asylum in West Virginia looks like the asylum of nightmares and for many, it was.",
-          "zh": "西弗吉尼亚州的跨阿勒格尼精神病院（ Trans-Allegheny Lunatic Asylum ）看起来像是噩梦的庇护所，对许多人来说确实如此。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "But it started out as a place of compassion whose massive overcrowding lead to desperate measures by doctors and staff.",
-          "zh": "但它最初是一个富有同情心的地方，其巨大的拥挤导致医生和工作人员采取绝望的措施。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Daily and nightly tours now offer visitors its complex history, along with an occasional paranormal scare.",
-          "zh": "每日和每晚的游览现在为游客提供了复杂的历史，以及偶尔的超自然恐慌。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "America's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "America's sppokiest haunted hospital",
-          "exZh": "美国最闹鬼的医院",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "sppokiest",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "America's sppokiest haunted hospital",
-          "exZh": "美国最闹鬼的医院",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "haunted",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "America's sppokiest haunted hospital",
-          "exZh": "美国最闹鬼的医院",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "hospital",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "America's sppokiest haunted hospital",
-          "exZh": "美国最闹鬼的医院",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video--2w4YENbnTc",
-      "title": "Record numbers of election monitors expected at polls",
-      "titleZh": "民意调查中预期的选举监督员人数创纪录",
-      "level": "B1",
+      "id": "video-_-dxTSyPv80",
+      "title": "CNN's Manu Raju interviews midterm candidates nationwide",
+      "titleZh": "美国有线电视新闻网（ CNN ）的马努·拉朱（ Manu Raju ）在全国范围",
+      "level": "A2",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "minutes": 5,
-      "summary": "The Justice Department is sending more than 1,000 election monitors to polling places in all 50 states, and the Republican National Committee, Democrats and outside groups are deploying observers too. What they document could shape challenges after the polls close, Gabe Cohen reports.",
+      "summary": "Candidates in the country's most pivotal midterm races sat down for revealing interviews with CNN's Manu Raju in the months leading up to the November elections.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=-2w4YENbnTc",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/-2w4YENbnTc",
-      "articleUrl": "https://www.youtube.com/watch?v=-2w4YENbnTc",
+      "videoUrl": "https://www.youtube.com/watch?v=_-dxTSyPv80",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/_-dxTSyPv80",
+      "articleUrl": "https://www.youtube.com/watch?v=_-dxTSyPv80",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The Justice Department is sending more than 1,000 election monitors to polling places in all 50 states, and the Republican National Committee, Democrats and outside groups are deploying observers too.\n\nWhat they document could shape challenges after the polls close, Gabe Cohen reports.",
-      "readingTextZh": "司法部正在向所有50个州的投票站派遣1000多名选举监督员，共和党全国委员会、民主党和外部团体也在部署观察员。\n\n加布·科恩（ Gabe Cohen ）报告说，他们记录的内容可能会在民意调查结束后形成挑战。",
+      "readingText": "Candidates in the country's most pivotal midterm races sat down for revealing interviews with CNN's Manu Raju in the months leading up to the November elections.",
+      "readingTextZh": "在11月选举前的几个月里，该国最关键的中期竞选的候选人坐下来接受CNN的Manu Raju的采访。",
       "sentences": [
         {
-          "en": "The Justice Department is sending more than 1,000 election monitors to polling places in all 50 states, and the Republican National Committee, Democrats and outside groups are deploying observers too.",
-          "zh": "司法部正在向所有50个州的投票站派遣1000多名选举监督员，共和党全国委员会、民主党和外部团体也在部署观察员。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "What they document could shape challenges after the polls close, Gabe Cohen reports.",
-          "zh": "加布·科恩（ Gabe Cohen ）报告说，他们记录的内容可能会在民意调查结束后形成挑战。",
+          "en": "Candidates in the country's most pivotal midterm races sat down for revealing interviews with CNN's Manu Raju in the months leading up to the November elections.",
+          "zh": "在11月选举前的几个月里，该国最关键的中期竞选的候选人坐下来接受CNN的Manu Raju的采访。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Record",
+          "word": "CNN's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record numbers of election monitors expected at polls",
-          "exZh": "民意调查中预期的选举监督员人数创纪录",
+          "ex": "CNN's Manu Raju interviews midterm candidates nationwide",
+          "exZh": "美国有线电视新闻网（ CNN ）的马努·拉朱（ Manu Raju ）在全国范围",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "numbers",
+          "word": "Manu",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record numbers of election monitors expected at polls",
-          "exZh": "民意调查中预期的选举监督员人数创纪录",
+          "ex": "CNN's Manu Raju interviews midterm candidates nationwide",
+          "exZh": "美国有线电视新闻网（ CNN ）的马努·拉朱（ Manu Raju ）在全国范围",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "election",
+          "word": "Raju",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record numbers of election monitors expected at polls",
-          "exZh": "民意调查中预期的选举监督员人数创纪录",
+          "ex": "CNN's Manu Raju interviews midterm candidates nationwide",
+          "exZh": "美国有线电视新闻网（ CNN ）的马努·拉朱（ Manu Raju ）在全国范围",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "monitors",
+          "word": "interviews",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Record numbers of election monitors expected at polls",
-          "exZh": "民意调查中预期的选举监督员人数创纪录",
+          "ex": "CNN's Manu Raju interviews midterm candidates nationwide",
+          "exZh": "美国有线电视新闻网（ CNN ）的马努·拉朱（ Manu Raju ）在全国范围",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
