@@ -1,46 +1,218 @@
 {
-  "updated_at": "2026-11-02T22:49:09.615614+00:00",
+  "updated_at": "2026-11-03T22:52:03.930076+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-h1rYHE3vS4g",
-      "title": "Everything you need to know about the US midterms and what they'll mean for America | BBC Newscast",
-      "titleZh": "关于美国中期选举及其对美国的意义，您需要了解的一切| BBC新闻广播",
-      "level": "C1",
+      "id": "video-FX5i61Cny58",
+      "title": "We asked Israelis how October 7 changed their vote | BBC News",
+      "titleZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+      "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "minutes": 5,
-      "summary": "The US midterm elections are set to take place on Tuesday, in a vote that could have a major impact on Donald Trump’s presidency. \n\nAmericans will choose members of Congress, which is made up of two parts - the House of Representatives and the Senate. The Democrat Party has high expectations, but are the polls right?  \n\nTo go through how the next 48 hours might unfold, Adam is joined from Washington by chief news presenter Caitríona Perry and Stephen Hawkins, global director of research at the pollster More in Common.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "Last week, Israel held a pivotal general election - the first since the deadly Hamas-led attacks on Israel on 7 October 2023 and the wars that followed in Gaza, Lebanon and Iran.\n\nPrime Minister Benjamin Netanyahu and the opposition bloc - led by Gadi Eisenkot - are in near deadlock. Now comes a period of political deal-making to form a coalition government.\n\nThe BBC’s Middle East Correspondent Lucy Williamson spoke to voters in the lead up to the vote to see what influenced their vote.\n\n#Israel #Netanyahu #BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=h1rYHE3vS4g",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/h1rYHE3vS4g",
-      "articleUrl": "https://www.youtube.com/watch?v=h1rYHE3vS4g",
+      "videoUrl": "https://www.youtube.com/watch?v=FX5i61Cny58",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/FX5i61Cny58",
+      "articleUrl": "https://www.youtube.com/watch?v=FX5i61Cny58",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The US midterm elections are set to take place on Tuesday, in a vote that could have a major impact on Donald Trump’s presidency.\n\nAmericans will choose members of Congress, which is made up of two parts - the House of Representatives and the Senate.\n\nThe Democrat Party has high expectations, but are the polls right?\n\nTo go through how the next 48 hours might unfold, Adam is joined from Washington by chief news presenter Caitríona Perry and Stephen Hawkins, global director of research at the pollster More in Common.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "美国中期选举定于周二举行，此次投票可能会对唐纳德·特朗普(Donald Trump)的总统任期产生重大影响。\n\n美国人将选择国会议员，国会由两部分组成：众议院和参议院。\n\n民主党有很高的期望，但民意调查是否正确？\n\n为了了解接下来的48小时可能如何展开，来自华盛顿的首席新闻主持人Caitríona Perry和民意调查机构More in Common的全球研究总监Stephen Hawkins加入了Adam的行列。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "Last week, Israel held a pivotal general election - the first since the deadly Hamas-led attacks on Israel on 7 October 2023 and the wars that followed in Gaza, Lebanon and Iran.\n\nPrime Minister Benjamin Netanyahu and the opposition bloc - led by Gadi Eisenkot - are in near deadlock.\n\nNow comes a period of political deal-making to form a coalition government.\n\nThe BBC’s Middle East Correspondent Lucy Williamson spoke to voters in the lead up to the vote to see what influenced their vote.",
+      "readingTextZh": "上周，以色列举行了一次关键的大选，这是自2023年10月7日哈马斯领导的对以色列的致命袭击以及随后在加沙、黎巴嫩和伊朗发生的战争以来的首次大选。\n\n总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和加迪·艾森科特（ Gadi Eisenkot ）领导的反对派集团几乎陷入僵局。\n\n现在是组建联合政府的政治交易时期。\n\n英国广播公司中东记者露西·威廉姆森（ Lucy Williamson ）在投票前与选民进行了交谈，看看是什么影响了他们的投票。",
       "sentences": [
         {
-          "en": "The US midterm elections are set to take place on Tuesday, in a vote that could have a major impact on Donald Trump’s presidency.",
-          "zh": "美国中期选举定于周二举行，此次投票可能会对唐纳德·特朗普(Donald Trump)的总统任期产生重大影响。",
+          "en": "Last week, Israel held a pivotal general election - the first since the deadly Hamas-led attacks on Israel on 7 October 2023 and the wars that followed in Gaza, Lebanon and Iran.",
+          "zh": "上周，以色列举行了一次关键的大选，这是自2023年10月7日哈马斯领导的对以色列的致命袭击以及随后在加沙、黎巴嫩和伊朗发生的战争以来的首次大选。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Americans will choose members of Congress, which is made up of two parts - the House of Representatives and the Senate.",
-          "zh": "美国人将选择国会议员，国会由两部分组成：众议院和参议院。",
+          "en": "Prime Minister Benjamin Netanyahu and the opposition bloc - led by Gadi Eisenkot - are in near deadlock.",
+          "zh": "总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和加迪·艾森科特（ Gadi Eisenkot ）领导的反对派集团几乎陷入僵局。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The Democrat Party has high expectations, but are the polls right?",
-          "zh": "民主党有很高的期望，但民意调查是否正确？",
+          "en": "Now comes a period of political deal-making to form a coalition government.",
+          "zh": "现在是组建联合政府的政治交易时期。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "To go through how the next 48 hours might unfold, Adam is joined from Washington by chief news presenter Caitríona Perry and Stephen Hawkins, global director of research at the pollster More in Common.",
-          "zh": "为了了解接下来的48小时可能如何展开，来自华盛顿的首席新闻主持人Caitríona Perry和民意调查机构More in Common的全球研究总监Stephen Hawkins加入了Adam的行列。",
+          "en": "The BBC’s Middle East Correspondent Lucy Williamson spoke to voters in the lead up to the vote to see what influenced their vote.",
+          "zh": "英国广播公司中东记者露西·威廉姆森（ Lucy Williamson ）在投票前与选民进行了交谈，看看是什么影响了他们的投票。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "asked",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
+          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Israelis",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
+          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "October",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
+          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "changed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
+          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-RiRUM6K0ikA",
+      "title": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
+      "titleZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-03",
+      "minutes": 5,
+      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=RiRUM6K0ikA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/RiRUM6K0ikA",
+      "articleUrl": "https://www.youtube.com/watch?v=RiRUM6K0ikA",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
+      "readingTextZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+      "sentences": [
+        {
+          "en": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
+          "zh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Witness",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
+          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Christa",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
+          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Pike's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
+          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "failed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
+          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-AaZ9vLbZVnA",
+      "title": "US strikes Iranian island ahead of midterm elections | BBC News",
+      "titleZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-03",
+      "minutes": 5,
+      "summary": "The US has carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.\n \nThe officials described the strikes as limited and defensive, and said they were in response to Iran's Islamic Revolutionary Guard Corps (IRGC) firing on a US aircraft.\n \nIranian state news agency Irna reported explosions on Qeshm on Monday. The IRGC did not comment but said its forces had shot down two US MQM-170 drones south of the island and a US MQ-9 drone east of the Strait of Hormuz.\n \nThe US military has not commented on the strikes, which came as mediators stepped up their efforts to prevent a return to all-out war after the US midterm elections on Tuesday.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #USMidterms #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=AaZ9vLbZVnA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/AaZ9vLbZVnA",
+      "articleUrl": "https://www.youtube.com/watch?v=AaZ9vLbZVnA",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "The US has carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.\n\nThe officials described the strikes as limited and defensive, and said they were in response to Iran's Islamic Revolutionary Guard Corps (IRGC) firing on a US aircraft.\n\nIranian state news agency Irna reported explosions on Qeshm on Monday.\n\nThe IRGC did not comment but said its forces had shot down two US MQM-170 drones south of the island and a US MQ-9 drone east of the Strait of Hormuz.\n\nThe US military has not commented on the strikes, which came as mediators stepped up their efforts to prevent a return to all-out war after the US midterm elections on Tuesday.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "美国官员告诉英国广播公司的美国合作伙伴哥伦比亚广播公司，美国对霍尔木兹海峡的伊朗格什姆岛进行了打击。\n\n官员们称罢工是有限的和防御性的，并表示他们是对伊朗伊斯兰革命卫队（ IRGC ）向美国飞机开火的回应。\n\n伊朗国家通讯社Irna周一报道了格什姆发生的爆炸事件。\n\n伊斯兰革命卫队没有发表评论，但表示其部队在该岛以南击落了两架美国MQM-170无人机，并在霍尔木兹海峡以东击落了一架美国MQ-9无人机。\n\n美国军方尚未对罢工发表评论，此前调解人加紧努力，防止在周二美国中期选举后恢复全面战争。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "The US has carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.",
+          "zh": "美国官员告诉英国广播公司的美国合作伙伴哥伦比亚广播公司，美国对霍尔木兹海峡的伊朗格什姆岛进行了打击。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The officials described the strikes as limited and defensive, and said they were in response to Iran's Islamic Revolutionary Guard Corps (IRGC) firing on a US aircraft.",
+          "zh": "官员们称罢工是有限的和防御性的，并表示他们是对伊朗伊斯兰革命卫队（ IRGC ）向美国飞机开火的回应。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Iranian state news agency Irna reported explosions on Qeshm on Monday.",
+          "zh": "伊朗国家通讯社Irna周一报道了格什姆发生的爆炸事件。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The IRGC did not comment but said its forces had shot down two US MQM-170 drones south of the island and a US MQ-9 drone east of the Strait of Hormuz.",
+          "zh": "伊斯兰革命卫队没有发表评论，但表示其部队在该岛以南击落了两架美国MQM-170无人机，并在霍尔木兹海峡以东击落了一架美国MQ-9无人机。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The US military has not commented on the strikes, which came as mediators stepped up their efforts to prevent a return to all-out war after the US midterm elections on Tuesday.",
+          "zh": "美国军方尚未对罢工发表评论，此前调解人加紧努力，防止在周二美国中期选举后恢复全面战争。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
@@ -51,120 +223,39 @@
       ],
       "vocab": [
         {
-          "word": "Everything",
+          "word": "strikes",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Everything you need to know about the US midterms and what they'll mean for America | BBC Newscast",
-          "exZh": "关于美国中期选举及其对美国的意义，您需要了解的一切| BBC新闻广播",
+          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
+          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "need",
+          "word": "Iranian",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Everything you need to know about the US midterms and what they'll mean for America | BBC Newscast",
-          "exZh": "关于美国中期选举及其对美国的意义，您需要了解的一切| BBC新闻广播",
+          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
+          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "know",
+          "word": "island",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Everything you need to know about the US midterms and what they'll mean for America | BBC Newscast",
-          "exZh": "关于美国中期选举及其对美国的意义，您需要了解的一切| BBC新闻广播",
+          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
+          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "midterms",
+          "word": "ahead",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Everything you need to know about the US midterms and what they'll mean for America | BBC Newscast",
-          "exZh": "关于美国中期选举及其对美国的意义，您需要了解的一切| BBC新闻广播",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-caIJY3kmzJY",
-      "title": "Strait of Hormuz could reopen within two days if the US agrees to demands, Iran says | BBC News",
-      "titleZh": "伊朗表示，如果美国同意要求，霍尔木兹海峡可能会在两天内重新开放|英国广播公司新闻",
-      "level": "C1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-02",
-      "minutes": 5,
-      "summary": "Iran says it's ready to reopen the Strait of Hormuz within two days if the US first fulfils its conditions, such as sanctions relief, on the first day of the process. \n \nMeanwhile ahead of the midterms, US President Donald Trump says the war will soon be over \"one way or the other.\"\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #USMidterms #BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=caIJY3kmzJY",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/caIJY3kmzJY",
-      "articleUrl": "https://www.youtube.com/watch?v=caIJY3kmzJY",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Iran says it's ready to reopen the Strait of Hormuz within two days if the US first fulfils its conditions, such as sanctions relief, on the first day of the process.\n\nMeanwhile ahead of the midterms, US President Donald Trump says the war will soon be over \"one way or the other.\"\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "伊朗表示，如果美国在进程的第一天首先满足其条件，如解除制裁，它准备在两天内重新开放霍尔木兹海峡。\n\n与此同时，在中期选举之前，美国总统唐纳德·特朗普(Donald Trump)表示，战争将很快以“一种或另一种方式”结束。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "Iran says it's ready to reopen the Strait of Hormuz within two days if the US first fulfils its conditions, such as sanctions relief, on the first day of the process.",
-          "zh": "伊朗表示，如果美国在进程的第一天首先满足其条件，如解除制裁，它准备在两天内重新开放霍尔木兹海峡。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Meanwhile ahead of the midterms, US President Donald Trump says the war will soon be over \"one way or the other.\"\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "与此同时，在中期选举之前，美国总统唐纳德·特朗普(Donald Trump)表示，战争将很快以“一种或另一种方式”结束。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Strait",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Strait of Hormuz could reopen within two days if the US agrees to demands, Iran says | BBC News",
-          "exZh": "伊朗表示，如果美国同意要求，霍尔木兹海峡可能会在两天内重新开放|英国广播公司新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Hormuz",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Strait of Hormuz could reopen within two days if the US agrees to demands, Iran says | BBC News",
-          "exZh": "伊朗表示，如果美国同意要求，霍尔木兹海峡可能会在两天内重新开放|英国广播公司新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "reopen",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Strait of Hormuz could reopen within two days if the US agrees to demands, Iran says | BBC News",
-          "exZh": "伊朗表示，如果美国同意要求，霍尔木兹海峡可能会在两天内重新开放|英国广播公司新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "within",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Strait of Hormuz could reopen within two days if the US agrees to demands, Iran says | BBC News",
-          "exZh": "伊朗表示，如果美国同意要求，霍尔木兹海峡可能会在两天内重新开放|英国广播公司新闻",
+          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
+          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -180,416 +271,102 @@
       ]
     },
     {
-      "id": "video-dwrFTJO3N5U",
-      "title": "The BBC gains rare access to people inside Iran | Global News Podcast",
-      "titleZh": "英国广播公司罕见地接触到伊朗境内的人|全球新闻播客",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-02",
-      "minutes": 5,
-      "summary": "BBC Panorama has gained rare access to people inside Iran - telling the inside story of how their lives have been shaped by a year of war and anti-government protests. \n\nIn this episode, we hear from Samira, a mother whose 16-year-old daughter was killed during anti-government protests. Samira fled the country on foot, and now lives abroad in hiding. \n\nWe also hear about the medic who received patients injured by bullets as the regime cracked down on protests. \n\nMonths after the wave of protests swept through the country, what does dissent look like in Iran today? How has the war with the US and Israel affected opposition voices?\n\nIranian authorities acknowledge that more than 3,000 people were killed in the protests, but claim some were members of the security forces. \n\nOne human rights group, Hrana, however, estimates the number of dead stands at more than 7,000 - most of them protesters. \n\nThe Iranian embassy in London told Panorama that peaceful and legitimate protests had been hijacked by foreign powers, including the US, which promoted violence, provided weapons and equipment, and compromised public security.\n\n00:00 Introduction\n01:00 The mother who fled Iran after her daughter was killed in anti-government protests\n03:19 The medic who treated injured protesters\n05:26 What the US-Israel war meant for those demonstrating against the regime\n09:15 What do protests in Iran look like today?\n10:30 The risks for those speaking out and sharing their stories\n11:15 What the Iranian authorities say about the allegations of using violence against protesters?\n\nNew episodes of the Global News Podcast are published twice a day. You can listen here: https://link.mgln.ai/GNP-YT\n\nAnd you can find more of our YouTube episodes here: https://bbc.in/GlobalNewsPodcast\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=dwrFTJO3N5U",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/dwrFTJO3N5U",
-      "articleUrl": "https://www.youtube.com/watch?v=dwrFTJO3N5U",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "BBC Panorama has gained rare access to people inside Iran - telling the inside story of how their lives have been shaped by a year of war and anti-government protests.\n\nIn this episode, we hear from Samira, a mother whose 16-year-old daughter was killed during anti-government protests.\n\nSamira fled the country on foot, and now lives abroad in hiding.\n\nWe also hear about the medic who received patients injured by bullets as the regime cracked down on protests.\n\nMonths after the wave of protests swept through the country, what does dissent look like in Iran today?\n\nHow has the war with the US and Israel affected opposition voices?\n\nIranian authorities acknowledge that more than 3,000 people were killed in the protests, but claim some were members of the security forces.\n\nOne human rights group, Hrana, however, estimates the number of dead stands at more than 7,000 - most of them protesters.\n\nThe Iranian embassy in London told Panorama that peaceful and legitimate protests had been hijacked by foreign powers, including the US, which promoted violence, provided weapons and equipment, and compromised public security.",
-      "readingTextZh": "BBC Panorama罕见地接触到了伊朗境内的人们，讲述了他们的生活是如何被一年的战争和反政府抗议活动所塑造的。\n\n在这一集中，我们听到了Samira的故事， Samira是一位母亲，她的16岁女儿在反政府抗议活动中丧生。\n\n萨米拉徒步逃离该国，现在躲藏在国外。\n\n我们还听说，在政权镇压抗议活动时，有医生接待了被子弹击伤的病人。\n\n在抗议浪潮席卷全国几个月后，今天的伊朗异议是什么样的？\n\n与美国和以色列的战争如何影响了反对派的声音？\n\n伊朗当局承认有3000多人在抗议活动中丧生，但声称其中一些人是安全部队的成员。\n\n然而，人权组织Hrana估计死亡人数超过7,000人，其中大多数是抗议者。\n\n伊朗驻伦敦大使馆告诉Panorama ，包括美国在内的外国势力劫持了和平与合法的抗议活动，这些抗议活动助长了暴力，提供了武器和设备，并危及公共安全。",
-      "sentences": [
-        {
-          "en": "BBC Panorama has gained rare access to people inside Iran - telling the inside story of how their lives have been shaped by a year of war and anti-government protests.",
-          "zh": "BBC Panorama罕见地接触到了伊朗境内的人们，讲述了他们的生活是如何被一年的战争和反政府抗议活动所塑造的。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In this episode, we hear from Samira, a mother whose 16-year-old daughter was killed during anti-government protests.",
-          "zh": "在这一集中，我们听到了Samira的故事， Samira是一位母亲，她的16岁女儿在反政府抗议活动中丧生。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Samira fled the country on foot, and now lives abroad in hiding.",
-          "zh": "萨米拉徒步逃离该国，现在躲藏在国外。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "We also hear about the medic who received patients injured by bullets as the regime cracked down on protests.",
-          "zh": "我们还听说，在政权镇压抗议活动时，有医生接待了被子弹击伤的病人。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Months after the wave of protests swept through the country, what does dissent look like in Iran today?",
-          "zh": "在抗议浪潮席卷全国几个月后，今天的伊朗异议是什么样的？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "How has the war with the US and Israel affected opposition voices?",
-          "zh": "与美国和以色列的战争如何影响了反对派的声音？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Iranian authorities acknowledge that more than 3,000 people were killed in the protests, but claim some were members of the security forces.",
-          "zh": "伊朗当局承认有3000多人在抗议活动中丧生，但声称其中一些人是安全部队的成员。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "One human rights group, Hrana, however, estimates the number of dead stands at more than 7,000 - most of them protesters.",
-          "zh": "然而，人权组织Hrana估计死亡人数超过7,000人，其中大多数是抗议者。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The Iranian embassy in London told Panorama that peaceful and legitimate protests had been hijacked by foreign powers, including the US, which promoted violence, provided weapons and equipment, and compromised public security.",
-          "zh": "伊朗驻伦敦大使馆告诉Panorama ，包括美国在内的外国势力劫持了和平与合法的抗议活动，这些抗议活动助长了暴力，提供了武器和设备，并危及公共安全。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "gains",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The BBC gains rare access to people inside Iran | Global News Podcast",
-          "exZh": "英国广播公司罕见地接触到伊朗境内的人|全球新闻播客",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "rare",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The BBC gains rare access to people inside Iran | Global News Podcast",
-          "exZh": "英国广播公司罕见地接触到伊朗境内的人|全球新闻播客",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "access",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The BBC gains rare access to people inside Iran | Global News Podcast",
-          "exZh": "英国广播公司罕见地接触到伊朗境内的人|全球新闻播客",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "people",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The BBC gains rare access to people inside Iran | Global News Podcast",
-          "exZh": "英国广播公司罕见地接触到伊朗境内的人|全球新闻播客",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-KqDtaibccBI",
-      "title": "Why this grandmother and her grandson are voting differently in the US midterms. #BBCNews",
-      "titleZh": "为什么这位祖母和她的孙子在美国中期选举中的投票方式不同。# BBCNews",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-02",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=KqDtaibccBI",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/KqDtaibccBI",
-      "articleUrl": "https://www.youtube.com/watch?v=KqDtaibccBI",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Why this grandmother and her grandson are voting differently in the US midterms. #BBCNews",
-      "readingTextZh": "为什么这位祖母和她的孙子在美国中期选举中的投票方式不同。# BBCNews",
-      "sentences": [
-        {
-          "en": "Why this grandmother and her grandson are voting differently in the US midterms. #BBCNews",
-          "zh": "为什么这位祖母和她的孙子在美国中期选举中的投票方式不同。# BBCNews",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "grandmother",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why this grandmother and her grandson are voting differently in the US midterms. #BBCNews",
-          "exZh": "为什么这位祖母和她的孙子在美国中期选举中的投票方式不同。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "grandson",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why this grandmother and her grandson are voting differently in the US midterms. #BBCNews",
-          "exZh": "为什么这位祖母和她的孙子在美国中期选举中的投票方式不同。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "voting",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why this grandmother and her grandson are voting differently in the US midterms. #BBCNews",
-          "exZh": "为什么这位祖母和她的孙子在美国中期选举中的投票方式不同。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "differently",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why this grandmother and her grandson are voting differently in the US midterms. #BBCNews",
-          "exZh": "为什么这位祖母和她的孙子在美国中期选举中的投票方式不同。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-O4ikeSdKdTQ",
-      "title": "Trump fixates on Reflecting Pool in final pitch",
-      "titleZh": "特朗普在最后一场比赛中专注于反射池",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-02",
-      "minutes": 5,
-      "summary": "On the eve of Election Day, President Donald Trump used his last midterm campaign speech to talk about the newly renovated Lincoln Memorial Reflecting Pool as well as his other major renovation projects in Washington, DC. CNN's Kevin Liptak reports.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=O4ikeSdKdTQ",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/O4ikeSdKdTQ",
-      "articleUrl": "https://www.youtube.com/watch?v=O4ikeSdKdTQ",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "On the eve of Election Day, President Donald Trump used his last midterm campaign speech to talk about the newly renovated Lincoln Memorial Reflecting Pool as well as his other major renovation projects in Washington, DC.\n\nCNN's Kevin Liptak reports.",
-      "readingTextZh": "在选举日前夕，唐纳德·特朗普总统利用他的最后一次中期竞选演讲来谈论新装修的林肯纪念反思池以及他在华盛顿特区的其他重大翻新项目。\n\nCNN的Kevin Liptak报道。",
-      "sentences": [
-        {
-          "en": "On the eve of Election Day, President Donald Trump used his last midterm campaign speech to talk about the newly renovated Lincoln Memorial Reflecting Pool as well as his other major renovation projects in Washington, DC.",
-          "zh": "在选举日前夕，唐纳德·特朗普总统利用他的最后一次中期竞选演讲来谈论新装修的林肯纪念反思池以及他在华盛顿特区的其他重大翻新项目。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN's Kevin Liptak reports.",
-          "zh": "CNN的Kevin Liptak报道。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Trump",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump fixates on Reflecting Pool in final pitch",
-          "exZh": "特朗普在最后一场比赛中专注于反射池",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "fixates",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump fixates on Reflecting Pool in final pitch",
-          "exZh": "特朗普在最后一场比赛中专注于反射池",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Reflecting",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump fixates on Reflecting Pool in final pitch",
-          "exZh": "特朗普在最后一场比赛中专注于反射池",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Pool",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump fixates on Reflecting Pool in final pitch",
-          "exZh": "特朗普在最后一场比赛中专注于反射池",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-PwpNsJ0FBp4",
-      "title": "Leader of Israel’s largest Arab political alliance: There's a chance to oust Netanyahu",
-      "titleZh": "以色列最大的阿拉伯政治联盟的领导人：有机会推翻内塔尼亚胡",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-02",
-      "minutes": 5,
-      "summary": "CNN's Christiane Amanpour spoke with Yousef Jabareen, the leader of Israel’s largest Arab political alliance.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=PwpNsJ0FBp4",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/PwpNsJ0FBp4",
-      "articleUrl": "https://www.youtube.com/watch?v=PwpNsJ0FBp4",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN's Christiane Amanpour spoke with Yousef Jabareen, the leader of Israel’s largest Arab political alliance.",
-      "readingTextZh": "CNN的Christiane Amanpour采访了以色列最大的阿拉伯政治联盟的领导人Yousef Jabareen。",
-      "sentences": [
-        {
-          "en": "CNN's Christiane Amanpour spoke with Yousef Jabareen, the leader of Israel’s largest Arab political alliance.",
-          "zh": "CNN的Christiane Amanpour采访了以色列最大的阿拉伯政治联盟的领导人Yousef Jabareen。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Leader",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Leader of Israel’s largest Arab political alliance: There's a chance to oust Netanyahu",
-          "exZh": "以色列最大的阿拉伯政治联盟的领导人：有机会推翻内塔尼亚胡",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Israel",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Leader of Israel’s largest Arab political alliance: There's a chance to oust Netanyahu",
-          "exZh": "以色列最大的阿拉伯政治联盟的领导人：有机会推翻内塔尼亚胡",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "largest",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Leader of Israel’s largest Arab political alliance: There's a chance to oust Netanyahu",
-          "exZh": "以色列最大的阿拉伯政治联盟的领导人：有机会推翻内塔尼亚胡",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Arab",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Leader of Israel’s largest Arab political alliance: There's a chance to oust Netanyahu",
-          "exZh": "以色列最大的阿拉伯政治联盟的领导人：有机会推翻内塔尼亚胡",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-f5nKylxmi1M",
-      "title": "A midterm 'polling earthquake', blue TX enthusiasm, key margins & more | Enten election roundup",
-      "titleZh": "中期“民意调查地震”、蓝色德克萨斯州热情、关键利润率等| Enten选举综述",
+      "id": "video-c6o54qNIOqM",
+      "title": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
+      "titleZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
       "level": "B2",
       "category": "SCIENCE",
-      "source": "CNN · Official Video",
-      "date": "2026-11-02",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-03",
       "minutes": 5,
-      "summary": "With 1 day to go until midterms, CNN chief data analyst Harry Enten runs the numbers; from NYT's new polling on Kansas, Michigan, Texas and more to the difference between registered and likely voters.\n\n0:00 From KS to MI, Enten weighs in on a blue wave 'polling earthquake'\n3:42 TX Senate showdown: Dems' best polling since 1988\n6:31 Key demographic: NYT polls among TX Latinos\n8:26 Should Dems be scared ahead of midterms?\n11:31 Difference between registered and likely voters\n14:50 House approval heading into the midterms\n18:27 Dems' paths to victory as Trump flip flops on rally plans\n21:37 How many times Trump has cast doubts on elections in his 2nd term\n\nWatch Harry’s show, 'The Enten Scale', on CNN: https://cnn.it/4rXUcHz\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Midterms #Enten #News",
+      "summary": "Could the UK's push to become an AI superpower put its 2050 net zero target at risk?\n\nThe UK government wants to rapidly expand the number of AI data centres being built across the country, but a BBC File on 4 Investigates report has found this rapid growth could severely affect the government's own net zero climate goals. \n\nPlans for some of the biggest sites include proposals for on-site gas power stations to feed the energy-hungry data centres. This is because developers cannot immediately connect to the national grid - with potential waits of up to 10 years.\n\nBBC calculations suggest that if four of these gas-fuelled mega data centres ran at full capacity all year, they could produce more carbon emissions than Manchester, Liverpool and Southampton combined.\n\nIn this episode of BBC News Behind the Investigation, Melanie Stewart-Smith talks to reporter Adrian Goldberg about the scale of the proposed new data centre sites, concerns over their potential water and energy consumption, and why developers want access to more energy than the UK's national grid can currently provide.\n\nThe government said data centres were \"essential to Britain's economy\" and that its new Data Centre Covenant set clear expectations for developers to pay a fair share of the costs they impose on the energy system and deliver benefits for local communities.\n\nFor more on this story, search for File on 4 Investigates on BBC Sounds or wherever you get your podcasts.\n\n0:00 Could AI threaten the UK's net zero target?\n1:03 What are data centres?\n2:10 Why AI data centres are controversial\n3:38 The scale of the proposed sites\n4:41 Why data centres need so much water\n6:01 Microsoft's Leeds site and local concerns\n7:01 Pressure on the national grid\n8:34 Data centres turning to gas power\n9:48 What net zero means\n10:28 The government's data centre covenant\n12:27 What the industry is doing about renewables\n14:23 Is there hope for a greener path?\n16:46 Outro\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#ai #netzero #climatechange #uk #datacentre #BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=f5nKylxmi1M",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/f5nKylxmi1M",
-      "articleUrl": "https://www.youtube.com/watch?v=f5nKylxmi1M",
+      "videoUrl": "https://www.youtube.com/watch?v=c6o54qNIOqM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/c6o54qNIOqM",
+      "articleUrl": "https://www.youtube.com/watch?v=c6o54qNIOqM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "With 1 day to go until midterms, CNN chief data analyst Harry Enten runs the numbers; from NYT's new polling on Kansas, Michigan, Texas and more to the difference between registered and likely voters.",
-      "readingTextZh": "距离中期选举还有1天的时间， CNN首席数据分析师哈里·恩滕（ Harry Enten ）负责统计数据；从纽约时报在堪萨斯州、密歇根州、德克萨斯州等地的新民意调查，到登记选民和可能选民之间的差异。",
+      "readingText": "Could the UK's push to become an AI superpower put its 2050 net zero target at risk?\n\nThe UK government wants to rapidly expand the number of AI data centres being built across the country, but a BBC File on 4 Investigates report has found this rapid growth could severely affect the government's own net zero climate goals.\n\nPlans for some of the biggest sites include proposals for on-site gas power stations to feed the energy-hungry data centres.\n\nThis is because developers cannot immediately connect to the national grid - with potential waits of up to 10 years.\n\nBBC calculations suggest that if four of these gas-fuelled mega data centres ran at full capacity all year, they could produce more carbon emissions than Manchester, Liverpool and Southampton combined.\n\nIn this episode of BBC News Behind the Investigation, Melanie Stewart-Smith talks to reporter Adrian Goldberg about the scale of the proposed new data centre sites, concerns over their potential water and energy consumption, and why developers want access to more energy than the UK's national grid can currently provide.\n\nThe government said data centres were \"essential to Britain's economy\" and that its new Data Centre Covenant set clear expectations for developers to pay a fair share of the costs they impose on the energy system and deliver benefits for local communities.\n\nFor more on this story, search for File on 4 Investigates on BBC Sounds or wherever you get your podcasts.",
+      "readingTextZh": "英国成为人工智能超级大国的努力是否会使其2050年的净零目标面临风险？\n\n英国政府希望迅速扩大全国范围内正在建设的人工智能数据中心的数量，但英国广播公司的一份关于4调查的文件报告发现，这种快速增长可能会严重影响政府自身的净零气候目标。\n\n一些大型站点的计划包括现场燃气发电站的建议，以满足能源需求的数据中心。\n\n这是因为开发商无法立即连接到国家电网-可能等待长达10年。\n\n英国广播公司的计算表明，如果这些燃气大型数据中心中的四个全年满负荷运行，它们可能产生的碳排放量超过曼彻斯特、利物浦和南安普敦的总和。\n\n在这一集的BBC新闻调查背后， Melanie Stewart-Smith与记者Adrian Goldberg谈到了拟议的新数据中心站点的规模，对其潜在水和能源消耗的担忧，以及为什么开发商希望获得比英国国家电网目前可以提供的更多的能源。\n\n政府表示，数据中心“对英国经济至关重要” ，其新的数据中心公约为开发商设定了明确的期望，要求他们支付公平份额的能源系统成本，并为当地社区带来好处。\n\n有关此故事的更多信息，请在BBC Sounds或您获取播客的任何地方搜索4 Investigates上的文件。",
       "sentences": [
         {
-          "en": "With 1 day to go until midterms, CNN chief data analyst Harry Enten runs the numbers; from NYT's new polling on Kansas, Michigan, Texas and more to the difference between registered and likely voters.",
-          "zh": "距离中期选举还有1天的时间， CNN首席数据分析师哈里·恩滕（ Harry Enten ）负责统计数据；从纽约时报在堪萨斯州、密歇根州、德克萨斯州等地的新民意调查，到登记选民和可能选民之间的差异。",
+          "en": "Could the UK's push to become an AI superpower put its 2050 net zero target at risk?",
+          "zh": "英国成为人工智能超级大国的努力是否会使其2050年的净零目标面临风险？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The UK government wants to rapidly expand the number of AI data centres being built across the country, but a BBC File on 4 Investigates report has found this rapid growth could severely affect the government's own net zero climate goals.",
+          "zh": "英国政府希望迅速扩大全国范围内正在建设的人工智能数据中心的数量，但英国广播公司的一份关于4调查的文件报告发现，这种快速增长可能会严重影响政府自身的净零气候目标。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Plans for some of the biggest sites include proposals for on-site gas power stations to feed the energy-hungry data centres.",
+          "zh": "一些大型站点的计划包括现场燃气发电站的建议，以满足能源需求的数据中心。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "This is because developers cannot immediately connect to the national grid - with potential waits of up to 10 years.",
+          "zh": "这是因为开发商无法立即连接到国家电网-可能等待长达10年。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "BBC calculations suggest that if four of these gas-fuelled mega data centres ran at full capacity all year, they could produce more carbon emissions than Manchester, Liverpool and Southampton combined.",
+          "zh": "英国广播公司的计算表明，如果这些燃气大型数据中心中的四个全年满负荷运行，它们可能产生的碳排放量超过曼彻斯特、利物浦和南安普敦的总和。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In this episode of BBC News Behind the Investigation, Melanie Stewart-Smith talks to reporter Adrian Goldberg about the scale of the proposed new data centre sites, concerns over their potential water and energy consumption, and why developers want access to more energy than the UK's national grid can currently provide.",
+          "zh": "在这一集的BBC新闻调查背后， Melanie Stewart-Smith与记者Adrian Goldberg谈到了拟议的新数据中心站点的规模，对其潜在水和能源消耗的担忧，以及为什么开发商希望获得比英国国家电网目前可以提供的更多的能源。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The government said data centres were \"essential to Britain's economy\" and that its new Data Centre Covenant set clear expectations for developers to pay a fair share of the costs they impose on the energy system and deliver benefits for local communities.",
+          "zh": "政府表示，数据中心“对英国经济至关重要” ，其新的数据中心公约为开发商设定了明确的期望，要求他们支付公平份额的能源系统成本，并为当地社区带来好处。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For more on this story, search for File on 4 Investigates on BBC Sounds or wherever you get your podcasts.",
+          "zh": "有关此故事的更多信息，请在BBC Sounds或您获取播客的任何地方搜索4 Investigates上的文件。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "midterm",
+          "word": "threatens",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A midterm 'polling earthquake', blue TX enthusiasm, key margins & more | Enten election roundup",
-          "exZh": "中期“民意调查地震”、蓝色德克萨斯州热情、关键利润率等| Enten选举综述",
+          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
+          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "'polling",
+          "word": "UK's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A midterm 'polling earthquake', blue TX enthusiasm, key margins & more | Enten election roundup",
-          "exZh": "中期“民意调查地震”、蓝色德克萨斯州热情、关键利润率等| Enten选举综述",
+          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
+          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "earthquake'",
+          "word": "climate",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A midterm 'polling earthquake', blue TX enthusiasm, key margins & more | Enten election roundup",
-          "exZh": "中期“民意调查地震”、蓝色德克萨斯州热情、关键利润率等| Enten选举综述",
+          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
+          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "blue",
+          "word": "goals",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A midterm 'polling earthquake', blue TX enthusiasm, key margins & more | Enten election roundup",
-          "exZh": "中期“民意调查地震”、蓝色德克萨斯州热情、关键利润率等| Enten选举综述",
+          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
+          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -605,67 +382,305 @@
       ]
     },
     {
-      "id": "video-QrlHQXEllww",
-      "title": "Trump's final speech before midterms revolves around DC renovation projects",
-      "titleZh": "特朗普在中期选举前的最后一次讲话围绕着华盛顿特区改造项目",
-      "level": "B1",
+      "id": "video-qBvyogaNsFE",
+      "title": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
+      "titleZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
+      "level": "B2",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "minutes": 5,
-      "summary": "President Trump only briefly mentioned tomorrow's midterm elections, spending much more of the speech focused on DC projects and alleged vandalism.",
+      "summary": "Responding to voting machine problems in Westchester County, New York, Republican Rep. Mike Lawler assures voters that there are \"no shenanigans\" and that all emergency ballots will be counted.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=QrlHQXEllww",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/QrlHQXEllww",
-      "articleUrl": "https://www.youtube.com/watch?v=QrlHQXEllww",
+      "videoUrl": "https://www.youtube.com/watch?v=qBvyogaNsFE",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/qBvyogaNsFE",
+      "articleUrl": "https://www.youtube.com/watch?v=qBvyogaNsFE",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "President Trump only briefly mentioned tomorrow's midterm elections, spending much more of the speech focused on DC projects and alleged vandalism.",
-      "readingTextZh": "特朗普总统只简短地提到了明天的中期选举，更多的演讲集中在华盛顿特区项目和所谓的破坏行为上。",
+      "readingText": "Responding to voting machine problems in Westchester County, New York, Republican Rep.\n\nMike Lawler assures voters that there are \"no shenanigans\" and that all emergency ballots will be counted.",
+      "readingTextZh": "应对纽约州威彻斯特县的投票机问题，共和党众议员\n\n迈克·劳勒（ Mike Lawler ）向选民保证， “没有恶作剧” ，所有紧急选票都将计算在内。",
       "sentences": [
         {
-          "en": "President Trump only briefly mentioned tomorrow's midterm elections, spending much more of the speech focused on DC projects and alleged vandalism.",
-          "zh": "特朗普总统只简短地提到了明天的中期选举，更多的演讲集中在华盛顿特区项目和所谓的破坏行为上。",
+          "en": "Responding to voting machine problems in Westchester County, New York, Republican Rep.",
+          "zh": "应对纽约州威彻斯特县的投票机问题，共和党众议员",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Mike Lawler assures voters that there are \"no shenanigans\" and that all emergency ballots will be counted.",
+          "zh": "迈克·劳勒（ Mike Lawler ）向选民保证， “没有恶作剧” ，所有紧急选票都将计算在内。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Trump's",
+          "word": "Lawler",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's final speech before midterms revolves around DC renovation projects",
-          "exZh": "特朗普在中期选举前的最后一次讲话围绕着华盛顿特区改造项目",
+          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
+          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "final",
+          "word": "assures",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's final speech before midterms revolves around DC renovation projects",
-          "exZh": "特朗普在中期选举前的最后一次讲话围绕着华盛顿特区改造项目",
+          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
+          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "speech",
+          "word": "Westchester",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's final speech before midterms revolves around DC renovation projects",
-          "exZh": "特朗普在中期选举前的最后一次讲话围绕着华盛顿特区改造项目",
+          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
+          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "midterms",
+          "word": "County",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump's final speech before midterms revolves around DC renovation projects",
-          "exZh": "特朗普在中期选举前的最后一次讲话围绕着华盛顿特区改造项目",
+          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
+          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-FKAJ58CovT8",
+      "title": "Former Susan Collins supporters explain votes for Troy Jackson",
+      "titleZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-03",
+      "minutes": 5,
+      "summary": "Voters in South Portland, Maine tell CNN why they are casting their ballots for Democrat Troy Jackson over Sen. Susan Collins and explain why they believe the Republican incumbent will probably still win",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=FKAJ58CovT8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/FKAJ58CovT8",
+      "articleUrl": "https://www.youtube.com/watch?v=FKAJ58CovT8",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Voters in South Portland, Maine tell CNN why they are casting their ballots for Democrat Troy Jackson over Sen.\n\nSusan Collins and explain why they believe the Republican incumbent will probably still win",
+      "readingTextZh": "缅因州南波特兰的选民告诉CNN ，他们为什么要把选票投给民主党人特洛伊·杰克逊（ Troy Jackson ） ，而不是参议员。\n\n苏珊·柯林斯（ Susan Collins ）并解释为什么他们认为共和党现任者仍可能获胜",
+      "sentences": [
+        {
+          "en": "Voters in South Portland, Maine tell CNN why they are casting their ballots for Democrat Troy Jackson over Sen.",
+          "zh": "缅因州南波特兰的选民告诉CNN ，他们为什么要把选票投给民主党人特洛伊·杰克逊（ Troy Jackson ） ，而不是参议员。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Susan Collins and explain why they believe the Republican incumbent will probably still win",
+          "zh": "苏珊·柯林斯（ Susan Collins ）并解释为什么他们认为共和党现任者仍可能获胜",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Former",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
+          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Susan",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
+          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Collins",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
+          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "supporters",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
+          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-UKaw2_CVzC8",
+      "title": "Pennsylvania voters name high prices among reasons to vote",
+      "titleZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-03",
+      "minutes": 5,
+      "summary": "CNN's Danny Freeman talks to voters in Pennsylvania about the main issues that drove them to vote.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=UKaw2_CVzC8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/UKaw2_CVzC8",
+      "articleUrl": "https://www.youtube.com/watch?v=UKaw2_CVzC8",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "CNN's Danny Freeman talks to voters in Pennsylvania about the main issues that drove them to vote.",
+      "readingTextZh": "美国有线电视新闻网（ CNN ）的丹尼·弗里曼（ Danny Freeman ）在宾夕法尼亚州与选民谈论驱使他们投票的主要问题。",
+      "sentences": [
+        {
+          "en": "CNN's Danny Freeman talks to voters in Pennsylvania about the main issues that drove them to vote.",
+          "zh": "美国有线电视新闻网（ CNN ）的丹尼·弗里曼（ Danny Freeman ）在宾夕法尼亚州与选民谈论驱使他们投票的主要问题。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Pennsylvania",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Pennsylvania voters name high prices among reasons to vote",
+          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "voters",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Pennsylvania voters name high prices among reasons to vote",
+          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "name",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Pennsylvania voters name high prices among reasons to vote",
+          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "high",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Pennsylvania voters name high prices among reasons to vote",
+          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-0ngxG7R3lo8",
+      "title": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
+      "titleZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-03",
+      "minutes": 5,
+      "summary": "CNN's Sara Sidner is on the University of Michigan campus, while Democratic Senate candidate Abdul El-Sayed is speaking with students on Election Day.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=0ngxG7R3lo8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/0ngxG7R3lo8",
+      "articleUrl": "https://www.youtube.com/watch?v=0ngxG7R3lo8",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "CNN's Sara Sidner is on the University of Michigan campus, while Democratic Senate candidate Abdul El-Sayed is speaking with students on Election Day.",
+      "readingTextZh": "美国有线电视新闻网的萨拉·西德纳（ Sara Sidner ）在密歇根大学校园内，而民主党参议员候选人阿卜杜勒·赛义德（ Abdul El-Sayed ）在选举日与学生交谈",
+      "sentences": [
+        {
+          "en": "CNN's Sara Sidner is on the University of Michigan campus, while Democratic Senate candidate Abdul El-Sayed is speaking with students on Election Day.",
+          "zh": "美国有线电视新闻网的萨拉·西德纳（ Sara Sidner ）在密歇根大学校园内，而民主党参议员候选人阿卜杜勒·赛义德（ Abdul El-Sayed ）在选举日与学生交谈",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Abdul",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
+          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Sayed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
+          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "talks",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
+          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "young",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
+          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
