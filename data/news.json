@@ -1,84 +1,69 @@
 {
-  "updated_at": "2026-11-03T22:52:03.930076+00:00",
+  "updated_at": "2026-11-04T22:54:11.259972+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-FX5i61Cny58",
-      "title": "We asked Israelis how October 7 changed their vote | BBC News",
-      "titleZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+      "id": "video-JnhevR_N2h0",
+      "title": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
+      "titleZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
       "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "minutes": 5,
-      "summary": "Last week, Israel held a pivotal general election - the first since the deadly Hamas-led attacks on Israel on 7 October 2023 and the wars that followed in Gaza, Lebanon and Iran.\n\nPrime Minister Benjamin Netanyahu and the opposition bloc - led by Gadi Eisenkot - are in near deadlock. Now comes a period of political deal-making to form a coalition government.\n\nThe BBC’s Middle East Correspondent Lucy Williamson spoke to voters in the lead up to the vote to see what influenced their vote.\n\n#Israel #Netanyahu #BBCNews",
+      "summary": "Subscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=FX5i61Cny58",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/FX5i61Cny58",
-      "articleUrl": "https://www.youtube.com/watch?v=FX5i61Cny58",
+      "videoUrl": "https://www.youtube.com/watch?v=JnhevR_N2h0",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/JnhevR_N2h0",
+      "articleUrl": "https://www.youtube.com/watch?v=JnhevR_N2h0",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Last week, Israel held a pivotal general election - the first since the deadly Hamas-led attacks on Israel on 7 October 2023 and the wars that followed in Gaza, Lebanon and Iran.\n\nPrime Minister Benjamin Netanyahu and the opposition bloc - led by Gadi Eisenkot - are in near deadlock.\n\nNow comes a period of political deal-making to form a coalition government.\n\nThe BBC’s Middle East Correspondent Lucy Williamson spoke to voters in the lead up to the vote to see what influenced their vote.",
-      "readingTextZh": "上周，以色列举行了一次关键的大选，这是自2023年10月7日哈马斯领导的对以色列的致命袭击以及随后在加沙、黎巴嫩和伊朗发生的战争以来的首次大选。\n\n总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和加迪·艾森科特（ Gadi Eisenkot ）领导的反对派集团几乎陷入僵局。\n\n现在是组建联合政府的政治交易时期。\n\n英国广播公司中东记者露西·威廉姆森（ Lucy Williamson ）在投票前与选民进行了交谈，看看是什么影响了他们的投票。",
+      "readingText": "For the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Last week, Israel held a pivotal general election - the first since the deadly Hamas-led attacks on Israel on 7 October 2023 and the wars that followed in Gaza, Lebanon and Iran.",
-          "zh": "上周，以色列举行了一次关键的大选，这是自2023年10月7日哈马斯领导的对以色列的致命袭击以及随后在加沙、黎巴嫩和伊朗发生的战争以来的首次大选。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Prime Minister Benjamin Netanyahu and the opposition bloc - led by Gadi Eisenkot - are in near deadlock.",
-          "zh": "总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）和加迪·艾森科特（ Gadi Eisenkot ）领导的反对派集团几乎陷入僵局。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Now comes a period of political deal-making to form a coalition government.",
-          "zh": "现在是组建联合政府的政治交易时期。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The BBC’s Middle East Correspondent Lucy Williamson spoke to voters in the lead up to the vote to see what influenced their vote.",
-          "zh": "英国广播公司中东记者露西·威廉姆森（ Lucy Williamson ）在投票前与选民进行了交谈，看看是什么影响了他们的投票。",
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "asked",
+          "word": "Angler's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
-          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
+          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Israelis",
+          "word": "carp",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
-          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
+          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "October",
+          "word": "catch",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
-          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
+          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "changed",
+          "word": "hailed",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "We asked Israelis how October 7 changed their vote | BBC News",
-          "exZh": "我们问以色列人10月7日如何改变他们的投票| BBC新闻",
+          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
+          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -94,125 +79,39 @@
       ]
     },
     {
-      "id": "video-RiRUM6K0ikA",
-      "title": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
-      "titleZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+      "id": "video-n_GPIGuL5lk",
+      "title": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
+      "titleZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Donald Trump says it's \"largely true\" that the US-Israel war in Iran was responsible for sweeping Republican losses in the US midterm elections.\n \nHis comments come after US Vice-President, JD Vance, said in an social media post \"the reason we lost is the war.\"\n\nThe President has said he has no plans for immediate strikes on Iran after the vote, but the region remains on alert for any further military action.\n \nThe BBC's International Editor, Jeremy Bowen - alongside colleagues from the United States and BBC Persian - provides analysis of what the midterm results mean for the war and where things might go from here.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=RiRUM6K0ikA",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/RiRUM6K0ikA",
-      "articleUrl": "https://www.youtube.com/watch?v=RiRUM6K0ikA",
+      "videoUrl": "https://www.youtube.com/watch?v=n_GPIGuL5lk",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/n_GPIGuL5lk",
+      "articleUrl": "https://www.youtube.com/watch?v=n_GPIGuL5lk",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
-      "readingTextZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
+      "readingText": "Donald Trump says it's \"largely true\" that the US-Israel war in Iran was responsible for sweeping Republican losses in the US midterm elections.\n\nHis comments come after US Vice-President, JD Vance, said in an social media post \"the reason we lost is the war.\"\n\nThe President has said he has no plans for immediate strikes on Iran after the vote, but the region remains on alert for any further military action.\n\nThe BBC's International Editor, Jeremy Bowen - alongside colleagues from the United States and BBC Persian - provides analysis of what the midterm results mean for the war and where things might go from here.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "唐纳德·特朗普（ Donald Trump ）表示，美国-以色列在伊朗的战争是共和党在美国中期选举中大幅失败的原因，这“基本上是真的”。\n\n他的评论是在美国副总统JD Vance在一篇社交媒体帖子中表示“我们失败的原因是战争”之后发表的。\n\n总统表示，他没有在投票后立即对伊朗发动袭击的计划，但该地区仍对任何进一步的军事行动保持警惕。\n\n英国广播公司的国际编辑杰里米·鲍恩（ Jeremy Bowen ）与来自美国和英国广播公司波斯语频道的同事一起，分析了中期结果对战争的意义以及未来的发展方向。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
-          "zh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Witness",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
-          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Christa",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
-          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Pike's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
-          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "failed",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Witness to Christa Pike's failed execution shares story in new interview #BBCNews",
-          "exZh": "克里斯塔·派克（ Christa Pike ）执行失败的见证者在新的采访中分享了故事# BBCNew",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-AaZ9vLbZVnA",
-      "title": "US strikes Iranian island ahead of midterm elections | BBC News",
-      "titleZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-03",
-      "minutes": 5,
-      "summary": "The US has carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.\n \nThe officials described the strikes as limited and defensive, and said they were in response to Iran's Islamic Revolutionary Guard Corps (IRGC) firing on a US aircraft.\n \nIranian state news agency Irna reported explosions on Qeshm on Monday. The IRGC did not comment but said its forces had shot down two US MQM-170 drones south of the island and a US MQ-9 drone east of the Strait of Hormuz.\n \nThe US military has not commented on the strikes, which came as mediators stepped up their efforts to prevent a return to all-out war after the US midterm elections on Tuesday.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #USMidterms #BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=AaZ9vLbZVnA",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/AaZ9vLbZVnA",
-      "articleUrl": "https://www.youtube.com/watch?v=AaZ9vLbZVnA",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The US has carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.\n\nThe officials described the strikes as limited and defensive, and said they were in response to Iran's Islamic Revolutionary Guard Corps (IRGC) firing on a US aircraft.\n\nIranian state news agency Irna reported explosions on Qeshm on Monday.\n\nThe IRGC did not comment but said its forces had shot down two US MQM-170 drones south of the island and a US MQ-9 drone east of the Strait of Hormuz.\n\nThe US military has not commented on the strikes, which came as mediators stepped up their efforts to prevent a return to all-out war after the US midterm elections on Tuesday.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "美国官员告诉英国广播公司的美国合作伙伴哥伦比亚广播公司，美国对霍尔木兹海峡的伊朗格什姆岛进行了打击。\n\n官员们称罢工是有限的和防御性的，并表示他们是对伊朗伊斯兰革命卫队（ IRGC ）向美国飞机开火的回应。\n\n伊朗国家通讯社Irna周一报道了格什姆发生的爆炸事件。\n\n伊斯兰革命卫队没有发表评论，但表示其部队在该岛以南击落了两架美国MQM-170无人机，并在霍尔木兹海峡以东击落了一架美国MQ-9无人机。\n\n美国军方尚未对罢工发表评论，此前调解人加紧努力，防止在周二美国中期选举后恢复全面战争。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "The US has carried out strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.",
-          "zh": "美国官员告诉英国广播公司的美国合作伙伴哥伦比亚广播公司，美国对霍尔木兹海峡的伊朗格什姆岛进行了打击。",
+          "en": "Donald Trump says it's \"largely true\" that the US-Israel war in Iran was responsible for sweeping Republican losses in the US midterm elections.",
+          "zh": "唐纳德·特朗普（ Donald Trump ）表示，美国-以色列在伊朗的战争是共和党在美国中期选举中大幅失败的原因，这“基本上是真的”。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The officials described the strikes as limited and defensive, and said they were in response to Iran's Islamic Revolutionary Guard Corps (IRGC) firing on a US aircraft.",
-          "zh": "官员们称罢工是有限的和防御性的，并表示他们是对伊朗伊斯兰革命卫队（ IRGC ）向美国飞机开火的回应。",
+          "en": "His comments come after US Vice-President, JD Vance, said in an social media post \"the reason we lost is the war.\"\n\nThe President has said he has no plans for immediate strikes on Iran after the vote, but the region remains on alert for any further military action.",
+          "zh": "他的评论是在美国副总统JD Vance在一篇社交媒体帖子中表示“我们失败的原因是战争”之后发表的。\n\n总统表示，他没有在投票后立即对伊朗发动袭击的计划，但该地区仍对任何进一步的军事行动保持警惕。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Iranian state news agency Irna reported explosions on Qeshm on Monday.",
-          "zh": "伊朗国家通讯社Irna周一报道了格什姆发生的爆炸事件。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The IRGC did not comment but said its forces had shot down two US MQM-170 drones south of the island and a US MQ-9 drone east of the Strait of Hormuz.",
-          "zh": "伊斯兰革命卫队没有发表评论，但表示其部队在该岛以南击落了两架美国MQM-170无人机，并在霍尔木兹海峡以东击落了一架美国MQ-9无人机。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The US military has not commented on the strikes, which came as mediators stepped up their efforts to prevent a return to all-out war after the US midterm elections on Tuesday.",
-          "zh": "美国军方尚未对罢工发表评论，此前调解人加紧努力，防止在周二美国中期选举后恢复全面战争。",
+          "en": "The BBC's International Editor, Jeremy Bowen - alongside colleagues from the United States and BBC Persian - provides analysis of what the midterm results mean for the war and where things might go from here.",
+          "zh": "英国广播公司的国际编辑杰里米·鲍恩（ Jeremy Bowen ）与来自美国和英国广播公司波斯语频道的同事一起，分析了中期结果对战争的意义以及未来的发展方向。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
@@ -223,39 +122,39 @@
       ],
       "vocab": [
         {
-          "word": "strikes",
+          "word": "Donald",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
-          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
+          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
+          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Iranian",
+          "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
-          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
+          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
+          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "island",
+          "word": "Vance",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
-          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
+          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
+          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "ahead",
+          "word": "blame",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US strikes Iranian island ahead of midterm elections | BBC News",
-          "exZh": "美国在中期选举前袭击伊朗岛| BBC新闻",
+          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
+          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -271,102 +170,67 @@
       ]
     },
     {
-      "id": "video-c6o54qNIOqM",
-      "title": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
-      "titleZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
+      "id": "video-8s_rO3J5Cus",
+      "title": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
+      "titleZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
       "level": "B2",
-      "category": "SCIENCE",
+      "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "minutes": 5,
-      "summary": "Could the UK's push to become an AI superpower put its 2050 net zero target at risk?\n\nThe UK government wants to rapidly expand the number of AI data centres being built across the country, but a BBC File on 4 Investigates report has found this rapid growth could severely affect the government's own net zero climate goals. \n\nPlans for some of the biggest sites include proposals for on-site gas power stations to feed the energy-hungry data centres. This is because developers cannot immediately connect to the national grid - with potential waits of up to 10 years.\n\nBBC calculations suggest that if four of these gas-fuelled mega data centres ran at full capacity all year, they could produce more carbon emissions than Manchester, Liverpool and Southampton combined.\n\nIn this episode of BBC News Behind the Investigation, Melanie Stewart-Smith talks to reporter Adrian Goldberg about the scale of the proposed new data centre sites, concerns over their potential water and energy consumption, and why developers want access to more energy than the UK's national grid can currently provide.\n\nThe government said data centres were \"essential to Britain's economy\" and that its new Data Centre Covenant set clear expectations for developers to pay a fair share of the costs they impose on the energy system and deliver benefits for local communities.\n\nFor more on this story, search for File on 4 Investigates on BBC Sounds or wherever you get your podcasts.\n\n0:00 Could AI threaten the UK's net zero target?\n1:03 What are data centres?\n2:10 Why AI data centres are controversial\n3:38 The scale of the proposed sites\n4:41 Why data centres need so much water\n6:01 Microsoft's Leeds site and local concerns\n7:01 Pressure on the national grid\n8:34 Data centres turning to gas power\n9:48 What net zero means\n10:28 The government's data centre covenant\n12:27 What the industry is doing about renewables\n14:23 Is there hope for a greener path?\n16:46 Outro\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#ai #netzero #climatechange #uk #datacentre #BBCNews",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=c6o54qNIOqM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/c6o54qNIOqM",
-      "articleUrl": "https://www.youtube.com/watch?v=c6o54qNIOqM",
+      "videoUrl": "https://www.youtube.com/watch?v=8s_rO3J5Cus",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/8s_rO3J5Cus",
+      "articleUrl": "https://www.youtube.com/watch?v=8s_rO3J5Cus",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Could the UK's push to become an AI superpower put its 2050 net zero target at risk?\n\nThe UK government wants to rapidly expand the number of AI data centres being built across the country, but a BBC File on 4 Investigates report has found this rapid growth could severely affect the government's own net zero climate goals.\n\nPlans for some of the biggest sites include proposals for on-site gas power stations to feed the energy-hungry data centres.\n\nThis is because developers cannot immediately connect to the national grid - with potential waits of up to 10 years.\n\nBBC calculations suggest that if four of these gas-fuelled mega data centres ran at full capacity all year, they could produce more carbon emissions than Manchester, Liverpool and Southampton combined.\n\nIn this episode of BBC News Behind the Investigation, Melanie Stewart-Smith talks to reporter Adrian Goldberg about the scale of the proposed new data centre sites, concerns over their potential water and energy consumption, and why developers want access to more energy than the UK's national grid can currently provide.\n\nThe government said data centres were \"essential to Britain's economy\" and that its new Data Centre Covenant set clear expectations for developers to pay a fair share of the costs they impose on the energy system and deliver benefits for local communities.\n\nFor more on this story, search for File on 4 Investigates on BBC Sounds or wherever you get your podcasts.",
-      "readingTextZh": "英国成为人工智能超级大国的努力是否会使其2050年的净零目标面临风险？\n\n英国政府希望迅速扩大全国范围内正在建设的人工智能数据中心的数量，但英国广播公司的一份关于4调查的文件报告发现，这种快速增长可能会严重影响政府自身的净零气候目标。\n\n一些大型站点的计划包括现场燃气发电站的建议，以满足能源需求的数据中心。\n\n这是因为开发商无法立即连接到国家电网-可能等待长达10年。\n\n英国广播公司的计算表明，如果这些燃气大型数据中心中的四个全年满负荷运行，它们可能产生的碳排放量超过曼彻斯特、利物浦和南安普敦的总和。\n\n在这一集的BBC新闻调查背后， Melanie Stewart-Smith与记者Adrian Goldberg谈到了拟议的新数据中心站点的规模，对其潜在水和能源消耗的担忧，以及为什么开发商希望获得比英国国家电网目前可以提供的更多的能源。\n\n政府表示，数据中心“对英国经济至关重要” ，其新的数据中心公约为开发商设定了明确的期望，要求他们支付公平份额的能源系统成本，并为当地社区带来好处。\n\n有关此故事的更多信息，请在BBC Sounds或您获取播客的任何地方搜索4 Investigates上的文件。",
+      "readingText": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
+      "readingTextZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
       "sentences": [
         {
-          "en": "Could the UK's push to become an AI superpower put its 2050 net zero target at risk?",
-          "zh": "英国成为人工智能超级大国的努力是否会使其2050年的净零目标面临风险？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The UK government wants to rapidly expand the number of AI data centres being built across the country, but a BBC File on 4 Investigates report has found this rapid growth could severely affect the government's own net zero climate goals.",
-          "zh": "英国政府希望迅速扩大全国范围内正在建设的人工智能数据中心的数量，但英国广播公司的一份关于4调查的文件报告发现，这种快速增长可能会严重影响政府自身的净零气候目标。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Plans for some of the biggest sites include proposals for on-site gas power stations to feed the energy-hungry data centres.",
-          "zh": "一些大型站点的计划包括现场燃气发电站的建议，以满足能源需求的数据中心。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "This is because developers cannot immediately connect to the national grid - with potential waits of up to 10 years.",
-          "zh": "这是因为开发商无法立即连接到国家电网-可能等待长达10年。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "BBC calculations suggest that if four of these gas-fuelled mega data centres ran at full capacity all year, they could produce more carbon emissions than Manchester, Liverpool and Southampton combined.",
-          "zh": "英国广播公司的计算表明，如果这些燃气大型数据中心中的四个全年满负荷运行，它们可能产生的碳排放量超过曼彻斯特、利物浦和南安普敦的总和。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In this episode of BBC News Behind the Investigation, Melanie Stewart-Smith talks to reporter Adrian Goldberg about the scale of the proposed new data centre sites, concerns over their potential water and energy consumption, and why developers want access to more energy than the UK's national grid can currently provide.",
-          "zh": "在这一集的BBC新闻调查背后， Melanie Stewart-Smith与记者Adrian Goldberg谈到了拟议的新数据中心站点的规模，对其潜在水和能源消耗的担忧，以及为什么开发商希望获得比英国国家电网目前可以提供的更多的能源。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The government said data centres were \"essential to Britain's economy\" and that its new Data Centre Covenant set clear expectations for developers to pay a fair share of the costs they impose on the energy system and deliver benefits for local communities.",
-          "zh": "政府表示，数据中心“对英国经济至关重要” ，其新的数据中心公约为开发商设定了明确的期望，要求他们支付公平份额的能源系统成本，并为当地社区带来好处。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For more on this story, search for File on 4 Investigates on BBC Sounds or wherever you get your podcasts.",
-          "zh": "有关此故事的更多信息，请在BBC Sounds或您获取播客的任何地方搜索4 Investigates上的文件。",
+          "en": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
+          "zh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "threatens",
+          "word": "Russia",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
-          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
+          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
+          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "UK's",
+          "word": "Ukraine",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
-          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
+          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
+          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "climate",
+          "word": "reacted",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
-          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
+          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
+          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "goals",
+          "word": "midterm",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How AI threatens the UK's climate goals - Behind The Investigation | BBC News",
-          "exZh": "人工智能如何威胁英国的气候目标-调查背后| BBC新闻",
+          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
+          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -382,72 +246,87 @@
       ]
     },
     {
-      "id": "video-qBvyogaNsFE",
-      "title": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
-      "titleZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-03",
+      "id": "video-cVGUg-LrLOI",
+      "title": "Who's hacking supermarket fridges - and why? | BBC News",
+      "titleZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
+      "level": "B1",
+      "category": "BUSINESS",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-04",
       "minutes": 5,
-      "summary": "Responding to voting machine problems in Westchester County, New York, Republican Rep. Mike Lawler assures voters that there are \"no shenanigans\" and that all emergency ballots will be counted.",
+      "summary": "Fridges and freezers in supermarkets across Europe have been hit by a cyber-attack. Hackers managed to gain control and remotely turn up the temperature, in some cases to over 50 degrees Celsius, causing thousands of Euros worth of food to be thrown out. \n\nRumours have been circulating online that Russian hacktivist groups could be to blame. \n\nSo how did this happen? In this video:\n\n1:27 Why are fridges connected to the internet?\n2:02 How do you hack a fridge?\n3:15 The aftermath of the supermarket hack\n3:55 French blood banks targeted\n4:42 Recent similar attacks \n5:22 Who is behind the hacking?\n6:25 What else is vulnerable to these sorts of attacks?\n7:21 How can we protect against these attacks?\n8:00 Could AI make more of these attacks likely?\n8:47 What does this tell us about the future of cyber-attacks?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Supermarket #Hack #CyberCrime #Russia #AI #BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=qBvyogaNsFE",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/qBvyogaNsFE",
-      "articleUrl": "https://www.youtube.com/watch?v=qBvyogaNsFE",
+      "videoUrl": "https://www.youtube.com/watch?v=cVGUg-LrLOI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/cVGUg-LrLOI",
+      "articleUrl": "https://www.youtube.com/watch?v=cVGUg-LrLOI",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Responding to voting machine problems in Westchester County, New York, Republican Rep.\n\nMike Lawler assures voters that there are \"no shenanigans\" and that all emergency ballots will be counted.",
-      "readingTextZh": "应对纽约州威彻斯特县的投票机问题，共和党众议员\n\n迈克·劳勒（ Mike Lawler ）向选民保证， “没有恶作剧” ，所有紧急选票都将计算在内。",
+      "readingText": "Fridges and freezers in supermarkets across Europe have been hit by a cyber-attack.\n\nHackers managed to gain control and remotely turn up the temperature, in some cases to over 50 degrees Celsius, causing thousands of Euros worth of food to be thrown out.\n\nRumours have been circulating online that Russian hacktivist groups could be to blame.\n\nSo how did this happen?\n\nIn this video:",
+      "readingTextZh": "欧洲各地超市的冰箱和冰柜遭到网络攻击。\n\n黑客设法控制并远程调高温度，在某些情况下超过50摄氏度，导致价值数千欧元的食物被扔掉。\n\n有传言称，俄罗斯黑客组织可能是罪魁祸首。\n\n这份民调是怎么进入主流媒体的？\n\n在这个视频中:",
       "sentences": [
         {
-          "en": "Responding to voting machine problems in Westchester County, New York, Republican Rep.",
-          "zh": "应对纽约州威彻斯特县的投票机问题，共和党众议员",
+          "en": "Fridges and freezers in supermarkets across Europe have been hit by a cyber-attack.",
+          "zh": "欧洲各地超市的冰箱和冰柜遭到网络攻击。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Mike Lawler assures voters that there are \"no shenanigans\" and that all emergency ballots will be counted.",
-          "zh": "迈克·劳勒（ Mike Lawler ）向选民保证， “没有恶作剧” ，所有紧急选票都将计算在内。",
+          "en": "Hackers managed to gain control and remotely turn up the temperature, in some cases to over 50 degrees Celsius, causing thousands of Euros worth of food to be thrown out.",
+          "zh": "黑客设法控制并远程调高温度，在某些情况下超过50摄氏度，导致价值数千欧元的食物被扔掉。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Rumours have been circulating online that Russian hacktivist groups could be to blame.",
+          "zh": "有传言称，俄罗斯黑客组织可能是罪魁祸首。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "So how did this happen?",
+          "zh": "这份民调是怎么进入主流媒体的？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In this video:",
+          "zh": "在这个视频中:",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Lawler",
+          "word": "Who's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
-          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
+          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
+          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "assures",
+          "word": "hacking",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
-          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
+          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
+          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Westchester",
+          "word": "supermarket",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
-          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
+          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
+          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "County",
+          "word": "fridges",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Lawler assures Westchester County voters: ‘There’s no shenanigans going on here’",
-          "exZh": "劳勒向威彻斯特县选民保证： “这里没有恶作剧”",
+          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
+          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -463,206 +342,40 @@
       ]
     },
     {
-      "id": "video-FKAJ58CovT8",
-      "title": "Former Susan Collins supporters explain votes for Troy Jackson",
-      "titleZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
+      "id": "video-8fx8QHwnSXY",
+      "title": "Trump talks ballroom construction day after election shellacking",
+      "titleZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "minutes": 5,
-      "summary": "Voters in South Portland, Maine tell CNN why they are casting their ballots for Democrat Troy Jackson over Sen. Susan Collins and explain why they believe the Republican incumbent will probably still win",
+      "summary": "President Donald Trump highlighted the new White House ballroom construction Wednesday, a day after Democrats swept the midterm elections, while fielding questions about how he closed out the campaign",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=FKAJ58CovT8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/FKAJ58CovT8",
-      "articleUrl": "https://www.youtube.com/watch?v=FKAJ58CovT8",
+      "videoUrl": "https://www.youtube.com/watch?v=8fx8QHwnSXY",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/8fx8QHwnSXY",
+      "articleUrl": "https://www.youtube.com/watch?v=8fx8QHwnSXY",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Voters in South Portland, Maine tell CNN why they are casting their ballots for Democrat Troy Jackson over Sen.\n\nSusan Collins and explain why they believe the Republican incumbent will probably still win",
-      "readingTextZh": "缅因州南波特兰的选民告诉CNN ，他们为什么要把选票投给民主党人特洛伊·杰克逊（ Troy Jackson ） ，而不是参议员。\n\n苏珊·柯林斯（ Susan Collins ）并解释为什么他们认为共和党现任者仍可能获胜",
+      "readingText": "President Donald Trump highlighted the new White House ballroom construction Wednesday, a day after Democrats swept the midterm elections, while fielding questions about how he closed out the campaign",
+      "readingTextZh": "唐纳德特朗普总统周三强调了新的白宫舞厅建设，这是民主党席卷中期选举的第二天，同时回答了有关他如何结束竞选的问题",
       "sentences": [
         {
-          "en": "Voters in South Portland, Maine tell CNN why they are casting their ballots for Democrat Troy Jackson over Sen.",
-          "zh": "缅因州南波特兰的选民告诉CNN ，他们为什么要把选票投给民主党人特洛伊·杰克逊（ Troy Jackson ） ，而不是参议员。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Susan Collins and explain why they believe the Republican incumbent will probably still win",
-          "zh": "苏珊·柯林斯（ Susan Collins ）并解释为什么他们认为共和党现任者仍可能获胜",
+          "en": "President Donald Trump highlighted the new White House ballroom construction Wednesday, a day after Democrats swept the midterm elections, while fielding questions about how he closed out the campaign",
+          "zh": "唐纳德特朗普总统周三强调了新的白宫舞厅建设，这是民主党席卷中期选举的第二天，同时回答了有关他如何结束竞选的问题",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Former",
+          "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
-          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Susan",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
-          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Collins",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
-          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "supporters",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Former Susan Collins supporters explain votes for Troy Jackson",
-          "exZh": "前苏珊·柯林斯（ Susan Collins ）的支持者解释了特洛伊·杰克",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-UKaw2_CVzC8",
-      "title": "Pennsylvania voters name high prices among reasons to vote",
-      "titleZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-03",
-      "minutes": 5,
-      "summary": "CNN's Danny Freeman talks to voters in Pennsylvania about the main issues that drove them to vote.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=UKaw2_CVzC8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/UKaw2_CVzC8",
-      "articleUrl": "https://www.youtube.com/watch?v=UKaw2_CVzC8",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN's Danny Freeman talks to voters in Pennsylvania about the main issues that drove them to vote.",
-      "readingTextZh": "美国有线电视新闻网（ CNN ）的丹尼·弗里曼（ Danny Freeman ）在宾夕法尼亚州与选民谈论驱使他们投票的主要问题。",
-      "sentences": [
-        {
-          "en": "CNN's Danny Freeman talks to voters in Pennsylvania about the main issues that drove them to vote.",
-          "zh": "美国有线电视新闻网（ CNN ）的丹尼·弗里曼（ Danny Freeman ）在宾夕法尼亚州与选民谈论驱使他们投票的主要问题。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Pennsylvania",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Pennsylvania voters name high prices among reasons to vote",
-          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "voters",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Pennsylvania voters name high prices among reasons to vote",
-          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "name",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Pennsylvania voters name high prices among reasons to vote",
-          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "high",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Pennsylvania voters name high prices among reasons to vote",
-          "exZh": "宾夕法尼亚州选民将高价格列为投票理由之一",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-0ngxG7R3lo8",
-      "title": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
-      "titleZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-03",
-      "minutes": 5,
-      "summary": "CNN's Sara Sidner is on the University of Michigan campus, while Democratic Senate candidate Abdul El-Sayed is speaking with students on Election Day.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=0ngxG7R3lo8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/0ngxG7R3lo8",
-      "articleUrl": "https://www.youtube.com/watch?v=0ngxG7R3lo8",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN's Sara Sidner is on the University of Michigan campus, while Democratic Senate candidate Abdul El-Sayed is speaking with students on Election Day.",
-      "readingTextZh": "美国有线电视新闻网的萨拉·西德纳（ Sara Sidner ）在密歇根大学校园内，而民主党参议员候选人阿卜杜勒·赛义德（ Abdul El-Sayed ）在选举日与学生交谈",
-      "sentences": [
-        {
-          "en": "CNN's Sara Sidner is on the University of Michigan campus, while Democratic Senate candidate Abdul El-Sayed is speaking with students on Election Day.",
-          "zh": "美国有线电视新闻网的萨拉·西德纳（ Sara Sidner ）在密歇根大学校园内，而民主党参议员候选人阿卜杜勒·赛义德（ Abdul El-Sayed ）在选举日与学生交谈",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Abdul",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
-          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Sayed",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
-          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
+          "ex": "Trump talks ballroom construction day after election shellacking",
+          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
@@ -670,17 +383,279 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
-          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
+          "ex": "Trump talks ballroom construction day after election shellacking",
+          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "young",
+          "word": "ballroom",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Abdul El-Sayed talks with young voters at University of Michigan on Election Day",
-          "exZh": "阿卜杜勒·赛义德在选举日与密歇根大学的年轻选民会谈",
+          "ex": "Trump talks ballroom construction day after election shellacking",
+          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "construction",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump talks ballroom construction day after election shellacking",
+          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-9fQDwVVR064",
+      "title": "CNN voter polls reveal new details on how GOP got pummeled",
+      "titleZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-04",
+      "minutes": 5,
+      "summary": "CNN’s political director David Chalian unpacks voter polls (formerly exit polls) to understand the reasons why voters cast their ballots as they did and how some of Trump’s voters were the ones to hand defeat to Republicans.\n\n0:00 What the voter polls say\n2:24 Why voters turned away from the GOP\n3:34 A Republican candidate on why his party lost\n4:43 Is the beginning of the end of MAGA?\n6:18 Democrats make inroads in ruby red districts\n8:00 The foundation that made those victories possible\n10:43 “Politicians in the south got lazy”\n11:28 Trump on working across the aisle\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #election #midterms",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=9fQDwVVR064",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/9fQDwVVR064",
+      "articleUrl": "https://www.youtube.com/watch?v=9fQDwVVR064",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "CNN’s political director David Chalian unpacks voter polls (formerly exit polls) to understand the reasons why voters cast their ballots as they did and how some of Trump’s voters were the ones to hand defeat to Republicans.",
+      "readingTextZh": "美国有线电视新闻网（ CNN ）的政治主管大卫·查连（ David Chalian ）解开了选民投票（前身为出口民意调查） ，以了解选民如此投票的原因，以及特朗普的一些选民是如何将失败交给共和党人的。",
+      "sentences": [
+        {
+          "en": "CNN’s political director David Chalian unpacks voter polls (formerly exit polls) to understand the reasons why voters cast their ballots as they did and how some of Trump’s voters were the ones to hand defeat to Republicans.",
+          "zh": "美国有线电视新闻网（ CNN ）的政治主管大卫·查连（ David Chalian ）解开了选民投票（前身为出口民意调查） ，以了解选民如此投票的原因，以及特朗普的一些选民是如何将失败交给共和党人的。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "voter",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
+          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "polls",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
+          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "reveal",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
+          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "details",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
+          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-SYT3CDKpcR8",
+      "title": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
+      "titleZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-04",
+      "minutes": 5,
+      "summary": "While discussing Democrats’ potential impeachment efforts of the president and policymaking in Congress going forward, Republican Texas Rep. Dan Crenshaw and Democratic Maryland Rep. Jamie Raskin got into a heated shouting match.\n\n“A little hard to believe the Democrats aren’t going to want to impeach Trump. It’s sort of a pastime, but who knows?” Crenshaw said in the exchange on CNN.\n\n“It’s our pastime to defend the Constitution,” Raskin fired back.\n\n0:00 Raskin on whether Democrats should pursue impeaching Trump\n2:14 CNN's Manu Raju asks Hakeem Jeffries about how he will treat Trump\n4:22 Raskin: \"You're missing the point and you guys lost the election because you missed the point\"\n6:44 \"You seem a little flustered, buddy.\" \"I got 82% of the vote, I'm doing great today\"\n7:05 Crenshaw: \"Are you capable of saying anything substantive, besides platitudes and talking points?\"\n\nGet live election results, analysis & more updates: https://cnn.it/48x1hqU\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Election #Debate #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=SYT3CDKpcR8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/SYT3CDKpcR8",
+      "articleUrl": "https://www.youtube.com/watch?v=SYT3CDKpcR8",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "While discussing Democrats’ potential impeachment efforts of the president and policymaking in Congress going forward, Republican Texas Rep.\n\nDan Crenshaw and Democratic Maryland Rep.\n\nJamie Raskin got into a heated shouting match.\n\n“A little hard to believe the Democrats aren’t going to want to impeach Trump.\n\nIt’s sort of a pastime, but who knows?” Crenshaw said in the exchange on CNN.\n\n“It’s our pastime to defend the Constitution,” Raskin fired back.",
+      "readingTextZh": "在讨论民主党总统可能的弹劾努力和国会未来的决策时，共和党德克萨斯州众议员\n\nDan Crenshaw和马里兰州民主党众议员\n\n杰米·拉斯金（ Jamie Raskin ）参加了一场激烈的呐喊比赛。\n\n“有点难以置信，民主党人不会想要弹劾特朗普。\n\n这是一种消遣，但谁知道呢？ ” Crenshaw在CNN的交流中说。\n\n“这是我们捍卫宪法的消遣，”拉斯金反击道。",
+      "sentences": [
+        {
+          "en": "While discussing Democrats’ potential impeachment efforts of the president and policymaking in Congress going forward, Republican Texas Rep.",
+          "zh": "在讨论民主党总统可能的弹劾努力和国会未来的决策时，共和党德克萨斯州众议员",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Dan Crenshaw and Democratic Maryland Rep.",
+          "zh": "Dan Crenshaw和马里兰州民主党众议员",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Jamie Raskin got into a heated shouting match.\n\n“A little hard to believe the Democrats aren’t going to want to impeach Trump.",
+          "zh": "杰米·拉斯金（ Jamie Raskin ）参加了一场激烈的呐喊比赛。\n\n“有点难以置信，民主党人不会想要弹劾特朗普。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "It’s sort of a pastime, but who knows?” Crenshaw said in the exchange on CNN.\n\n“It’s our pastime to defend the Constitution,” Raskin fired back.",
+          "zh": "这是一种消遣，但谁知道呢？ ” Crenshaw在CNN的交流中说。\n\n“这是我们捍卫宪法的消遣，”拉斯金反击道。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "'Are",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
+          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "confused",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
+          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "reps",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
+          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "erupt",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
+          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-RUPUGI3Owjo",
+      "title": "Discussing death with Dr. Sanjay Gupta",
+      "titleZh": "与Sanjay Gupta博士讨论死亡",
+      "level": "A2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-04",
+      "minutes": 5,
+      "summary": "Discussing death can be one of the most difficult things to do with our families, but Dr. BJ Miller encourages us to tackle this important subject with loved ones, especially our children.\n\n“It can be a joyful, enriching conversation… some families ritualize it, every year they talk about their advanced directives.”\n\nChasing Life with Dr. Sanjay Gupta is streaming on the CNN App and wherever you get your podcasts.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=RUPUGI3Owjo",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/RUPUGI3Owjo",
+      "articleUrl": "https://www.youtube.com/watch?v=RUPUGI3Owjo",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Discussing death can be one of the most difficult things to do with our families, but Dr.\n\nBJ Miller encourages us to tackle this important subject with loved ones, especially our children.\n\n“It can be a joyful, enriching conversation… some families ritualize it, every year they talk about their advanced directives.”\n\nChasing Life with Dr.\n\nSanjay Gupta is streaming on the CNN App and wherever you get your podcasts.",
+      "readingTextZh": "与我们的家人讨论死亡可能是最困难的事情之一，但\n\nBJ Miller鼓励我们与亲人，特别是我们的孩子一起解决这一重要问题。\n\n“这可能是一次愉快、丰富的对话……有些家庭将其作为仪式，每年他们都会谈论他们的高级指令。”\n\n与Dr.一起追逐生命\n\nSanjay Gupta正在CNN应用程序上流式传输，无论您从哪里获得播客。",
+      "sentences": [
+        {
+          "en": "Discussing death can be one of the most difficult things to do with our families, but Dr.",
+          "zh": "与我们的家人讨论死亡可能是最困难的事情之一，但",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "BJ Miller encourages us to tackle this important subject with loved ones, especially our children.\n\n“It can be a joyful, enriching conversation… some families ritualize it, every year they talk about their advanced directives.”\n\nChasing Life with Dr.",
+          "zh": "BJ Miller鼓励我们与亲人，特别是我们的孩子一起解决这一重要问题。\n\n“这可能是一次愉快、丰富的对话……有些家庭将其作为仪式，每年他们都会谈论他们的高级指令。”\n\n与Dr.一起追逐生命",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Sanjay Gupta is streaming on the CNN App and wherever you get your podcasts.",
+          "zh": "Sanjay Gupta正在CNN应用程序上流式传输，无论您从哪里获得播客。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Discussing",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Discussing death with Dr. Sanjay Gupta",
+          "exZh": "与Sanjay Gupta博士讨论死亡",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "death",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Discussing death with Dr. Sanjay Gupta",
+          "exZh": "与Sanjay Gupta博士讨论死亡",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Sanjay",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Discussing death with Dr. Sanjay Gupta",
+          "exZh": "与Sanjay Gupta博士讨论死亡",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Gupta",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Discussing death with Dr. Sanjay Gupta",
+          "exZh": "与Sanjay Gupta博士讨论死亡",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
