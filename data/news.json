@@ -1,23 +1,129 @@
 {
-  "updated_at": "2026-11-04T22:54:11.259972+00:00",
+  "updated_at": "2026-11-06T22:48:54.023967+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-JnhevR_N2h0",
-      "title": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
-      "titleZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
+      "id": "video-Wn0FDCF6Mkw",
+      "title": "How can you prepare for a polar vortex? | BBC News",
+      "titleZh": "如何为极地漩涡做好准备？ | BBC新闻",
       "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-04",
+      "date": "2026-11-06",
+      "minutes": 5,
+      "summary": "High above the Arctic, powerful winds usually circle the North Pole each winter, helping trap some of the coldest air on Earth.\n \nStrong westerly winds form in the stratosphere, roughly 10 to 30 miles (15-50km) above Earth's surface, locking the coldest air near the pole.\n \nAtmospheric disturbances can cause the air high up to start warming which then makes the vortex winds weaken. This sudden stratospheric warming (SSW) can eventually lead to the strong westerlies reversing into easterly winds.\n \nSo what do you need to know about it? BBC lead weather presenter Simon King answers some of the top questions.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#PolarVortex #WinterWeather #NorthPole #BBCWeather #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=Wn0FDCF6Mkw",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Wn0FDCF6Mkw",
+      "articleUrl": "https://www.youtube.com/watch?v=Wn0FDCF6Mkw",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "High above the Arctic, powerful winds usually circle the North Pole each winter, helping trap some of the coldest air on Earth.\n\nStrong westerly winds form in the stratosphere, roughly 10 to 30 miles (15-50km) above Earth's surface, locking the coldest air near the pole.\n\nAtmospheric disturbances can cause the air high up to start warming which then makes the vortex winds weaken.\n\nThis sudden stratospheric warming (SSW) can eventually lead to the strong westerlies reversing into easterly winds.\n\nSo what do you need to know about it?\n\nBBC lead weather presenter Simon King answers some of the top questions.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "在北极上空，强风通常每年冬天环绕北极，帮助捕获地球上最冷的空气。\n\n在地球表面以上约10至30英里（ 15-50公里）的平流层中形成强烈的西风，将极点附近最冷的空气锁定。\n\n大气扰动可能导致高空空气开始变暖，从而使涡旋风减弱。\n\n这种突然的平流层变暖（ SSW ）最终可能导致强大的西风带逆转为东风。\n\n那么，您需要了解哪些信息？\n\nBBC首席气象主持人Simon King回答了一些热门问题。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "High above the Arctic, powerful winds usually circle the North Pole each winter, helping trap some of the coldest air on Earth.",
+          "zh": "在北极上空，强风通常每年冬天环绕北极，帮助捕获地球上最冷的空气。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Strong westerly winds form in the stratosphere, roughly 10 to 30 miles (15-50km) above Earth's surface, locking the coldest air near the pole.",
+          "zh": "在地球表面以上约10至30英里（ 15-50公里）的平流层中形成强烈的西风，将极点附近最冷的空气锁定。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Atmospheric disturbances can cause the air high up to start warming which then makes the vortex winds weaken.",
+          "zh": "大气扰动可能导致高空空气开始变暖，从而使涡旋风减弱。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "This sudden stratospheric warming (SSW) can eventually lead to the strong westerlies reversing into easterly winds.",
+          "zh": "这种突然的平流层变暖（ SSW ）最终可能导致强大的西风带逆转为东风。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "So what do you need to know about it?",
+          "zh": "那么，您需要了解哪些信息？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "BBC lead weather presenter Simon King answers some of the top questions.",
+          "zh": "BBC首席气象主持人Simon King回答了一些热门问题。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "prepare",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How can you prepare for a polar vortex? | BBC News",
+          "exZh": "如何为极地漩涡做好准备？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "polar",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How can you prepare for a polar vortex? | BBC News",
+          "exZh": "如何为极地漩涡做好准备？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "vortex",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How can you prepare for a polar vortex? | BBC News",
+          "exZh": "如何为极地漩涡做好准备？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "News",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "How can you prepare for a polar vortex? | BBC News",
+          "exZh": "如何为极地漩涡做好准备？ | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-IbykDTKXL6I",
+      "title": "UK prime minister tells firms to publish salaries in job adverts. #BBCNews",
+      "titleZh": "英国首相要求企业在招聘广告中公布薪资。# BBCNews",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-06",
       "minutes": 5,
       "summary": "Subscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=JnhevR_N2h0",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/JnhevR_N2h0",
-      "articleUrl": "https://www.youtube.com/watch?v=JnhevR_N2h0",
+      "videoUrl": "https://www.youtube.com/watch?v=IbykDTKXL6I",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/IbykDTKXL6I",
+      "articleUrl": "https://www.youtube.com/watch?v=IbykDTKXL6I",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
       "readingText": "For the latest news download the BBC News app or visit BBC.com/news",
@@ -31,39 +137,39 @@
       ],
       "vocab": [
         {
-          "word": "Angler's",
+          "word": "prime",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
-          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
+          "ex": "UK prime minister tells firms to publish salaries in job adverts. #BBCNews",
+          "exZh": "英国首相要求企业在招聘广告中公布薪资。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "carp",
+          "word": "minister",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
-          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
+          "ex": "UK prime minister tells firms to publish salaries in job adverts. #BBCNews",
+          "exZh": "英国首相要求企业在招聘广告中公布薪资。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "catch",
+          "word": "tells",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
-          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
+          "ex": "UK prime minister tells firms to publish salaries in job adverts. #BBCNews",
+          "exZh": "英国首相要求企业在招聘广告中公布薪资。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "hailed",
+          "word": "firms",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Angler's 52kg carp catch hailed as world record. #Fishing #Hungary #BBCNews",
-          "exZh": "Angler的52公斤鲤鱼捕获量被誉为世界纪录。#钓鱼#匈牙利# BBC新闻",
+          "ex": "UK prime minister tells firms to publish salaries in job adverts. #BBCNews",
+          "exZh": "英国首相要求企业在招聘广告中公布薪资。# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -79,82 +185,92 @@
       ]
     },
     {
-      "id": "video-n_GPIGuL5lk",
-      "title": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
-      "titleZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
-      "level": "B2",
+      "id": "video-yq7t18aue9o",
+      "title": "AO3 and the hidden fragility of the internet | Top Comment Podcast",
+      "titleZh": "AO3和隐藏的互联网脆弱性|热门评论播客",
+      "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "minutes": 5,
-      "summary": "Donald Trump says it's \"largely true\" that the US-Israel war in Iran was responsible for sweeping Republican losses in the US midterm elections.\n \nHis comments come after US Vice-President, JD Vance, said in an social media post \"the reason we lost is the war.\"\n\nThe President has said he has no plans for immediate strikes on Iran after the vote, but the region remains on alert for any further military action.\n \nThe BBC's International Editor, Jeremy Bowen - alongside colleagues from the United States and BBC Persian - provides analysis of what the midterm results mean for the war and where things might go from here.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "When the internet’s biggest fanfiction site disappears, there’s one thing you can still count on: a network of fans. \n\nAO3 hosts more than 18 million works, including many sexually explicit stories, and writing inspired by popular IP, such as Harry Potter, Twilight and Heated Rivalry. \n\nAnd the fans have been sharing “fics” on drives to keep each other going while their online haven is down. The non-profit behind AO3, announced the site would be offline for two to four weeks, citing a “security incident”. \n\nIn this episode, Marianna and Matt discuss why people are panicking and whether after other cyber security threats recently - including PHP - the internet is becoming more fragile.\n\nPlus - Marianna has done an experiment to test how AI chatbots might be influencing how people vote and how it could mean for future elections.\n\n00:00 Introduction\n\n00:36 PART ONE: AO3 and fears of the internet apocalypse\n\n13:14 PART TWO: Elections in the age of AI Chatbots \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=n_GPIGuL5lk",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/n_GPIGuL5lk",
-      "articleUrl": "https://www.youtube.com/watch?v=n_GPIGuL5lk",
+      "videoUrl": "https://www.youtube.com/watch?v=yq7t18aue9o",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/yq7t18aue9o",
+      "articleUrl": "https://www.youtube.com/watch?v=yq7t18aue9o",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Donald Trump says it's \"largely true\" that the US-Israel war in Iran was responsible for sweeping Republican losses in the US midterm elections.\n\nHis comments come after US Vice-President, JD Vance, said in an social media post \"the reason we lost is the war.\"\n\nThe President has said he has no plans for immediate strikes on Iran after the vote, but the region remains on alert for any further military action.\n\nThe BBC's International Editor, Jeremy Bowen - alongside colleagues from the United States and BBC Persian - provides analysis of what the midterm results mean for the war and where things might go from here.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "唐纳德·特朗普（ Donald Trump ）表示，美国-以色列在伊朗的战争是共和党在美国中期选举中大幅失败的原因，这“基本上是真的”。\n\n他的评论是在美国副总统JD Vance在一篇社交媒体帖子中表示“我们失败的原因是战争”之后发表的。\n\n总统表示，他没有在投票后立即对伊朗发动袭击的计划，但该地区仍对任何进一步的军事行动保持警惕。\n\n英国广播公司的国际编辑杰里米·鲍恩（ Jeremy Bowen ）与来自美国和英国广播公司波斯语频道的同事一起，分析了中期结果对战争的意义以及未来的发展方向。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "When the internet’s biggest fanfiction site disappears, there’s one thing you can still count on: a network of fans.\n\nAO3 hosts more than 18 million works, including many sexually explicit stories, and writing inspired by popular IP, such as Harry Potter, Twilight and Heated Rivalry.\n\nAnd the fans have been sharing “fics” on drives to keep each other going while their online haven is down.\n\nThe non-profit behind AO3, announced the site would be offline for two to four weeks, citing a “security incident”.\n\nIn this episode, Marianna and Matt discuss why people are panicking and whether after other cyber security threats recently - including PHP - the internet is becoming more fragile.\n\nPlus - Marianna has done an experiment to test how AI chatbots might be influencing how people vote and how it could mean for future elections.",
+      "readingTextZh": "当互联网上最大的粉丝小说网站消失时，您仍然可以依靠一件事：粉丝网络。\n\nAO3拥有超过1800万部作品，包括许多色情故事，以及受《哈利·波特》、《暮光之城》和《激烈竞争》等流行IP启发的作品。\n\n粉丝们一直在驱动器上分享“fics” ，以便在他们的在线避风港关闭时保持彼此的活力。\n\nAO3背后的非营利组织宣布，该网站将离线两到四周，理由是“安全事件”。\n\n在这一集中， Marianna和Matt讨论了人们为什么恐慌，以及在最近出现其他网络安全威胁（包括PHP ）之后，互联网是否变得更加脆弱。\n\n此外， Marianna还进行了一项实验，测试人工智能聊天机器人如何影响人们的投票方式，以及它对未来选举的意义。",
       "sentences": [
         {
-          "en": "Donald Trump says it's \"largely true\" that the US-Israel war in Iran was responsible for sweeping Republican losses in the US midterm elections.",
-          "zh": "唐纳德·特朗普（ Donald Trump ）表示，美国-以色列在伊朗的战争是共和党在美国中期选举中大幅失败的原因，这“基本上是真的”。",
+          "en": "When the internet’s biggest fanfiction site disappears, there’s one thing you can still count on: a network of fans.",
+          "zh": "当互联网上最大的粉丝小说网站消失时，您仍然可以依靠一件事：粉丝网络。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "His comments come after US Vice-President, JD Vance, said in an social media post \"the reason we lost is the war.\"\n\nThe President has said he has no plans for immediate strikes on Iran after the vote, but the region remains on alert for any further military action.",
-          "zh": "他的评论是在美国副总统JD Vance在一篇社交媒体帖子中表示“我们失败的原因是战争”之后发表的。\n\n总统表示，他没有在投票后立即对伊朗发动袭击的计划，但该地区仍对任何进一步的军事行动保持警惕。",
+          "en": "AO3 hosts more than 18 million works, including many sexually explicit stories, and writing inspired by popular IP, such as Harry Potter, Twilight and Heated Rivalry.",
+          "zh": "AO3拥有超过1800万部作品，包括许多色情故事，以及受《哈利·波特》、《暮光之城》和《激烈竞争》等流行IP启发的作品。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The BBC's International Editor, Jeremy Bowen - alongside colleagues from the United States and BBC Persian - provides analysis of what the midterm results mean for the war and where things might go from here.",
-          "zh": "英国广播公司的国际编辑杰里米·鲍恩（ Jeremy Bowen ）与来自美国和英国广播公司波斯语频道的同事一起，分析了中期结果对战争的意义以及未来的发展方向。",
+          "en": "And the fans have been sharing “fics” on drives to keep each other going while their online haven is down.",
+          "zh": "粉丝们一直在驱动器上分享“fics” ，以便在他们的在线避风港关闭时保持彼此的活力。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "en": "The non-profit behind AO3, announced the site would be offline for two to four weeks, citing a “security incident”.",
+          "zh": "AO3背后的非营利组织宣布，该网站将离线两到四周，理由是“安全事件”。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In this episode, Marianna and Matt discuss why people are panicking and whether after other cyber security threats recently - including PHP - the internet is becoming more fragile.",
+          "zh": "在这一集中， Marianna和Matt讨论了人们为什么恐慌，以及在最近出现其他网络安全威胁（包括PHP ）之后，互联网是否变得更加脆弱。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Plus - Marianna has done an experiment to test how AI chatbots might be influencing how people vote and how it could mean for future elections.",
+          "zh": "此外， Marianna还进行了一项实验，测试人工智能聊天机器人如何影响人们的投票方式，以及它对未来选举的意义。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Donald",
+          "word": "hidden",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
-          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
+          "ex": "AO3 and the hidden fragility of the internet | Top Comment Podcast",
+          "exZh": "AO3和隐藏的互联网脆弱性|热门评论播客",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Trump",
+          "word": "fragility",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
-          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
+          "ex": "AO3 and the hidden fragility of the internet | Top Comment Podcast",
+          "exZh": "AO3和隐藏的互联网脆弱性|热门评论播客",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Vance",
+          "word": "internet",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
-          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
+          "ex": "AO3 and the hidden fragility of the internet | Top Comment Podcast",
+          "exZh": "AO3和隐藏的互联网脆弱性|热门评论播客",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "blame",
+          "word": "Comment",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Donald Trump and JD Vance blame Iran war for midterm losses | BBC News",
-          "exZh": "唐纳德特朗普和JD万斯将中期损失归咎于伊朗战争| BBC新闻",
+          "ex": "AO3 and the hidden fragility of the internet | Top Comment Podcast",
+          "exZh": "AO3和隐藏的互联网脆弱性|热门评论播客",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -170,67 +286,67 @@
       ]
     },
     {
-      "id": "video-8s_rO3J5Cus",
-      "title": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
-      "titleZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
-      "level": "B2",
-      "category": "WORLD",
+      "id": "video-tYCJKaaLaAE",
+      "title": "How can you prepare for a polar vortex? #PolarVortex #BBCWeather",
+      "titleZh": "如何为极地漩涡做好准备？ # PolarVortex # BBCWeather",
+      "level": "B1",
+      "category": "SCIENCE",
       "source": "BBC News · Official Video",
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "minutes": 5,
       "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=8s_rO3J5Cus",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/8s_rO3J5Cus",
-      "articleUrl": "https://www.youtube.com/watch?v=8s_rO3J5Cus",
+      "videoUrl": "https://www.youtube.com/watch?v=tYCJKaaLaAE",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/tYCJKaaLaAE",
+      "articleUrl": "https://www.youtube.com/watch?v=tYCJKaaLaAE",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
-      "readingTextZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
+      "readingText": "How can you prepare for a polar vortex? #PolarVortex #BBCWeather",
+      "readingTextZh": "如何为极地漩涡做好准备？ # PolarVortex # BBCWeather",
       "sentences": [
         {
-          "en": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
-          "zh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
+          "en": "How can you prepare for a polar vortex? #PolarVortex #BBCWeather",
+          "zh": "如何为极地漩涡做好准备？ # PolarVortex # BBCWeather",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Russia",
+          "word": "prepare",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
-          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
+          "ex": "How can you prepare for a polar vortex? #PolarVortex #BBCWeather",
+          "exZh": "如何为极地漩涡做好准备？ # PolarVortex # BBCWeather",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Ukraine",
+          "word": "polar",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
-          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
+          "ex": "How can you prepare for a polar vortex? #PolarVortex #BBCWeather",
+          "exZh": "如何为极地漩涡做好准备？ # PolarVortex # BBCWeather",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "reacted",
+          "word": "vortex",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
-          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
+          "ex": "How can you prepare for a polar vortex? #PolarVortex #BBCWeather",
+          "exZh": "如何为极地漩涡做好准备？ # PolarVortex # BBCWeather",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "midterm",
+          "word": "PolarVortex",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "How have Russia and Ukraine reacted to the US midterm results? #BBCNews",
-          "exZh": "俄罗斯和乌克兰对美国中期选举结果有何反应？ # BBCNews",
+          "ex": "How can you prepare for a polar vortex? #PolarVortex #BBCWeather",
+          "exZh": "如何为极地漩涡做好准备？ # PolarVortex # BBCWeather",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -246,125 +362,196 @@
       ]
     },
     {
-      "id": "video-cVGUg-LrLOI",
-      "title": "Who's hacking supermarket fridges - and why? | BBC News",
-      "titleZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
-      "level": "B1",
-      "category": "BUSINESS",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-04",
-      "minutes": 5,
-      "summary": "Fridges and freezers in supermarkets across Europe have been hit by a cyber-attack. Hackers managed to gain control and remotely turn up the temperature, in some cases to over 50 degrees Celsius, causing thousands of Euros worth of food to be thrown out. \n\nRumours have been circulating online that Russian hacktivist groups could be to blame. \n\nSo how did this happen? In this video:\n\n1:27 Why are fridges connected to the internet?\n2:02 How do you hack a fridge?\n3:15 The aftermath of the supermarket hack\n3:55 French blood banks targeted\n4:42 Recent similar attacks \n5:22 Who is behind the hacking?\n6:25 What else is vulnerable to these sorts of attacks?\n7:21 How can we protect against these attacks?\n8:00 Could AI make more of these attacks likely?\n8:47 What does this tell us about the future of cyber-attacks?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Supermarket #Hack #CyberCrime #Russia #AI #BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=cVGUg-LrLOI",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/cVGUg-LrLOI",
-      "articleUrl": "https://www.youtube.com/watch?v=cVGUg-LrLOI",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Fridges and freezers in supermarkets across Europe have been hit by a cyber-attack.\n\nHackers managed to gain control and remotely turn up the temperature, in some cases to over 50 degrees Celsius, causing thousands of Euros worth of food to be thrown out.\n\nRumours have been circulating online that Russian hacktivist groups could be to blame.\n\nSo how did this happen?\n\nIn this video:",
-      "readingTextZh": "欧洲各地超市的冰箱和冰柜遭到网络攻击。\n\n黑客设法控制并远程调高温度，在某些情况下超过50摄氏度，导致价值数千欧元的食物被扔掉。\n\n有传言称，俄罗斯黑客组织可能是罪魁祸首。\n\n这份民调是怎么进入主流媒体的？\n\n在这个视频中:",
-      "sentences": [
-        {
-          "en": "Fridges and freezers in supermarkets across Europe have been hit by a cyber-attack.",
-          "zh": "欧洲各地超市的冰箱和冰柜遭到网络攻击。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Hackers managed to gain control and remotely turn up the temperature, in some cases to over 50 degrees Celsius, causing thousands of Euros worth of food to be thrown out.",
-          "zh": "黑客设法控制并远程调高温度，在某些情况下超过50摄氏度，导致价值数千欧元的食物被扔掉。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Rumours have been circulating online that Russian hacktivist groups could be to blame.",
-          "zh": "有传言称，俄罗斯黑客组织可能是罪魁祸首。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "So how did this happen?",
-          "zh": "这份民调是怎么进入主流媒体的？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In this video:",
-          "zh": "在这个视频中:",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Who's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
-          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "hacking",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
-          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "supermarket",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
-          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "fridges",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Who's hacking supermarket fridges - and why? | BBC News",
-          "exZh": "谁在黑客入侵超市冰箱？为什么？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-8fx8QHwnSXY",
-      "title": "Trump talks ballroom construction day after election shellacking",
-      "titleZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
+      "id": "video-vhYO8pr4Gm0",
+      "title": "Ukrainian President Zelensky reacts to US midterm election results",
+      "titleZh": "乌克兰总统泽伦斯基对美国中期选举结果作出反应",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "minutes": 5,
-      "summary": "President Donald Trump highlighted the new White House ballroom construction Wednesday, a day after Democrats swept the midterm elections, while fielding questions about how he closed out the campaign",
+      "summary": "Ukrainian President Volodymyr Zelensky told CNN's Jake Tapper Friday that Ukraine is counting on \"even more support\" from the US after Democrats took control of both the House and Senate in Tuesday's midterm elections.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=8fx8QHwnSXY",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/8fx8QHwnSXY",
-      "articleUrl": "https://www.youtube.com/watch?v=8fx8QHwnSXY",
+      "videoUrl": "https://www.youtube.com/watch?v=vhYO8pr4Gm0",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/vhYO8pr4Gm0",
+      "articleUrl": "https://www.youtube.com/watch?v=vhYO8pr4Gm0",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "President Donald Trump highlighted the new White House ballroom construction Wednesday, a day after Democrats swept the midterm elections, while fielding questions about how he closed out the campaign",
-      "readingTextZh": "唐纳德特朗普总统周三强调了新的白宫舞厅建设，这是民主党席卷中期选举的第二天，同时回答了有关他如何结束竞选的问题",
+      "readingText": "Ukrainian President Volodymyr Zelensky told CNN's Jake Tapper Friday that Ukraine is counting on \"even more support\" from the US after Democrats took control of both the House and Senate in Tuesday's midterm elections.",
+      "readingTextZh": "乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）周五告诉美国有线电视新闻网（ CNN ）的杰克·塔珀（ Jake Tapper ） ，在民主党在周二的中期选举中控制了众议院和参议院后，乌克兰指望得到美国的“更多支持”。",
       "sentences": [
         {
-          "en": "President Donald Trump highlighted the new White House ballroom construction Wednesday, a day after Democrats swept the midterm elections, while fielding questions about how he closed out the campaign",
-          "zh": "唐纳德特朗普总统周三强调了新的白宫舞厅建设，这是民主党席卷中期选举的第二天，同时回答了有关他如何结束竞选的问题",
+          "en": "Ukrainian President Volodymyr Zelensky told CNN's Jake Tapper Friday that Ukraine is counting on \"even more support\" from the US after Democrats took control of both the House and Senate in Tuesday's midterm elections.",
+          "zh": "乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）周五告诉美国有线电视新闻网（ CNN ）的杰克·塔珀（ Jake Tapper ） ，在民主党在周二的中期选举中控制了众议院和参议院后，乌克兰指望得到美国的“更多支持”。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Ukrainian",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Ukrainian President Zelensky reacts to US midterm election results",
+          "exZh": "乌克兰总统泽伦斯基对美国中期选举结果作出反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "President",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Ukrainian President Zelensky reacts to US midterm election results",
+          "exZh": "乌克兰总统泽伦斯基对美国中期选举结果作出反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Zelensky",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Ukrainian President Zelensky reacts to US midterm election results",
+          "exZh": "乌克兰总统泽伦斯基对美国中期选举结果作出反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "reacts",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Ukrainian President Zelensky reacts to US midterm election results",
+          "exZh": "乌克兰总统泽伦斯基对美国中期选举结果作出反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-j9cEWg9rb8A",
+      "title": "Martha Stewart says Craig Melvin wasn't involved in controversial Halloween costume",
+      "titleZh": "玛莎·斯图尔特（ Martha Stewart ）说，克雷格·梅尔文（ Craig Melvin ）没有参与有争议的万圣节",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-06",
+      "minutes": 5,
+      "summary": "Martha Stewart joined \"TODAY\" co-host Craig Melvin on Friday to apologize for her controversial Halloween costume and set the record straight that Melvin played no role in her decision to go with the costume. Stewart dressed up as a homeless person and posted a since-deleted photo to Instagram, drawing backlash online.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=j9cEWg9rb8A",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/j9cEWg9rb8A",
+      "articleUrl": "https://www.youtube.com/watch?v=j9cEWg9rb8A",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Martha Stewart joined \"TODAY\" co-host Craig Melvin on Friday to apologize for her controversial Halloween costume and set the record straight that Melvin played no role in her decision to go with the costume.\n\nStewart dressed up as a homeless person and posted a since-deleted photo to Instagram, drawing backlash online.",
+      "readingTextZh": "玛莎·斯图尔特（ Martha Stewart ）周五加入了“今日”联合主持人克雷格·梅尔文（ Craig Melvin ） ，为她备受争议的万圣节服装道歉，并直截了当地说，梅尔文在她决定选择这套服装的过程中没有发挥任何作用。\n\n斯图尔特打扮成无家可归的人，并在Instagram上发布了一张已删除的照片，在网上引起了强烈反对。",
+      "sentences": [
+        {
+          "en": "Martha Stewart joined \"TODAY\" co-host Craig Melvin on Friday to apologize for her controversial Halloween costume and set the record straight that Melvin played no role in her decision to go with the costume.",
+          "zh": "玛莎·斯图尔特（ Martha Stewart ）周五加入了“今日”联合主持人克雷格·梅尔文（ Craig Melvin ） ，为她备受争议的万圣节服装道歉，并直截了当地说，梅尔文在她决定选择这套服装的过程中没有发挥任何作用。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Stewart dressed up as a homeless person and posted a since-deleted photo to Instagram, drawing backlash online.",
+          "zh": "斯图尔特打扮成无家可归的人，并在Instagram上发布了一张已删除的照片，在网上引起了强烈反对。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Martha",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Martha Stewart says Craig Melvin wasn't involved in controversial Halloween costume",
+          "exZh": "玛莎·斯图尔特（ Martha Stewart ）说，克雷格·梅尔文（ Craig Melvin ）没有参与有争议的万圣节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Stewart",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Martha Stewart says Craig Melvin wasn't involved in controversial Halloween costume",
+          "exZh": "玛莎·斯图尔特（ Martha Stewart ）说，克雷格·梅尔文（ Craig Melvin ）没有参与有争议的万圣节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Craig",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Martha Stewart says Craig Melvin wasn't involved in controversial Halloween costume",
+          "exZh": "玛莎·斯图尔特（ Martha Stewart ）说，克雷格·梅尔文（ Craig Melvin ）没有参与有争议的万圣节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Melvin",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Martha Stewart says Craig Melvin wasn't involved in controversial Halloween costume",
+          "exZh": "玛莎·斯图尔特（ Martha Stewart ）说，克雷格·梅尔文（ Craig Melvin ）没有参与有争议的万圣节",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-NMpetEgJHMI",
+      "title": "This Trump loyalist attended dozens of Trump rallies, then defected to Dems",
+      "titleZh": "这位特朗普忠实拥护者参加了数十次特朗普集会，然后叛逃到民主党",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-06",
+      "minutes": 5,
+      "summary": "Rick Frazier attended dozens of Trump rallies, among the so-called \"Front Row Joes.\" But the Ohio resident voted for Democrats for governor and senator in the midterm elections. Frazier spoke with CNN's Pamela Brown to explain his disillusionment with President Trump.\n\nAlso, CNN Senior Correspondent Donie O'Sullivan reports on the MAGA blame game, Tucker Carlson's pronouncement of the end of the Trump era and other fallout from the blue wave in the midterm elections.\n\n0:00 Former Trump supporter and \"Front Row Joe\" rally attendee Rick Frazier voted for Democrats\n3:57 Why Frazier still likes JD Vance\n5:55 Frazier: \"Seems like politicians are allowed to lie where the average guy isn't.\"\n7:12 MAGA blame game over GOP wipeout begins\n9:14 Tucker Carlson: \"This is the end of the Trump era...we're done.\"\n\nGet live election results, analysis & more updates: https://cnn.it/48x1hqU\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #Election #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=NMpetEgJHMI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/NMpetEgJHMI",
+      "articleUrl": "https://www.youtube.com/watch?v=NMpetEgJHMI",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Rick Frazier attended dozens of Trump rallies, among the so-called \"Front Row Joes.\" But the Ohio resident voted for Democrats for governor and senator in the midterm elections.\n\nFrazier spoke with CNN's Pamela Brown to explain his disillusionment with President Trump.\n\nAlso, CNN Senior Correspondent Donie O'Sullivan reports on the MAGA blame game, Tucker Carlson's pronouncement of the end of the Trump era and other fallout from the blue wave in the midterm elections.",
+      "readingTextZh": "里克·弗雷泽（ Rick Frazier ）参加了数十次特朗普集会，其中包括所谓的“Front Row Joes”。“但这位俄亥俄州居民在中期选举中投票支持民主党州长和参议员。\n\n弗雷泽与美国有线电视新闻网（ CNN ）的帕梅拉·布朗（ Pamela Brown ）交谈，解释了他对特朗普总统\n\n此外，美国有线电视新闻网高级记者多尼·奥沙利文（ Donie O'Sullivan ）报道了MAGA指责游戏，塔克·卡尔森（ Tucker Carlson ）宣布特朗普时代结束以及中期选举蓝色浪潮的其他影响。",
+      "sentences": [
+        {
+          "en": "Rick Frazier attended dozens of Trump rallies, among the so-called \"Front Row Joes.\" But the Ohio resident voted for Democrats for governor and senator in the midterm elections.",
+          "zh": "里克·弗雷泽（ Rick Frazier ）参加了数十次特朗普集会，其中包括所谓的“Front Row Joes”。“但这位俄亥俄州居民在中期选举中投票支持民主党州长和参议员。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Frazier spoke with CNN's Pamela Brown to explain his disillusionment with President Trump.",
+          "zh": "弗雷泽与美国有线电视新闻网（ CNN ）的帕梅拉·布朗（ Pamela Brown ）交谈，解释了他对特朗普总统",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Also, CNN Senior Correspondent Donie O'Sullivan reports on the MAGA blame game, Tucker Carlson's pronouncement of the end of the Trump era and other fallout from the blue wave in the midterm elections.",
+          "zh": "此外，美国有线电视新闻网高级记者多尼·奥沙利文（ Donie O'Sullivan ）报道了MAGA指责游戏，塔克·卡尔森（ Tucker Carlson ）宣布特朗普时代结束以及中期选举蓝色浪潮的其他影响。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
@@ -374,35 +561,35 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump talks ballroom construction day after election shellacking",
-          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
+          "ex": "This Trump loyalist attended dozens of Trump rallies, then defected to Dems",
+          "exZh": "这位特朗普忠实拥护者参加了数十次特朗普集会，然后叛逃到民主党",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "talks",
+          "word": "loyalist",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump talks ballroom construction day after election shellacking",
-          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
+          "ex": "This Trump loyalist attended dozens of Trump rallies, then defected to Dems",
+          "exZh": "这位特朗普忠实拥护者参加了数十次特朗普集会，然后叛逃到民主党",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "ballroom",
+          "word": "attended",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump talks ballroom construction day after election shellacking",
-          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
+          "ex": "This Trump loyalist attended dozens of Trump rallies, then defected to Dems",
+          "exZh": "这位特朗普忠实拥护者参加了数十次特朗普集会，然后叛逃到民主党",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "construction",
+          "word": "dozens",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump talks ballroom construction day after election shellacking",
-          "exZh": "特朗普在选举炮击后的第二天谈论宴会厅建设",
+          "ex": "This Trump loyalist attended dozens of Trump rallies, then defected to Dems",
+          "exZh": "这位特朗普忠实拥护者参加了数十次特朗普集会，然后叛逃到民主党",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -418,244 +605,72 @@
       ]
     },
     {
-      "id": "video-9fQDwVVR064",
-      "title": "CNN voter polls reveal new details on how GOP got pummeled",
-      "titleZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-04",
-      "minutes": 5,
-      "summary": "CNN’s political director David Chalian unpacks voter polls (formerly exit polls) to understand the reasons why voters cast their ballots as they did and how some of Trump’s voters were the ones to hand defeat to Republicans.\n\n0:00 What the voter polls say\n2:24 Why voters turned away from the GOP\n3:34 A Republican candidate on why his party lost\n4:43 Is the beginning of the end of MAGA?\n6:18 Democrats make inroads in ruby red districts\n8:00 The foundation that made those victories possible\n10:43 “Politicians in the south got lazy”\n11:28 Trump on working across the aisle\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #election #midterms",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=9fQDwVVR064",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/9fQDwVVR064",
-      "articleUrl": "https://www.youtube.com/watch?v=9fQDwVVR064",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN’s political director David Chalian unpacks voter polls (formerly exit polls) to understand the reasons why voters cast their ballots as they did and how some of Trump’s voters were the ones to hand defeat to Republicans.",
-      "readingTextZh": "美国有线电视新闻网（ CNN ）的政治主管大卫·查连（ David Chalian ）解开了选民投票（前身为出口民意调查） ，以了解选民如此投票的原因，以及特朗普的一些选民是如何将失败交给共和党人的。",
-      "sentences": [
-        {
-          "en": "CNN’s political director David Chalian unpacks voter polls (formerly exit polls) to understand the reasons why voters cast their ballots as they did and how some of Trump’s voters were the ones to hand defeat to Republicans.",
-          "zh": "美国有线电视新闻网（ CNN ）的政治主管大卫·查连（ David Chalian ）解开了选民投票（前身为出口民意调查） ，以了解选民如此投票的原因，以及特朗普的一些选民是如何将失败交给共和党人的。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "voter",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
-          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "polls",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
-          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "reveal",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
-          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "details",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "CNN voter polls reveal new details on how GOP got pummeled",
-          "exZh": "CNN选民投票揭示了共和党如何受到打击的新细节",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-SYT3CDKpcR8",
-      "title": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
-      "titleZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-04",
-      "minutes": 5,
-      "summary": "While discussing Democrats’ potential impeachment efforts of the president and policymaking in Congress going forward, Republican Texas Rep. Dan Crenshaw and Democratic Maryland Rep. Jamie Raskin got into a heated shouting match.\n\n“A little hard to believe the Democrats aren’t going to want to impeach Trump. It’s sort of a pastime, but who knows?” Crenshaw said in the exchange on CNN.\n\n“It’s our pastime to defend the Constitution,” Raskin fired back.\n\n0:00 Raskin on whether Democrats should pursue impeaching Trump\n2:14 CNN's Manu Raju asks Hakeem Jeffries about how he will treat Trump\n4:22 Raskin: \"You're missing the point and you guys lost the election because you missed the point\"\n6:44 \"You seem a little flustered, buddy.\" \"I got 82% of the vote, I'm doing great today\"\n7:05 Crenshaw: \"Are you capable of saying anything substantive, besides platitudes and talking points?\"\n\nGet live election results, analysis & more updates: https://cnn.it/48x1hqU\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Election #Debate #News",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=SYT3CDKpcR8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/SYT3CDKpcR8",
-      "articleUrl": "https://www.youtube.com/watch?v=SYT3CDKpcR8",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "While discussing Democrats’ potential impeachment efforts of the president and policymaking in Congress going forward, Republican Texas Rep.\n\nDan Crenshaw and Democratic Maryland Rep.\n\nJamie Raskin got into a heated shouting match.\n\n“A little hard to believe the Democrats aren’t going to want to impeach Trump.\n\nIt’s sort of a pastime, but who knows?” Crenshaw said in the exchange on CNN.\n\n“It’s our pastime to defend the Constitution,” Raskin fired back.",
-      "readingTextZh": "在讨论民主党总统可能的弹劾努力和国会未来的决策时，共和党德克萨斯州众议员\n\nDan Crenshaw和马里兰州民主党众议员\n\n杰米·拉斯金（ Jamie Raskin ）参加了一场激烈的呐喊比赛。\n\n“有点难以置信，民主党人不会想要弹劾特朗普。\n\n这是一种消遣，但谁知道呢？ ” Crenshaw在CNN的交流中说。\n\n“这是我们捍卫宪法的消遣，”拉斯金反击道。",
-      "sentences": [
-        {
-          "en": "While discussing Democrats’ potential impeachment efforts of the president and policymaking in Congress going forward, Republican Texas Rep.",
-          "zh": "在讨论民主党总统可能的弹劾努力和国会未来的决策时，共和党德克萨斯州众议员",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Dan Crenshaw and Democratic Maryland Rep.",
-          "zh": "Dan Crenshaw和马里兰州民主党众议员",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Jamie Raskin got into a heated shouting match.\n\n“A little hard to believe the Democrats aren’t going to want to impeach Trump.",
-          "zh": "杰米·拉斯金（ Jamie Raskin ）参加了一场激烈的呐喊比赛。\n\n“有点难以置信，民主党人不会想要弹劾特朗普。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "It’s sort of a pastime, but who knows?” Crenshaw said in the exchange on CNN.\n\n“It’s our pastime to defend the Constitution,” Raskin fired back.",
-          "zh": "这是一种消遣，但谁知道呢？ ” Crenshaw在CNN的交流中说。\n\n“这是我们捍卫宪法的消遣，”拉斯金反击道。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "'Are",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
-          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "confused",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
-          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "reps",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
-          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "erupt",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "'Are you confused?' Dem & GOP reps erupt in shouting match over Congress",
-          "exZh": "“你困惑吗？”民主党和共和党代表在国会大喊大叫",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-RUPUGI3Owjo",
-      "title": "Discussing death with Dr. Sanjay Gupta",
-      "titleZh": "与Sanjay Gupta博士讨论死亡",
+      "id": "video-q3s0-rC5GDI",
+      "title": "A loopy typhoon, as seen from space",
+      "titleZh": "从太空中看到的环形台风",
       "level": "A2",
-      "category": "WORLD",
+      "category": "TECHNOLOGY",
       "source": "CNN · Official Video",
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "minutes": 5,
-      "summary": "Discussing death can be one of the most difficult things to do with our families, but Dr. BJ Miller encourages us to tackle this important subject with loved ones, especially our children.\n\n“It can be a joyful, enriching conversation… some families ritualize it, every year they talk about their advanced directives.”\n\nChasing Life with Dr. Sanjay Gupta is streaming on the CNN App and wherever you get your podcasts.",
+      "summary": "A typhoon takes a U-turn in the Pacific. CNN Meteorologist Dakota Smith examines this wonky storm and a few other things, in this week’s “As Seen From Space.”",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=RUPUGI3Owjo",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/RUPUGI3Owjo",
-      "articleUrl": "https://www.youtube.com/watch?v=RUPUGI3Owjo",
+      "videoUrl": "https://www.youtube.com/watch?v=q3s0-rC5GDI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/q3s0-rC5GDI",
+      "articleUrl": "https://www.youtube.com/watch?v=q3s0-rC5GDI",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Discussing death can be one of the most difficult things to do with our families, but Dr.\n\nBJ Miller encourages us to tackle this important subject with loved ones, especially our children.\n\n“It can be a joyful, enriching conversation… some families ritualize it, every year they talk about their advanced directives.”\n\nChasing Life with Dr.\n\nSanjay Gupta is streaming on the CNN App and wherever you get your podcasts.",
-      "readingTextZh": "与我们的家人讨论死亡可能是最困难的事情之一，但\n\nBJ Miller鼓励我们与亲人，特别是我们的孩子一起解决这一重要问题。\n\n“这可能是一次愉快、丰富的对话……有些家庭将其作为仪式，每年他们都会谈论他们的高级指令。”\n\n与Dr.一起追逐生命\n\nSanjay Gupta正在CNN应用程序上流式传输，无论您从哪里获得播客。",
+      "readingText": "A typhoon takes a U-turn in the Pacific.\n\nCNN Meteorologist Dakota Smith examines this wonky storm and a few other things, in this week’s “As Seen From Space.”",
+      "readingTextZh": "台风在太平洋上掉头。\n\n美国有线电视新闻网（ CNN ）气象学家达科塔·史密斯（ Dakota Smith ）在本周的《从太空看》（ As Seen From Space ）中研究了这场不稳定的风暴和其他一些",
       "sentences": [
         {
-          "en": "Discussing death can be one of the most difficult things to do with our families, but Dr.",
-          "zh": "与我们的家人讨论死亡可能是最困难的事情之一，但",
+          "en": "A typhoon takes a U-turn in the Pacific.",
+          "zh": "台风在太平洋上掉头。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "BJ Miller encourages us to tackle this important subject with loved ones, especially our children.\n\n“It can be a joyful, enriching conversation… some families ritualize it, every year they talk about their advanced directives.”\n\nChasing Life with Dr.",
-          "zh": "BJ Miller鼓励我们与亲人，特别是我们的孩子一起解决这一重要问题。\n\n“这可能是一次愉快、丰富的对话……有些家庭将其作为仪式，每年他们都会谈论他们的高级指令。”\n\n与Dr.一起追逐生命",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Sanjay Gupta is streaming on the CNN App and wherever you get your podcasts.",
-          "zh": "Sanjay Gupta正在CNN应用程序上流式传输，无论您从哪里获得播客。",
+          "en": "CNN Meteorologist Dakota Smith examines this wonky storm and a few other things, in this week’s “As Seen From Space.”",
+          "zh": "美国有线电视新闻网（ CNN ）气象学家达科塔·史密斯（ Dakota Smith ）在本周的《从太空看》（ As Seen From Space ）中研究了这场不稳定的风暴和其他一些",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Discussing",
+          "word": "loopy",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Discussing death with Dr. Sanjay Gupta",
-          "exZh": "与Sanjay Gupta博士讨论死亡",
+          "ex": "A loopy typhoon, as seen from space",
+          "exZh": "从太空中看到的环形台风",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "death",
+          "word": "typhoon",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Discussing death with Dr. Sanjay Gupta",
-          "exZh": "与Sanjay Gupta博士讨论死亡",
+          "ex": "A loopy typhoon, as seen from space",
+          "exZh": "从太空中看到的环形台风",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Sanjay",
+          "word": "seen",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Discussing death with Dr. Sanjay Gupta",
-          "exZh": "与Sanjay Gupta博士讨论死亡",
+          "ex": "A loopy typhoon, as seen from space",
+          "exZh": "从太空中看到的环形台风",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Gupta",
+          "word": "space",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Discussing death with Dr. Sanjay Gupta",
-          "exZh": "与Sanjay Gupta博士讨论死亡",
+          "ex": "A loopy typhoon, as seen from space",
+          "exZh": "从太空中看到的环形台风",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
