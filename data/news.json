@@ -1,79 +1,124 @@
 {
-  "updated_at": "2026-11-07T22:44:25.185855+00:00",
+  "updated_at": "2026-11-08T22:44:48.992974+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-VxRukuIEB5I",
-      "title": "The race for 2028 has already begun | BBC Americast",
-      "titleZh": "2028年的竞赛已经开始| BBC Americast",
-      "level": "B1",
+      "id": "video-Qcpqy6ZYKos",
+      "title": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
+      "titleZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
+      "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "minutes": 5,
-      "summary": "Jim Messina, Democrat strategist and Obama’s former campaign manager gives us the inside track on what Democrats will look for in their next presidential candidate for 2028, and how the race has already started. \n\nJim Messina and Justin discuss the priorities for a future candidate and why money (and the ability to raise millions) is essential. \n\nWe also unpack the results and look at how the Democrats achieved huge midterm gains, and what their priorities should be for Congress.\n\n00:00 The Blue Wave\n00:40 Watching the votes come in\n02:32 Dems' historic voteshare\n07:35 Staying on message\n13:30 Can Dems hold on to their gains?\n17:40 How will Trump react? \n22:30 The 2028 race\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "US tech giant Nvidia has begun an investigation following claims its CEO Jensen Huang had a relationship with a suspected Chinese spy.\n\nNvidia is one of the world's largest companies and is central to making cutting-edge computer chips that power emerging AI technologies. The company said its board had no reason to believe that its secrets or national security had been compromised.\n\nAccording to the New York Times, US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for China's Ministry of State Security. \n\nJensen Huang has admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children. He said he \"full responsibility\" for what he did and had fallen short of his responsibilities to Nvidia's employees, board and shareholders.  He said: “I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"\n\nHis statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully. I love our country and our company. I am committed to protecting Nvidia and supporting America's national security. I am proud and grateful to be an American.\"\n\nNvidia's board of directors said it would begin an investigation in \"light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort\".  It continued: \"The Board prioritises US national and economic security, which is paramount to the interests of Nvidia and its shareholders.\n\nAlice Huang is linked to Singapore-based data centre firm Megaspeed.  Nvidia is a central player in AI infrastructure, providing chips to leading AI model developers including OpenAI and Meta. The microchip manufacturer is worth some $4.5 trillion, making it one of the most valuable companies ever.\n\nChina has previously rejected allegations of an espionage operation targeting Nvidia's chief, describing the claims as “groundless speculation”. \n\nHowever US intelligence agencies had been monitoring Alice Huang and concluded that she was acting on behalf of the Chinese government, according to unnamed sources cited by The New York Times. It remains unclear what information Alice Huang - who is also known as Huang Le - allegedly passed to Beijing, how valuable it was, or when she is believed to have begun gathering intelligence.\n\nReeta Chakrabarti presents BBC News at Ten reporting by Zoe Kleinman.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=VxRukuIEB5I",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/VxRukuIEB5I",
-      "articleUrl": "https://www.youtube.com/watch?v=VxRukuIEB5I",
+      "videoUrl": "https://www.youtube.com/watch?v=Qcpqy6ZYKos",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Qcpqy6ZYKos",
+      "articleUrl": "https://www.youtube.com/watch?v=Qcpqy6ZYKos",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Jim Messina, Democrat strategist and Obama’s former campaign manager gives us the inside track on what Democrats will look for in their next presidential candidate for 2028, and how the race has already started.\n\nJim Messina and Justin discuss the priorities for a future candidate and why money (and the ability to raise millions) is essential.\n\nWe also unpack the results and look at how the Democrats achieved huge midterm gains, and what their priorities should be for Congress.",
-      "readingTextZh": "民主党战略家、奥巴马的前竞选经理吉姆·梅西纳（ Jim Messina ）向我们介绍了民主党在2028年下一任总统候选人中将寻找什么，以及竞选是如何开始的。\n\nJim Messina和Justin讨论了未来候选人的优先事项，以及为什么资金（以及筹集数百万美元的能力）至关重要。\n\n我们还解析了结果，看看民主党如何取得巨大的中期成果，以及他们对国会的优先事项应该是什么。",
+      "readingText": "US tech giant Nvidia has begun an investigation following claims its CEO Jensen Huang had a relationship with a suspected Chinese spy.\n\nNvidia is one of the world's largest companies and is central to making cutting-edge computer chips that power emerging AI technologies.\n\nThe company said its board had no reason to believe that its secrets or national security had been compromised.\n\nAccording to the New York Times, US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for China's Ministry of State Security.\n\nJensen Huang has admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.\n\nHe said he \"full responsibility\" for what he did and had fallen short of his responsibilities to Nvidia's employees, board and shareholders.\n\nHe said: “I was unfaithful to my wife.\n\nMy actions hurt her and our children.\n\nThere is no excuse for what I did.\n\nI am deeply sorry.\"\n\nHis statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation.\n\nI support the investigation and will cooperate fully.\n\nI love our country and our company.",
+      "readingTextZh": "美国科技巨头英伟达(Nvidia)在声称其首席执行官黄延森(Jensen Huang)与一名涉嫌中国间谍有关系后，已开始调查。\n\n英伟达是世界上最大的公司之一，是制造为新兴人工智能技术提供动力的尖端计算机芯片的核心。\n\n该公司表示，其董事会没有理由相信其机密或国家安全受到损害。\n\n据《纽约时报》报道，美国情报官员认为，与Jensen Huang关系密切的中国女商人Alice Huang是中国国家安全部的间谍。\n\nJensen Huang承认对他的妻子“不忠” ，并为伤害她和他们的孩子道歉。\n\n他说，他对他的所作所为负有“全部责任” ，并且没有履行他对英伟达员工、董事会和股东的责任。\n\n他说： “我对我妻子不忠。\n\n我的行为伤害了她和我们的孩子。\n\n我的所作所为没有任何借口。\n\n非常抱歉。”\n\n他的声明继续说道： “关于新闻报道中提出的国家安全问题，英伟达董事会已启动独立调查。\n\n我支持调查，并将全力配合。\n\n我爱我们的国家和我们的公司。",
       "sentences": [
         {
-          "en": "Jim Messina, Democrat strategist and Obama’s former campaign manager gives us the inside track on what Democrats will look for in their next presidential candidate for 2028, and how the race has already started.",
-          "zh": "民主党战略家、奥巴马的前竞选经理吉姆·梅西纳（ Jim Messina ）向我们介绍了民主党在2028年下一任总统候选人中将寻找什么，以及竞选是如何开始的。",
+          "en": "US tech giant Nvidia has begun an investigation following claims its CEO Jensen Huang had a relationship with a suspected Chinese spy.",
+          "zh": "美国科技巨头英伟达(Nvidia)在声称其首席执行官黄延森(Jensen Huang)与一名涉嫌中国间谍有关系后，已开始调查。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Jim Messina and Justin discuss the priorities for a future candidate and why money (and the ability to raise millions) is essential.",
-          "zh": "Jim Messina和Justin讨论了未来候选人的优先事项，以及为什么资金（以及筹集数百万美元的能力）至关重要。",
+          "en": "Nvidia is one of the world's largest companies and is central to making cutting-edge computer chips that power emerging AI technologies.",
+          "zh": "英伟达是世界上最大的公司之一，是制造为新兴人工智能技术提供动力的尖端计算机芯片的核心。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "We also unpack the results and look at how the Democrats achieved huge midterm gains, and what their priorities should be for Congress.",
-          "zh": "我们还解析了结果，看看民主党如何取得巨大的中期成果，以及他们对国会的优先事项应该是什么。",
+          "en": "The company said its board had no reason to believe that its secrets or national security had been compromised.",
+          "zh": "该公司表示，其董事会没有理由相信其机密或国家安全受到损害。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "According to the New York Times, US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for China's Ministry of State Security.",
+          "zh": "据《纽约时报》报道，美国情报官员认为，与Jensen Huang关系密切的中国女商人Alice Huang是中国国家安全部的间谍。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Jensen Huang has admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.",
+          "zh": "Jensen Huang承认对他的妻子“不忠” ，并为伤害她和他们的孩子道歉。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "He said he \"full responsibility\" for what he did and had fallen short of his responsibilities to Nvidia's employees, board and shareholders.",
+          "zh": "他说，他对他的所作所为负有“全部责任” ，并且没有履行他对英伟达员工、董事会和股东的责任。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "He said: “I was unfaithful to my wife.",
+          "zh": "他说： “我对我妻子不忠。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "My actions hurt her and our children.",
+          "zh": "我的行为伤害了她和我们的孩子。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "There is no excuse for what I did.",
+          "zh": "我的所作所为没有任何借口。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "I am deeply sorry.\"\n\nHis statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation.",
+          "zh": "非常抱歉。”\n\n他的声明继续说道： “关于新闻报道中提出的国家安全问题，英伟达董事会已启动独立调查。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "I support the investigation and will cooperate fully.",
+          "zh": "我支持调查，并将全力配合。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "I love our country and our company.",
+          "zh": "我爱我们的国家和我们的公司。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "race",
+          "word": "Security",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The race for 2028 has already begun | BBC Americast",
-          "exZh": "2028年的竞赛已经开始| BBC Americast",
+          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
+          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "already",
+          "word": "alert",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The race for 2028 has already begun | BBC Americast",
-          "exZh": "2028年的竞赛已经开始| BBC Americast",
+          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
+          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "begun",
+          "word": "Nvidia",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The race for 2028 has already begun | BBC Americast",
-          "exZh": "2028年的竞赛已经开始| BBC Americast",
+          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
+          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Americast",
+          "word": "boss",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The race for 2028 has already begun | BBC Americast",
-          "exZh": "2028年的竞赛已经开始| BBC Americast",
+          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
+          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -89,64 +134,49 @@
       ]
     },
     {
-      "id": "video-h4fhtWY6BaA",
-      "title": "At the scene of the shooting in Krakow | BBC News",
-      "titleZh": "克拉科夫枪击事件现场| BBC新闻",
-      "level": "B1",
+      "id": "video-raFmqXwVV88",
+      "title": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
+      "titleZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
+      "level": "C1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "minutes": 5,
-      "summary": "At least five people have been killed and about a dozen injured in a shooting in Krakow's Main Market Square, local police have said.\n \nDetails of the number of victims and injuries are still being established, the official account for the city of Krakow said.\n \nThe department said at around 15:00 local time (14:00 GMT) a man drove into the square and began shooting \"at random\" from his car.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Krakow #BBCNews",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=h4fhtWY6BaA",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/h4fhtWY6BaA",
-      "articleUrl": "https://www.youtube.com/watch?v=h4fhtWY6BaA",
+      "videoUrl": "https://www.youtube.com/watch?v=raFmqXwVV88",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/raFmqXwVV88",
+      "articleUrl": "https://www.youtube.com/watch?v=raFmqXwVV88",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "At least five people have been killed and about a dozen injured in a shooting in Krakow's Main Market Square, local police have said.\n\nDetails of the number of victims and injuries are still being established, the official account for the city of Krakow said.\n\nThe department said at around 15:00 local time (14:00 GMT) a man drove into the square and began shooting \"at random\" from his car.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "当地警方称，在克拉科夫主市场广场的枪击事件中，至少有5人死亡，约12人受伤。\n\n克拉科夫市官方账户表示，受害者和受伤人数的细节仍在确定中。\n\n该部门表示，当地时间15:00左右（格林威治标准时间14:00 ） ，一名男子开车进入广场，开始从他的车上“随机”射击。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
+      "readingTextZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
       "sentences": [
         {
-          "en": "At least five people have been killed and about a dozen injured in a shooting in Krakow's Main Market Square, local police have said.",
-          "zh": "当地警方称，在克拉科夫主市场广场的枪击事件中，至少有5人死亡，约12人受伤。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Details of the number of victims and injuries are still being established, the official account for the city of Krakow said.",
-          "zh": "克拉科夫市官方账户表示，受害者和受伤人数的细节仍在确定中。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The department said at around 15:00 local time (14:00 GMT) a man drove into the square and began shooting \"at random\" from his car.",
-          "zh": "该部门表示，当地时间15:00左右（格林威治标准时间14:00 ） ，一名男子开车进入广场，开始从他的车上“随机”射击。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "en": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
+          "zh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "scene",
+          "word": "heard",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "At the scene of the shooting in Krakow | BBC News",
-          "exZh": "克拉科夫枪击事件现场| BBC新闻",
+          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
+          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "shooting",
+          "word": "shots",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "At the scene of the shooting in Krakow | BBC News",
-          "exZh": "克拉科夫枪击事件现场| BBC新闻",
+          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
+          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
@@ -154,17 +184,17 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "At the scene of the shooting in Krakow | BBC News",
-          "exZh": "克拉科夫枪击事件现场| BBC新闻",
+          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
+          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "News",
+          "word": "attack",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "At the scene of the shooting in Krakow | BBC News",
-          "exZh": "克拉科夫枪击事件现场| BBC新闻",
+          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
+          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -180,44 +210,115 @@
       ]
     },
     {
-      "id": "video-rJUsZC2fq_I",
-      "title": "Russian strikes in Ukraine leave nine injured and damage power network | BBC News",
-      "titleZh": "俄罗斯在乌克兰的空袭造成9人受伤并损坏电网| BBC新闻",
-      "level": "B2",
+      "id": "video-CQFoi8S5gls",
+      "title": "What we know about Krakow shooting. #Krakow #BBCNews",
+      "titleZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
+      "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "minutes": 5,
-      "summary": "Overnight drone and ballistic missile attacks damaged Ukrainian energy infrastructure, President Volodymyr Zelenskyhas said, causing blackouts and disrupting water supplies.\n \nZelensky said 12 Ukrainian regions came under attack with the capital Kyiv hit hardest.\n \nNine people are reported to have been hurt across the country, including one child, in the wave of attacks that consisted of more than 30 ballistic missiles and over 170 drones.\n \nThe attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Ukraine #Russia #BBCNews",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=rJUsZC2fq_I",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/rJUsZC2fq_I",
-      "articleUrl": "https://www.youtube.com/watch?v=rJUsZC2fq_I",
+      "videoUrl": "https://www.youtube.com/watch?v=CQFoi8S5gls",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/CQFoi8S5gls",
+      "articleUrl": "https://www.youtube.com/watch?v=CQFoi8S5gls",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Overnight drone and ballistic missile attacks damaged Ukrainian energy infrastructure, President Volodymyr Zelenskyhas said, causing blackouts and disrupting water supplies.\n\nZelensky said 12 Ukrainian regions came under attack with the capital Kyiv hit hardest.\n\nNine people are reported to have been hurt across the country, including one child, in the wave of attacks that consisted of more than 30 ballistic missiles and over 170 drones.\n\nThe attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "总统沃洛季米尔·泽连斯基（ Volodymyr Zelensky ）表示，夜间无人机和弹道导弹袭击破坏了乌克兰的能源基础设施，导致停电和供水中断。\n\n泽伦斯基说， 12个乌克兰地区受到攻击，首都基辅受到的打击最大。\n\n据报道，在由30多枚弹道导弹和170多架无人机组成的袭击浪潮中，全国有9人受伤，其中包括一名儿童。\n\n袭击发生后，乌克兰和俄罗斯代表团将于下周在阿布扎比参加三方会谈。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "What we know about Krakow shooting. #Krakow #BBCNews",
+      "readingTextZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
       "sentences": [
         {
-          "en": "Overnight drone and ballistic missile attacks damaged Ukrainian energy infrastructure, President Volodymyr Zelenskyhas said, causing blackouts and disrupting water supplies.",
-          "zh": "总统沃洛季米尔·泽连斯基（ Volodymyr Zelensky ）表示，夜间无人机和弹道导弹袭击破坏了乌克兰的能源基础设施，导致停电和供水中断。",
+          "en": "What we know about Krakow shooting. #Krakow #BBCNews",
+          "zh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "know",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
+          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Krakow",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
+          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "shooting",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
+          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Krakow",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
+          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-Udt8h3DcnuA",
+      "title": "Are There More Russell Brands In The Media Industry? | BBC News",
+      "titleZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-08",
+      "minutes": 5,
+      "summary": "Today, we look at the political fallout from the Russell Brand case.\n\nThe Culture Secretary Lisa Nandy says there’s evidence that what happened with Russell Brand is still happening today and it’s time for the media industry to take abuse more seriously.\n\nWe also discuss calls for the rules be changed so victims in rape cases so women don’t feel like they are on trial, as some have said.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=Udt8h3DcnuA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Udt8h3DcnuA",
+      "articleUrl": "https://www.youtube.com/watch?v=Udt8h3DcnuA",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Today, we look at the political fallout from the Russell Brand case.\n\nThe Culture Secretary Lisa Nandy says there’s evidence that what happened with Russell Brand is still happening today and it’s time for the media industry to take abuse more seriously.\n\nWe also discuss calls for the rules be changed so victims in rape cases so women don’t feel like they are on trial, as some have said.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "今天，我们来看看Russell Brand案件的政治影响。\n\n文化大臣丽莎·南迪（ Lisa Nandy ）表示，有证据表明，罗素·布兰德（ Russell Brand ）身上发生的事情今天仍在发生，现在是媒体行业更认真对待虐待问题的时候了。\n\n我们还讨论了改变规则的呼吁，以便强奸案的受害者不会像一些人所说的那样觉得自己正在接受审判。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "Today, we look at the political fallout from the Russell Brand case.",
+          "zh": "今天，我们来看看Russell Brand案件的政治影响。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Zelensky said 12 Ukrainian regions came under attack with the capital Kyiv hit hardest.",
-          "zh": "泽伦斯基说， 12个乌克兰地区受到攻击，首都基辅受到的打击最大。",
+          "en": "The Culture Secretary Lisa Nandy says there’s evidence that what happened with Russell Brand is still happening today and it’s time for the media industry to take abuse more seriously.",
+          "zh": "文化大臣丽莎·南迪（ Lisa Nandy ）表示，有证据表明，罗素·布兰德（ Russell Brand ）身上发生的事情今天仍在发生，现在是媒体行业更认真对待虐待问题的时候了。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Nine people are reported to have been hurt across the country, including one child, in the wave of attacks that consisted of more than 30 ballistic missiles and over 170 drones.",
-          "zh": "据报道，在由30多枚弹道导弹和170多架无人机组成的袭击浪潮中，全国有9人受伤，其中包括一名儿童。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-          "zh": "袭击发生后，乌克兰和俄罗斯代表团将于下周在阿布扎比参加三方会谈。",
+          "en": "We also discuss calls for the rules be changed so victims in rape cases so women don’t feel like they are on trial, as some have said.",
+          "zh": "我们还讨论了改变规则的呼吁，以便强奸案的受害者不会像一些人所说的那样觉得自己正在接受审判。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
@@ -228,39 +329,39 @@
       ],
       "vocab": [
         {
-          "word": "Russian",
+          "word": "There",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Russian strikes in Ukraine leave nine injured and damage power network | BBC News",
-          "exZh": "俄罗斯在乌克兰的空袭造成9人受伤并损坏电网| BBC新闻",
+          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
+          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "strikes",
+          "word": "Russell",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Russian strikes in Ukraine leave nine injured and damage power network | BBC News",
-          "exZh": "俄罗斯在乌克兰的空袭造成9人受伤并损坏电网| BBC新闻",
+          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
+          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Ukraine",
+          "word": "Brands",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Russian strikes in Ukraine leave nine injured and damage power network | BBC News",
-          "exZh": "俄罗斯在乌克兰的空袭造成9人受伤并损坏电网| BBC新闻",
+          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
+          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "leave",
+          "word": "Media",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Russian strikes in Ukraine leave nine injured and damage power network | BBC News",
-          "exZh": "俄罗斯在乌克兰的空袭造成9人受伤并损坏电网| BBC新闻",
+          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
+          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -276,82 +377,67 @@
       ]
     },
     {
-      "id": "video--1h0A8X10Ic",
-      "title": "Five killed and dozen more injured in Krakow shooting, police say | BBC News",
-      "titleZh": "警方称，在克拉科夫枪击事件中，五人死亡，十几人受伤| BBC新闻",
-      "level": "B2",
+      "id": "video-OpiU3G2AF1U",
+      "title": "Boycott of Jewish-owned restaurants draws counterprotests",
+      "titleZh": "抵制犹太人经营的餐厅引发反抗议",
+      "level": "A2",
       "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-07",
+      "source": "CNN · Official Video",
+      "date": "2026-11-08",
       "minutes": 5,
-      "summary": "Five people have been killed after a shooting in Krakow's Main Market Square and around a dozen people are injured, including police officers, Małopolska Police said.\n \nPosting on X, the police department said in a statement that at around 15:00 local time that a man who had driven onto the square began \"firing at random people from his car\".\n \nThe perpetrator was shot by police and is being transported to hospital, another statement said.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Krakow #BBCNews",
+      "summary": "Crowds of counterprotesters showed up to a bicycle “boycott ride” targeting several Jewish-owned businesses in Philadelphia.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=-1h0A8X10Ic",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/-1h0A8X10Ic",
-      "articleUrl": "https://www.youtube.com/watch?v=-1h0A8X10Ic",
+      "videoUrl": "https://www.youtube.com/watch?v=OpiU3G2AF1U",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/OpiU3G2AF1U",
+      "articleUrl": "https://www.youtube.com/watch?v=OpiU3G2AF1U",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Five people have been killed after a shooting in Krakow's Main Market Square and around a dozen people are injured, including police officers, Małopolska Police said.\n\nPosting on X, the police department said in a statement that at around 15:00 local time that a man who had driven onto the square began \"firing at random people from his car\".\n\nThe perpetrator was shot by police and is being transported to hospital, another statement said.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "Małopolska警方表示，在克拉科夫主市场广场发生枪击事件后，已有5人死亡，约12人受伤，其中包括警察。\n\n警察局在一份声明中说，当地时间15点左右，一名开车到广场的男子开始“从他的车上随意向人开枪”。\n\n另一份声明说，肇事者被警方枪杀，正在被送往医院。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "Crowds of counterprotesters showed up to a bicycle “boycott ride” targeting several Jewish-owned businesses in Philadelphia.",
+      "readingTextZh": "一群反抗议者出现在针对费城几家犹太人拥有的企业的自行车“抵制骑行”中。",
       "sentences": [
         {
-          "en": "Five people have been killed after a shooting in Krakow's Main Market Square and around a dozen people are injured, including police officers, Małopolska Police said.",
-          "zh": "Małopolska警方表示，在克拉科夫主市场广场发生枪击事件后，已有5人死亡，约12人受伤，其中包括警察。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Posting on X, the police department said in a statement that at around 15:00 local time that a man who had driven onto the square began \"firing at random people from his car\".",
-          "zh": "警察局在一份声明中说，当地时间15点左右，一名开车到广场的男子开始“从他的车上随意向人开枪”。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The perpetrator was shot by police and is being transported to hospital, another statement said.",
-          "zh": "另一份声明说，肇事者被警方枪杀，正在被送往医院。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "en": "Crowds of counterprotesters showed up to a bicycle “boycott ride” targeting several Jewish-owned businesses in Philadelphia.",
+          "zh": "一群反抗议者出现在针对费城几家犹太人拥有的企业的自行车“抵制骑行”中。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Five",
+          "word": "Boycott",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Five killed and dozen more injured in Krakow shooting, police say | BBC News",
-          "exZh": "警方称，在克拉科夫枪击事件中，五人死亡，十几人受伤| BBC新闻",
+          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
+          "exZh": "抵制犹太人经营的餐厅引发反抗议",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "killed",
+          "word": "Jewish",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Five killed and dozen more injured in Krakow shooting, police say | BBC News",
-          "exZh": "警方称，在克拉科夫枪击事件中，五人死亡，十几人受伤| BBC新闻",
+          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
+          "exZh": "抵制犹太人经营的餐厅引发反抗议",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "dozen",
+          "word": "owned",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Five killed and dozen more injured in Krakow shooting, police say | BBC News",
-          "exZh": "警方称，在克拉科夫枪击事件中，五人死亡，十几人受伤| BBC新闻",
+          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
+          "exZh": "抵制犹太人经营的餐厅引发反抗议",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "injured",
+          "word": "restaurants",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Five killed and dozen more injured in Krakow shooting, police say | BBC News",
-          "exZh": "警方称，在克拉科夫枪击事件中，五人死亡，十几人受伤| BBC新闻",
+          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
+          "exZh": "抵制犹太人经营的餐厅引发反抗议",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -367,67 +453,67 @@
       ]
     },
     {
-      "id": "video-3zc7ck9Uh38",
-      "title": "Rockefeller Center tree arrives in New York City",
-      "titleZh": "洛克菲勒中心树抵达纽约市",
+      "id": "video-4TqLGkBDZlQ",
+      "title": "Trick or treat redo for 4-year-old with rare heart condition",
+      "titleZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "minutes": 5,
-      "summary": "The 2026 Rockefeller Center Christmas Tree, a 76-foot Norway spruce from West Edmeston, New York, has arrived in New York City.",
+      "summary": "After a complication during heart surgery kept 4-year-old Ava Clancy in the hospital over Halloween, over 100 residences signed up to give her a second chance at trick-or-treating, CNN affiliate WJAR reports.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=3zc7ck9Uh38",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/3zc7ck9Uh38",
-      "articleUrl": "https://www.youtube.com/watch?v=3zc7ck9Uh38",
+      "videoUrl": "https://www.youtube.com/watch?v=4TqLGkBDZlQ",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/4TqLGkBDZlQ",
+      "articleUrl": "https://www.youtube.com/watch?v=4TqLGkBDZlQ",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The 2026 Rockefeller Center Christmas Tree, a 76-foot Norway spruce from West Edmeston, New York, has arrived in New York City.",
-      "readingTextZh": "2026年洛克菲勒中心圣诞树，一棵76英尺高的挪威云杉，来自纽约西埃德梅斯顿，已抵达纽约市。",
+      "readingText": "After a complication during heart surgery kept 4-year-old Ava Clancy in the hospital over Halloween, over 100 residences signed up to give her a second chance at trick-or-treating, CNN affiliate WJAR reports.",
+      "readingTextZh": "据CNN附属机构WJAR报道，在心脏手术期间发生并发症后， 4岁的Ava Clancy在万圣节期间住院治疗， 100多处住宅签约，为她提供第二次捣蛋的机会。",
       "sentences": [
         {
-          "en": "The 2026 Rockefeller Center Christmas Tree, a 76-foot Norway spruce from West Edmeston, New York, has arrived in New York City.",
-          "zh": "2026年洛克菲勒中心圣诞树，一棵76英尺高的挪威云杉，来自纽约西埃德梅斯顿，已抵达纽约市。",
+          "en": "After a complication during heart surgery kept 4-year-old Ava Clancy in the hospital over Halloween, over 100 residences signed up to give her a second chance at trick-or-treating, CNN affiliate WJAR reports.",
+          "zh": "据CNN附属机构WJAR报道，在心脏手术期间发生并发症后， 4岁的Ava Clancy在万圣节期间住院治疗， 100多处住宅签约，为她提供第二次捣蛋的机会。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Rockefeller",
+          "word": "Trick",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rockefeller Center tree arrives in New York City",
-          "exZh": "洛克菲勒中心树抵达纽约市",
+          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
+          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Center",
+          "word": "treat",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rockefeller Center tree arrives in New York City",
-          "exZh": "洛克菲勒中心树抵达纽约市",
+          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
+          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "tree",
+          "word": "redo",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rockefeller Center tree arrives in New York City",
-          "exZh": "洛克菲勒中心树抵达纽约市",
+          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
+          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "arrives",
+          "word": "year",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rockefeller Center tree arrives in New York City",
-          "exZh": "洛克菲勒中心树抵达纽约市",
+          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
+          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -443,72 +529,87 @@
       ]
     },
     {
-      "id": "video-yEVFkLn9Xxw",
-      "title": "Man arrested near White House allegedly threatened to kill Trump",
-      "titleZh": "据称在白宫附近被捕的男子威胁要杀死特朗普",
+      "id": "video-KbBoWZXYW2M",
+      "title": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
+      "titleZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "minutes": 5,
-      "summary": "Secret Service officers arrested Ronny Yordrix Guanipa Chrinos near the White House after he allegedly said he heard voices telling him to kill President Donald Trump. \n\nDHS says officers found a rifle, two handguns and dozens of rounds of ammunition in a stolen car.",
+      "summary": "Attorney General Todd Blanche told CNN’s “State of the Union” today that members of the House Oversight Committee should be “very worried,” after President Donald Trump tasked the Department of Justice with investigating Democrats. \n\nIt comes after Trump said Saturday he would have the DOJ look into threats of “Impeachment and many other forms of punishment” by Democrats against certain members of his administration, companies and donors to his ballroom project. \n\nIncoming House Oversight Committee Chair Rep. Robert Garcia (D-CA) and senior Oversight Committee member Rep. Stephen Lynch (D-MA) respond to Blanche's threat.\n\n0:00 Attorney General Blanche comments on Trump's order to investigate Dems \n4:24 Will Blanche imprison Democrats? \n6:24 Blanche talks about representing Pete Hegseth if he's impeached \n9:16 Rep. Garcia responds to Blanche saying Dems should be worried \n10:44 Rep. Stephen Lynch says democracy is \"a new thing\" to Blanche \n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #Democrats #News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=yEVFkLn9Xxw",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/yEVFkLn9Xxw",
-      "articleUrl": "https://www.youtube.com/watch?v=yEVFkLn9Xxw",
+      "videoUrl": "https://www.youtube.com/watch?v=KbBoWZXYW2M",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/KbBoWZXYW2M",
+      "articleUrl": "https://www.youtube.com/watch?v=KbBoWZXYW2M",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Secret Service officers arrested Ronny Yordrix Guanipa Chrinos near the White House after he allegedly said he heard voices telling him to kill President Donald Trump.\n\nDHS says officers found a rifle, two handguns and dozens of rounds of ammunition in a stolen car.",
-      "readingTextZh": "据称，特勤局官员在白宫附近逮捕了罗尼·约德里克斯·瓜尼帕·克里诺斯（ Ronny Yordrix Guanipa Chrinos ） ，此前他说他听到有人告诉他要杀死唐纳德·特\n\n国土安全部说，警察在一辆被盗汽车中发现了一支步枪、两把手枪和数十发弹药。",
+      "readingText": "Attorney General Todd Blanche told CNN’s “State of the Union” today that members of the House Oversight Committee should be “very worried,” after President Donald Trump tasked the Department of Justice with investigating Democrats.\n\nIt comes after Trump said Saturday he would have the DOJ look into threats of “Impeachment and many other forms of punishment” by Democrats against certain members of his administration, companies and donors to his ballroom project.\n\nIncoming House Oversight Committee Chair Rep.\n\nRobert Garcia (D-CA) and senior Oversight Committee member Rep.\n\nStephen Lynch (D-MA) respond to Blanche's threat.",
+      "readingTextZh": "司法部长托德·布兰奇（ Todd Blanche ）今天告诉美国有线电视新闻网（ CNN ）的“国情咨文” ，在唐纳德·特朗普总统委托司法部调查民主党人之后，众议院监督委员会成员应该“非常担心”。\n\n特朗普周六表示，他将让司法部调查民主党人对他的政府某些成员、公司和他的舞厅项目的捐助者进行“弹劾和许多其他形式的惩罚”的威胁。\n\n即将上任的众议院监督委员会主席代表\n\nRobert Garcia （ D-CA ）和高级监督委员会成员Rep.\n\n斯蒂芬·林奇（马萨诸塞州）回应布兰奇的威胁。",
       "sentences": [
         {
-          "en": "Secret Service officers arrested Ronny Yordrix Guanipa Chrinos near the White House after he allegedly said he heard voices telling him to kill President Donald Trump.",
-          "zh": "据称，特勤局官员在白宫附近逮捕了罗尼·约德里克斯·瓜尼帕·克里诺斯（ Ronny Yordrix Guanipa Chrinos ） ，此前他说他听到有人告诉他要杀死唐纳德·特",
+          "en": "Attorney General Todd Blanche told CNN’s “State of the Union” today that members of the House Oversight Committee should be “very worried,” after President Donald Trump tasked the Department of Justice with investigating Democrats.",
+          "zh": "司法部长托德·布兰奇（ Todd Blanche ）今天告诉美国有线电视新闻网（ CNN ）的“国情咨文” ，在唐纳德·特朗普总统委托司法部调查民主党人之后，众议院监督委员会成员应该“非常担心”。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "DHS says officers found a rifle, two handguns and dozens of rounds of ammunition in a stolen car.",
-          "zh": "国土安全部说，警察在一辆被盗汽车中发现了一支步枪、两把手枪和数十发弹药。",
+          "en": "It comes after Trump said Saturday he would have the DOJ look into threats of “Impeachment and many other forms of punishment” by Democrats against certain members of his administration, companies and donors to his ballroom project.",
+          "zh": "特朗普周六表示，他将让司法部调查民主党人对他的政府某些成员、公司和他的舞厅项目的捐助者进行“弹劾和许多其他形式的惩罚”的威胁。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Incoming House Oversight Committee Chair Rep.",
+          "zh": "即将上任的众议院监督委员会主席代表",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Robert Garcia (D-CA) and senior Oversight Committee member Rep.",
+          "zh": "Robert Garcia （ D-CA ）和高级监督委员会成员Rep.",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Stephen Lynch (D-MA) respond to Blanche's threat.",
+          "zh": "斯蒂芬·林奇（马萨诸塞州）回应布兰奇的威胁。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "arrested",
+          "word": "Blanche",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man arrested near White House allegedly threatened to kill Trump",
-          "exZh": "据称在白宫附近被捕的男子威胁要杀死特朗普",
+          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
+          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "near",
+          "word": "Dems",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man arrested near White House allegedly threatened to kill Trump",
-          "exZh": "据称在白宫附近被捕的男子威胁要杀死特朗普",
+          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
+          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "White",
+          "word": "very",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man arrested near White House allegedly threatened to kill Trump",
-          "exZh": "据称在白宫附近被捕的男子威胁要杀死特朗普",
+          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
+          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "House",
+          "word": "worried",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man arrested near White House allegedly threatened to kill Trump",
-          "exZh": "据称在白宫附近被捕的男子威胁要杀死特朗普",
+          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
+          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -524,143 +625,72 @@
       ]
     },
     {
-      "id": "video-kOU6-du2Rjw",
-      "title": "Dems' road to 2028, truly blue TX, Trump's redistrict recoil & more | Enten roundup",
-      "titleZh": "德姆斯通往2028年的道路，真正的蓝色德克萨斯州，特朗普的重新选区反弹等| Enten综述",
-      "level": "B2",
+      "id": "video-2Mcqdzuuofo",
+      "title": "Ex-Obama official on what Democrats must do next",
+      "titleZh": "前奥巴马官员关于民主党人接下来必须做什么",
+      "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "minutes": 5,
-      "summary": "In the wake of election night and the Democrat blue-nami, CNN chief data analyst Harry Enten runs the numbers; from the shape of a Democrat 2028 presidential election win to unpacking Trump's redistricting failure. \n\n0:00 Can the Blue-nami crash into 2028? \n3:01 Understanding Trump's redistricting failure \n6:00 Every vote matters: how nonvoters showed up \n8:22 How historic was the Blue-nami? \n10:59 Dems are on the way to picking up 261 House seats \n13:34 Historic shift in the youth vote \n15:15 Mississippi vote count  \n18:30 Another House flip for Democrats\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Election #Democrats #News",
+      "summary": "CNN's Donie O'Sullivan caught up with Jon Faverau, Barack Obama's former speechwriter and one of the hosts of the Pod Save America podcast, at Crooked Con in Washington DC this weekend. The event brought together Democrats and other progressive activists just days after a historic round of midterm election.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=kOU6-du2Rjw",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/kOU6-du2Rjw",
-      "articleUrl": "https://www.youtube.com/watch?v=kOU6-du2Rjw",
+      "videoUrl": "https://www.youtube.com/watch?v=2Mcqdzuuofo",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/2Mcqdzuuofo",
+      "articleUrl": "https://www.youtube.com/watch?v=2Mcqdzuuofo",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "In the wake of election night and the Democrat blue-nami, CNN chief data analyst Harry Enten runs the numbers; from the shape of a Democrat 2028 presidential election win to unpacking Trump's redistricting failure.",
-      "readingTextZh": "在选举之夜和民主党蓝军之后，美国有线电视新闻网首席数据分析师哈里·恩滕（ Harry Enten ）掌握了这些数字；从民主党2028年总统大选胜利的形状到特朗普重新划分的失败。",
+      "readingText": "CNN's Donie O'Sullivan caught up with Jon Faverau, Barack Obama's former speechwriter and one of the hosts of the Pod Save America podcast, at Crooked Con in Washington DC this weekend.\n\nThe event brought together Democrats and other progressive activists just days after a historic round of midterm election.",
+      "readingTextZh": "本周末，美国有线电视新闻网的Donie O'Sullivan在华盛顿特区的Crooked Con上采访了Jon Faverau ，他是巴拉克•奥巴马（ Barack Obama ）的前演讲撰稿人，也是Pod Save America播客的主持人之一。\n\n在一轮历史性的中期选举之后几天，民主党人和其他进步活动人士聚集在一起。",
       "sentences": [
         {
-          "en": "In the wake of election night and the Democrat blue-nami, CNN chief data analyst Harry Enten runs the numbers; from the shape of a Democrat 2028 presidential election win to unpacking Trump's redistricting failure.",
-          "zh": "在选举之夜和民主党蓝军之后，美国有线电视新闻网首席数据分析师哈里·恩滕（ Harry Enten ）掌握了这些数字；从民主党2028年总统大选胜利的形状到特朗普重新划分的失败。",
+          "en": "CNN's Donie O'Sullivan caught up with Jon Faverau, Barack Obama's former speechwriter and one of the hosts of the Pod Save America podcast, at Crooked Con in Washington DC this weekend.",
+          "zh": "本周末，美国有线电视新闻网的Donie O'Sullivan在华盛顿特区的Crooked Con上采访了Jon Faverau ，他是巴拉克•奥巴马（ Barack Obama ）的前演讲撰稿人，也是Pod Save America播客的主持人之一。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The event brought together Democrats and other progressive activists just days after a historic round of midterm election.",
+          "zh": "在一轮历史性的中期选举之后几天，民主党人和其他进步活动人士聚集在一起。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Dems'",
+          "word": "Obama",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Dems' road to 2028, truly blue TX, Trump's redistrict recoil & more | Enten roundup",
-          "exZh": "德姆斯通往2028年的道路，真正的蓝色德克萨斯州，特朗普的重新选区反弹等| Enten综述",
+          "ex": "Ex-Obama official on what Democrats must do next",
+          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "road",
+          "word": "official",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Dems' road to 2028, truly blue TX, Trump's redistrict recoil & more | Enten roundup",
-          "exZh": "德姆斯通往2028年的道路，真正的蓝色德克萨斯州，特朗普的重新选区反弹等| Enten综述",
+          "ex": "Ex-Obama official on what Democrats must do next",
+          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "truly",
+          "word": "Democrats",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Dems' road to 2028, truly blue TX, Trump's redistrict recoil & more | Enten roundup",
-          "exZh": "德姆斯通往2028年的道路，真正的蓝色德克萨斯州，特朗普的重新选区反弹等| Enten综述",
+          "ex": "Ex-Obama official on what Democrats must do next",
+          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "blue",
+          "word": "must",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Dems' road to 2028, truly blue TX, Trump's redistrict recoil & more | Enten roundup",
-          "exZh": "德姆斯通往2028年的道路，真正的蓝色德克萨斯州，特朗普的重新选区反弹等| Enten综述",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-GKs8oSGh0rU",
-      "title": "Video captures gunshots from site of deadly shooting in Kraków Poland",
-      "titleZh": "视频捕捉波兰克拉科夫致命枪击现场的枪声",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-07",
-      "minutes": 5,
-      "summary": "Gunshots can be heard on social media video from Krakow, Poland, where at least 6 people are dead after a man drove onto the square and opened fire from within his vehicle at what appeared to be random people, Krakow police said in a post on X.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=GKs8oSGh0rU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/GKs8oSGh0rU",
-      "articleUrl": "https://www.youtube.com/watch?v=GKs8oSGh0rU",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Gunshots can be heard on social media video from Krakow, Poland, where at least 6 people are dead after a man drove onto the square and opened fire from within his vehicle at what appeared to be random people, Krakow police said in a post on X.",
-      "readingTextZh": "克拉科夫警方在X上的一篇帖子中说，在波兰克拉科夫的社交媒体视频中可以听到枪声，一名男子开车进入广场并从车内向看似随机的人开火后，至少有6人死亡。",
-      "sentences": [
-        {
-          "en": "Gunshots can be heard on social media video from Krakow, Poland, where at least 6 people are dead after a man drove onto the square and opened fire from within his vehicle at what appeared to be random people, Krakow police said in a post on X.",
-          "zh": "克拉科夫警方在X上的一篇帖子中说，在波兰克拉科夫的社交媒体视频中可以听到枪声，一名男子开车进入广场并从车内向看似随机的人开火后，至少有6人死亡。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Video",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Video captures gunshots from site of deadly shooting in Kraków Poland",
-          "exZh": "视频捕捉波兰克拉科夫致命枪击现场的枪声",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "captures",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Video captures gunshots from site of deadly shooting in Kraków Poland",
-          "exZh": "视频捕捉波兰克拉科夫致命枪击现场的枪声",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "gunshots",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Video captures gunshots from site of deadly shooting in Kraków Poland",
-          "exZh": "视频捕捉波兰克拉科夫致命枪击现场的枪声",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "site",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Video captures gunshots from site of deadly shooting in Kraków Poland",
-          "exZh": "视频捕捉波兰克拉科夫致命枪击现场的枪声",
+          "ex": "Ex-Obama official on what Democrats must do next",
+          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
