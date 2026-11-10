@@ -1,443 +1,69 @@
 {
-  "updated_at": "2026-11-08T22:44:48.992974+00:00",
+  "updated_at": "2026-11-10T04:06:10.063724+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-Qcpqy6ZYKos",
-      "title": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
-      "titleZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
+      "id": "video-zHAoXX4nJWc",
+      "title": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
+      "titleZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
       "level": "B2",
       "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-08",
-      "minutes": 5,
-      "summary": "US tech giant Nvidia has begun an investigation following claims its CEO Jensen Huang had a relationship with a suspected Chinese spy.\n\nNvidia is one of the world's largest companies and is central to making cutting-edge computer chips that power emerging AI technologies. The company said its board had no reason to believe that its secrets or national security had been compromised.\n\nAccording to the New York Times, US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for China's Ministry of State Security. \n\nJensen Huang has admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children. He said he \"full responsibility\" for what he did and had fallen short of his responsibilities to Nvidia's employees, board and shareholders.  He said: “I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"\n\nHis statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully. I love our country and our company. I am committed to protecting Nvidia and supporting America's national security. I am proud and grateful to be an American.\"\n\nNvidia's board of directors said it would begin an investigation in \"light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort\".  It continued: \"The Board prioritises US national and economic security, which is paramount to the interests of Nvidia and its shareholders.\n\nAlice Huang is linked to Singapore-based data centre firm Megaspeed.  Nvidia is a central player in AI infrastructure, providing chips to leading AI model developers including OpenAI and Meta. The microchip manufacturer is worth some $4.5 trillion, making it one of the most valuable companies ever.\n\nChina has previously rejected allegations of an espionage operation targeting Nvidia's chief, describing the claims as “groundless speculation”. \n\nHowever US intelligence agencies had been monitoring Alice Huang and concluded that she was acting on behalf of the Chinese government, according to unnamed sources cited by The New York Times. It remains unclear what information Alice Huang - who is also known as Huang Le - allegedly passed to Beijing, how valuable it was, or when she is believed to have begun gathering intelligence.\n\nReeta Chakrabarti presents BBC News at Ten reporting by Zoe Kleinman.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Qcpqy6ZYKos",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Qcpqy6ZYKos",
-      "articleUrl": "https://www.youtube.com/watch?v=Qcpqy6ZYKos",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "US tech giant Nvidia has begun an investigation following claims its CEO Jensen Huang had a relationship with a suspected Chinese spy.\n\nNvidia is one of the world's largest companies and is central to making cutting-edge computer chips that power emerging AI technologies.\n\nThe company said its board had no reason to believe that its secrets or national security had been compromised.\n\nAccording to the New York Times, US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for China's Ministry of State Security.\n\nJensen Huang has admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.\n\nHe said he \"full responsibility\" for what he did and had fallen short of his responsibilities to Nvidia's employees, board and shareholders.\n\nHe said: “I was unfaithful to my wife.\n\nMy actions hurt her and our children.\n\nThere is no excuse for what I did.\n\nI am deeply sorry.\"\n\nHis statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation.\n\nI support the investigation and will cooperate fully.\n\nI love our country and our company.",
-      "readingTextZh": "美国科技巨头英伟达(Nvidia)在声称其首席执行官黄延森(Jensen Huang)与一名涉嫌中国间谍有关系后，已开始调查。\n\n英伟达是世界上最大的公司之一，是制造为新兴人工智能技术提供动力的尖端计算机芯片的核心。\n\n该公司表示，其董事会没有理由相信其机密或国家安全受到损害。\n\n据《纽约时报》报道，美国情报官员认为，与Jensen Huang关系密切的中国女商人Alice Huang是中国国家安全部的间谍。\n\nJensen Huang承认对他的妻子“不忠” ，并为伤害她和他们的孩子道歉。\n\n他说，他对他的所作所为负有“全部责任” ，并且没有履行他对英伟达员工、董事会和股东的责任。\n\n他说： “我对我妻子不忠。\n\n我的行为伤害了她和我们的孩子。\n\n我的所作所为没有任何借口。\n\n非常抱歉。”\n\n他的声明继续说道： “关于新闻报道中提出的国家安全问题，英伟达董事会已启动独立调查。\n\n我支持调查，并将全力配合。\n\n我爱我们的国家和我们的公司。",
-      "sentences": [
-        {
-          "en": "US tech giant Nvidia has begun an investigation following claims its CEO Jensen Huang had a relationship with a suspected Chinese spy.",
-          "zh": "美国科技巨头英伟达(Nvidia)在声称其首席执行官黄延森(Jensen Huang)与一名涉嫌中国间谍有关系后，已开始调查。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Nvidia is one of the world's largest companies and is central to making cutting-edge computer chips that power emerging AI technologies.",
-          "zh": "英伟达是世界上最大的公司之一，是制造为新兴人工智能技术提供动力的尖端计算机芯片的核心。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The company said its board had no reason to believe that its secrets or national security had been compromised.",
-          "zh": "该公司表示，其董事会没有理由相信其机密或国家安全受到损害。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "According to the New York Times, US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for China's Ministry of State Security.",
-          "zh": "据《纽约时报》报道，美国情报官员认为，与Jensen Huang关系密切的中国女商人Alice Huang是中国国家安全部的间谍。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Jensen Huang has admitted to having been \"unfaithful\" to his wife and apologised for hurting her and their children.",
-          "zh": "Jensen Huang承认对他的妻子“不忠” ，并为伤害她和他们的孩子道歉。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "He said he \"full responsibility\" for what he did and had fallen short of his responsibilities to Nvidia's employees, board and shareholders.",
-          "zh": "他说，他对他的所作所为负有“全部责任” ，并且没有履行他对英伟达员工、董事会和股东的责任。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "He said: “I was unfaithful to my wife.",
-          "zh": "他说： “我对我妻子不忠。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "My actions hurt her and our children.",
-          "zh": "我的行为伤害了她和我们的孩子。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "There is no excuse for what I did.",
-          "zh": "我的所作所为没有任何借口。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "I am deeply sorry.\"\n\nHis statement continued: \"Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation.",
-          "zh": "非常抱歉。”\n\n他的声明继续说道： “关于新闻报道中提出的国家安全问题，英伟达董事会已启动独立调查。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "I support the investigation and will cooperate fully.",
-          "zh": "我支持调查，并将全力配合。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "I love our country and our company.",
-          "zh": "我爱我们的国家和我们的公司。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Security",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
-          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "alert",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
-          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Nvidia",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
-          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "boss",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Security alert as Nvidia boss admits affair with suspected Chinese spy | BBC News",
-          "exZh": "英伟达老板承认与疑似中国间谍有染的安全警报| BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-raFmqXwVV88",
-      "title": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
-      "titleZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
-      "level": "C1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-08",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=raFmqXwVV88",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/raFmqXwVV88",
-      "articleUrl": "https://www.youtube.com/watch?v=raFmqXwVV88",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
-      "readingTextZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
-      "sentences": [
-        {
-          "en": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
-          "zh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "heard",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
-          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "shots",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
-          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Krakow",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
-          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "attack",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "\"I heard shots in Krakow attack but thought it was a toy\". #Krakow #Poland #BBCNews",
-          "exZh": "“我听到克拉科夫袭击中的枪声，但认为这是一个玩具。” #克拉科夫#波兰# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-CQFoi8S5gls",
-      "title": "What we know about Krakow shooting. #Krakow #BBCNews",
-      "titleZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-08",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=CQFoi8S5gls",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/CQFoi8S5gls",
-      "articleUrl": "https://www.youtube.com/watch?v=CQFoi8S5gls",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "What we know about Krakow shooting. #Krakow #BBCNews",
-      "readingTextZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
-      "sentences": [
-        {
-          "en": "What we know about Krakow shooting. #Krakow #BBCNews",
-          "zh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "know",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
-          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Krakow",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
-          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "shooting",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
-          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Krakow",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we know about Krakow shooting. #Krakow #BBCNews",
-          "exZh": "我们对克拉科夫枪击案的了解。#克拉科夫# BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-Udt8h3DcnuA",
-      "title": "Are There More Russell Brands In The Media Industry? | BBC News",
-      "titleZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-08",
-      "minutes": 5,
-      "summary": "Today, we look at the political fallout from the Russell Brand case.\n\nThe Culture Secretary Lisa Nandy says there’s evidence that what happened with Russell Brand is still happening today and it’s time for the media industry to take abuse more seriously.\n\nWe also discuss calls for the rules be changed so victims in rape cases so women don’t feel like they are on trial, as some have said.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Udt8h3DcnuA",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Udt8h3DcnuA",
-      "articleUrl": "https://www.youtube.com/watch?v=Udt8h3DcnuA",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Today, we look at the political fallout from the Russell Brand case.\n\nThe Culture Secretary Lisa Nandy says there’s evidence that what happened with Russell Brand is still happening today and it’s time for the media industry to take abuse more seriously.\n\nWe also discuss calls for the rules be changed so victims in rape cases so women don’t feel like they are on trial, as some have said.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "今天，我们来看看Russell Brand案件的政治影响。\n\n文化大臣丽莎·南迪（ Lisa Nandy ）表示，有证据表明，罗素·布兰德（ Russell Brand ）身上发生的事情今天仍在发生，现在是媒体行业更认真对待虐待问题的时候了。\n\n我们还讨论了改变规则的呼吁，以便强奸案的受害者不会像一些人所说的那样觉得自己正在接受审判。\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "Today, we look at the political fallout from the Russell Brand case.",
-          "zh": "今天，我们来看看Russell Brand案件的政治影响。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The Culture Secretary Lisa Nandy says there’s evidence that what happened with Russell Brand is still happening today and it’s time for the media industry to take abuse more seriously.",
-          "zh": "文化大臣丽莎·南迪（ Lisa Nandy ）表示，有证据表明，罗素·布兰德（ Russell Brand ）身上发生的事情今天仍在发生，现在是媒体行业更认真对待虐待问题的时候了。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "We also discuss calls for the rules be changed so victims in rape cases so women don’t feel like they are on trial, as some have said.",
-          "zh": "我们还讨论了改变规则的呼吁，以便强奸案的受害者不会像一些人所说的那样觉得自己正在接受审判。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "There",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
-          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Russell",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
-          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Brands",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
-          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Media",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Are There More Russell Brands In The Media Industry? | BBC News",
-          "exZh": "媒体行业中是否有更多罗素品牌？ | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-OpiU3G2AF1U",
-      "title": "Boycott of Jewish-owned restaurants draws counterprotests",
-      "titleZh": "抵制犹太人经营的餐厅引发反抗议",
-      "level": "A2",
-      "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-08",
+      "date": "2026-11-10",
       "minutes": 5,
-      "summary": "Crowds of counterprotesters showed up to a bicycle “boycott ride” targeting several Jewish-owned businesses in Philadelphia.",
+      "summary": "Ohio governor-elect Amy Acton sits down with CNN’s Jake Tapper for a wide ranging interview about her difficult childhood becoming an election ad, the political winds after the midterms, how she plans to govern for Ohioans and more.\n\n0:00 Acton opens up about her difficult childhood\n5:20 What it means to be the first elected woman governor of Ohio\n7:01 Acton on an ‘era of change’\n16:11 Acton’s first response after seeing Ramaswamy’s ad\n26:24 How does Acton plan to govern a now purple state?\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #ohio",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=OpiU3G2AF1U",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/OpiU3G2AF1U",
-      "articleUrl": "https://www.youtube.com/watch?v=OpiU3G2AF1U",
+      "videoUrl": "https://www.youtube.com/watch?v=zHAoXX4nJWc",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/zHAoXX4nJWc",
+      "articleUrl": "https://www.youtube.com/watch?v=zHAoXX4nJWc",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Crowds of counterprotesters showed up to a bicycle “boycott ride” targeting several Jewish-owned businesses in Philadelphia.",
-      "readingTextZh": "一群反抗议者出现在针对费城几家犹太人拥有的企业的自行车“抵制骑行”中。",
+      "readingText": "Ohio governor-elect Amy Acton sits down with CNN’s Jake Tapper for a wide ranging interview about her difficult childhood becoming an election ad, the political winds after the midterms, how she plans to govern for Ohioans and more.",
+      "readingTextZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）与美国有线电视新闻网（ CNN ）的杰克·塔珀（ Jake Tapper ）一起接受了广泛的采访，内容涉及她艰难的童年成为选举广告、中期选举后的政治风向、她计划如何为俄亥俄州人执政等等。",
       "sentences": [
         {
-          "en": "Crowds of counterprotesters showed up to a bicycle “boycott ride” targeting several Jewish-owned businesses in Philadelphia.",
-          "zh": "一群反抗议者出现在针对费城几家犹太人拥有的企业的自行车“抵制骑行”中。",
+          "en": "Ohio governor-elect Amy Acton sits down with CNN’s Jake Tapper for a wide ranging interview about her difficult childhood becoming an election ad, the political winds after the midterms, how she plans to govern for Ohioans and more.",
+          "zh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）与美国有线电视新闻网（ CNN ）的杰克·塔珀（ Jake Tapper ）一起接受了广泛的采访，内容涉及她艰难的童年成为选举广告、中期选举后的政治风向、她计划如何为俄亥俄州人执政等等。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Boycott",
+          "word": "Ohio",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
-          "exZh": "抵制犹太人经营的餐厅引发反抗议",
+          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
+          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Jewish",
+          "word": "elect",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
-          "exZh": "抵制犹太人经营的餐厅引发反抗议",
+          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
+          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "owned",
+          "word": "Acton",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
-          "exZh": "抵制犹太人经营的餐厅引发反抗议",
+          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
+          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "restaurants",
+          "word": "childhood",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Boycott of Jewish-owned restaurants draws counterprotests",
-          "exZh": "抵制犹太人经营的餐厅引发反抗议",
+          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
+          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -453,67 +79,72 @@
       ]
     },
     {
-      "id": "video-4TqLGkBDZlQ",
-      "title": "Trick or treat redo for 4-year-old with rare heart condition",
-      "titleZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
+      "id": "video-K4IlbtDiVZ4",
+      "title": "Why some Republicans could vote to impeach Hegseth",
+      "titleZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-08",
+      "date": "2026-11-10",
       "minutes": 5,
-      "summary": "After a complication during heart surgery kept 4-year-old Ava Clancy in the hospital over Halloween, over 100 residences signed up to give her a second chance at trick-or-treating, CNN affiliate WJAR reports.",
+      "summary": "After GOP Rep. Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, CNN’s Manu Raju reports on why House Republicans could vote to impeach.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=4TqLGkBDZlQ",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/4TqLGkBDZlQ",
-      "articleUrl": "https://www.youtube.com/watch?v=4TqLGkBDZlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=K4IlbtDiVZ4",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/K4IlbtDiVZ4",
+      "articleUrl": "https://www.youtube.com/watch?v=K4IlbtDiVZ4",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "After a complication during heart surgery kept 4-year-old Ava Clancy in the hospital over Halloween, over 100 residences signed up to give her a second chance at trick-or-treating, CNN affiliate WJAR reports.",
-      "readingTextZh": "据CNN附属机构WJAR报道，在心脏手术期间发生并发症后， 4岁的Ava Clancy在万圣节期间住院治疗， 100多处住宅签约，为她提供第二次捣蛋的机会。",
+      "readingText": "After GOP Rep.\n\nThomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, CNN’s Manu Raju reports on why House Republicans could vote to impeach.",
+      "readingTextZh": "共和党代表后\n\n托马斯·马西（ Thomas Massie ）对国防部长皮特·黑格塞斯（ Pete Hegseth ）提出了八项弹劾条款，美国有线电视新闻网的马努·拉朱（ Manu Raju ）报道了众议院共和",
       "sentences": [
         {
-          "en": "After a complication during heart surgery kept 4-year-old Ava Clancy in the hospital over Halloween, over 100 residences signed up to give her a second chance at trick-or-treating, CNN affiliate WJAR reports.",
-          "zh": "据CNN附属机构WJAR报道，在心脏手术期间发生并发症后， 4岁的Ava Clancy在万圣节期间住院治疗， 100多处住宅签约，为她提供第二次捣蛋的机会。",
+          "en": "After GOP Rep.",
+          "zh": "共和党代表后",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, CNN’s Manu Raju reports on why House Republicans could vote to impeach.",
+          "zh": "托马斯·马西（ Thomas Massie ）对国防部长皮特·黑格塞斯（ Pete Hegseth ）提出了八项弹劾条款，美国有线电视新闻网的马努·拉朱（ Manu Raju ）报道了众议院共和",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Trick",
+          "word": "some",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
-          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
+          "ex": "Why some Republicans could vote to impeach Hegseth",
+          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "treat",
+          "word": "Republicans",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
-          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
+          "ex": "Why some Republicans could vote to impeach Hegseth",
+          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "redo",
+          "word": "vote",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
-          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
+          "ex": "Why some Republicans could vote to impeach Hegseth",
+          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "year",
+          "word": "impeach",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trick or treat redo for 4-year-old with rare heart condition",
-          "exZh": "针对患有罕见心脏病的4岁儿童的Trick or Treat重做",
+          "ex": "Why some Republicans could vote to impeach Hegseth",
+          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -529,87 +160,72 @@
       ]
     },
     {
-      "id": "video-KbBoWZXYW2M",
-      "title": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
-      "titleZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
+      "id": "video-JacdOMmRsXE",
+      "title": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
+      "titleZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-08",
+      "date": "2026-11-10",
       "minutes": 5,
-      "summary": "Attorney General Todd Blanche told CNN’s “State of the Union” today that members of the House Oversight Committee should be “very worried,” after President Donald Trump tasked the Department of Justice with investigating Democrats. \n\nIt comes after Trump said Saturday he would have the DOJ look into threats of “Impeachment and many other forms of punishment” by Democrats against certain members of his administration, companies and donors to his ballroom project. \n\nIncoming House Oversight Committee Chair Rep. Robert Garcia (D-CA) and senior Oversight Committee member Rep. Stephen Lynch (D-MA) respond to Blanche's threat.\n\n0:00 Attorney General Blanche comments on Trump's order to investigate Dems \n4:24 Will Blanche imprison Democrats? \n6:24 Blanche talks about representing Pete Hegseth if he's impeached \n9:16 Rep. Garcia responds to Blanche saying Dems should be worried \n10:44 Rep. Stephen Lynch says democracy is \"a new thing\" to Blanche \n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #Democrats #News",
+      "summary": "President Trump voiced his midterm election denial out loud  this evening in his impromptu press conference, and the outgoing Republican-controlled Congress moves closer to an impeachment vote on Defense Secretary, Pete Hegseth. Plus, Jensen Huang, the chief executive of Nvidia admits to an extramarital affair but doesn't mention the person he was involved with is now alleged to be a Chinese spy. \n\n\n \n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices (https://podcastchoices.com/adchoices)",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=KbBoWZXYW2M",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/KbBoWZXYW2M",
-      "articleUrl": "https://www.youtube.com/watch?v=KbBoWZXYW2M",
+      "videoUrl": "https://www.youtube.com/watch?v=JacdOMmRsXE",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/JacdOMmRsXE",
+      "articleUrl": "https://www.youtube.com/watch?v=JacdOMmRsXE",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Attorney General Todd Blanche told CNN’s “State of the Union” today that members of the House Oversight Committee should be “very worried,” after President Donald Trump tasked the Department of Justice with investigating Democrats.\n\nIt comes after Trump said Saturday he would have the DOJ look into threats of “Impeachment and many other forms of punishment” by Democrats against certain members of his administration, companies and donors to his ballroom project.\n\nIncoming House Oversight Committee Chair Rep.\n\nRobert Garcia (D-CA) and senior Oversight Committee member Rep.\n\nStephen Lynch (D-MA) respond to Blanche's threat.",
-      "readingTextZh": "司法部长托德·布兰奇（ Todd Blanche ）今天告诉美国有线电视新闻网（ CNN ）的“国情咨文” ，在唐纳德·特朗普总统委托司法部调查民主党人之后，众议院监督委员会成员应该“非常担心”。\n\n特朗普周六表示，他将让司法部调查民主党人对他的政府某些成员、公司和他的舞厅项目的捐助者进行“弹劾和许多其他形式的惩罚”的威胁。\n\n即将上任的众议院监督委员会主席代表\n\nRobert Garcia （ D-CA ）和高级监督委员会成员Rep.\n\n斯蒂芬·林奇（马萨诸塞州）回应布兰奇的威胁。",
+      "readingText": "President Trump voiced his midterm election denial out loud  this evening in his impromptu press conference, and the outgoing Republican-controlled Congress moves closer to an impeachment vote on Defense Secretary, Pete Hegseth.\n\nPlus, Jensen Huang, the chief executive of Nvidia admits to an extramarital affair but doesn't mention the person he was involved with is now alleged to be a Chinese spy.",
+      "readingTextZh": "特朗普总统今晚在即兴的新闻发布会上大声否认中期选举，即将卸任的共和党控制的国会更接近于对国防部长皮特·赫格塞斯（ Pete Hegseth ）进行弹劾投票。\n\n此外，英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）承认有婚外情，但没有提到与他有牵连的人现在被指控是中国间谍。",
       "sentences": [
         {
-          "en": "Attorney General Todd Blanche told CNN’s “State of the Union” today that members of the House Oversight Committee should be “very worried,” after President Donald Trump tasked the Department of Justice with investigating Democrats.",
-          "zh": "司法部长托德·布兰奇（ Todd Blanche ）今天告诉美国有线电视新闻网（ CNN ）的“国情咨文” ，在唐纳德·特朗普总统委托司法部调查民主党人之后，众议院监督委员会成员应该“非常担心”。",
+          "en": "President Trump voiced his midterm election denial out loud  this evening in his impromptu press conference, and the outgoing Republican-controlled Congress moves closer to an impeachment vote on Defense Secretary, Pete Hegseth.",
+          "zh": "特朗普总统今晚在即兴的新闻发布会上大声否认中期选举，即将卸任的共和党控制的国会更接近于对国防部长皮特·赫格塞斯（ Pete Hegseth ）进行弹劾投票。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "It comes after Trump said Saturday he would have the DOJ look into threats of “Impeachment and many other forms of punishment” by Democrats against certain members of his administration, companies and donors to his ballroom project.",
-          "zh": "特朗普周六表示，他将让司法部调查民主党人对他的政府某些成员、公司和他的舞厅项目的捐助者进行“弹劾和许多其他形式的惩罚”的威胁。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Incoming House Oversight Committee Chair Rep.",
-          "zh": "即将上任的众议院监督委员会主席代表",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Robert Garcia (D-CA) and senior Oversight Committee member Rep.",
-          "zh": "Robert Garcia （ D-CA ）和高级监督委员会成员Rep.",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Stephen Lynch (D-MA) respond to Blanche's threat.",
-          "zh": "斯蒂芬·林奇（马萨诸塞州）回应布兰奇的威胁。",
+          "en": "Plus, Jensen Huang, the chief executive of Nvidia admits to an extramarital affair but doesn't mention the person he was involved with is now alleged to be a Chinese spy.",
+          "zh": "此外，英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）承认有婚外情，但没有提到与他有牵连的人现在被指控是中国间谍。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Blanche",
+          "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
-          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
+          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
+          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Dems",
+          "word": "Goes",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
-          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
+          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
+          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "very",
+          "word": "Acceptance",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
-          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
+          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
+          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "worried",
+          "word": "Denial",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Blanche: Dems should be ‘very worried’ after Trump ordered DOJ probe",
-          "exZh": "布兰奇：在特朗普下令司法部进行调查后，民主党人应该“非常担心”",
+          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
+          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -625,72 +241,67 @@
       ]
     },
     {
-      "id": "video-2Mcqdzuuofo",
-      "title": "Ex-Obama official on what Democrats must do next",
-      "titleZh": "前奥巴马官员关于民主党人接下来必须做什么",
-      "level": "B1",
+      "id": "video-G3oMmVhmB2A",
+      "title": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
+      "titleZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
+      "level": "B2",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-08",
+      "date": "2026-11-10",
       "minutes": 5,
-      "summary": "CNN's Donie O'Sullivan caught up with Jon Faverau, Barack Obama's former speechwriter and one of the hosts of the Pod Save America podcast, at Crooked Con in Washington DC this weekend. The event brought together Democrats and other progressive activists just days after a historic round of midterm election.",
+      "summary": "Gov.-elect Keisha Lance Bottoms tells CNN's Jake Tapper what being elected Governor in a state where her ancestors were once enslaved means to her.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=2Mcqdzuuofo",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/2Mcqdzuuofo",
-      "articleUrl": "https://www.youtube.com/watch?v=2Mcqdzuuofo",
+      "videoUrl": "https://www.youtube.com/watch?v=G3oMmVhmB2A",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/G3oMmVhmB2A",
+      "articleUrl": "https://www.youtube.com/watch?v=G3oMmVhmB2A",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN's Donie O'Sullivan caught up with Jon Faverau, Barack Obama's former speechwriter and one of the hosts of the Pod Save America podcast, at Crooked Con in Washington DC this weekend.\n\nThe event brought together Democrats and other progressive activists just days after a historic round of midterm election.",
-      "readingTextZh": "本周末，美国有线电视新闻网的Donie O'Sullivan在华盛顿特区的Crooked Con上采访了Jon Faverau ，他是巴拉克•奥巴马（ Barack Obama ）的前演讲撰稿人，也是Pod Save America播客的主持人之一。\n\n在一轮历史性的中期选举之后几天，民主党人和其他进步活动人士聚集在一起。",
+      "readingText": "Gov.-elect Keisha Lance Bottoms tells CNN's Jake Tapper what being elected Governor in a state where her ancestors were once enslaved means to her.",
+      "readingTextZh": "当选州长Keisha Lance Bottoms告诉CNN的Jake Tapper ，在一个她的祖先曾经被奴役的州当选州长对她来说意味着什么。",
       "sentences": [
         {
-          "en": "CNN's Donie O'Sullivan caught up with Jon Faverau, Barack Obama's former speechwriter and one of the hosts of the Pod Save America podcast, at Crooked Con in Washington DC this weekend.",
-          "zh": "本周末，美国有线电视新闻网的Donie O'Sullivan在华盛顿特区的Crooked Con上采访了Jon Faverau ，他是巴拉克•奥巴马（ Barack Obama ）的前演讲撰稿人，也是Pod Save America播客的主持人之一。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The event brought together Democrats and other progressive activists just days after a historic round of midterm election.",
-          "zh": "在一轮历史性的中期选举之后几天，民主党人和其他进步活动人士聚集在一起。",
+          "en": "Gov.-elect Keisha Lance Bottoms tells CNN's Jake Tapper what being elected Governor in a state where her ancestors were once enslaved means to her.",
+          "zh": "当选州长Keisha Lance Bottoms告诉CNN的Jake Tapper ，在一个她的祖先曾经被奴役的州当选州长对她来说意味着什么。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Obama",
+          "word": "enslaved",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ex-Obama official on what Democrats must do next",
-          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
+          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
+          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "official",
+          "word": "ancestors",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ex-Obama official on what Democrats must do next",
-          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
+          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
+          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Democrats",
+          "word": "Georgia",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ex-Obama official on what Democrats must do next",
-          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
+          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
+          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "must",
+          "word": "governor",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ex-Obama official on what Democrats must do next",
-          "exZh": "前奥巴马官员关于民主党人接下来必须做什么",
+          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
+          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
