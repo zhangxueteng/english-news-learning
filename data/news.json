@@ -1,69 +1,241 @@
 {
-  "updated_at": "2026-11-10T04:06:10.063724+00:00",
+  "updated_at": "2026-11-11T01:55:51.945155+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-zHAoXX4nJWc",
-      "title": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
-      "titleZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
+      "id": "video-5lPAcrY3-Sc",
+      "title": "Where is America's foreign policy heading next? ​| The Global Story",
+      "titleZh": "美国的外交政策下一步将走向何方？ |全球故事",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-10",
+      "minutes": 5,
+      "summary": "A week on from the Democrats’ victory in the US midterm elections, what might these results mean for the rest of the world? \n\nWhat will Trump’s foreign policy look like now he has lost control of congress? \n\nWe take a whistle stop tour of Iran, Israel, Russia and China to look at the reactions to the results and the possible consequences. Will this prompt a shift in relations between the US and its allies?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n00:00 Introduction\n00:41 How the world reacted to the Democrats’ election victory\n02:34 What Trump’s election defeat means for the Iran war\n06:39 Can Democrats block funding for the Iran war?\n08:07 Could Pete Hegseth face impeachment?\n10:56 Will the election change US support for Israel?\n15:08 Is the US-UKraine relationship with Israel changing permanently?\n15:47 What Putin makes of Trump’s weakened position\n18:02 What the results mean for Europe’s far right\n20:18 Is China benefiting from Trump’s foreign policy?\n22:12 Will Trump turn his attention to new foreign policy battles?\n23:41 Could Cuba become Trump’s next target?\n\n#DonaldTrump #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=5lPAcrY3-Sc",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/5lPAcrY3-Sc",
+      "articleUrl": "https://www.youtube.com/watch?v=5lPAcrY3-Sc",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "A week on from the Democrats’ victory in the US midterm elections, what might these results mean for the rest of the world?\n\nWhat will Trump’s foreign policy look like now he has lost control of congress?\n\nWe take a whistle stop tour of Iran, Israel, Russia and China to look at the reactions to the results and the possible consequences.\n\nWill this prompt a shift in relations between the US and its allies?\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "民主党在美国中期选举中获胜一周后，这些结果对世界其他地区意味着什么？\n\n现在他已经失去了对国会的控制，特朗普的外交政策会是什么样子？\n\n我们在伊朗、以色列、俄罗斯和中国巡回演出，看看对结果的反应和可能的后果。\n\n这会促使美国与其盟国之间的关系发生转变吗？\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "A week on from the Democrats’ victory in the US midterm elections, what might these results mean for the rest of the world?",
+          "zh": "民主党在美国中期选举中获胜一周后，这些结果对世界其他地区意味着什么？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "What will Trump’s foreign policy look like now he has lost control of congress?",
+          "zh": "现在他已经失去了对国会的控制，特朗普的外交政策会是什么样子？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "We take a whistle stop tour of Iran, Israel, Russia and China to look at the reactions to the results and the possible consequences.",
+          "zh": "我们在伊朗、以色列、俄罗斯和中国巡回演出，看看对结果的反应和可能的后果。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Will this prompt a shift in relations between the US and its allies?",
+          "zh": "这会促使美国与其盟国之间的关系发生转变吗？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "America's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
+          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "foreign",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
+          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "policy",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
+          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "heading",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
+          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-t8BaL_YUX-Y",
+      "title": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
+      "titleZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-10",
+      "minutes": 5,
+      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=t8BaL_YUX-Y",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/t8BaL_YUX-Y",
+      "articleUrl": "https://www.youtube.com/watch?v=t8BaL_YUX-Y",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
+      "readingTextZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
+      "sentences": [
+        {
+          "en": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
+          "zh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "bike",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
+          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "battery",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
+          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "explodes",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
+          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "massive",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
+          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-qlLI15D95d4",
+      "title": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
+      "titleZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
       "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
+      "category": "BUSINESS",
+      "source": "BBC News · Official Video",
       "date": "2026-11-10",
       "minutes": 5,
-      "summary": "Ohio governor-elect Amy Acton sits down with CNN’s Jake Tapper for a wide ranging interview about her difficult childhood becoming an election ad, the political winds after the midterms, how she plans to govern for Ohioans and more.\n\n0:00 Acton opens up about her difficult childhood\n5:20 What it means to be the first elected woman governor of Ohio\n7:01 Acton on an ‘era of change’\n16:11 Acton’s first response after seeing Ramaswamy’s ad\n26:24 How does Acton plan to govern a now purple state?\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #ohio",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=zHAoXX4nJWc",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/zHAoXX4nJWc",
-      "articleUrl": "https://www.youtube.com/watch?v=zHAoXX4nJWc",
+      "videoUrl": "https://www.youtube.com/watch?v=qlLI15D95d4",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/qlLI15D95d4",
+      "articleUrl": "https://www.youtube.com/watch?v=qlLI15D95d4",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Ohio governor-elect Amy Acton sits down with CNN’s Jake Tapper for a wide ranging interview about her difficult childhood becoming an election ad, the political winds after the midterms, how she plans to govern for Ohioans and more.",
-      "readingTextZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）与美国有线电视新闻网（ CNN ）的杰克·塔珀（ Jake Tapper ）一起接受了广泛的采访，内容涉及她艰难的童年成为选举广告、中期选举后的政治风向、她计划如何为俄亥俄州人执政等等。",
+      "readingText": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
+      "readingTextZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
       "sentences": [
         {
-          "en": "Ohio governor-elect Amy Acton sits down with CNN’s Jake Tapper for a wide ranging interview about her difficult childhood becoming an election ad, the political winds after the midterms, how she plans to govern for Ohioans and more.",
-          "zh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）与美国有线电视新闻网（ CNN ）的杰克·塔珀（ Jake Tapper ）一起接受了广泛的采访，内容涉及她艰难的童年成为选举广告、中期选举后的政治风向、她计划如何为俄亥俄州人执政等等。",
+          "en": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
+          "zh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Ohio",
+          "word": "Stockpiling",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
-          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
+          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
+          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "elect",
+          "word": "surge",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
-          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
+          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
+          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Acton",
+          "word": "government's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
-          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
+          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
+          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "childhood",
+          "word": "Ready'",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Ohio Gov-elect Amy Acton on her childhood, an ‘era of change’ & more",
-          "exZh": "俄亥俄州州长当选人艾米·阿克顿（ Amy Acton ）的童年、“变革时代”等",
+          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
+          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -79,72 +251,107 @@
       ]
     },
     {
-      "id": "video-K4IlbtDiVZ4",
-      "title": "Why some Republicans could vote to impeach Hegseth",
-      "titleZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
-      "level": "B1",
+      "id": "video-Nd9-GExUVmc",
+      "title": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
+      "titleZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
+      "level": "C1",
       "category": "WORLD",
-      "source": "CNN · Official Video",
+      "source": "BBC News · Official Video",
       "date": "2026-11-10",
       "minutes": 5,
-      "summary": "After GOP Rep. Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, CNN’s Manu Raju reports on why House Republicans could vote to impeach.",
+      "summary": "A senior US army officer has been arrested in the UK on suspicion of spying for Russia.\n\nThe 41-year-old man was detained on Tuesday. Counter-terrorism police said the soldier had been arrested under national security laws relating to obtaining or disclosing protected information and assisting a foreign intelligence service.\n\nThe BBC understands the soldier is based at Imjin Barracks in Gloucestershire, which is headquarters of Nato's Allied Rapid Reaction Corps, a strategic operational base for the alliance.\n\nThe director of the FBI director Kash Patel said in a statement: \"This important arrest involves allegations of espionage, which is of the utmost concern to the United States and our allies.\"\n\nHe added: \"While this investigation is continuing, I want to send a clear message – this FBI has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.\"\n\nDeputy Assistant Commissioner Vicki Evans, from Counter Terrorism Policing London, described the arrest as \"significant\".\n\"The allegations are serious and our investigation is very much ongoing,\" she said.\n\nThe unnamed soldier is currently in custody at a London police station where he can be held without charge for up to 14 days. \n\nBrig Gen Sean Stinchon, commanding general of US Army Counterintelligence Command, said: \"The alleged conduct of a senior soldier, entrusted with sensitive information, is a sobering reminder that insider threats are real and persistent.\n\nFiona Bruce presents BBC News at Ten reporting by Daniel Sandford.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=K4IlbtDiVZ4",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/K4IlbtDiVZ4",
-      "articleUrl": "https://www.youtube.com/watch?v=K4IlbtDiVZ4",
+      "videoUrl": "https://www.youtube.com/watch?v=Nd9-GExUVmc",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Nd9-GExUVmc",
+      "articleUrl": "https://www.youtube.com/watch?v=Nd9-GExUVmc",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "After GOP Rep.\n\nThomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, CNN’s Manu Raju reports on why House Republicans could vote to impeach.",
-      "readingTextZh": "共和党代表后\n\n托马斯·马西（ Thomas Massie ）对国防部长皮特·黑格塞斯（ Pete Hegseth ）提出了八项弹劾条款，美国有线电视新闻网的马努·拉朱（ Manu Raju ）报道了众议院共和",
+      "readingText": "A senior US army officer has been arrested in the UK on suspicion of spying for Russia.\n\nThe 41-year-old man was detained on Tuesday.\n\nCounter-terrorism police said the soldier had been arrested under national security laws relating to obtaining or disclosing protected information and assisting a foreign intelligence service.\n\nThe BBC understands the soldier is based at Imjin Barracks in Gloucestershire, which is headquarters of Nato's Allied Rapid Reaction Corps, a strategic operational base for the alliance.\n\nThe director of the FBI director Kash Patel said in a statement: \"This important arrest involves allegations of espionage, which is of the utmost concern to the United States and our allies.\"\n\nHe added: \"While this investigation is continuing, I want to send a clear message – this FBI has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.\"\n\nDeputy Assistant Commissioner Vicki Evans, from Counter Terrorism Policing London, described the arrest as \"significant\".\n\"The allegations are serious and our investigation is very much ongoing,\" she said.\n\nThe unnamed soldier is currently in custody at a London police station where he can be held without charge for up to 14 days.\n\nBrig Gen Sean Stinchon, commanding general of US Army Counterintelligence Command, said: \"The alleged conduct of a senior soldier, entrusted with sensitive information, is a sobering reminder that insider threats are real and persistent.\n\nFiona Bruce presents BBC News at Ten reporting by Daniel Sandford.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "一名美国高级军官因涉嫌为俄罗斯从事间谍活动而在英国被捕。\n\n这名41岁的男子于周二被拘留。\n\n反恐警察表示，这名士兵是根据与获取或披露受保护信息以及协助外国情报部门有关的国家安全法被捕的。\n\n据英国广播公司了解，这名士兵驻扎在格洛斯特郡的Imjin兵营，该兵营是北约盟军快速反应部队的总部，这是该联盟的战略作战基地。\n\n联邦调查局局长卡什·帕特尔（ Kash Patel ）在一份声明中说： “这次重要的逮捕涉及间谍指控，这是美国和我们的盟友最关心的问题。”\n\n他补充说： “在调查继续进行的同时，我想发出一个明确的信息–这个联邦调查局不容忍任何违反对美国宣誓的人，他们的行为危及我们和我们的合作伙伴的国家安全。”\n\n副助理\n\n这名未透露姓名的士兵目前被关押在伦敦警察局，在那里他可以免费被关押长达14天。\n\n美国陆军反间谍司令部司令肖恩·斯汀雄准将（ Brig Gen Sean Stinchon ）说： “据称一名受托提供敏感信息的高级士兵的行为令人清醒地提醒我们，内部威胁是真实而持久的。\n\n菲奥娜·布鲁斯（ Fiona Bruce ）介绍了丹尼尔·桑福德（ Daniel Sandford ）\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "After GOP Rep.",
-          "zh": "共和党代表后",
+          "en": "A senior US army officer has been arrested in the UK on suspicion of spying for Russia.",
+          "zh": "一名美国高级军官因涉嫌为俄罗斯从事间谍活动而在英国被捕。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, CNN’s Manu Raju reports on why House Republicans could vote to impeach.",
-          "zh": "托马斯·马西（ Thomas Massie ）对国防部长皮特·黑格塞斯（ Pete Hegseth ）提出了八项弹劾条款，美国有线电视新闻网的马努·拉朱（ Manu Raju ）报道了众议院共和",
+          "en": "The 41-year-old man was detained on Tuesday.",
+          "zh": "这名41岁的男子于周二被拘留。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Counter-terrorism police said the soldier had been arrested under national security laws relating to obtaining or disclosing protected information and assisting a foreign intelligence service.",
+          "zh": "反恐警察表示，这名士兵是根据与获取或披露受保护信息以及协助外国情报部门有关的国家安全法被捕的。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The BBC understands the soldier is based at Imjin Barracks in Gloucestershire, which is headquarters of Nato's Allied Rapid Reaction Corps, a strategic operational base for the alliance.",
+          "zh": "据英国广播公司了解，这名士兵驻扎在格洛斯特郡的Imjin兵营，该兵营是北约盟军快速反应部队的总部，这是该联盟的战略作战基地。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The director of the FBI director Kash Patel said in a statement: \"This important arrest involves allegations of espionage, which is of the utmost concern to the United States and our allies.\"\n\nHe added: \"While this investigation is continuing, I want to send a clear message – this FBI has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.\"\n\nDeputy Assistant Commissioner Vicki Evans, from Counter Terrorism Policing London, described the arrest as \"significant\".\n\"The allegations are serious and our investigation is very much ongoing,\" she said.",
+          "zh": "联邦调查局局长卡什·帕特尔（ Kash Patel ）在一份声明中说： “这次重要的逮捕涉及间谍指控，这是美国和我们的盟友最关心的问题。”\n\n他补充说： “在调查继续进行的同时，我想发出一个明确的信息–这个联邦调查局不容忍任何违反对美国宣誓的人，他们的行为危及我们和我们的合作伙伴的国家安全。”\n\n副助理",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The unnamed soldier is currently in custody at a London police station where he can be held without charge for up to 14 days.",
+          "zh": "这名未透露姓名的士兵目前被关押在伦敦警察局，在那里他可以免费被关押长达14天。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Brig Gen Sean Stinchon, commanding general of US Army Counterintelligence Command, said: \"The alleged conduct of a senior soldier, entrusted with sensitive information, is a sobering reminder that insider threats are real and persistent.",
+          "zh": "美国陆军反间谍司令部司令肖恩·斯汀雄准将（ Brig Gen Sean Stinchon ）说： “据称一名受托提供敏感信息的高级士兵的行为令人清醒地提醒我们，内部威胁是真实而持久的。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Fiona Bruce presents BBC News at Ten reporting by Daniel Sandford.",
+          "zh": "菲奥娜·布鲁斯（ Fiona Bruce ）介绍了丹尼尔·桑福德（ Daniel Sandford ）",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "some",
+          "word": "Senior",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Republicans could vote to impeach Hegseth",
-          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
+          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
+          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Republicans",
+          "word": "army",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Republicans could vote to impeach Hegseth",
-          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
+          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
+          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "vote",
+          "word": "officer",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Republicans could vote to impeach Hegseth",
-          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
+          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
+          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "impeach",
+          "word": "accused",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Republicans could vote to impeach Hegseth",
-          "exZh": "为什么一些共和党人可以投票弹劾赫格塞斯",
+          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
+          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -160,72 +367,87 @@
       ]
     },
     {
-      "id": "video-JacdOMmRsXE",
-      "title": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
-      "titleZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
+      "id": "video-3dzuwsy60Js",
+      "title": "‘All options on the table’: AOC on Trump impeachment",
+      "titleZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "minutes": 5,
-      "summary": "President Trump voiced his midterm election denial out loud  this evening in his impromptu press conference, and the outgoing Republican-controlled Congress moves closer to an impeachment vote on Defense Secretary, Pete Hegseth. Plus, Jensen Huang, the chief executive of Nvidia admits to an extramarital affair but doesn't mention the person he was involved with is now alleged to be a Chinese spy. \n\n\n \n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices (https://podcastchoices.com/adchoices)",
+      "summary": "House Republicans narrowly blocked an effort to impeach Defense Secretary Pete Hegseth, voting 211-204 to defeat the measure led by Rep. Thomas Massie. While President Donald Trump and GOP leaders rallied enough votes to defeat the push, Democrats warn the fight isn’t over and are promising renewed investigations once they take control of the House.\n\nRep. Alexandria Ocasio-Cortez and other key lawmakers discuss why the failed vote won’t derail future impeachment efforts, suggesting the resolution could return before the new Congress convenes in January.\n\n0:00 House sinks Hegseth impeachment effort\n1:53 Update on midterm races yet to be called\n2:57 GOP picks Jim Jordan as House minority leader\n4:12 AOC discusses possibility of further impeachments\n6:06 Former Hegseth adviser says he should never have been defense secretary\n8:43 Panel weighs next steps on impeachment\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #Impeachment #Trump",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=JacdOMmRsXE",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/JacdOMmRsXE",
-      "articleUrl": "https://www.youtube.com/watch?v=JacdOMmRsXE",
+      "videoUrl": "https://www.youtube.com/watch?v=3dzuwsy60Js",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/3dzuwsy60Js",
+      "articleUrl": "https://www.youtube.com/watch?v=3dzuwsy60Js",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "President Trump voiced his midterm election denial out loud  this evening in his impromptu press conference, and the outgoing Republican-controlled Congress moves closer to an impeachment vote on Defense Secretary, Pete Hegseth.\n\nPlus, Jensen Huang, the chief executive of Nvidia admits to an extramarital affair but doesn't mention the person he was involved with is now alleged to be a Chinese spy.",
-      "readingTextZh": "特朗普总统今晚在即兴的新闻发布会上大声否认中期选举，即将卸任的共和党控制的国会更接近于对国防部长皮特·赫格塞斯（ Pete Hegseth ）进行弹劾投票。\n\n此外，英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）承认有婚外情，但没有提到与他有牵连的人现在被指控是中国间谍。",
+      "readingText": "House Republicans narrowly blocked an effort to impeach Defense Secretary Pete Hegseth, voting 211-204 to defeat the measure led by Rep.\n\nThomas Massie.\n\nWhile President Donald Trump and GOP leaders rallied enough votes to defeat the push, Democrats warn the fight isn’t over and are promising renewed investigations once they take control of the House.\n\nRep.\n\nAlexandria Ocasio-Cortez and other key lawmakers discuss why the failed vote won’t derail future impeachment efforts, suggesting the resolution could return before the new Congress convenes in January.",
+      "readingTextZh": "众议院共和党人以微弱优势阻止了弹劾国防部长皮特·赫格塞斯（ Pete Hegseth ）的努力，以211票对204票否决了众议员领导的措施。\n\n该句中文翻译暂不可用。\n\n虽然唐纳德·特朗普总统和共和党领导人获得了足够的选票来击败推动，但民主党人警告说，这场斗争还没有结束，一旦他们控制了众议院，他们就承诺重新进行调查。\n\n共和国\n\n亚历山大·奥卡西奥·科尔特斯（ Alexandria Ocasio-Cortez ）和其他主要立法者讨论了为什么失败的投票不会破坏未来的弹劾努力，并暗示该决议可能会在1月新一届国会召开之前恢复。",
       "sentences": [
         {
-          "en": "President Trump voiced his midterm election denial out loud  this evening in his impromptu press conference, and the outgoing Republican-controlled Congress moves closer to an impeachment vote on Defense Secretary, Pete Hegseth.",
-          "zh": "特朗普总统今晚在即兴的新闻发布会上大声否认中期选举，即将卸任的共和党控制的国会更接近于对国防部长皮特·赫格塞斯（ Pete Hegseth ）进行弹劾投票。",
+          "en": "House Republicans narrowly blocked an effort to impeach Defense Secretary Pete Hegseth, voting 211-204 to defeat the measure led by Rep.",
+          "zh": "众议院共和党人以微弱优势阻止了弹劾国防部长皮特·赫格塞斯（ Pete Hegseth ）的努力，以211票对204票否决了众议员领导的措施。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Plus, Jensen Huang, the chief executive of Nvidia admits to an extramarital affair but doesn't mention the person he was involved with is now alleged to be a Chinese spy.",
-          "zh": "此外，英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）承认有婚外情，但没有提到与他有牵连的人现在被指控是中国间谍。",
+          "en": "Thomas Massie.",
+          "zh": "该句中文翻译暂不可用。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "While President Donald Trump and GOP leaders rallied enough votes to defeat the push, Democrats warn the fight isn’t over and are promising renewed investigations once they take control of the House.",
+          "zh": "虽然唐纳德·特朗普总统和共和党领导人获得了足够的选票来击败推动，但民主党人警告说，这场斗争还没有结束，一旦他们控制了众议院，他们就承诺重新进行调查。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Rep.",
+          "zh": "共和国",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Alexandria Ocasio-Cortez and other key lawmakers discuss why the failed vote won’t derail future impeachment efforts, suggesting the resolution could return before the new Congress convenes in January.",
+          "zh": "亚历山大·奥卡西奥·科尔特斯（ Alexandria Ocasio-Cortez ）和其他主要立法者讨论了为什么失败的投票不会破坏未来的弹劾努力，并暗示该决议可能会在1月新一届国会召开之前恢复。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
+        {
+          "word": "options",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "‘All options on the table’: AOC on Trump impeachment",
+          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "table",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "‘All options on the table’: AOC on Trump impeachment",
+          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
         {
           "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
-          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
+          "ex": "‘All options on the table’: AOC on Trump impeachment",
+          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Goes",
+          "word": "impeachment",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
-          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Acceptance",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
-          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Denial",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump Goes From Acceptance to Denial With Unfounded Rigged Election Claims",
-          "exZh": "特朗普通过毫无根据的操纵选举主张从接受变为否认",
+          "ex": "‘All options on the table’: AOC on Trump impeachment",
+          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -241,67 +463,244 @@
       ]
     },
     {
-      "id": "video-G3oMmVhmB2A",
-      "title": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
-      "titleZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
+      "id": "video-ku79Uus7yOk",
+      "title": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
+      "titleZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
       "level": "B2",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "minutes": 5,
-      "summary": "Gov.-elect Keisha Lance Bottoms tells CNN's Jake Tapper what being elected Governor in a state where her ancestors were once enslaved means to her.",
+      "summary": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide. In shocking testimony last week, Bhatt said he found her unconscious and when he couldn’t revive her, he panicked and dismembered and disposed of her body. He denied killing his wife, Mamta Kafle Bhatt, whose body has never been found.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=G3oMmVhmB2A",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/G3oMmVhmB2A",
-      "articleUrl": "https://www.youtube.com/watch?v=G3oMmVhmB2A",
+      "videoUrl": "https://www.youtube.com/watch?v=ku79Uus7yOk",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/ku79Uus7yOk",
+      "articleUrl": "https://www.youtube.com/watch?v=ku79Uus7yOk",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Gov.-elect Keisha Lance Bottoms tells CNN's Jake Tapper what being elected Governor in a state where her ancestors were once enslaved means to her.",
-      "readingTextZh": "当选州长Keisha Lance Bottoms告诉CNN的Jake Tapper ，在一个她的祖先曾经被奴役的州当选州长对她来说意味着什么。",
+      "readingText": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide.\n\nIn shocking testimony last week, Bhatt said he found her unconscious and when he couldn’t revive her, he panicked and dismembered and disposed of her body.\n\nHe denied killing his wife, Mamta Kafle Bhatt, whose body has never been found.",
+      "readingTextZh": "陪审团周二裁定弗吉尼亚州男子纳雷什·巴特（ Naresh Bhatt ）犯有一级谋杀罪，驳回了他关于妻子自杀的立场。\n\n在上周令人震惊的证词中，巴特说他发现她昏迷不醒，当他无法让她苏醒时，他惊慌失措，肢解并处置了她的尸体。\n\n他否认杀害了他的妻子Mamta Kafle Bhatt ，他的尸体从未被发现。",
       "sentences": [
         {
-          "en": "Gov.-elect Keisha Lance Bottoms tells CNN's Jake Tapper what being elected Governor in a state where her ancestors were once enslaved means to her.",
-          "zh": "当选州长Keisha Lance Bottoms告诉CNN的Jake Tapper ，在一个她的祖先曾经被奴役的州当选州长对她来说意味着什么。",
+          "en": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide.",
+          "zh": "陪审团周二裁定弗吉尼亚州男子纳雷什·巴特（ Naresh Bhatt ）犯有一级谋杀罪，驳回了他关于妻子自杀的立场。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In shocking testimony last week, Bhatt said he found her unconscious and when he couldn’t revive her, he panicked and dismembered and disposed of her body.",
+          "zh": "在上周令人震惊的证词中，巴特说他发现她昏迷不醒，当他无法让她苏醒时，他惊慌失措，肢解并处置了她的尸体。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "He denied killing his wife, Mamta Kafle Bhatt, whose body has never been found.",
+          "zh": "他否认杀害了他的妻子Mamta Kafle Bhatt ，他的尸体从未被发现。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "enslaved",
+          "word": "admitted",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
-          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
+          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
+          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "ancestors",
+          "word": "dismembering",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
-          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
+          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
+          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Georgia",
+          "word": "wife",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
-          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
+          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
+          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "governor",
+          "word": "remains",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "From enslaved ancestors to Georgia’s governor: Gov.-elect Lance Bottom’s historic win",
-          "exZh": "从被奴役的祖先到佐治亚州州长：州长当选人Lance Bottom的历史性胜利",
+          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
+          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-zjFfXAbpOb0",
+      "title": "Shopping sucks. Blame your feed.",
+      "titleZh": "购物很糟糕。怪你的饲料。",
+      "level": "A2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-11",
+      "minutes": 5,
+      "summary": "Shopping used to be fun. Now it's all microtrends and algorithm-approved outfits. Audie Cornish, Ari Shapiro, and Amy Odell investigate.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=zjFfXAbpOb0",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/zjFfXAbpOb0",
+      "articleUrl": "https://www.youtube.com/watch?v=zjFfXAbpOb0",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Shopping used to be fun.\n\nNow it's all microtrends and algorithm-approved outfits.\n\nAudie Cornish, Ari Shapiro, and Amy Odell investigate.",
+      "readingTextZh": "购物曾经很有趣。\n\n现在，所有这些都是微观趋势和算法认可的服装。\n\nAudie Cornish、Ari Shapiro和Amy Odell进行了调查。",
+      "sentences": [
+        {
+          "en": "Shopping used to be fun.",
+          "zh": "购物曾经很有趣。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Now it's all microtrends and algorithm-approved outfits.",
+          "zh": "现在，所有这些都是微观趋势和算法认可的服装。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Audie Cornish, Ari Shapiro, and Amy Odell investigate.",
+          "zh": "Audie Cornish、Ari Shapiro和Amy Odell进行了调查。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Shopping",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Shopping sucks. Blame your feed.",
+          "exZh": "购物很糟糕。怪你的饲料。",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "sucks",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Shopping sucks. Blame your feed.",
+          "exZh": "购物很糟糕。怪你的饲料。",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Blame",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Shopping sucks. Blame your feed.",
+          "exZh": "购物很糟糕。怪你的饲料。",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "feed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Shopping sucks. Blame your feed.",
+          "exZh": "购物很糟糕。怪你的饲料。",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-Vfw4Z_PDA_U",
+      "title": "California voters reject billionaire tax",
+      "titleZh": "加州选民拒绝亿万富翁税",
+      "level": "A2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-11",
+      "minutes": 5,
+      "summary": "Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with net worth over $1 billion. CNN’s Elex Michaelson reports.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=Vfw4Z_PDA_U",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Vfw4Z_PDA_U",
+      "articleUrl": "https://www.youtube.com/watch?v=Vfw4Z_PDA_U",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with net worth over $1 billion.\n\nCNN’s Elex Michaelson reports.",
+      "readingTextZh": "加利福尼亚州的选民拒绝了一项对净资产超过10亿美元的居民征收一次性5 ％财富税的措施。\n\nCNN的Elex Michaelson报道。",
+      "sentences": [
+        {
+          "en": "Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with net worth over $1 billion.",
+          "zh": "加利福尼亚州的选民拒绝了一项对净资产超过10亿美元的居民征收一次性5 ％财富税的措施。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN’s Elex Michaelson reports.",
+          "zh": "CNN的Elex Michaelson报道。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "California",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "California voters reject billionaire tax",
+          "exZh": "加州选民拒绝亿万富翁税",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "voters",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "California voters reject billionaire tax",
+          "exZh": "加州选民拒绝亿万富翁税",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "reject",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "California voters reject billionaire tax",
+          "exZh": "加州选民拒绝亿万富翁税",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "billionaire",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "California voters reject billionaire tax",
+          "exZh": "加州选民拒绝亿万富翁税",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
