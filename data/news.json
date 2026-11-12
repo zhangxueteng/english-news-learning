@@ -1,357 +1,79 @@
 {
-  "updated_at": "2026-11-11T01:55:51.945155+00:00",
+  "updated_at": "2026-11-12T02:57:05.011226+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-5lPAcrY3-Sc",
-      "title": "Where is America's foreign policy heading next? ​| The Global Story",
-      "titleZh": "美国的外交政策下一步将走向何方？ |全球故事",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-10",
-      "minutes": 5,
-      "summary": "A week on from the Democrats’ victory in the US midterm elections, what might these results mean for the rest of the world? \n\nWhat will Trump’s foreign policy look like now he has lost control of congress? \n\nWe take a whistle stop tour of Iran, Israel, Russia and China to look at the reactions to the results and the possible consequences. Will this prompt a shift in relations between the US and its allies?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n00:00 Introduction\n00:41 How the world reacted to the Democrats’ election victory\n02:34 What Trump’s election defeat means for the Iran war\n06:39 Can Democrats block funding for the Iran war?\n08:07 Could Pete Hegseth face impeachment?\n10:56 Will the election change US support for Israel?\n15:08 Is the US-UKraine relationship with Israel changing permanently?\n15:47 What Putin makes of Trump’s weakened position\n18:02 What the results mean for Europe’s far right\n20:18 Is China benefiting from Trump’s foreign policy?\n22:12 Will Trump turn his attention to new foreign policy battles?\n23:41 Could Cuba become Trump’s next target?\n\n#DonaldTrump #BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=5lPAcrY3-Sc",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/5lPAcrY3-Sc",
-      "articleUrl": "https://www.youtube.com/watch?v=5lPAcrY3-Sc",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "A week on from the Democrats’ victory in the US midterm elections, what might these results mean for the rest of the world?\n\nWhat will Trump’s foreign policy look like now he has lost control of congress?\n\nWe take a whistle stop tour of Iran, Israel, Russia and China to look at the reactions to the results and the possible consequences.\n\nWill this prompt a shift in relations between the US and its allies?\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "民主党在美国中期选举中获胜一周后，这些结果对世界其他地区意味着什么？\n\n现在他已经失去了对国会的控制，特朗普的外交政策会是什么样子？\n\n我们在伊朗、以色列、俄罗斯和中国巡回演出，看看对结果的反应和可能的后果。\n\n这会促使美国与其盟国之间的关系发生转变吗？\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "A week on from the Democrats’ victory in the US midterm elections, what might these results mean for the rest of the world?",
-          "zh": "民主党在美国中期选举中获胜一周后，这些结果对世界其他地区意味着什么？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "What will Trump’s foreign policy look like now he has lost control of congress?",
-          "zh": "现在他已经失去了对国会的控制，特朗普的外交政策会是什么样子？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "We take a whistle stop tour of Iran, Israel, Russia and China to look at the reactions to the results and the possible consequences.",
-          "zh": "我们在伊朗、以色列、俄罗斯和中国巡回演出，看看对结果的反应和可能的后果。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Will this prompt a shift in relations between the US and its allies?",
-          "zh": "这会促使美国与其盟国之间的关系发生转变吗？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "America's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
-          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "foreign",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
-          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "policy",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
-          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "heading",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Where is America's foreign policy heading next? ​| The Global Story",
-          "exZh": "美国的外交政策下一步将走向何方？ |全球故事",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-t8BaL_YUX-Y",
-      "title": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
-      "titleZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-10",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=t8BaL_YUX-Y",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/t8BaL_YUX-Y",
-      "articleUrl": "https://www.youtube.com/watch?v=t8BaL_YUX-Y",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
-      "readingTextZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
-      "sentences": [
-        {
-          "en": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
-          "zh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "bike",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
-          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "battery",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
-          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "explodes",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
-          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "massive",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "E -bike battery explodes into massive fireball inside Oregon home. #BBCNews",
-          "exZh": "电动自行车电池在俄勒冈州的房源内爆炸成巨大的火球。# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-qlLI15D95d4",
-      "title": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
-      "titleZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
-      "level": "B2",
-      "category": "BUSINESS",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-10",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=qlLI15D95d4",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/qlLI15D95d4",
-      "articleUrl": "https://www.youtube.com/watch?v=qlLI15D95d4",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
-      "readingTextZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
-      "sentences": [
-        {
-          "en": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
-          "zh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Stockpiling",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
-          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "surge",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
-          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "government's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
-          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Ready'",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Stockpiling surge after UK government's 'Be Ready' campaign. #Stockpiling #UK #BBCNews",
-          "exZh": "在英国政府发起“做好准备”运动后，库存激增。#囤积#英国# BBCNews",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-Nd9-GExUVmc",
-      "title": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
-      "titleZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
+      "id": "video-qmJV-oyqsgY",
+      "title": "Scott Colom’s identical twin on his Senate edge: ‘We always kind of stood out’",
+      "titleZh": "斯科特·科洛姆的同卵双胞胎兄弟在参议院选举中处于领先地位：“我们一直都比较出众”",
       "level": "C1",
       "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-10",
+      "source": "CNN · Official Video",
+      "date": "2026-11-12",
       "minutes": 5,
-      "summary": "A senior US army officer has been arrested in the UK on suspicion of spying for Russia.\n\nThe 41-year-old man was detained on Tuesday. Counter-terrorism police said the soldier had been arrested under national security laws relating to obtaining or disclosing protected information and assisting a foreign intelligence service.\n\nThe BBC understands the soldier is based at Imjin Barracks in Gloucestershire, which is headquarters of Nato's Allied Rapid Reaction Corps, a strategic operational base for the alliance.\n\nThe director of the FBI director Kash Patel said in a statement: \"This important arrest involves allegations of espionage, which is of the utmost concern to the United States and our allies.\"\n\nHe added: \"While this investigation is continuing, I want to send a clear message – this FBI has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.\"\n\nDeputy Assistant Commissioner Vicki Evans, from Counter Terrorism Policing London, described the arrest as \"significant\".\n\"The allegations are serious and our investigation is very much ongoing,\" she said.\n\nThe unnamed soldier is currently in custody at a London police station where he can be held without charge for up to 14 days. \n\nBrig Gen Sean Stinchon, commanding general of US Army Counterintelligence Command, said: \"The alleged conduct of a senior soldier, entrusted with sensitive information, is a sobering reminder that insider threats are real and persistent.\n\nFiona Bruce presents BBC News at Ten reporting by Daniel Sandford.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "Senator-elect Scott Colom owes part of his political edge to growing up as an identical twin, according to his twin brother Andrew. Among Senate Democrats, the Mississippi senator will be the fourth with an identical twin. \n\nAndrew Colom tells CNN’s Erin Burnett: \"It kinda helps Scott know how to stand out because he was used to getting a lot of attention for being a twin.\"",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Nd9-GExUVmc",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Nd9-GExUVmc",
-      "articleUrl": "https://www.youtube.com/watch?v=Nd9-GExUVmc",
+      "videoUrl": "https://www.youtube.com/watch?v=qmJV-oyqsgY",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/qmJV-oyqsgY",
+      "articleUrl": "https://www.youtube.com/watch?v=qmJV-oyqsgY",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "A senior US army officer has been arrested in the UK on suspicion of spying for Russia.\n\nThe 41-year-old man was detained on Tuesday.\n\nCounter-terrorism police said the soldier had been arrested under national security laws relating to obtaining or disclosing protected information and assisting a foreign intelligence service.\n\nThe BBC understands the soldier is based at Imjin Barracks in Gloucestershire, which is headquarters of Nato's Allied Rapid Reaction Corps, a strategic operational base for the alliance.\n\nThe director of the FBI director Kash Patel said in a statement: \"This important arrest involves allegations of espionage, which is of the utmost concern to the United States and our allies.\"\n\nHe added: \"While this investigation is continuing, I want to send a clear message – this FBI has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.\"\n\nDeputy Assistant Commissioner Vicki Evans, from Counter Terrorism Policing London, described the arrest as \"significant\".\n\"The allegations are serious and our investigation is very much ongoing,\" she said.\n\nThe unnamed soldier is currently in custody at a London police station where he can be held without charge for up to 14 days.\n\nBrig Gen Sean Stinchon, commanding general of US Army Counterintelligence Command, said: \"The alleged conduct of a senior soldier, entrusted with sensitive information, is a sobering reminder that insider threats are real and persistent.\n\nFiona Bruce presents BBC News at Ten reporting by Daniel Sandford.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "一名美国高级军官因涉嫌为俄罗斯从事间谍活动而在英国被捕。\n\n这名41岁的男子于周二被拘留。\n\n反恐警察表示，这名士兵是根据与获取或披露受保护信息以及协助外国情报部门有关的国家安全法被捕的。\n\n据英国广播公司了解，这名士兵驻扎在格洛斯特郡的Imjin兵营，该兵营是北约盟军快速反应部队的总部，这是该联盟的战略作战基地。\n\n联邦调查局局长卡什·帕特尔（ Kash Patel ）在一份声明中说： “这次重要的逮捕涉及间谍指控，这是美国和我们的盟友最关心的问题。”\n\n他补充说： “在调查继续进行的同时，我想发出一个明确的信息–这个联邦调查局不容忍任何违反对美国宣誓的人，他们的行为危及我们和我们的合作伙伴的国家安全。”\n\n副助理\n\n这名未透露姓名的士兵目前被关押在伦敦警察局，在那里他可以免费被关押长达14天。\n\n美国陆军反间谍司令部司令肖恩·斯汀雄准将（ Brig Gen Sean Stinchon ）说： “据称一名受托提供敏感信息的高级士兵的行为令人清醒地提醒我们，内部威胁是真实而持久的。\n\n菲奥娜·布鲁斯（ Fiona Bruce ）介绍了丹尼尔·桑福德（ Daniel Sandford ）\n\n有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+      "readingText": "Senator-elect Scott Colom owes part of his political edge to growing up as an identical twin, according to his twin brother Andrew.\n\nAmong Senate Democrats, the Mississippi senator will be the fourth with an identical twin.\n\nAndrew Colom tells CNN’s Erin Burnett: \"It kinda helps Scott know how to stand out because he was used to getting a lot of attention for being a twin.\"",
+      "readingTextZh": "据当选参议员斯科特·科洛姆的双胞胎兄弟安德鲁透露，斯科特在政治上之所以能占得先机，部分原因在于他从小就有一个同卵双胞胎兄弟。\n\n在参议院民主党人中，这位密西西比州参议员将是第四位有同卵双胞胎的参议员。\n\nAndrew Colom对CNN的Erin Burnett说：“这在某种程度上帮助Scott了解如何脱颖而出，因为他习惯了因是双胞胎而备受关注。”",
       "sentences": [
         {
-          "en": "A senior US army officer has been arrested in the UK on suspicion of spying for Russia.",
-          "zh": "一名美国高级军官因涉嫌为俄罗斯从事间谍活动而在英国被捕。",
+          "en": "Senator-elect Scott Colom owes part of his political edge to growing up as an identical twin, according to his twin brother Andrew.",
+          "zh": "据当选参议员斯科特·科洛姆的双胞胎兄弟安德鲁透露，斯科特在政治上之所以能占得先机，部分原因在于他从小就有一个同卵双胞胎兄弟。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The 41-year-old man was detained on Tuesday.",
-          "zh": "这名41岁的男子于周二被拘留。",
+          "en": "Among Senate Democrats, the Mississippi senator will be the fourth with an identical twin.",
+          "zh": "在参议院民主党人中，这位密西西比州参议员将是第四位有同卵双胞胎的参议员。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Counter-terrorism police said the soldier had been arrested under national security laws relating to obtaining or disclosing protected information and assisting a foreign intelligence service.",
-          "zh": "反恐警察表示，这名士兵是根据与获取或披露受保护信息以及协助外国情报部门有关的国家安全法被捕的。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The BBC understands the soldier is based at Imjin Barracks in Gloucestershire, which is headquarters of Nato's Allied Rapid Reaction Corps, a strategic operational base for the alliance.",
-          "zh": "据英国广播公司了解，这名士兵驻扎在格洛斯特郡的Imjin兵营，该兵营是北约盟军快速反应部队的总部，这是该联盟的战略作战基地。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The director of the FBI director Kash Patel said in a statement: \"This important arrest involves allegations of espionage, which is of the utmost concern to the United States and our allies.\"\n\nHe added: \"While this investigation is continuing, I want to send a clear message – this FBI has no tolerance for anyone who breaks their oath to the United States and whose actions endanger our national security and that of our partners.\"\n\nDeputy Assistant Commissioner Vicki Evans, from Counter Terrorism Policing London, described the arrest as \"significant\".\n\"The allegations are serious and our investigation is very much ongoing,\" she said.",
-          "zh": "联邦调查局局长卡什·帕特尔（ Kash Patel ）在一份声明中说： “这次重要的逮捕涉及间谍指控，这是美国和我们的盟友最关心的问题。”\n\n他补充说： “在调查继续进行的同时，我想发出一个明确的信息–这个联邦调查局不容忍任何违反对美国宣誓的人，他们的行为危及我们和我们的合作伙伴的国家安全。”\n\n副助理",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The unnamed soldier is currently in custody at a London police station where he can be held without charge for up to 14 days.",
-          "zh": "这名未透露姓名的士兵目前被关押在伦敦警察局，在那里他可以免费被关押长达14天。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Brig Gen Sean Stinchon, commanding general of US Army Counterintelligence Command, said: \"The alleged conduct of a senior soldier, entrusted with sensitive information, is a sobering reminder that insider threats are real and persistent.",
-          "zh": "美国陆军反间谍司令部司令肖恩·斯汀雄准将（ Brig Gen Sean Stinchon ）说： “据称一名受托提供敏感信息的高级士兵的行为令人清醒地提醒我们，内部威胁是真实而持久的。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Fiona Bruce presents BBC News at Ten reporting by Daniel Sandford.",
-          "zh": "菲奥娜·布鲁斯（ Fiona Bruce ）介绍了丹尼尔·桑福德（ Daniel Sandford ）",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "有关最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
+          "en": "Andrew Colom tells CNN’s Erin Burnett: \"It kinda helps Scott know how to stand out because he was used to getting a lot of attention for being a twin.\"",
+          "zh": "Andrew Colom对CNN的Erin Burnett说：“这在某种程度上帮助Scott了解如何脱颖而出，因为他习惯了因是双胞胎而备受关注。”",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Senior",
+          "word": "Scott",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
-          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
+          "ex": "Scott Colom’s identical twin on his Senate edge: ‘We always kind of stood out’",
+          "exZh": "斯科特·科洛姆的同卵双胞胎兄弟在参议院选举中处于领先地位：“我们一直都比较出众”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "army",
+          "word": "Colom",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
-          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
+          "ex": "Scott Colom’s identical twin on his Senate edge: ‘We always kind of stood out’",
+          "exZh": "斯科特·科洛姆的同卵双胞胎兄弟在参议院选举中处于领先地位：“我们一直都比较出众”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "officer",
+          "word": "identical",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
-          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
+          "ex": "Scott Colom’s identical twin on his Senate edge: ‘We always kind of stood out’",
+          "exZh": "斯科特·科洛姆的同卵双胞胎兄弟在参议院选举中处于领先地位：“我们一直都比较出众”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "accused",
+          "word": "twin",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Senior US army officer accused of spying for Russia arrested at Nato base in UK | BBC News",
-          "exZh": "被控为俄罗斯从事间谍活动的美国高级军官在英国北约基地被捕| BBC新闻",
+          "ex": "Scott Colom’s identical twin on his Senate edge: ‘We always kind of stood out’",
+          "exZh": "斯科特·科洛姆的同卵双胞胎兄弟在参议院选举中处于领先地位：“我们一直都比较出众”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -367,87 +89,67 @@
       ]
     },
     {
-      "id": "video-3dzuwsy60Js",
-      "title": "‘All options on the table’: AOC on Trump impeachment",
-      "titleZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
+      "id": "video-e4ecYFw211k",
+      "title": "Mamdani holds news conference on deadly Brooklyn building collapse",
+      "titleZh": "Mamdani就布鲁克林大楼坍塌致死事故召开新闻发布会",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "minutes": 5,
-      "summary": "House Republicans narrowly blocked an effort to impeach Defense Secretary Pete Hegseth, voting 211-204 to defeat the measure led by Rep. Thomas Massie. While President Donald Trump and GOP leaders rallied enough votes to defeat the push, Democrats warn the fight isn’t over and are promising renewed investigations once they take control of the House.\n\nRep. Alexandria Ocasio-Cortez and other key lawmakers discuss why the failed vote won’t derail future impeachment efforts, suggesting the resolution could return before the new Congress convenes in January.\n\n0:00 House sinks Hegseth impeachment effort\n1:53 Update on midterm races yet to be called\n2:57 GOP picks Jim Jordan as House minority leader\n4:12 AOC discusses possibility of further impeachments\n6:06 Former Hegseth adviser says he should never have been defense secretary\n8:43 Panel weighs next steps on impeachment\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #Impeachment #Trump",
+      "summary": "At least two people have died and more than 10 were injured after a three-story building in New York City collapsed, Mayor Zohran Mamdani said at a news conference.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=3dzuwsy60Js",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/3dzuwsy60Js",
-      "articleUrl": "https://www.youtube.com/watch?v=3dzuwsy60Js",
+      "videoUrl": "https://www.youtube.com/watch?v=e4ecYFw211k",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/e4ecYFw211k",
+      "articleUrl": "https://www.youtube.com/watch?v=e4ecYFw211k",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "House Republicans narrowly blocked an effort to impeach Defense Secretary Pete Hegseth, voting 211-204 to defeat the measure led by Rep.\n\nThomas Massie.\n\nWhile President Donald Trump and GOP leaders rallied enough votes to defeat the push, Democrats warn the fight isn’t over and are promising renewed investigations once they take control of the House.\n\nRep.\n\nAlexandria Ocasio-Cortez and other key lawmakers discuss why the failed vote won’t derail future impeachment efforts, suggesting the resolution could return before the new Congress convenes in January.",
-      "readingTextZh": "众议院共和党人以微弱优势阻止了弹劾国防部长皮特·赫格塞斯（ Pete Hegseth ）的努力，以211票对204票否决了众议员领导的措施。\n\n该句中文翻译暂不可用。\n\n虽然唐纳德·特朗普总统和共和党领导人获得了足够的选票来击败推动，但民主党人警告说，这场斗争还没有结束，一旦他们控制了众议院，他们就承诺重新进行调查。\n\n共和国\n\n亚历山大·奥卡西奥·科尔特斯（ Alexandria Ocasio-Cortez ）和其他主要立法者讨论了为什么失败的投票不会破坏未来的弹劾努力，并暗示该决议可能会在1月新一届国会召开之前恢复。",
+      "readingText": "At least two people have died and more than 10 were injured after a three-story building in New York City collapsed, Mayor Zohran Mamdani said at a news conference.",
+      "readingTextZh": "市议员佐兰·马姆达尼（Zohran Mamdani）在新闻发布会上表示，纽约市一栋三层楼的建筑倒塌，造成至少两人死亡，10多人受伤。",
       "sentences": [
         {
-          "en": "House Republicans narrowly blocked an effort to impeach Defense Secretary Pete Hegseth, voting 211-204 to defeat the measure led by Rep.",
-          "zh": "众议院共和党人以微弱优势阻止了弹劾国防部长皮特·赫格塞斯（ Pete Hegseth ）的努力，以211票对204票否决了众议员领导的措施。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Thomas Massie.",
-          "zh": "该句中文翻译暂不可用。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "While President Donald Trump and GOP leaders rallied enough votes to defeat the push, Democrats warn the fight isn’t over and are promising renewed investigations once they take control of the House.",
-          "zh": "虽然唐纳德·特朗普总统和共和党领导人获得了足够的选票来击败推动，但民主党人警告说，这场斗争还没有结束，一旦他们控制了众议院，他们就承诺重新进行调查。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Rep.",
-          "zh": "共和国",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Alexandria Ocasio-Cortez and other key lawmakers discuss why the failed vote won’t derail future impeachment efforts, suggesting the resolution could return before the new Congress convenes in January.",
-          "zh": "亚历山大·奥卡西奥·科尔特斯（ Alexandria Ocasio-Cortez ）和其他主要立法者讨论了为什么失败的投票不会破坏未来的弹劾努力，并暗示该决议可能会在1月新一届国会召开之前恢复。",
+          "en": "At least two people have died and more than 10 were injured after a three-story building in New York City collapsed, Mayor Zohran Mamdani said at a news conference.",
+          "zh": "市议员佐兰·马姆达尼（Zohran Mamdani）在新闻发布会上表示，纽约市一栋三层楼的建筑倒塌，造成至少两人死亡，10多人受伤。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "options",
+          "word": "Mamdani",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "‘All options on the table’: AOC on Trump impeachment",
-          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
+          "ex": "Mamdani holds news conference on deadly Brooklyn building collapse",
+          "exZh": "Mamdani就布鲁克林大楼坍塌致死事故召开新闻发布会",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "table",
+          "word": "holds",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "‘All options on the table’: AOC on Trump impeachment",
-          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
+          "ex": "Mamdani holds news conference on deadly Brooklyn building collapse",
+          "exZh": "Mamdani就布鲁克林大楼坍塌致死事故召开新闻发布会",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Trump",
+          "word": "news",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "‘All options on the table’: AOC on Trump impeachment",
-          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
+          "ex": "Mamdani holds news conference on deadly Brooklyn building collapse",
+          "exZh": "Mamdani就布鲁克林大楼坍塌致死事故召开新闻发布会",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "impeachment",
+          "word": "conference",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "‘All options on the table’: AOC on Trump impeachment",
-          "exZh": "“所有选项都摆在桌面上” ： AOC关于特朗普弹劾",
+          "ex": "Mamdani holds news conference on deadly Brooklyn building collapse",
+          "exZh": "Mamdani就布鲁克林大楼坍塌致死事故召开新闻发布会",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -463,77 +165,67 @@
       ]
     },
     {
-      "id": "video-ku79Uus7yOk",
-      "title": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
-      "titleZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
+      "id": "video-wF9K-Ftj-YI",
+      "title": "'A moment of hypocrisy': Hegseth and party scolded at Tomb of the Unknown Soldier",
+      "titleZh": "“虚伪的一刻”：黑格塞斯和一行人在无名烈士墓前受到斥责",
       "level": "B2",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "minutes": 5,
-      "summary": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide. In shocking testimony last week, Bhatt said he found her unconscious and when he couldn’t revive her, he panicked and dismembered and disposed of her body. He denied killing his wife, Mamta Kafle Bhatt, whose body has never been found.",
+      "summary": "CNN’s Jake Tapper breaks down the incident at the Tomb of the Unknown Soldier on Wednesday when Secretary of Defense Pete Hegseth and a group of his advisers were reprimanded by a member of the Old Guard.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=ku79Uus7yOk",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/ku79Uus7yOk",
-      "articleUrl": "https://www.youtube.com/watch?v=ku79Uus7yOk",
+      "videoUrl": "https://www.youtube.com/watch?v=wF9K-Ftj-YI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/wF9K-Ftj-YI",
+      "articleUrl": "https://www.youtube.com/watch?v=wF9K-Ftj-YI",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide.\n\nIn shocking testimony last week, Bhatt said he found her unconscious and when he couldn’t revive her, he panicked and dismembered and disposed of her body.\n\nHe denied killing his wife, Mamta Kafle Bhatt, whose body has never been found.",
-      "readingTextZh": "陪审团周二裁定弗吉尼亚州男子纳雷什·巴特（ Naresh Bhatt ）犯有一级谋杀罪，驳回了他关于妻子自杀的立场。\n\n在上周令人震惊的证词中，巴特说他发现她昏迷不醒，当他无法让她苏醒时，他惊慌失措，肢解并处置了她的尸体。\n\n他否认杀害了他的妻子Mamta Kafle Bhatt ，他的尸体从未被发现。",
+      "readingText": "CNN’s Jake Tapper breaks down the incident at the Tomb of the Unknown Soldier on Wednesday when Secretary of Defense Pete Hegseth and a group of his advisers were reprimanded by a member of the Old Guard.",
+      "readingTextZh": "CNN的杰克·塔珀（Jake Tapper）详细介绍了周三在无名烈士墓发生的事件，当时国防部长皮特·赫格塞斯（Pete Hegseth）和一群顾问被一名老卫队成员训斥。",
       "sentences": [
         {
-          "en": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide.",
-          "zh": "陪审团周二裁定弗吉尼亚州男子纳雷什·巴特（ Naresh Bhatt ）犯有一级谋杀罪，驳回了他关于妻子自杀的立场。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In shocking testimony last week, Bhatt said he found her unconscious and when he couldn’t revive her, he panicked and dismembered and disposed of her body.",
-          "zh": "在上周令人震惊的证词中，巴特说他发现她昏迷不醒，当他无法让她苏醒时，他惊慌失措，肢解并处置了她的尸体。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "He denied killing his wife, Mamta Kafle Bhatt, whose body has never been found.",
-          "zh": "他否认杀害了他的妻子Mamta Kafle Bhatt ，他的尸体从未被发现。",
+          "en": "CNN’s Jake Tapper breaks down the incident at the Tomb of the Unknown Soldier on Wednesday when Secretary of Defense Pete Hegseth and a group of his advisers were reprimanded by a member of the Old Guard.",
+          "zh": "CNN的杰克·塔珀（Jake Tapper）详细介绍了周三在无名烈士墓发生的事件，当时国防部长皮特·赫格塞斯（Pete Hegseth）和一群顾问被一名老卫队成员训斥。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "admitted",
+          "word": "moment",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
-          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
+          "ex": "'A moment of hypocrisy': Hegseth and party scolded at Tomb of the Unknown Soldier",
+          "exZh": "“虚伪的一刻”：黑格塞斯和一行人在无名烈士墓前受到斥责",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "dismembering",
+          "word": "hypocrisy'",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
-          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
+          "ex": "'A moment of hypocrisy': Hegseth and party scolded at Tomb of the Unknown Soldier",
+          "exZh": "“虚伪的一刻”：黑格塞斯和一行人在无名烈士墓前受到斥责",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "wife",
+          "word": "Hegseth",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
-          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
+          "ex": "'A moment of hypocrisy': Hegseth and party scolded at Tomb of the Unknown Soldier",
+          "exZh": "“虚伪的一刻”：黑格塞斯和一行人在无名烈士墓前受到斥责",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "remains",
+          "word": "party",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Man who admitted to dismembering wife remains emotionless as guilty verdict is read",
-          "exZh": "承认肢解妻子的男子在宣读有罪判决时仍然没有感情",
+          "ex": "'A moment of hypocrisy': Hegseth and party scolded at Tomb of the Unknown Soldier",
+          "exZh": "“虚伪的一刻”：黑格塞斯和一行人在无名烈士墓前受到斥责",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -549,158 +241,92 @@
       ]
     },
     {
-      "id": "video-zjFfXAbpOb0",
-      "title": "Shopping sucks. Blame your feed.",
-      "titleZh": "购物很糟糕。怪你的饲料。",
-      "level": "A2",
+      "id": "video-8I-8v12M5bI",
+      "title": "Colom will be Mississippi’s first Black senator since Reconstruction",
+      "titleZh": "科洛姆将成为重建时期以来密西西比州的首位黑人参议员",
+      "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "minutes": 5,
-      "summary": "Shopping used to be fun. Now it's all microtrends and algorithm-approved outfits. Audie Cornish, Ari Shapiro, and Amy Odell investigate.",
+      "summary": "Democrat Scott Colom scored a major upset in Mississippi, narrowly defeating Republican incumbent Sen. Cindy Hyde-Smith. The victory makes Colom the first Democratic senator elected from Mississippi in 44 years and the first Black person elected statewide since Reconstruction. Scott’s identical twin brother, Andrew Colom, joins CNN for an exclusive interview, reacting to the emotional moment the race was called and explaining what his brother’s historic victory means for Mississippi and the country.\n\nAlso, the panel analyzes how Colom managed to flip a deep-red seat, from his focus on kitchen-table concerns like grocery and diesel costs to his outreach to Black and rural voters. They also examine what the victory could mean for Democratic strategy across the South and the balance of power in the Senate.\n\n0:00 Historic Senate upset called in Mississippi\n2:29 Andrew Colom reacts to twin brother’s victory\n5:10 Civil rights legacy and the road to victory for Colom\n7:33 Viral campaign ad and why it worked so well\n8:41 The shifting role of faith and values in politics\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #Election #Mississippi",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=zjFfXAbpOb0",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/zjFfXAbpOb0",
-      "articleUrl": "https://www.youtube.com/watch?v=zjFfXAbpOb0",
+      "videoUrl": "https://www.youtube.com/watch?v=8I-8v12M5bI",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/8I-8v12M5bI",
+      "articleUrl": "https://www.youtube.com/watch?v=8I-8v12M5bI",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Shopping used to be fun.\n\nNow it's all microtrends and algorithm-approved outfits.\n\nAudie Cornish, Ari Shapiro, and Amy Odell investigate.",
-      "readingTextZh": "购物曾经很有趣。\n\n现在，所有这些都是微观趋势和算法认可的服装。\n\nAudie Cornish、Ari Shapiro和Amy Odell进行了调查。",
+      "readingText": "Democrat Scott Colom scored a major upset in Mississippi, narrowly defeating Republican incumbent Sen.\n\nCindy Hyde-Smith.\n\nThe victory makes Colom the first Democratic senator elected from Mississippi in 44 years and the first Black person elected statewide since Reconstruction.\n\nScott’s identical twin brother, Andrew Colom, joins CNN for an exclusive interview, reacting to the emotional moment the race was called and explaining what his brother’s historic victory means for Mississippi and the country.\n\nAlso, the panel analyzes how Colom managed to flip a deep-red seat, from his focus on kitchen-table concerns like grocery and diesel costs to his outreach to Black and rural voters.\n\nThey also examine what the victory could mean for Democratic strategy across the South and the balance of power in the Senate.",
+      "readingTextZh": "民主党人斯科特·科洛姆在密西西比州大爆冷门，险胜共和党现任参议员\n\n辛迪·海德-史密斯。\n\n这场胜利使科洛姆成为44年来密西西比州首位当选的民主党参议员，也是自重建时期以来该州首位当选的黑人参议员。\n\n斯科特的同卵双胞胎兄弟安德鲁·科洛姆（Andrew Colom）接受了CNN的独家采访，对选举结果揭晓时的激动时刻发表了看法，并解释了其兄弟的历史性胜利对密西西比州和整个国家意味着什么。\n\n此外，该小组还分析了科洛姆是如何成功地将一个深红色席位转变为蓝色席位的，从他专注于食品杂货和柴油成本等餐桌话题，到他向黑人选民和农村选民进行宣传。\n\n他们还分析了这场胜利可能对民主党在整个南方地区的战略以及参议院的权力平衡有何影响。",
       "sentences": [
         {
-          "en": "Shopping used to be fun.",
-          "zh": "购物曾经很有趣。",
+          "en": "Democrat Scott Colom scored a major upset in Mississippi, narrowly defeating Republican incumbent Sen.",
+          "zh": "民主党人斯科特·科洛姆在密西西比州大爆冷门，险胜共和党现任参议员",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Now it's all microtrends and algorithm-approved outfits.",
-          "zh": "现在，所有这些都是微观趋势和算法认可的服装。",
+          "en": "Cindy Hyde-Smith.",
+          "zh": "辛迪·海德-史密斯。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Audie Cornish, Ari Shapiro, and Amy Odell investigate.",
-          "zh": "Audie Cornish、Ari Shapiro和Amy Odell进行了调查。",
+          "en": "The victory makes Colom the first Democratic senator elected from Mississippi in 44 years and the first Black person elected statewide since Reconstruction.",
+          "zh": "这场胜利使科洛姆成为44年来密西西比州首位当选的民主党参议员，也是自重建时期以来该州首位当选的黑人参议员。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Scott’s identical twin brother, Andrew Colom, joins CNN for an exclusive interview, reacting to the emotional moment the race was called and explaining what his brother’s historic victory means for Mississippi and the country.",
+          "zh": "斯科特的同卵双胞胎兄弟安德鲁·科洛姆（Andrew Colom）接受了CNN的独家采访，对选举结果揭晓时的激动时刻发表了看法，并解释了其兄弟的历史性胜利对密西西比州和整个国家意味着什么。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Also, the panel analyzes how Colom managed to flip a deep-red seat, from his focus on kitchen-table concerns like grocery and diesel costs to his outreach to Black and rural voters.",
+          "zh": "此外，该小组还分析了科洛姆是如何成功地将一个深红色席位转变为蓝色席位的，从他专注于食品杂货和柴油成本等餐桌话题，到他向黑人选民和农村选民进行宣传。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "They also examine what the victory could mean for Democratic strategy across the South and the balance of power in the Senate.",
+          "zh": "他们还分析了这场胜利可能对民主党在整个南方地区的战略以及参议院的权力平衡有何影响。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Shopping",
+          "word": "Colom",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Shopping sucks. Blame your feed.",
-          "exZh": "购物很糟糕。怪你的饲料。",
+          "ex": "Colom will be Mississippi’s first Black senator since Reconstruction",
+          "exZh": "科洛姆将成为重建时期以来密西西比州的首位黑人参议员",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "sucks",
+          "word": "Mississippi",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Shopping sucks. Blame your feed.",
-          "exZh": "购物很糟糕。怪你的饲料。",
+          "ex": "Colom will be Mississippi’s first Black senator since Reconstruction",
+          "exZh": "科洛姆将成为重建时期以来密西西比州的首位黑人参议员",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Blame",
+          "word": "first",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Shopping sucks. Blame your feed.",
-          "exZh": "购物很糟糕。怪你的饲料。",
+          "ex": "Colom will be Mississippi’s first Black senator since Reconstruction",
+          "exZh": "科洛姆将成为重建时期以来密西西比州的首位黑人参议员",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "feed",
+          "word": "Black",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Shopping sucks. Blame your feed.",
-          "exZh": "购物很糟糕。怪你的饲料。",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-Vfw4Z_PDA_U",
-      "title": "California voters reject billionaire tax",
-      "titleZh": "加州选民拒绝亿万富翁税",
-      "level": "A2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-11",
-      "minutes": 5,
-      "summary": "Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with net worth over $1 billion. CNN’s Elex Michaelson reports.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Vfw4Z_PDA_U",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Vfw4Z_PDA_U",
-      "articleUrl": "https://www.youtube.com/watch?v=Vfw4Z_PDA_U",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with net worth over $1 billion.\n\nCNN’s Elex Michaelson reports.",
-      "readingTextZh": "加利福尼亚州的选民拒绝了一项对净资产超过10亿美元的居民征收一次性5 ％财富税的措施。\n\nCNN的Elex Michaelson报道。",
-      "sentences": [
-        {
-          "en": "Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with net worth over $1 billion.",
-          "zh": "加利福尼亚州的选民拒绝了一项对净资产超过10亿美元的居民征收一次性5 ％财富税的措施。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN’s Elex Michaelson reports.",
-          "zh": "CNN的Elex Michaelson报道。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "California",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "California voters reject billionaire tax",
-          "exZh": "加州选民拒绝亿万富翁税",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "voters",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "California voters reject billionaire tax",
-          "exZh": "加州选民拒绝亿万富翁税",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "reject",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "California voters reject billionaire tax",
-          "exZh": "加州选民拒绝亿万富翁税",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "billionaire",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "California voters reject billionaire tax",
-          "exZh": "加州选民拒绝亿万富翁税",
+          "ex": "Colom will be Mississippi’s first Black senator since Reconstruction",
+          "exZh": "科洛姆将成为重建时期以来密西西比州的首位黑人参议员",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
