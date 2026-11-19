@@ -1,36 +1,117 @@
 {
-  "updated_at": "2026-11-18T03:42:59.916467+00:00",
+  "updated_at": "2026-11-19T03:23:47.336939+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-ynr5xBdaNkk",
-      "title": "Nvidia 'not intending' to bring back ex-CEO Jensen Huang | BBC News",
-      "titleZh": "英伟达“无意”让前首席执行官黄仁勋回归 | BBC新闻",
+      "id": "video-ID6lSrUtsXU",
+      "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
+      "titleZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "minutes": 5,
-      "summary": "Nvidia's quarterly sales doubled to top $100bn (£75bn) for the first time as the company insisted it is not reinstating ousted co-founder Jensen Huang.\n \nIn the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it was \"business as usual\" and told investors: \"We've got this.\"\n \nThe company's quarterly sales doubled from a year earlier, reaching $115.8bn (£86.9bn), with shares in the company jumping by almost 4% in after-hours trading.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=ynr5xBdaNkk",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/ynr5xBdaNkk",
-      "articleUrl": "https://www.youtube.com/watch?v=ynr5xBdaNkk",
+      "videoUrl": "https://www.youtube.com/watch?v=ID6lSrUtsXU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/ID6lSrUtsXU",
+      "articleUrl": "https://www.youtube.com/watch?v=ID6lSrUtsXU",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Nvidia's quarterly sales doubled to top $100bn (£75bn) for the first time as the company insisted it is not reinstating ousted co-founder Jensen Huang.\n\nIn the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it was \"business as usual\" and told investors: \"We've got this.\"\n \nThe company's quarterly sales doubled from a year earlier, reaching $115.8bn (£86.9bn), with shares in the company jumping by almost 4% in after-hours trading.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "英伟达的季度销售额翻了一番，首次突破1000亿美元（750亿英镑）大关，该公司坚持不让被罢免的联合创始人黄仁勋复职。\n\n在黄仁勋戏剧性离职后的公司首份业绩报告中，临时首席执行官科莱特·克雷斯（Colette Kress）表示，公司“一切照常”，并对投资者说：“我们能搞定。”\n \n该公司的季度销售额比上一年翻了一番，达到1158亿美元（869亿英镑），该公司股票在盘后交易中上涨近4%。\n\n如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+      "readingText": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
+      "readingTextZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
       "sentences": [
         {
-          "en": "Nvidia's quarterly sales doubled to top $100bn (£75bn) for the first time as the company insisted it is not reinstating ousted co-founder Jensen Huang.",
-          "zh": "英伟达的季度销售额翻了一番，首次突破1000亿美元（750亿英镑）大关，该公司坚持不让被罢免的联合创始人黄仁勋复职。",
+          "en": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
+          "zh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Democrats",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
+          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Alaska",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
+          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Trump",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
+          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "voters",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
+          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-Y0CCy_7MkcA",
+      "title": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
+      "titleZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-19",
+      "minutes": 5,
+      "summary": "Join BBC News live from London as we count down to the UK release of GTA 6. We’ll hear from streamers, fans and gaming experts, answer audience questions and look back at the story behind one of gaming’s most anticipated releases. \n\nAt midnight, we’ll bring you the first reaction as UK players begin exploring the game. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#GTA6 #Rockstar #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=Y0CCy_7MkcA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Y0CCy_7MkcA",
+      "articleUrl": "https://www.youtube.com/watch?v=Y0CCy_7MkcA",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Join BBC News live from London as we count down to the UK release of GTA 6.\n\nWe’ll hear from streamers, fans and gaming experts, answer audience questions and look back at the story behind one of gaming’s most anticipated releases.\n\nAt midnight, we’ll bring you the first reaction as UK players begin exploring the game.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "加入BBC新闻伦敦直播，与我们一起倒计时迎接《GTA 6》在英国的发布。\n\n我们将听取主播、粉丝和游戏专家的意见，回答观众的问题，并回顾这款最受期待的游戏大作背后的故事。\n\n午夜时分，我们将为您带来英国玩家开始探索游戏的最初反应。\n\n如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "Join BBC News live from London as we count down to the UK release of GTA 6.",
+          "zh": "加入BBC新闻伦敦直播，与我们一起倒计时迎接《GTA 6》在英国的发布。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "In the company's first results since Huang's dramatic exit, interim chief executive Colette Kress said it was \"business as usual\" and told investors: \"We've got this.\"\n \nThe company's quarterly sales doubled from a year earlier, reaching $115.8bn (£86.9bn), with shares in the company jumping by almost 4% in after-hours trading.",
-          "zh": "在黄仁勋戏剧性离职后的公司首份业绩报告中，临时首席执行官科莱特·克雷斯（Colette Kress）表示，公司“一切照常”，并对投资者说：“我们能搞定。”\n \n该公司的季度销售额比上一年翻了一番，达到1158亿美元（869亿英镑），该公司股票在盘后交易中上涨近4%。",
+          "en": "We’ll hear from streamers, fans and gaming experts, answer audience questions and look back at the story behind one of gaming’s most anticipated releases.",
+          "zh": "我们将听取主播、粉丝和游戏专家的意见，回答观众的问题，并回顾这款最受期待的游戏大作背后的故事。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "At midnight, we’ll bring you the first reaction as UK players begin exploring the game.",
+          "zh": "午夜时分，我们将为您带来英国玩家开始探索游戏的最初反应。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
@@ -41,140 +122,39 @@
       ],
       "vocab": [
         {
-          "word": "Nvidia",
+          "word": "launch",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia 'not intending' to bring back ex-CEO Jensen Huang | BBC News",
-          "exZh": "英伟达“无意”让前首席执行官黄仁勋回归 | BBC新闻",
+          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
+          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "'not",
+          "word": "LIVE",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia 'not intending' to bring back ex-CEO Jensen Huang | BBC News",
-          "exZh": "英伟达“无意”让前首席执行官黄仁勋回归 | BBC新闻",
+          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
+          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "intending'",
+          "word": "Countdown",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia 'not intending' to bring back ex-CEO Jensen Huang | BBC News",
-          "exZh": "英伟达“无意”让前首席执行官黄仁勋回归 | BBC新闻",
+          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
+          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "bring",
+          "word": "gameplay",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia 'not intending' to bring back ex-CEO Jensen Huang | BBC News",
-          "exZh": "英伟达“无意”让前首席执行官黄仁勋回归 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-IR0XD-STRPU",
-      "title": "Concerns over US cybersecurity amid tech outages | BBC News",
-      "titleZh": "美国技术中断引发对网络安全的担忧 | BBC新闻",
-      "level": "B2",
-      "category": "TECHNOLOGY",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-18",
-      "minutes": 5,
-      "summary": "The head of US national intelligence says a string of tech outages sweeping the country over recent days is not a result of a cyber attack, but rather caused by flawed system upgrades.\n \nOutages in recent days have affected flights, banks and other infrastructure.\n \nLast week, a massive Microsoft outage impacted schools, healthcare systems, businesses, courts and governments around the world - including the US and Canada - while an upgrade to a decades-old telecoms network grounded all US flights.\n \nOn Monday, thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, reported trouble accessing services. \n \nChase Bank - the largest banking institution in the US - said a \"software bug\" in its hardware systems may have affected other banks and that it was not a cyber security incident.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=IR0XD-STRPU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/IR0XD-STRPU",
-      "articleUrl": "https://www.youtube.com/watch?v=IR0XD-STRPU",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The head of US national intelligence says a string of tech outages sweeping the country over recent days is not a result of a cyber attack, but rather caused by flawed system upgrades.\n\nOutages in recent days have affected flights, banks and other infrastructure.\n\nLast week, a massive Microsoft outage impacted schools, healthcare systems, businesses, courts and governments around the world - including the US and Canada - while an upgrade to a decades-old telecoms network grounded all US flights.\n\nOn Monday, thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, reported trouble accessing services.\n\nChase Bank - the largest banking institution in the US - said a \"software bug\" in its hardware systems may have affected other banks and that it was not a cyber security incident.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "美国国家情报局局长表示，近几天席卷全国的一系列技术中断并非网络攻击所致，而是由系统升级缺陷造成的。\n\n近几天的停电影响了航班、银行和其他基础设施。\n\n上周，微软遭遇大规模宕机，影响了全球（包括美国和加拿大）的学校、医疗保健系统、企业、法院和政府，而一个已有数十年历史的电信网络的升级则导致美国所有航班停飞。\n\n周一，包括摩根大通、富国银行和美国银行在内的一些美国主要银行的数千名客户报告称无法正常使用服务。\n\n美国最大的银行机构摩根大通银行表示，其硬件系统中的“软件漏洞”可能影响了其他银行，但这并非网络安全事件。\n\n如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "The head of US national intelligence says a string of tech outages sweeping the country over recent days is not a result of a cyber attack, but rather caused by flawed system upgrades.",
-          "zh": "美国国家情报局局长表示，近几天席卷全国的一系列技术中断并非网络攻击所致，而是由系统升级缺陷造成的。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Outages in recent days have affected flights, banks and other infrastructure.",
-          "zh": "近几天的停电影响了航班、银行和其他基础设施。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Last week, a massive Microsoft outage impacted schools, healthcare systems, businesses, courts and governments around the world - including the US and Canada - while an upgrade to a decades-old telecoms network grounded all US flights.",
-          "zh": "上周，微软遭遇大规模宕机，影响了全球（包括美国和加拿大）的学校、医疗保健系统、企业、法院和政府，而一个已有数十年历史的电信网络的升级则导致美国所有航班停飞。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "On Monday, thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, reported trouble accessing services.",
-          "zh": "周一，包括摩根大通、富国银行和美国银行在内的一些美国主要银行的数千名客户报告称无法正常使用服务。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Chase Bank - the largest banking institution in the US - said a \"software bug\" in its hardware systems may have affected other banks and that it was not a cyber security incident.",
-          "zh": "美国最大的银行机构摩根大通银行表示，其硬件系统中的“软件漏洞”可能影响了其他银行，但这并非网络安全事件。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Concerns",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Concerns over US cybersecurity amid tech outages | BBC News",
-          "exZh": "美国技术中断引发对网络安全的担忧 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "cybersecurity",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Concerns over US cybersecurity amid tech outages | BBC News",
-          "exZh": "美国技术中断引发对网络安全的担忧 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "amid",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Concerns over US cybersecurity amid tech outages | BBC News",
-          "exZh": "美国技术中断引发对网络安全的担忧 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "tech",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Concerns over US cybersecurity amid tech outages | BBC News",
-          "exZh": "美国技术中断引发对网络安全的担忧 | BBC新闻",
+          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
+          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -190,9 +170,9 @@
       ]
     },
     {
-      "id": "video-hvOJMcjm7cM",
-      "title": "Millions of red crabs start annual migration on Christmas Island. #BBCNews",
-      "titleZh": "数百万只红色螃蟹在圣诞岛开始年度迁徙。#BBC新闻",
+      "id": "video-uetghODqms4",
+      "title": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
+      "titleZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
       "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
@@ -202,55 +182,55 @@
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=hvOJMcjm7cM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/hvOJMcjm7cM",
-      "articleUrl": "https://www.youtube.com/watch?v=hvOJMcjm7cM",
+      "videoUrl": "https://www.youtube.com/watch?v=uetghODqms4",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/uetghODqms4",
+      "articleUrl": "https://www.youtube.com/watch?v=uetghODqms4",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Millions of red crabs start annual migration on Christmas Island. #BBCNews",
-      "readingTextZh": "数百万只红色螃蟹在圣诞岛开始年度迁徙。#BBC新闻",
+      "readingText": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
+      "readingTextZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
       "sentences": [
         {
-          "en": "Millions of red crabs start annual migration on Christmas Island. #BBCNews",
-          "zh": "数百万只红色螃蟹在圣诞岛开始年度迁徙。#BBC新闻",
+          "en": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
+          "zh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Millions",
+          "word": "Waymo",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Millions of red crabs start annual migration on Christmas Island. #BBCNews",
-          "exZh": "数百万只红色螃蟹在圣诞岛开始年度迁徙。#BBC新闻",
+          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
+          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "crabs",
+          "word": "pulls",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Millions of red crabs start annual migration on Christmas Island. #BBCNews",
-          "exZh": "数百万只红色螃蟹在圣诞岛开始年度迁徙。#BBC新闻",
+          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
+          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "start",
+          "word": "driverless",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Millions of red crabs start annual migration on Christmas Island. #BBCNews",
-          "exZh": "数百万只红色螃蟹在圣诞岛开始年度迁徙。#BBC新闻",
+          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
+          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "annual",
+          "word": "taxis",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Millions of red crabs start annual migration on Christmas Island. #BBCNews",
-          "exZh": "数百万只红色螃蟹在圣诞岛开始年度迁徙。#BBC新闻",
+          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
+          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -266,92 +246,67 @@
       ]
     },
     {
-      "id": "video-BB0xFP4_nEs",
-      "title": "Iran says US has attacked Qeshm Island | BBC News",
-      "titleZh": "伊朗称美国袭击了格什姆岛 | BBC 新闻",
+      "id": "video-ZDZoZzN-1ms",
+      "title": "What we learned from William and Kate's visit to India. #BBCNews",
+      "titleZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
       "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "minutes": 5,
-      "summary": "Tehran says the United States has attacked Qeshm Island in the Strait of Hormuz, a site it previously targeted before the midterm elections.\n\nBahrain intercepts another drone attack from Iran, this time targeting US military radar systems in the country.\n\nHundreds of protesters take to the streets in western Iran calling for action after a fatal bus crash.\n\nMotoring groups say fuel prices in the UK aren't falling fast enough after the drop in oil prices over recent weeks.\n\nAnd in Yemen, the Iran-backed Houthis make further advances along the Red Sea coast and push towards the government capital of Aden.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #US #BBCNews",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=BB0xFP4_nEs",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/BB0xFP4_nEs",
-      "articleUrl": "https://www.youtube.com/watch?v=BB0xFP4_nEs",
+      "videoUrl": "https://www.youtube.com/watch?v=ZDZoZzN-1ms",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/ZDZoZzN-1ms",
+      "articleUrl": "https://www.youtube.com/watch?v=ZDZoZzN-1ms",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Tehran says the United States has attacked Qeshm Island in the Strait of Hormuz, a site it previously targeted before the midterm elections.\n\nBahrain intercepts another drone attack from Iran, this time targeting US military radar systems in the country.\n\nHundreds of protesters take to the streets in western Iran calling for action after a fatal bus crash.\n\nMotoring groups say fuel prices in the UK aren't falling fast enough after the drop in oil prices over recent weeks.\n\nAnd in Yemen, the Iran-backed Houthis make further advances along the Red Sea coast and push towards the government capital of Aden.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "德黑兰表示，美国袭击了霍尔木兹海峡的盖什姆岛，该岛此前曾是美国在中期选举前瞄准的目标。\n\n巴林再次拦截来自伊朗的无人机袭击，这次的目标是该国境内的美国军用雷达系统。\n\n在伊朗西部，数百名抗议者走上街头，要求对一起致命的巴士车祸采取行动。\n\n汽车团体表示，在最近几周油价下跌后，英国的燃油价格并未迅速下降。\n\n而在也门，伊朗支持的胡塞武装沿红海沿岸进一步推进，并向政府所在地亚丁推进。\n\n如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+      "readingText": "What we learned from William and Kate's visit to India. #BBCNews",
+      "readingTextZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
       "sentences": [
         {
-          "en": "Tehran says the United States has attacked Qeshm Island in the Strait of Hormuz, a site it previously targeted before the midterm elections.",
-          "zh": "德黑兰表示，美国袭击了霍尔木兹海峡的盖什姆岛，该岛此前曾是美国在中期选举前瞄准的目标。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Bahrain intercepts another drone attack from Iran, this time targeting US military radar systems in the country.",
-          "zh": "巴林再次拦截来自伊朗的无人机袭击，这次的目标是该国境内的美国军用雷达系统。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Hundreds of protesters take to the streets in western Iran calling for action after a fatal bus crash.",
-          "zh": "在伊朗西部，数百名抗议者走上街头，要求对一起致命的巴士车祸采取行动。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Motoring groups say fuel prices in the UK aren't falling fast enough after the drop in oil prices over recent weeks.",
-          "zh": "汽车团体表示，在最近几周油价下跌后，英国的燃油价格并未迅速下降。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "And in Yemen, the Iran-backed Houthis make further advances along the Red Sea coast and push towards the government capital of Aden.",
-          "zh": "而在也门，伊朗支持的胡塞武装沿红海沿岸进一步推进，并向政府所在地亚丁推进。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+          "en": "What we learned from William and Kate's visit to India. #BBCNews",
+          "zh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Iran",
+          "word": "learned",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says US has attacked Qeshm Island | BBC News",
-          "exZh": "伊朗称美国袭击了格什姆岛 | BBC 新闻",
+          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
+          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "attacked",
+          "word": "William",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says US has attacked Qeshm Island | BBC News",
-          "exZh": "伊朗称美国袭击了格什姆岛 | BBC 新闻",
+          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
+          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Qeshm",
+          "word": "Kate's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says US has attacked Qeshm Island | BBC News",
-          "exZh": "伊朗称美国袭击了格什姆岛 | BBC 新闻",
+          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
+          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Island",
+          "word": "visit",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says US has attacked Qeshm Island | BBC News",
-          "exZh": "伊朗称美国袭击了格什姆岛 | BBC 新闻",
+          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
+          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -367,67 +322,67 @@
       ]
     },
     {
-      "id": "video-hxw7tLlre3o",
-      "title": "Rubio: There isn’t any ‘imminent threat’ after sources say Iran plotting attack on US",
-      "titleZh": "鲁比奥：有消息称伊朗正密谋袭击美国，但不存在任何“迫在眉睫的威胁”",
+      "id": "video-DjuHdlTWH9c",
+      "title": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
+      "titleZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
       "level": "C1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "minutes": 5,
-      "summary": "Secretary of State Marco Rubio said there isn’t any “imminent threat” to the United States after CNN reported that new US intelligence indicates that Iran is developing plans to target senior Trump administration officials by detonating a so-called dirty bomb or a chemical weapon in Washington, DC, even as officials continue to debate whether Iran can or will attempt to execute such a plot, according to seven US officials.",
+      "summary": "In an interview with The Telegraph, Prince Harry sits alongside Maksym Zubov, a Ukrainian Invictus Games competitor, to talk about his support for Ukraine and how he would join any potential UK fight against Russia, if needed.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=hxw7tLlre3o",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/hxw7tLlre3o",
-      "articleUrl": "https://www.youtube.com/watch?v=hxw7tLlre3o",
+      "videoUrl": "https://www.youtube.com/watch?v=DjuHdlTWH9c",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/DjuHdlTWH9c",
+      "articleUrl": "https://www.youtube.com/watch?v=DjuHdlTWH9c",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Secretary of State Marco Rubio said there isn’t any “imminent threat” to the United States after CNN reported that new US intelligence indicates that Iran is developing plans to target senior Trump administration officials by detonating a so-called dirty bomb or a chemical weapon in Washington, DC, even as officials continue to debate whether Iran can or will attempt to execute such a plot, according to seven US officials.",
-      "readingTextZh": "据七名美国官员透露，CNN报道称，美国最新情报显示，伊朗正在制定针对特朗普政府高级官员的计划，打算在华盛顿特区引爆一枚所谓的脏弹或化学武器。尽管如此，美国国务卿马可·卢比奥表示，美国并不存在任何“迫在眉睫的威胁”。与此同时，美国官员仍在争论伊朗是否能够或是否会试图实施此类阴谋。",
+      "readingText": "In an interview with The Telegraph, Prince Harry sits alongside Maksym Zubov, a Ukrainian Invictus Games competitor, to talk about his support for Ukraine and how he would join any potential UK fight against Russia, if needed.",
+      "readingTextZh": "在接受《每日电讯报》采访时，哈里王子与乌克兰勇士运动会参赛选手Maksym Zubov并肩而坐，谈论他对乌克兰的支持，以及如有需要，他将如何加入英国与俄罗斯的任何潜在战斗。",
       "sentences": [
         {
-          "en": "Secretary of State Marco Rubio said there isn’t any “imminent threat” to the United States after CNN reported that new US intelligence indicates that Iran is developing plans to target senior Trump administration officials by detonating a so-called dirty bomb or a chemical weapon in Washington, DC, even as officials continue to debate whether Iran can or will attempt to execute such a plot, according to seven US officials.",
-          "zh": "据七名美国官员透露，CNN报道称，美国最新情报显示，伊朗正在制定针对特朗普政府高级官员的计划，打算在华盛顿特区引爆一枚所谓的脏弹或化学武器。尽管如此，美国国务卿马可·卢比奥表示，美国并不存在任何“迫在眉睫的威胁”。与此同时，美国官员仍在争论伊朗是否能够或是否会试图实施此类阴谋。",
+          "en": "In an interview with The Telegraph, Prince Harry sits alongside Maksym Zubov, a Ukrainian Invictus Games competitor, to talk about his support for Ukraine and how he would join any potential UK fight against Russia, if needed.",
+          "zh": "在接受《每日电讯报》采访时，哈里王子与乌克兰勇士运动会参赛选手Maksym Zubov并肩而坐，谈论他对乌克兰的支持，以及如有需要，他将如何加入英国与俄罗斯的任何潜在战斗。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Rubio",
+          "word": "Prince",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: There isn’t any ‘imminent threat’ after sources say Iran plotting attack on US",
-          "exZh": "鲁比奥：有消息称伊朗正密谋袭击美国，但不存在任何“迫在眉睫的威胁”",
+          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
+          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "There",
+          "word": "Harry",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: There isn’t any ‘imminent threat’ after sources say Iran plotting attack on US",
-          "exZh": "鲁比奥：有消息称伊朗正密谋袭击美国，但不存在任何“迫在眉睫的威胁”",
+          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
+          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "imminent",
+          "word": "ready",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: There isn’t any ‘imminent threat’ after sources say Iran plotting attack on US",
-          "exZh": "鲁比奥：有消息称伊朗正密谋袭击美国，但不存在任何“迫在眉睫的威胁”",
+          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
+          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "threat",
+          "word": "rejoin",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: There isn’t any ‘imminent threat’ after sources say Iran plotting attack on US",
-          "exZh": "鲁比奥：有消息称伊朗正密谋袭击美国，但不存在任何“迫在眉睫的威胁”",
+          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
+          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -443,60 +398,136 @@
       ]
     },
     {
-      "id": "video-j5FbHHi73mo",
-      "title": "The unlikely way Democrats swept the midterms | Fareed’s Take",
-      "titleZh": "民主党以意想不到的方式大获全胜 | 法里德的观点",
+      "id": "video-JcPj23wefuo",
+      "title": "FAA let contractors work w/o approval before ground stop: Sources",
+      "titleZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "minutes": 5,
-      "summary": "One month before the Democratic Party’s midterm triumph, the Pew Research Center asked Americans their views of the two parties. Sixty-one percent viewed the Republicans unfavorably, and 58 percent had the same negative view of Democrats. So how, amid this growing alienation, did the Democrats pull off a landslide?\n\nIn his take, CNN’s Fareed Zakaria argues that Democrats won because they ran on being the anti-party party, tailoring their candidates and messaging to reach voters instead of a top-down national strategy.\n\nLater, Emily Bazelon, a staff writer for the New York Times Magazine, talks to Fareed about how Democrats should investigate and potentially be a check on the Trump administration.\n\n0:00 Americans view both major parties unfavorably\n0:41 Democrats won by becoming the ‘anti-party party’\n3:12 Fareed: Dems are best on economic populism, not cultural leftism\n5:53 How should Democrats handle probes into Trump\n8:58 What about presidential immunity?\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #politics #democrats",
+      "summary": "On the morning of last week’s historic nationwide ground stop, an FAA technician escorted a private contractor from L3Harris into a remote radio communications site for air traffic control centers in south Arkansas, to replace a decades-old router.\n\nThe FAA technician believed his role ended when the contractor entered the facility. He went about his own work without knowing exactly what the L3Harris engineer was doing, according to two sources familiar with what happened in the room, and the union that represents FAA technicians.\n\n0:00 What the FAA is saying about the contractors' work\n3:15 Is the administration being transparent enough?\n4:34 Is there a crisis with US leadership? A panel debates.\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #Travel #News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=j5FbHHi73mo",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/j5FbHHi73mo",
-      "articleUrl": "https://www.youtube.com/watch?v=j5FbHHi73mo",
+      "videoUrl": "https://www.youtube.com/watch?v=JcPj23wefuo",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/JcPj23wefuo",
+      "articleUrl": "https://www.youtube.com/watch?v=JcPj23wefuo",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "One month before the Democratic Party’s midterm triumph, the Pew Research Center asked Americans their views of the two parties.\n\nSixty-one percent viewed the Republicans unfavorably, and 58 percent had the same negative view of Democrats.\n\nSo how, amid this growing alienation, did the Democrats pull off a landslide?\n\nIn his take, CNN’s Fareed Zakaria argues that Democrats won because they ran on being the anti-party party, tailoring their candidates and messaging to reach voters instead of a top-down national strategy.\n\nLater, Emily Bazelon, a staff writer for the New York Times Magazine, talks to Fareed about how Democrats should investigate and potentially be a check on the Trump administration.",
-      "readingTextZh": "在民主党中期选举大获全胜的一个月前，皮尤研究中心（Pew Research Center）曾征询美国人对这两个政党的看法。\n\n61% 的人对共和党持不利看法，58% 的人对民主党持同样的负面看法。\n\n那么，在这种日益疏离的情况下，民主党是如何大获全胜的呢？\n\nCNN的法里德·扎卡利亚（Fareed Zakaria）认为，民主党之所以获胜，是因为他们以反政党党的身份参选，并根据选民情况量身定制候选人和宣传信息，而不是采取自上而下的全国性战略。\n\n随后，纽约时报杂志的专栏作家艾米莉·巴泽隆（Emily Bazelon）与法里德讨论了民主党应如何开展调查，以及如何对特朗普政府形成制衡。",
+      "readingText": "On the morning of last week’s historic nationwide ground stop, an FAA technician escorted a private contractor from L3Harris into a remote radio communications site for air traffic control centers in south Arkansas, to replace a decades-old router.\n\nThe FAA technician believed his role ended when the contractor entered the facility.\n\nHe went about his own work without knowing exactly what the L3Harris engineer was doing, according to two sources familiar with what happened in the room, and the union that represents FAA technicians.",
+      "readingTextZh": "上周发生历史性的全国航班停飞的那个早晨，一名联邦航空管理局（FAA）的技术人员陪同L3Harris的一名私人承包商前往阿肯色州南部的空中交通管制中心的一个远程无线电通信站点，更换一台使用了数十年的路由器。\n\nFAA技术人员认为，当承包商进入设施时，他的职责就结束了。\n\n据两位熟悉该房间内情况的消息人士以及代表FAA技术人员的工会称，他忙于自己的工作，并不确切知道L3Harris工程师在做什么。",
       "sentences": [
         {
-          "en": "One month before the Democratic Party’s midterm triumph, the Pew Research Center asked Americans their views of the two parties.",
-          "zh": "在民主党中期选举大获全胜的一个月前，皮尤研究中心（Pew Research Center）曾征询美国人对这两个政党的看法。",
+          "en": "On the morning of last week’s historic nationwide ground stop, an FAA technician escorted a private contractor from L3Harris into a remote radio communications site for air traffic control centers in south Arkansas, to replace a decades-old router.",
+          "zh": "上周发生历史性的全国航班停飞的那个早晨，一名联邦航空管理局（FAA）的技术人员陪同L3Harris的一名私人承包商前往阿肯色州南部的空中交通管制中心的一个远程无线电通信站点，更换一台使用了数十年的路由器。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "Sixty-one percent viewed the Republicans unfavorably, and 58 percent had the same negative view of Democrats.",
-          "zh": "61% 的人对共和党持不利看法，58% 的人对民主党持同样的负面看法。",
+          "en": "The FAA technician believed his role ended when the contractor entered the facility.",
+          "zh": "FAA技术人员认为，当承包商进入设施时，他的职责就结束了。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "So how, amid this growing alienation, did the Democrats pull off a landslide?",
-          "zh": "那么，在这种日益疏离的情况下，民主党是如何大获全胜的呢？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In his take, CNN’s Fareed Zakaria argues that Democrats won because they ran on being the anti-party party, tailoring their candidates and messaging to reach voters instead of a top-down national strategy.",
-          "zh": "CNN的法里德·扎卡利亚（Fareed Zakaria）认为，民主党之所以获胜，是因为他们以反政党党的身份参选，并根据选民情况量身定制候选人和宣传信息，而不是采取自上而下的全国性战略。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Later, Emily Bazelon, a staff writer for the New York Times Magazine, talks to Fareed about how Democrats should investigate and potentially be a check on the Trump administration.",
-          "zh": "随后，纽约时报杂志的专栏作家艾米莉·巴泽隆（Emily Bazelon）与法里德讨论了民主党应如何开展调查，以及如何对特朗普政府形成制衡。",
+          "en": "He went about his own work without knowing exactly what the L3Harris engineer was doing, according to two sources familiar with what happened in the room, and the union that represents FAA technicians.",
+          "zh": "据两位熟悉该房间内情况的消息人士以及代表FAA技术人员的工会称，他忙于自己的工作，并不确切知道L3Harris工程师在做什么。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "unlikely",
+          "word": "contractors",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The unlikely way Democrats swept the midterms | Fareed’s Take",
-          "exZh": "民主党以意想不到的方式大获全胜 | 法里德的观点",
+          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
+          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "work",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
+          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "approval",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
+          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "ground",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
+          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-PG5NHoIBmS8",
+      "title": "Why some Democrats voted against nominating Jeffries to be House speaker",
+      "titleZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-19",
+      "minutes": 5,
+      "summary": "Rep. Hakeem Jeffries won the Democratic nomination for House speaker in a 251-11 vote. CNN’s Manu Raju breaks down why some ultra-progressive Democrats opposed him, and the different dynamics he will have to navigate.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=PG5NHoIBmS8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/PG5NHoIBmS8",
+      "articleUrl": "https://www.youtube.com/watch?v=PG5NHoIBmS8",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Rep.\n\nHakeem Jeffries won the Democratic nomination for House speaker in a 251-11 vote.\n\nCNN’s Manu Raju breaks down why some ultra-progressive Democrats opposed him, and the different dynamics he will have to navigate.",
+      "readingTextZh": "共和国\n\n哈基姆·杰弗里斯以251票对11票的优势赢得民主党众议院议长提名。\n\nCNN的Manu Raju分析了为什么一些极度进步派的民主党人反对他，以及他将不得不应对的各种不同态势。",
+      "sentences": [
+        {
+          "en": "Rep.",
+          "zh": "共和国",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Hakeem Jeffries won the Democratic nomination for House speaker in a 251-11 vote.",
+          "zh": "哈基姆·杰弗里斯以251票对11票的优势赢得民主党众议院议长提名。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN’s Manu Raju breaks down why some ultra-progressive Democrats opposed him, and the different dynamics he will have to navigate.",
+          "zh": "CNN的Manu Raju分析了为什么一些极度进步派的民主党人反对他，以及他将不得不应对的各种不同态势。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "some",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
+          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
@@ -504,26 +535,26 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The unlikely way Democrats swept the midterms | Fareed’s Take",
-          "exZh": "民主党以意想不到的方式大获全胜 | 法里德的观点",
+          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
+          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "swept",
+          "word": "voted",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The unlikely way Democrats swept the midterms | Fareed’s Take",
-          "exZh": "民主党以意想不到的方式大获全胜 | 法里德的观点",
+          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
+          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "midterms",
+          "word": "nominating",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The unlikely way Democrats swept the midterms | Fareed’s Take",
-          "exZh": "民主党以意想不到的方式大获全胜 | 法里德的观点",
+          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
+          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -539,168 +570,67 @@
       ]
     },
     {
-      "id": "video-E-RRXsVL9eE",
-      "title": "Cyber expert: People are calling 'in absolute panic mode' over grid fears",
-      "titleZh": "网络专家：人们因对电网的恐惧而“陷入绝对的恐慌模式”",
-      "level": "B2",
-      "category": "TECHNOLOGY",
-      "source": "CNN · Official Video",
-      "date": "2026-11-18",
-      "minutes": 5,
-      "summary": "TrustedSec founder David Kennedy tells CNN’s Erin Burnett that poor government communication during recent tech outages has left old contacts reaching out to him \"in absolute panic mode.\" Kennedy warns that \"our defenses today are not designed to handle the speed of AI.\"",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=E-RRXsVL9eE",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/E-RRXsVL9eE",
-      "articleUrl": "https://www.youtube.com/watch?v=E-RRXsVL9eE",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "TrustedSec founder David Kennedy tells CNN’s Erin Burnett that poor government communication during recent tech outages has left old contacts reaching out to him \"in absolute panic mode.\" Kennedy warns that \"our defenses today are not designed to handle the speed of AI.\"",
-      "readingTextZh": "TrustedSec创始人David Kennedy在接受CNN记者Erin Burnett采访时表示，在最近的技术中断期间，政府沟通不畅导致一些老熟人“处于极度恐慌状态”地联系他。肯尼迪警告说：“我们今天的防御措施并非旨在应对人工智能的速度。”",
-      "sentences": [
-        {
-          "en": "TrustedSec founder David Kennedy tells CNN’s Erin Burnett that poor government communication during recent tech outages has left old contacts reaching out to him \"in absolute panic mode.\" Kennedy warns that \"our defenses today are not designed to handle the speed of AI.\"",
-          "zh": "TrustedSec创始人David Kennedy在接受CNN记者Erin Burnett采访时表示，在最近的技术中断期间，政府沟通不畅导致一些老熟人“处于极度恐慌状态”地联系他。肯尼迪警告说：“我们今天的防御措施并非旨在应对人工智能的速度。”",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Cyber",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Cyber expert: People are calling 'in absolute panic mode' over grid fears",
-          "exZh": "网络专家：人们因对电网的恐惧而“陷入绝对的恐慌模式”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "expert",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Cyber expert: People are calling 'in absolute panic mode' over grid fears",
-          "exZh": "网络专家：人们因对电网的恐惧而“陷入绝对的恐慌模式”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "People",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Cyber expert: People are calling 'in absolute panic mode' over grid fears",
-          "exZh": "网络专家：人们因对电网的恐惧而“陷入绝对的恐慌模式”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "calling",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Cyber expert: People are calling 'in absolute panic mode' over grid fears",
-          "exZh": "网络专家：人们因对电网的恐惧而“陷入绝对的恐慌模式”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-_RZ1XEyPtL8",
-      "title": "Rubio: “No Evidence\" Tech Issues Are Related",
-      "titleZh": "鲁比奥：“没有证据”表明技术问题存在关联",
-      "level": "A2",
+      "id": "video-wKLT4PVdxMY",
+      "title": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
+      "titleZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
+      "level": "C1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "minutes": 5,
-      "summary": "Breaking news this hour, Secretary of State Marco Rubio held a press conference and said there is no evidence that hackers, criminals or foreign governments are behind the recent wave of major tech outages, or that the incidents are connected, but he acknowledged that the drumbeat of failures has been unsettling for Americans.\n\n\n\nPlus, new reporting in The Washington Post that the FAA oversaw and signed off on the router upgrade that's believed to have taken down much of the system, grounding thousands of flights and millions of travelers. Anderson talks with the reporter. \n\n\n\n\n\n\n\n\nAir date: November 17, 2026 \n\n\n\n\n\n\n\n\n\n\n\n\n\nGuests: \n\n\n\nTodd C. Frankel \n\n\n\nSen. Mark Warner \n\n\n\nBrett McGurk \n\n\n\n\n\n\n\n \n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices (https://podcastchoices.com/adchoices)",
+      "summary": "A long-lost 1930 Georgia O’Keeffe landscape painting discovered in a Manhattan apartment closet sold for over $4.8M at Christie’s 20th Century Evening Sale in New York on November 17, 2026.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=_RZ1XEyPtL8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/_RZ1XEyPtL8",
-      "articleUrl": "https://www.youtube.com/watch?v=_RZ1XEyPtL8",
+      "videoUrl": "https://www.youtube.com/watch?v=wKLT4PVdxMY",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/wKLT4PVdxMY",
+      "articleUrl": "https://www.youtube.com/watch?v=wKLT4PVdxMY",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Breaking news this hour, Secretary of State Marco Rubio held a press conference and said there is no evidence that hackers, criminals or foreign governments are behind the recent wave of major tech outages, or that the incidents are connected, but he acknowledged that the drumbeat of failures has been unsettling for Americans.\n\nPlus, new reporting in The Washington Post that the FAA oversaw and signed off on the router upgrade that's believed to have taken down much of the system, grounding thousands of flights and millions of travelers.\n\nAnderson talks with the reporter.\n\nAir date: November 17, 2026 \n\nGuests: \n\nTodd C.\n\nFrankel \n\nSen.\n\nMark Warner \n\nBrett McGurk",
-      "readingTextZh": "本时段突发新闻：国务卿马可·卢比奥召开新闻发布会，表示没有证据表明黑客、犯罪分子或外国政府是近期一波重大技术中断事件的幕后黑手，也没有证据表明这些事件之间存在关联，但他承认，接连不断的故障让美国人感到不安。\n\n此外，《华盛顿邮报》的最新报道称，美国联邦航空局（FAA）监督并批准了路由器升级，据信这次升级导致大部分系统瘫痪，数千架航班停飞，数百万旅客滞留。\n\n安德森与记者交谈。\n\n播出日期：2026年11月17日 \n\n嘉宾： \n\nTodd C.\n\nFrankel \n\n参议员\n\n马克·沃纳 \n\n布雷特·麦格克",
+      "readingText": "A long-lost 1930 Georgia O’Keeffe landscape painting discovered in a Manhattan apartment closet sold for over $4.8M at Christie’s 20th Century Evening Sale in New York on November 17, 2026.",
+      "readingTextZh": "一幅失踪已久的乔治亚·欧姬芙（Georgia O’Keeffe）1930年创作的风景画于2023年11月17日在纽约佳士得20世纪晚间拍卖会上以超过480万美元的价格售出。这幅画此前被发现藏于曼哈顿一间公寓的衣橱中。",
       "sentences": [
         {
-          "en": "Breaking news this hour, Secretary of State Marco Rubio held a press conference and said there is no evidence that hackers, criminals or foreign governments are behind the recent wave of major tech outages, or that the incidents are connected, but he acknowledged that the drumbeat of failures has been unsettling for Americans.",
-          "zh": "本时段突发新闻：国务卿马可·卢比奥召开新闻发布会，表示没有证据表明黑客、犯罪分子或外国政府是近期一波重大技术中断事件的幕后黑手，也没有证据表明这些事件之间存在关联，但他承认，接连不断的故障让美国人感到不安。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Plus, new reporting in The Washington Post that the FAA oversaw and signed off on the router upgrade that's believed to have taken down much of the system, grounding thousands of flights and millions of travelers.",
-          "zh": "此外，《华盛顿邮报》的最新报道称，美国联邦航空局（FAA）监督并批准了路由器升级，据信这次升级导致大部分系统瘫痪，数千架航班停飞，数百万旅客滞留。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Anderson talks with the reporter.",
-          "zh": "安德森与记者交谈。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Air date: November 17, 2026 \n\nGuests: \n\nTodd C.",
-          "zh": "播出日期：2026年11月17日 \n\n嘉宾： \n\nTodd C.",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Frankel \n\nSen.",
-          "zh": "Frankel \n\n参议员",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Mark Warner \n\nBrett McGurk",
-          "zh": "马克·沃纳 \n\n布雷特·麦格克",
+          "en": "A long-lost 1930 Georgia O’Keeffe landscape painting discovered in a Manhattan apartment closet sold for over $4.8M at Christie’s 20th Century Evening Sale in New York on November 17, 2026.",
+          "zh": "一幅失踪已久的乔治亚·欧姬芙（Georgia O’Keeffe）1930年创作的风景画于2023年11月17日在纽约佳士得20世纪晚间拍卖会上以超过480万美元的价格售出。这幅画此前被发现藏于曼哈顿一间公寓的衣橱中。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Rubio",
+          "word": "Georgia",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: “No Evidence\" Tech Issues Are Related",
-          "exZh": "鲁比奥：“没有证据”表明技术问题存在关联",
+          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
+          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Evidence",
+          "word": "Keeffe",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: “No Evidence\" Tech Issues Are Related",
-          "exZh": "鲁比奥：“没有证据”表明技术问题存在关联",
+          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
+          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Tech",
+          "word": "painting",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: “No Evidence\" Tech Issues Are Related",
-          "exZh": "鲁比奥：“没有证据”表明技术问题存在关联",
+          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
+          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Issues",
+          "word": "found",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Rubio: “No Evidence\" Tech Issues Are Related",
-          "exZh": "鲁比奥：“没有证据”表明技术问题存在关联",
+          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
+          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
