@@ -1,69 +1,84 @@
 {
-  "updated_at": "2026-11-19T03:23:47.336939+00:00",
+  "updated_at": "2026-11-20T03:11:02.771947+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-ID6lSrUtsXU",
-      "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
-      "titleZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
-      "level": "B2",
+      "id": "video-vOpPMqxLUHg",
+      "title": "How South Korea is trying to catch cheats in ‘hardest exam in the world’ | BBC News",
+      "titleZh": "韩国如何试图在“世界上最难的考试”中抓到作弊者 | BBC新闻",
+      "level": "C1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
       "date": "2026-11-19",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Flights diverted, offices opening late and internet access cut off near exams halls. Some of the extraordinary measures South Korea is taking as it struggles with an AI cheating scandal that's threatening what's considered one of the toughest exams in the world. We explain how this controversy emerged, hear from students and learn how the authorities are fighting back.\n\nIn this video:\n00:00 – An AI exam cheating scandal grips South Korea\n01:11 – What is the Suneung exam and why is it so difficult?\n02:00 – How important is the exam for South Koreans?\n02:46 – What’s it like sitting the exam?\n03:17 – What is the AI controversy?\n04:26 – How are authorities tackling the problem?\n05:20 – What’s been the reaction of students?\n06:04 – How are other countries tackling AI in education?\n07:06 – Has the scandal rocked confidence in AI in South Korea?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=ID6lSrUtsXU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/ID6lSrUtsXU",
-      "articleUrl": "https://www.youtube.com/watch?v=ID6lSrUtsXU",
+      "videoUrl": "https://www.youtube.com/watch?v=vOpPMqxLUHg",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/vOpPMqxLUHg",
+      "articleUrl": "https://www.youtube.com/watch?v=vOpPMqxLUHg",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
-      "readingTextZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+      "readingText": "Flights diverted, offices opening late and internet access cut off near exams halls.\n\nSome of the extraordinary measures South Korea is taking as it struggles with an AI cheating scandal that's threatening what's considered one of the toughest exams in the world.\n\nWe explain how this controversy emerged, hear from students and learn how the authorities are fighting back.\n\nIn this video:",
+      "readingTextZh": "航班改道，办公室延迟开门，考场附近的网络被切断。\n\n韩国正在采取一些非常措施，以应对一场人工智能作弊丑闻，这场丑闻正威胁着被认为是世界上最难的考试之一。\n\n我们将解释这场争议是如何出现的，听取学生们的意见，并了解当局是如何进行反击的。\n\n在这个视频中:",
       "sentences": [
         {
-          "en": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
-          "zh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "en": "Flights diverted, offices opening late and internet access cut off near exams halls.",
+          "zh": "航班改道，办公室延迟开门，考场附近的网络被切断。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Some of the extraordinary measures South Korea is taking as it struggles with an AI cheating scandal that's threatening what's considered one of the toughest exams in the world.",
+          "zh": "韩国正在采取一些非常措施，以应对一场人工智能作弊丑闻，这场丑闻正威胁着被认为是世界上最难的考试之一。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "We explain how this controversy emerged, hear from students and learn how the authorities are fighting back.",
+          "zh": "我们将解释这场争议是如何出现的，听取学生们的意见，并了解当局是如何进行反击的。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In this video:",
+          "zh": "在这个视频中:",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Democrats",
+          "word": "South",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
-          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "ex": "How South Korea is trying to catch cheats in ‘hardest exam in the world’ | BBC News",
+          "exZh": "韩国如何试图在“世界上最难的考试”中抓到作弊者 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Alaska",
+          "word": "Korea",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
-          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "ex": "How South Korea is trying to catch cheats in ‘hardest exam in the world’ | BBC News",
+          "exZh": "韩国如何试图在“世界上最难的考试”中抓到作弊者 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Trump",
+          "word": "trying",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
-          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "ex": "How South Korea is trying to catch cheats in ‘hardest exam in the world’ | BBC News",
+          "exZh": "韩国如何试图在“世界上最难的考试”中抓到作弊者 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "voters",
+          "word": "catch",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. #BBCNews",
-          "exZh": "在特朗普表示选民选错了丹·沙利文后，民主党人在阿拉斯加州获胜。#BBC新闻",
+          "ex": "How South Korea is trying to catch cheats in ‘hardest exam in the world’ | BBC News",
+          "exZh": "韩国如何试图在“世界上最难的考试”中抓到作弊者 | BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -79,41 +94,122 @@
       ]
     },
     {
-      "id": "video-Y0CCy_7MkcA",
-      "title": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
-      "titleZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
-      "level": "B1",
+      "id": "video-4QJG9NZKoqU",
+      "title": "What we found out after Putin, Xi and Trump's historic meeting | BBC Newscast",
+      "titleZh": "普京、习近平和特朗普历史性会晤后我们发现了什么 | BBC 新闻播报",
+      "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
       "date": "2026-11-19",
       "minutes": 5,
-      "summary": "Join BBC News live from London as we count down to the UK release of GTA 6. We’ll hear from streamers, fans and gaming experts, answer audience questions and look back at the story behind one of gaming’s most anticipated releases. \n\nAt midnight, we’ll bring you the first reaction as UK players begin exploring the game. \n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#GTA6 #Rockstar #BBCNews",
+      "summary": "Nuclear deterrence, the future of AI, and the war in Ukraine were all on the table for Presidents Trump, Xi and Putins historic trilateral meeting in China. But what was actually up for grabs, and what did the three presidents, each trying to position themselves as one of the most powerful people on the planet, accomplish at their historic first joint meeting?\n\nAdam and Chris are joined by James Landale our diplomatic correspondent, Laura Bicker our China correspondent, and Nada Tawfik our North America correspondent to break down what we know about the meeting.\n\nNew episodes released every day. If you're in the UK, for more News and Current Affairs podcasts from the BBC, listen on BBC Sounds: bbc.in/4guXgXd\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews #Newscast #Trump #Xi #Putin",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Y0CCy_7MkcA",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Y0CCy_7MkcA",
-      "articleUrl": "https://www.youtube.com/watch?v=Y0CCy_7MkcA",
+      "videoUrl": "https://www.youtube.com/watch?v=4QJG9NZKoqU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/4QJG9NZKoqU",
+      "articleUrl": "https://www.youtube.com/watch?v=4QJG9NZKoqU",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Join BBC News live from London as we count down to the UK release of GTA 6.\n\nWe’ll hear from streamers, fans and gaming experts, answer audience questions and look back at the story behind one of gaming’s most anticipated releases.\n\nAt midnight, we’ll bring you the first reaction as UK players begin exploring the game.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "加入BBC新闻伦敦直播，与我们一起倒计时迎接《GTA 6》在英国的发布。\n\n我们将听取主播、粉丝和游戏专家的意见，回答观众的问题，并回顾这款最受期待的游戏大作背后的故事。\n\n午夜时分，我们将为您带来英国玩家开始探索游戏的最初反应。\n\n如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+      "readingText": "Nuclear deterrence, the future of AI, and the war in Ukraine were all on the table for Presidents Trump, Xi and Putins historic trilateral meeting in China.\n\nBut what was actually up for grabs, and what did the three presidents, each trying to position themselves as one of the most powerful people on the planet, accomplish at their historic first joint meeting?\n\nAdam and Chris are joined by James Landale our diplomatic correspondent, Laura Bicker our China correspondent, and Nada Tawfik our North America correspondent to break down what we know about the meeting.\n\nNew episodes released every day.\n\nIf you're in the UK, for more News and Current Affairs podcasts from the BBC, listen on BBC Sounds: bbc.in/4guXgXd\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "在特朗普总统、习近平主席和普京总统于中国举行的历史性三方会晤中，核威慑、人工智能的未来以及乌克兰战争均被提上议程。\n\n但实际上，三位总统在他们历史性的首次联席会议上争夺的是什么，以及他们各自试图将自己定位为地球上最有权势的人之一，又取得了什么成就？\n\n我们的外交记者詹姆斯·兰代尔（James Landale）、中国记者劳拉·比克尔（Laura Bicker）和北美记者纳达·陶菲克（Nada Tawfik）将与亚当和克里斯一起，详细解读我们对此次会晤的了解。\n\n每天发布新剧集。\n\n如果您在英国，如需收听更多来自BBC的新闻和时事播客，请访问BBC Sounds：bbc.in/4guXgXd\n\n如需了解最新消息，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "Join BBC News live from London as we count down to the UK release of GTA 6.",
-          "zh": "加入BBC新闻伦敦直播，与我们一起倒计时迎接《GTA 6》在英国的发布。",
+          "en": "Nuclear deterrence, the future of AI, and the war in Ukraine were all on the table for Presidents Trump, Xi and Putins historic trilateral meeting in China.",
+          "zh": "在特朗普总统、习近平主席和普京总统于中国举行的历史性三方会晤中，核威慑、人工智能的未来以及乌克兰战争均被提上议程。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "We’ll hear from streamers, fans and gaming experts, answer audience questions and look back at the story behind one of gaming’s most anticipated releases.",
-          "zh": "我们将听取主播、粉丝和游戏专家的意见，回答观众的问题，并回顾这款最受期待的游戏大作背后的故事。",
+          "en": "But what was actually up for grabs, and what did the three presidents, each trying to position themselves as one of the most powerful people on the planet, accomplish at their historic first joint meeting?",
+          "zh": "但实际上，三位总统在他们历史性的首次联席会议上争夺的是什么，以及他们各自试图将自己定位为地球上最有权势的人之一，又取得了什么成就？",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "At midnight, we’ll bring you the first reaction as UK players begin exploring the game.",
-          "zh": "午夜时分，我们将为您带来英国玩家开始探索游戏的最初反应。",
+          "en": "Adam and Chris are joined by James Landale our diplomatic correspondent, Laura Bicker our China correspondent, and Nada Tawfik our North America correspondent to break down what we know about the meeting.",
+          "zh": "我们的外交记者詹姆斯·兰代尔（James Landale）、中国记者劳拉·比克尔（Laura Bicker）和北美记者纳达·陶菲克（Nada Tawfik）将与亚当和克里斯一起，详细解读我们对此次会晤的了解。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
+        {
+          "en": "New episodes released every day.",
+          "zh": "每天发布新剧集。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "If you're in the UK, for more News and Current Affairs podcasts from the BBC, listen on BBC Sounds: bbc.in/4guXgXd\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "如果您在英国，如需收听更多来自BBC的新闻和时事播客，请访问BBC Sounds：bbc.in/4guXgXd\n\n如需了解最新消息，请下载BBC新闻应用程序或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "found",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we found out after Putin, Xi and Trump's historic meeting | BBC Newscast",
+          "exZh": "普京、习近平和特朗普历史性会晤后我们发现了什么 | BBC 新闻播报",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Putin",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we found out after Putin, Xi and Trump's historic meeting | BBC Newscast",
+          "exZh": "普京、习近平和特朗普历史性会晤后我们发现了什么 | BBC 新闻播报",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Trump's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we found out after Putin, Xi and Trump's historic meeting | BBC Newscast",
+          "exZh": "普京、习近平和特朗普历史性会晤后我们发现了什么 | BBC 新闻播报",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "historic",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What we found out after Putin, Xi and Trump's historic meeting | BBC Newscast",
+          "exZh": "普京、习近平和特朗普历史性会晤后我们发现了什么 | BBC 新闻播报",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-m5GeOALcaMM",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo. #BBCNews",
+      "titleZh": "辛辛那提动物园的河马菲奥娜在吞下帽子后死亡。#BBC新闻",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-19",
+      "minutes": 5,
+      "summary": "Subscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=m5GeOALcaMM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/m5GeOALcaMM",
+      "articleUrl": "https://www.youtube.com/watch?v=m5GeOALcaMM",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "For the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+      "sentences": [
         {
           "en": "For the latest news download the BBC News app or visit BBC.com/news",
           "zh": "如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
@@ -122,39 +218,39 @@
       ],
       "vocab": [
         {
-          "word": "launch",
+          "word": "Fiona",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
-          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
+          "ex": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo. #BBCNews",
+          "exZh": "辛辛那提动物园的河马菲奥娜在吞下帽子后死亡。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "LIVE",
+          "word": "hippo",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
-          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
+          "ex": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo. #BBCNews",
+          "exZh": "辛辛那提动物园的河马菲奥娜在吞下帽子后死亡。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Countdown",
+          "word": "dies",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
-          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
+          "ex": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo. #BBCNews",
+          "exZh": "辛辛那提动物园的河马菲奥娜在吞下帽子后死亡。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "gameplay",
+          "word": "swallowing",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "GTA 6 UK launch LIVE: Countdown, gameplay and reaction | BBC News",
-          "exZh": "《GTA 6》英国发布直播：倒计时、游戏演示和玩家反应 | BBC新闻",
+          "ex": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo. #BBCNews",
+          "exZh": "辛辛那提动物园的河马菲奥娜在吞下帽子后死亡。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -170,67 +266,178 @@
       ]
     },
     {
-      "id": "video-uetghODqms4",
-      "title": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
-      "titleZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
+      "id": "video-2f4HuzzKeHo",
+      "title": "Is AI a threat to democracy? | The Global Story",
+      "titleZh": "人工智能是对民主的威胁吗？|全球故事",
       "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
+      "date": "2026-11-19",
+      "minutes": 5,
+      "summary": "As China races to catch up with the US on artificial intelligence, the AI revolution is raising questions that go beyond superpower competition. \n\nIt’s a test of two political systems - autocracies vs democracies. Which system is better equipped to handle the revolutionary power of this new technology? Could massive economic upheavals caused by AI start to fracture both systems?\n\nIn this episode Tristan Redman and Asma Khalid speak to Laura Bicker, the BBC’s China correspondent, and Jill Lepore, Pulitzer-winning historian and writer.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n00:00 Intro: Who should control AI?\n02:16 China's Great Firewall and internet control\n05:16 China's AI race and state control\n07:10 AI safety and global rules\n08:40 AI, jobs and social unrest in China\n10:44 Does autocracy give China an edge?\n12:08 Jill Lepore: How tech got tied to democracy\n14:47 Sci-fi fantasies of the tech titans\n18:16 Big Tech borrowing the language of democracy\n20:18 The biggest risk: alienation\n22:35 Autocracy vs democracy: who's better placed?\n\n#ai #china #usa #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=2f4HuzzKeHo",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/2f4HuzzKeHo",
+      "articleUrl": "https://www.youtube.com/watch?v=2f4HuzzKeHo",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "As China races to catch up with the US on artificial intelligence, the AI revolution is raising questions that go beyond superpower competition.\n\nIt’s a test of two political systems - autocracies vs democracies.\n\nWhich system is better equipped to handle the revolutionary power of this new technology?\n\nCould massive economic upheavals caused by AI start to fracture both systems?\n\nIn this episode Tristan Redman and Asma Khalid speak to Laura Bicker, the BBC’s China correspondent, and Jill Lepore, Pulitzer-winning historian and writer.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "随着中国在人工智能领域奋力追赶美国，人工智能革命引发的问题已超越了超级大国之间的竞争。\n\n这是对两种政治制度的考验——专制政体与民主政体。\n\n哪种制度更有能力驾驭这项新技术所带来的颠覆性力量？\n\n人工智能引发的大规模经济动荡是否会开始破坏这两个体系？\n\n在本期节目中，Tristan Redman和Asma Khalid与BBC中国记者劳拉·比克（Laura Bicker）以及普利策奖得主、历史学家兼作家吉尔·莱波尔（Jill Lepore）进行了对话。\n\n如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "As China races to catch up with the US on artificial intelligence, the AI revolution is raising questions that go beyond superpower competition.",
+          "zh": "随着中国在人工智能领域奋力追赶美国，人工智能革命引发的问题已超越了超级大国之间的竞争。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "It’s a test of two political systems - autocracies vs democracies.",
+          "zh": "这是对两种政治制度的考验——专制政体与民主政体。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Which system is better equipped to handle the revolutionary power of this new technology?",
+          "zh": "哪种制度更有能力驾驭这项新技术所带来的颠覆性力量？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Could massive economic upheavals caused by AI start to fracture both systems?",
+          "zh": "人工智能引发的大规模经济动荡是否会开始破坏这两个体系？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In this episode Tristan Redman and Asma Khalid speak to Laura Bicker, the BBC’s China correspondent, and Jill Lepore, Pulitzer-winning historian and writer.",
+          "zh": "在本期节目中，Tristan Redman和Asma Khalid与BBC中国记者劳拉·比克（Laura Bicker）以及普利策奖得主、历史学家兼作家吉尔·莱波尔（Jill Lepore）进行了对话。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "threat",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI a threat to democracy? | The Global Story",
+          "exZh": "人工智能是对民主的威胁吗？|全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "democracy",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI a threat to democracy? | The Global Story",
+          "exZh": "人工智能是对民主的威胁吗？|全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Global",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI a threat to democracy? | The Global Story",
+          "exZh": "人工智能是对民主的威胁吗？|全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Story",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is AI a threat to democracy? | The Global Story",
+          "exZh": "人工智能是对民主的威胁吗？|全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-CkA4IDFdqpg",
+      "title": "A grandson on why life without his ‘Grams’ feels ‘empty’",
+      "titleZh": "一位孙子谈到为什么没有“奶奶”的生活感觉“空虚”",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
       "date": "2026-11-18",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Christopher Sciortino talked to his ‘Grams’ on the phone almost daily. She died in August, shortly after he rushed to her side.\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\nFor more of “All There Is with Anderson Cooper” visit cnn.com/allthereis\n\n#Grief #AndersonCooper #Podcast",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=uetghODqms4",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/uetghODqms4",
-      "articleUrl": "https://www.youtube.com/watch?v=uetghODqms4",
+      "videoUrl": "https://www.youtube.com/watch?v=CkA4IDFdqpg",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/CkA4IDFdqpg",
+      "articleUrl": "https://www.youtube.com/watch?v=CkA4IDFdqpg",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
-      "readingTextZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
+      "readingText": "Christopher Sciortino talked to his ‘Grams’ on the phone almost daily.\n\nShe died in August, shortly after he rushed to her side.\n\nWatch 24/7 live news with CNN Headlines: \nFor more of “All There Is with Anderson Cooper” visit cnn.com/allthereis",
+      "readingTextZh": "克里斯托弗·肖蒂诺（Christopher Sciortino）几乎每天都会和他的“奶奶”通电话。\n\n她于8月去世，就在他赶到她身边后不久。\n\n通过CNN Headlines观看24小时不间断的直播新闻： \n如需了解更多“All There Is with Anderson Cooper”的信息，请访问 cnn.com/allthereis",
       "sentences": [
         {
-          "en": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
-          "zh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
+          "en": "Christopher Sciortino talked to his ‘Grams’ on the phone almost daily.",
+          "zh": "克里斯托弗·肖蒂诺（Christopher Sciortino）几乎每天都会和他的“奶奶”通电话。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "She died in August, shortly after he rushed to her side.",
+          "zh": "她于8月去世，就在他赶到她身边后不久。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Watch 24/7 live news with CNN Headlines: \nFor more of “All There Is with Anderson Cooper” visit cnn.com/allthereis",
+          "zh": "通过CNN Headlines观看24小时不间断的直播新闻： \n如需了解更多“All There Is with Anderson Cooper”的信息，请访问 cnn.com/allthereis",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Waymo",
+          "word": "grandson",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
-          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
+          "ex": "A grandson on why life without his ‘Grams’ feels ‘empty’",
+          "exZh": "一位孙子谈到为什么没有“奶奶”的生活感觉“空虚”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "pulls",
+          "word": "life",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
-          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
+          "ex": "A grandson on why life without his ‘Grams’ feels ‘empty’",
+          "exZh": "一位孙子谈到为什么没有“奶奶”的生活感觉“空虚”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "driverless",
+          "word": "without",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
-          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
+          "ex": "A grandson on why life without his ‘Grams’ feels ‘empty’",
+          "exZh": "一位孙子谈到为什么没有“奶奶”的生活感觉“空虚”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "taxis",
+          "word": "Grams",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Waymo pulls driverless taxis from all US freeways. #BBCNews",
-          "exZh": "Waymo将无人驾驶出租车从美国所有高速公路上撤下。#BBC新闻",
+          "ex": "A grandson on why life without his ‘Grams’ feels ‘empty’",
+          "exZh": "一位孙子谈到为什么没有“奶奶”的生活感觉“空虚”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -246,229 +453,72 @@
       ]
     },
     {
-      "id": "video-ZDZoZzN-1ms",
-      "title": "What we learned from William and Kate's visit to India. #BBCNews",
-      "titleZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-18",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=ZDZoZzN-1ms",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/ZDZoZzN-1ms",
-      "articleUrl": "https://www.youtube.com/watch?v=ZDZoZzN-1ms",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "What we learned from William and Kate's visit to India. #BBCNews",
-      "readingTextZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
-      "sentences": [
-        {
-          "en": "What we learned from William and Kate's visit to India. #BBCNews",
-          "zh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "learned",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
-          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "William",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
-          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Kate's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
-          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "visit",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What we learned from William and Kate's visit to India. #BBCNews",
-          "exZh": "我们从威廉和凯特访问印度中学到了什么。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-DjuHdlTWH9c",
-      "title": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
-      "titleZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
-      "level": "C1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-19",
-      "minutes": 5,
-      "summary": "In an interview with The Telegraph, Prince Harry sits alongside Maksym Zubov, a Ukrainian Invictus Games competitor, to talk about his support for Ukraine and how he would join any potential UK fight against Russia, if needed.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=DjuHdlTWH9c",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/DjuHdlTWH9c",
-      "articleUrl": "https://www.youtube.com/watch?v=DjuHdlTWH9c",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "In an interview with The Telegraph, Prince Harry sits alongside Maksym Zubov, a Ukrainian Invictus Games competitor, to talk about his support for Ukraine and how he would join any potential UK fight against Russia, if needed.",
-      "readingTextZh": "在接受《每日电讯报》采访时，哈里王子与乌克兰勇士运动会参赛选手Maksym Zubov并肩而坐，谈论他对乌克兰的支持，以及如有需要，他将如何加入英国与俄罗斯的任何潜在战斗。",
-      "sentences": [
-        {
-          "en": "In an interview with The Telegraph, Prince Harry sits alongside Maksym Zubov, a Ukrainian Invictus Games competitor, to talk about his support for Ukraine and how he would join any potential UK fight against Russia, if needed.",
-          "zh": "在接受《每日电讯报》采访时，哈里王子与乌克兰勇士运动会参赛选手Maksym Zubov并肩而坐，谈论他对乌克兰的支持，以及如有需要，他将如何加入英国与俄罗斯的任何潜在战斗。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Prince",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
-          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Harry",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
-          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "ready",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
-          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "rejoin",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Prince Harry says he’s ready to rejoin the military to fight Russia if needed",
-          "exZh": "哈里王子表示，如有需要，他愿意重返军队与俄罗斯作战。",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-JcPj23wefuo",
-      "title": "FAA let contractors work w/o approval before ground stop: Sources",
-      "titleZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+      "id": "video-nl7MySIyYjY",
+      "title": "Trump Greets “My Friend” Putin; Touts “Outstanding Bond” with Xi",
+      "titleZh": "特朗普向“我的朋友”普京致意；吹捧与习近平的“牢固纽带”",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "minutes": 5,
-      "summary": "On the morning of last week’s historic nationwide ground stop, an FAA technician escorted a private contractor from L3Harris into a remote radio communications site for air traffic control centers in south Arkansas, to replace a decades-old router.\n\nThe FAA technician believed his role ended when the contractor entered the facility. He went about his own work without knowing exactly what the L3Harris engineer was doing, according to two sources familiar with what happened in the room, and the union that represents FAA technicians.\n\n0:00 What the FAA is saying about the contractors' work\n3:15 Is the administration being transparent enough?\n4:34 Is there a crisis with US leadership? A panel debates.\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #Travel #News",
+      "summary": "President Trump is back in the United Stats after a trilateral summit with Russian President Vladimir Putin and Chinese President Xi Jinping. According to officials, the three discussed reducing nuclear risks, increasing the supply of refined petroleum products, and making reforms to the international criminal courts.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=JcPj23wefuo",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/JcPj23wefuo",
-      "articleUrl": "https://www.youtube.com/watch?v=JcPj23wefuo",
+      "videoUrl": "https://www.youtube.com/watch?v=nl7MySIyYjY",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/nl7MySIyYjY",
+      "articleUrl": "https://www.youtube.com/watch?v=nl7MySIyYjY",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "On the morning of last week’s historic nationwide ground stop, an FAA technician escorted a private contractor from L3Harris into a remote radio communications site for air traffic control centers in south Arkansas, to replace a decades-old router.\n\nThe FAA technician believed his role ended when the contractor entered the facility.\n\nHe went about his own work without knowing exactly what the L3Harris engineer was doing, according to two sources familiar with what happened in the room, and the union that represents FAA technicians.",
-      "readingTextZh": "上周发生历史性的全国航班停飞的那个早晨，一名联邦航空管理局（FAA）的技术人员陪同L3Harris的一名私人承包商前往阿肯色州南部的空中交通管制中心的一个远程无线电通信站点，更换一台使用了数十年的路由器。\n\nFAA技术人员认为，当承包商进入设施时，他的职责就结束了。\n\n据两位熟悉该房间内情况的消息人士以及代表FAA技术人员的工会称，他忙于自己的工作，并不确切知道L3Harris工程师在做什么。",
+      "readingText": "President Trump is back in the United Stats after a trilateral summit with Russian President Vladimir Putin and Chinese President Xi Jinping.\n\nAccording to officials, the three discussed reducing nuclear risks, increasing the supply of refined petroleum products, and making reforms to the international criminal courts.",
+      "readingTextZh": "特朗普总统在与俄罗斯总统弗拉基米尔·普京和中国国家主席习近平举行三方峰会后返回美国。\n\n据官员透露，三方讨论了降低核风险、增加炼油产品供应以及对国际刑事法院进行改革等议题。",
       "sentences": [
         {
-          "en": "On the morning of last week’s historic nationwide ground stop, an FAA technician escorted a private contractor from L3Harris into a remote radio communications site for air traffic control centers in south Arkansas, to replace a decades-old router.",
-          "zh": "上周发生历史性的全国航班停飞的那个早晨，一名联邦航空管理局（FAA）的技术人员陪同L3Harris的一名私人承包商前往阿肯色州南部的空中交通管制中心的一个远程无线电通信站点，更换一台使用了数十年的路由器。",
+          "en": "President Trump is back in the United Stats after a trilateral summit with Russian President Vladimir Putin and Chinese President Xi Jinping.",
+          "zh": "特朗普总统在与俄罗斯总统弗拉基米尔·普京和中国国家主席习近平举行三方峰会后返回美国。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         },
         {
-          "en": "The FAA technician believed his role ended when the contractor entered the facility.",
-          "zh": "FAA技术人员认为，当承包商进入设施时，他的职责就结束了。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "He went about his own work without knowing exactly what the L3Harris engineer was doing, according to two sources familiar with what happened in the room, and the union that represents FAA technicians.",
-          "zh": "据两位熟悉该房间内情况的消息人士以及代表FAA技术人员的工会称，他忙于自己的工作，并不确切知道L3Harris工程师在做什么。",
+          "en": "According to officials, the three discussed reducing nuclear risks, increasing the supply of refined petroleum products, and making reforms to the international criminal courts.",
+          "zh": "据官员透露，三方讨论了降低核风险、增加炼油产品供应以及对国际刑事法院进行改革等议题。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "contractors",
+          "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
-          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "ex": "Trump Greets “My Friend” Putin; Touts “Outstanding Bond” with Xi",
+          "exZh": "特朗普向“我的朋友”普京致意；吹捧与习近平的“牢固纽带”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "work",
+          "word": "Greets",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
-          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "ex": "Trump Greets “My Friend” Putin; Touts “Outstanding Bond” with Xi",
+          "exZh": "特朗普向“我的朋友”普京致意；吹捧与习近平的“牢固纽带”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "approval",
+          "word": "Friend",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
-          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "ex": "Trump Greets “My Friend” Putin; Touts “Outstanding Bond” with Xi",
+          "exZh": "特朗普向“我的朋友”普京致意；吹捧与习近平的“牢固纽带”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "ground",
+          "word": "Putin",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "FAA let contractors work w/o approval before ground stop: Sources",
-          "exZh": "消息人士称，在停飞令下达之前，FAA允许承包商在未经批准的情况下开展工作",
+          "ex": "Trump Greets “My Friend” Putin; Touts “Outstanding Bond” with Xi",
+          "exZh": "特朗普向“我的朋友”普京致意；吹捧与习近平的“牢固纽带”",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -484,153 +534,153 @@
       ]
     },
     {
-      "id": "video-PG5NHoIBmS8",
-      "title": "Why some Democrats voted against nominating Jeffries to be House speaker",
-      "titleZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
+      "id": "video-eLHMdSWOoKw",
+      "title": "Trump’s cyber director quits; DHS chief sidelined; new cyberattacks",
+      "titleZh": "特朗普的网络安全主管辞职；国土安全部部长被边缘化；新的网络攻击",
+      "level": "B1",
+      "category": "TECHNOLOGY",
+      "source": "CNN · Official Video",
+      "date": "2026-11-20",
+      "minutes": 5,
+      "summary": "Trump's National Cyber Director, Sean Cairncross, has stepped down after multiple major tech outages disrupted people's lives nationwide. Also, Secretary of Homeland Security, Markwayne Mullin, has reportedly been sidelined from TV appearances after multiple controversial press appearances in the wake of the attacks. Meanwhile, an ex-NSA Hacker says there's been another major, yet-to-be-reported cyberattack.\n\n0:00 National Cyber Director steps down\n1:29 NSA goes into \"code orange\" after 3rd day of network outage\n4:43 Cyber expert David Kennedy talks about new cyber attack\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#AI #Technology #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=eLHMdSWOoKw",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/eLHMdSWOoKw",
+      "articleUrl": "https://www.youtube.com/watch?v=eLHMdSWOoKw",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Trump's National Cyber Director, Sean Cairncross, has stepped down after multiple major tech outages disrupted people's lives nationwide.\n\nAlso, Secretary of Homeland Security, Markwayne Mullin, has reportedly been sidelined from TV appearances after multiple controversial press appearances in the wake of the attacks.\n\nMeanwhile, an ex-NSA Hacker says there's been another major, yet-to-be-reported cyberattack.",
+      "readingTextZh": "在多起重大技术故障扰乱了全国人民的生活之后，特朗普的国家网络事务主任肖恩·凯恩克罗斯（Sean Cairncross）已辞职。\n\n此外，据报道，国土安全部部长马克韦恩·穆林（Markwayne Mullin）在袭击事件发生后多次在媒体上发表有争议的言论，因此被禁止上电视。\n\n与此同时，一位前美国国家安全局（NSA）黑客表示，又发生了一起尚未被报道的重大网络攻击事件。",
+      "sentences": [
+        {
+          "en": "Trump's National Cyber Director, Sean Cairncross, has stepped down after multiple major tech outages disrupted people's lives nationwide.",
+          "zh": "在多起重大技术故障扰乱了全国人民的生活之后，特朗普的国家网络事务主任肖恩·凯恩克罗斯（Sean Cairncross）已辞职。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Also, Secretary of Homeland Security, Markwayne Mullin, has reportedly been sidelined from TV appearances after multiple controversial press appearances in the wake of the attacks.",
+          "zh": "此外，据报道，国土安全部部长马克韦恩·穆林（Markwayne Mullin）在袭击事件发生后多次在媒体上发表有争议的言论，因此被禁止上电视。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Meanwhile, an ex-NSA Hacker says there's been another major, yet-to-be-reported cyberattack.",
+          "zh": "与此同时，一位前美国国家安全局（NSA）黑客表示，又发生了一起尚未被报道的重大网络攻击事件。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Trump",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump’s cyber director quits; DHS chief sidelined; new cyberattacks",
+          "exZh": "特朗普的网络安全主管辞职；国土安全部部长被边缘化；新的网络攻击",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "cyber",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump’s cyber director quits; DHS chief sidelined; new cyberattacks",
+          "exZh": "特朗普的网络安全主管辞职；国土安全部部长被边缘化；新的网络攻击",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "director",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump’s cyber director quits; DHS chief sidelined; new cyberattacks",
+          "exZh": "特朗普的网络安全主管辞职；国土安全部部长被边缘化；新的网络攻击",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "quits",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump’s cyber director quits; DHS chief sidelined; new cyberattacks",
+          "exZh": "特朗普的网络安全主管辞职；国土安全部部长被边缘化；新的网络攻击",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-x91hpPjiPUA",
+      "title": "Watch jet make nail-biting landing in Switzerland",
+      "titleZh": "观看喷气式飞机在瑞士惊险着陆",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "minutes": 5,
-      "summary": "Rep. Hakeem Jeffries won the Democratic nomination for House speaker in a 251-11 vote. CNN’s Manu Raju breaks down why some ultra-progressive Democrats opposed him, and the different dynamics he will have to navigate.",
+      "summary": "Video captured by Matthias Haenni appears to show the suspenseful moments before a jet landed safely in Bern, Switzerland, amid strong, gusty winds.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=PG5NHoIBmS8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/PG5NHoIBmS8",
-      "articleUrl": "https://www.youtube.com/watch?v=PG5NHoIBmS8",
+      "videoUrl": "https://www.youtube.com/watch?v=x91hpPjiPUA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/x91hpPjiPUA",
+      "articleUrl": "https://www.youtube.com/watch?v=x91hpPjiPUA",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Rep.\n\nHakeem Jeffries won the Democratic nomination for House speaker in a 251-11 vote.\n\nCNN’s Manu Raju breaks down why some ultra-progressive Democrats opposed him, and the different dynamics he will have to navigate.",
-      "readingTextZh": "共和国\n\n哈基姆·杰弗里斯以251票对11票的优势赢得民主党众议院议长提名。\n\nCNN的Manu Raju分析了为什么一些极度进步派的民主党人反对他，以及他将不得不应对的各种不同态势。",
+      "readingText": "Video captured by Matthias Haenni appears to show the suspenseful moments before a jet landed safely in Bern, Switzerland, amid strong, gusty winds.",
+      "readingTextZh": "Matthias Haenni拍摄的视频似乎展示了一架喷气式飞机在强劲的阵风中安全降落在瑞士伯尔尼之前的惊险时刻。",
       "sentences": [
         {
-          "en": "Rep.",
-          "zh": "共和国",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Hakeem Jeffries won the Democratic nomination for House speaker in a 251-11 vote.",
-          "zh": "哈基姆·杰弗里斯以251票对11票的优势赢得民主党众议院议长提名。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN’s Manu Raju breaks down why some ultra-progressive Democrats opposed him, and the different dynamics he will have to navigate.",
-          "zh": "CNN的Manu Raju分析了为什么一些极度进步派的民主党人反对他，以及他将不得不应对的各种不同态势。",
+          "en": "Video captured by Matthias Haenni appears to show the suspenseful moments before a jet landed safely in Bern, Switzerland, amid strong, gusty winds.",
+          "zh": "Matthias Haenni拍摄的视频似乎展示了一架喷气式飞机在强劲的阵风中安全降落在瑞士伯尔尼之前的惊险时刻。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "some",
+          "word": "Watch",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
-          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
+          "ex": "Watch jet make nail-biting landing in Switzerland",
+          "exZh": "观看喷气式飞机在瑞士惊险着陆",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Democrats",
+          "word": "make",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
-          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
+          "ex": "Watch jet make nail-biting landing in Switzerland",
+          "exZh": "观看喷气式飞机在瑞士惊险着陆",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "voted",
+          "word": "nail",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
-          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
+          "ex": "Watch jet make nail-biting landing in Switzerland",
+          "exZh": "观看喷气式飞机在瑞士惊险着陆",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "nominating",
+          "word": "biting",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Why some Democrats voted against nominating Jeffries to be House speaker",
-          "exZh": "为什么一些民主党人投票反对提名杰弗里斯担任众议院议长",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-wKLT4PVdxMY",
-      "title": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
-      "titleZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
-      "level": "C1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-19",
-      "minutes": 5,
-      "summary": "A long-lost 1930 Georgia O’Keeffe landscape painting discovered in a Manhattan apartment closet sold for over $4.8M at Christie’s 20th Century Evening Sale in New York on November 17, 2026.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=wKLT4PVdxMY",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/wKLT4PVdxMY",
-      "articleUrl": "https://www.youtube.com/watch?v=wKLT4PVdxMY",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "A long-lost 1930 Georgia O’Keeffe landscape painting discovered in a Manhattan apartment closet sold for over $4.8M at Christie’s 20th Century Evening Sale in New York on November 17, 2026.",
-      "readingTextZh": "一幅失踪已久的乔治亚·欧姬芙（Georgia O’Keeffe）1930年创作的风景画于2023年11月17日在纽约佳士得20世纪晚间拍卖会上以超过480万美元的价格售出。这幅画此前被发现藏于曼哈顿一间公寓的衣橱中。",
-      "sentences": [
-        {
-          "en": "A long-lost 1930 Georgia O’Keeffe landscape painting discovered in a Manhattan apartment closet sold for over $4.8M at Christie’s 20th Century Evening Sale in New York on November 17, 2026.",
-          "zh": "一幅失踪已久的乔治亚·欧姬芙（Georgia O’Keeffe）1930年创作的风景画于2023年11月17日在纽约佳士得20世纪晚间拍卖会上以超过480万美元的价格售出。这幅画此前被发现藏于曼哈顿一间公寓的衣橱中。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Georgia",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
-          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Keeffe",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
-          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "painting",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
-          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "found",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Georgia O’Keeffe painting found hidden away in a woman’s closet sells for over $4.8M",
-          "exZh": "一幅乔治亚·欧姬芙的画作被发现藏在一位女士的衣橱里，以超过480万美元的价格售出",
+          "ex": "Watch jet make nail-biting landing in Switzerland",
+          "exZh": "观看喷气式飞机在瑞士惊险着陆",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
