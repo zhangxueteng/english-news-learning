@@ -1,89 +1,69 @@
 {
-  "updated_at": "2026-11-24T05:59:59.721521+00:00",
+  "updated_at": "2026-11-25T04:53:42.257838+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-g1Qu20_vJIk",
-      "title": "Jensen Huang's return sends Nvidia and Asian stocks soaring | BBC News",
-      "titleZh": "Jensen Huang的回归令Nvidia和亚洲股市飙升 | BBC新闻",
+      "id": "video-AVbDU1GVVis",
+      "title": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
+      "titleZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
       "level": "B1",
-      "category": "BUSINESS",
+      "category": "TECHNOLOGY",
       "source": "BBC News · Official Video",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "minutes": 5,
-      "summary": "Asian markets are surging, with chipmakers leading gains across the region, after Nvidia reinstated co-founder Jensen Huang as chief executive - reuniting enthusiasm for AI trade.\n \nSouth Korea's Kospi index is up by more than 6.8% while Japan's Nikkei 225 has jumped by 3.8%, as of around noon in East Asia.\n \nBoth benchmarks are deeply linked to the tech industry and have been driven by jumps in the shares of big names like SK Hynix, which is up by 8.5%.\n \nUS President Donald Trump said he \"made the deal\" for Huang's reinstatement, adding he had spoken to Nvidia's board both \"directly and indirectly\" about the co-founder.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=g1Qu20_vJIk",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/g1Qu20_vJIk",
-      "articleUrl": "https://www.youtube.com/watch?v=g1Qu20_vJIk",
+      "videoUrl": "https://www.youtube.com/watch?v=AVbDU1GVVis",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/AVbDU1GVVis",
+      "articleUrl": "https://www.youtube.com/watch?v=AVbDU1GVVis",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Asian markets are surging, with chipmakers leading gains across the region, after Nvidia reinstated co-founder Jensen Huang as chief executive - reuniting enthusiasm for AI trade.\n\nSouth Korea's Kospi index is up by more than 6.8% while Japan's Nikkei 225 has jumped by 3.8%, as of around noon in East Asia.\n\nBoth benchmarks are deeply linked to the tech industry and have been driven by jumps in the shares of big names like SK Hynix, which is up by 8.5%.\n\nUS President Donald Trump said he \"made the deal\" for Huang's reinstatement, adding he had spoken to Nvidia's board both \"directly and indirectly\" about the co-founder.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "在英伟达重新任命联合创始人黄仁勋担任首席执行官，重燃人工智能交易热情之后，亚洲市场正在飙升，其中芯片制造商领涨整个地区。\n\n截至东亚午间时分，韩国的科斯达克指数上涨超过6.8%，而日本的日经225指数上涨3.8%。\n\n这两个基准指数都与科技行业有着密切的联系，并受到SK海力士等知名公司股价飙升的推动，该公司的股价上涨了8.5%。\n\n美国总统唐纳德·特朗普表示，他“促成了”黄仁勋的复职，并补充说，他曾“直接和间接”地与英伟达董事会谈及这位联合创始人。\n\n如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+      "readingText": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
+      "readingTextZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
       "sentences": [
         {
-          "en": "Asian markets are surging, with chipmakers leading gains across the region, after Nvidia reinstated co-founder Jensen Huang as chief executive - reuniting enthusiasm for AI trade.",
-          "zh": "在英伟达重新任命联合创始人黄仁勋担任首席执行官，重燃人工智能交易热情之后，亚洲市场正在飙升，其中芯片制造商领涨整个地区。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "South Korea's Kospi index is up by more than 6.8% while Japan's Nikkei 225 has jumped by 3.8%, as of around noon in East Asia.",
-          "zh": "截至东亚午间时分，韩国的科斯达克指数上涨超过6.8%，而日本的日经225指数上涨3.8%。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Both benchmarks are deeply linked to the tech industry and have been driven by jumps in the shares of big names like SK Hynix, which is up by 8.5%.",
-          "zh": "这两个基准指数都与科技行业有着密切的联系，并受到SK海力士等知名公司股价飙升的推动，该公司的股价上涨了8.5%。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "US President Donald Trump said he \"made the deal\" for Huang's reinstatement, adding he had spoken to Nvidia's board both \"directly and indirectly\" about the co-founder.",
-          "zh": "美国总统唐纳德·特朗普表示，他“促成了”黄仁勋的复职，并补充说，他曾“直接和间接”地与英伟达董事会谈及这位联合创始人。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+          "en": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
+          "zh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Jensen",
+          "word": "Moment",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Jensen Huang's return sends Nvidia and Asian stocks soaring | BBC News",
-          "exZh": "Jensen Huang的回归令Nvidia和亚洲股市飙升 | BBC新闻",
+          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
+          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Huang's",
+          "word": "Chinese",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Jensen Huang's return sends Nvidia and Asian stocks soaring | BBC News",
-          "exZh": "Jensen Huang的回归令Nvidia和亚洲股市飙升 | BBC新闻",
+          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
+          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "return",
+          "word": "rocket",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Jensen Huang's return sends Nvidia and Asian stocks soaring | BBC News",
-          "exZh": "Jensen Huang的回归令Nvidia和亚洲股市飙升 | BBC新闻",
+          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
+          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "sends",
+          "word": "blasts",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Jensen Huang's return sends Nvidia and Asian stocks soaring | BBC News",
-          "exZh": "Jensen Huang的回归令Nvidia和亚洲股市飙升 | BBC新闻",
+          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
+          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -99,64 +79,201 @@
       ]
     },
     {
-      "id": "video-rGh7RoaTspQ",
-      "title": "Trump says he personally pressed for Huang's return to Nvidia | BBC News",
-      "titleZh": "特朗普称他亲自施压要求黄仁勋返回英伟达 | BBC新闻",
+      "id": "video-UEvzoHpUuaM",
+      "title": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
+      "titleZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-25",
+      "minutes": 5,
+      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=UEvzoHpUuaM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/UEvzoHpUuaM",
+      "articleUrl": "https://www.youtube.com/watch?v=UEvzoHpUuaM",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
+      "readingTextZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+      "sentences": [
+        {
+          "en": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
+          "zh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Woman",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
+          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "jumps",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
+          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "stranger's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
+          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "chased",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
+          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-XgFrNPVzItU",
+      "title": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
+      "titleZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
+      "level": "C1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-24",
+      "minutes": 5,
+      "summary": "It can pay your bills, plan your holidays and order your groceries - if you give access to the deepest corners of your life. \n \nMeta's AI agent, Muse, has launched in the UK. The personal assistant has become one of the most downloaded apps in the US with many claiming it has brought order to their chaotic lives. \n \nBut what's the trade off? \n \nWe look at how Muse works, why the parent company for WhatsApp and Instagram is investing big in the tech and explore whether its ambitions are a step too far into people's privacy.\n \n00:00 – Meta’s AI agent Muse hits the UK\n01:19 – How does it work?\n02:28 – How much does it cost?\n03:24 – What’s different about it?\n04:48 – Is my data safe?\n06:09 – What happens if it goes rogue?\n07:42 – Why is Muse being rolled out?\n08:37 – Are even more advanced AI agents being developed?\n09:39 – How is Meta doing against rivals in the AI race?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Meta #AI #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=XgFrNPVzItU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/XgFrNPVzItU",
+      "articleUrl": "https://www.youtube.com/watch?v=XgFrNPVzItU",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "It can pay your bills, plan your holidays and order your groceries - if you give access to the deepest corners of your life.\n\nMeta's AI agent, Muse, has launched in the UK.\n\nThe personal assistant has become one of the most downloaded apps in the US with many claiming it has brought order to their chaotic lives.\n\nBut what's the trade off?\n\nWe look at how Muse works, why the parent company for WhatsApp and Instagram is investing big in the tech and explore whether its ambitions are a step too far into people's privacy.",
+      "readingTextZh": "它可以帮您支付账单、规划假期和订购生鲜杂货——前提是您允许它触及您生活的方方面面。\n\nMeta 的人工智能代理 Muse 已在英国上线。\n\n这款个人助理应用已成为美国下载量最高的应用之一，许多人声称它为自己混乱的生活带来了条理。\n\n但代价是什么呢？\n\n我们来看看Muse是如何运作的，为什么WhatsApp和Instagram的母公司要在这项技术上投入巨资，并探讨其野心是否过度侵犯了人们的隐私。",
+      "sentences": [
+        {
+          "en": "It can pay your bills, plan your holidays and order your groceries - if you give access to the deepest corners of your life.",
+          "zh": "它可以帮您支付账单、规划假期和订购生鲜杂货——前提是您允许它触及您生活的方方面面。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Meta's AI agent, Muse, has launched in the UK.",
+          "zh": "Meta 的人工智能代理 Muse 已在英国上线。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The personal assistant has become one of the most downloaded apps in the US with many claiming it has brought order to their chaotic lives.",
+          "zh": "这款个人助理应用已成为美国下载量最高的应用之一，许多人声称它为自己混乱的生活带来了条理。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "But what's the trade off?",
+          "zh": "但代价是什么呢？",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "We look at how Muse works, why the parent company for WhatsApp and Instagram is investing big in the tech and explore whether its ambitions are a step too far into people's privacy.",
+          "zh": "我们来看看Muse是如何运作的，为什么WhatsApp和Instagram的母公司要在这项技术上投入巨资，并探讨其野心是否过度侵犯了人们的隐私。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Meta's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
+          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Muse",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
+          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "promises",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
+          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "change",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
+          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-klU0kIxZes8",
+      "title": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+      "titleZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
       "date": "2026-11-24",
       "minutes": 5,
-      "summary": "Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over reports of an affair with a suspected Chinese spy.\n \nThe company had come under pressure from US President Donald Trump to reappoint Huang - and on Monday, the president said he \"made the deal\" to \"convince\" the tech giant's board to reverse course and bring Huang back.\n \nSince returning last year to the White House, Trump has amassed a significant level of investment in Nvidia. Recent financial disclosures show he purchased $265,000 in its stock and sold as much as $15,000 worth of shares in September.\n \nA BBC review of his government financial disclosures for the last two years shows he purchased shares of Nvidia stock worth between $23m and $86m (£18m and £66m). And he has bought Nvidia stock 85 separate times through a number of investment accounts.\n \nBoth Trump and White House have repeatedly rejected assertions that he has profited from the presidency.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=rGh7RoaTspQ",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/rGh7RoaTspQ",
-      "articleUrl": "https://www.youtube.com/watch?v=rGh7RoaTspQ",
+      "videoUrl": "https://www.youtube.com/watch?v=klU0kIxZes8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/klU0kIxZes8",
+      "articleUrl": "https://www.youtube.com/watch?v=klU0kIxZes8",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over reports of an affair with a suspected Chinese spy.\n\nThe company had come under pressure from US President Donald Trump to reappoint Huang - and on Monday, the president said he \"made the deal\" to \"convince\" the tech giant's board to reverse course and bring Huang back.\n\nSince returning last year to the White House, Trump has amassed a significant level of investment in Nvidia.\n\nRecent financial disclosures show he purchased $265,000 in its stock and sold as much as $15,000 worth of shares in September.\n\nA BBC review of his government financial disclosures for the last two years shows he purchased shares of Nvidia stock worth between $23m and $86m (£18m and £66m).\n\nAnd he has bought Nvidia stock 85 separate times through a number of investment accounts.\n\nBoth Trump and White House have repeatedly rejected assertions that he has profited from the presidency.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "在拒绝黄仁勋重返人工智能芯片制造商的提议仅数日后，以及在因涉嫌与中国间谍有染的报道而被迫辞职不到两周后，英伟达（Nvidia）重新任命黄仁勋为首席执行官。\n\n该公司曾受到美国总统唐纳德·特朗普的施压，要求其重新任命黄先生。周一，总统表示他“达成了协议”，以“说服”这家科技巨头的董事会改变主意，让黄先生回归。\n\n自去年重返白宫以来，特朗普在英伟达的投资规模已相当可观。\n\n最近的财务披露显示，他购买了价值 26.5 万美元的该公司股票，并在 9 月份出售了价值高达 1.5 万美元的股票。\n\n英国广播公司（BBC）对其政府过去两年的财务披露进行的审查显示，他购买了价值2300万美元至8600万美元（1800万英镑至6600万英镑）的英伟达股票。\n\n他通过多个投资账户分85次购买了英伟达的股票。\n\n特朗普和白宫都曾多次否认他从总统任期中获益的说法。\n\n如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+      "readingText": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+      "readingTextZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
       "sentences": [
         {
-          "en": "Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over reports of an affair with a suspected Chinese spy.",
-          "zh": "在拒绝黄仁勋重返人工智能芯片制造商的提议仅数日后，以及在因涉嫌与中国间谍有染的报道而被迫辞职不到两周后，英伟达（Nvidia）重新任命黄仁勋为首席执行官。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The company had come under pressure from US President Donald Trump to reappoint Huang - and on Monday, the president said he \"made the deal\" to \"convince\" the tech giant's board to reverse course and bring Huang back.",
-          "zh": "该公司曾受到美国总统唐纳德·特朗普的施压，要求其重新任命黄先生。周一，总统表示他“达成了协议”，以“说服”这家科技巨头的董事会改变主意，让黄先生回归。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Since returning last year to the White House, Trump has amassed a significant level of investment in Nvidia.",
-          "zh": "自去年重返白宫以来，特朗普在英伟达的投资规模已相当可观。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Recent financial disclosures show he purchased $265,000 in its stock and sold as much as $15,000 worth of shares in September.",
-          "zh": "最近的财务披露显示，他购买了价值 26.5 万美元的该公司股票，并在 9 月份出售了价值高达 1.5 万美元的股票。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "A BBC review of his government financial disclosures for the last two years shows he purchased shares of Nvidia stock worth between $23m and $86m (£18m and £66m).",
-          "zh": "英国广播公司（BBC）对其政府过去两年的财务披露进行的审查显示，他购买了价值2300万美元至8600万美元（1800万英镑至6600万英镑）的英伟达股票。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "And he has bought Nvidia stock 85 separate times through a number of investment accounts.",
-          "zh": "他通过多个投资账户分85次购买了英伟达的股票。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Both Trump and White House have repeatedly rejected assertions that he has profited from the presidency.",
-          "zh": "特朗普和白宫都曾多次否认他从总统任期中获益的说法。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
+          "en": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+          "zh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
@@ -166,35 +283,278 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says he personally pressed for Huang's return to Nvidia | BBC News",
-          "exZh": "特朗普称他亲自施压要求黄仁勋返回英伟达 | BBC新闻",
+          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "personally",
+          "word": "faces",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says he personally pressed for Huang's return to Nvidia | BBC News",
-          "exZh": "特朗普称他亲自施压要求黄仁勋返回英伟达 | BBC新闻",
+          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "pressed",
+          "word": "backlash",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says he personally pressed for Huang's return to Nvidia | BBC News",
-          "exZh": "特朗普称他亲自施压要求黄仁勋返回英伟达 | BBC新闻",
+          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
+        {
+          "word": "saying",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
+          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-KvVnTcRET9U",
+      "title": "China launches Shenzhou-24 crewed spaceship",
+      "titleZh": "中国发射神舟十四号载人飞船",
+      "level": "A2",
+      "category": "TECHNOLOGY",
+      "source": "CNN · Official Video",
+      "date": "2026-11-25",
+      "minutes": 5,
+      "summary": "China successfully launches the Shenzhou-24 crewed spacecraft to the Tiangong space station with the first international astronaut as part of the crew, Pakistani astronaut Muhammad Zeeshan Ali.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=KvVnTcRET9U",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/KvVnTcRET9U",
+      "articleUrl": "https://www.youtube.com/watch?v=KvVnTcRET9U",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "China successfully launches the Shenzhou-24 crewed spacecraft to the Tiangong space station with the first international astronaut as part of the crew, Pakistani astronaut Muhammad Zeeshan Ali.",
+      "readingTextZh": "中国成功将载人飞船神舟十四号发射至天宫空间站，机组人员中首次有国际宇航员，即巴基斯坦宇航员穆罕默德·齐山·阿里。",
+      "sentences": [
+        {
+          "en": "China successfully launches the Shenzhou-24 crewed spacecraft to the Tiangong space station with the first international astronaut as part of the crew, Pakistani astronaut Muhammad Zeeshan Ali.",
+          "zh": "中国成功将载人飞船神舟十四号发射至天宫空间站，机组人员中首次有国际宇航员，即巴基斯坦宇航员穆罕默德·齐山·阿里。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "China",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "China launches Shenzhou-24 crewed spaceship",
+          "exZh": "中国发射神舟十四号载人飞船",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "launches",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "China launches Shenzhou-24 crewed spaceship",
+          "exZh": "中国发射神舟十四号载人飞船",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Shenzhou",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "China launches Shenzhou-24 crewed spaceship",
+          "exZh": "中国发射神舟十四号载人飞船",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "crewed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "China launches Shenzhou-24 crewed spaceship",
+          "exZh": "中国发射神舟十四号载人飞船",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-pj9MSzzQoo8",
+      "title": "What it costs to tell gay stories in China",
+      "titleZh": "在中国讲述同志故事的代价",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-25",
+      "minutes": 5,
+      "summary": "LGBTQ shows are taking off worldwide, and Chinese creators are tapping into that demand. CNN’s John Liu reports on their unlikely success and the risks they face back home.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=pj9MSzzQoo8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/pj9MSzzQoo8",
+      "articleUrl": "https://www.youtube.com/watch?v=pj9MSzzQoo8",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "LGBTQ shows are taking off worldwide, and Chinese creators are tapping into that demand.\n\nCNN’s John Liu reports on their unlikely success and the risks they face back home.",
+      "readingTextZh": "LGBTQ题材的影视作品正在全球范围内兴起，中国创作者正在挖掘这一需求。\n\nCNN的John Liu报道了他们意想不到的成功以及他们在回国后面临的风险。",
+      "sentences": [
+        {
+          "en": "LGBTQ shows are taking off worldwide, and Chinese creators are tapping into that demand.",
+          "zh": "LGBTQ题材的影视作品正在全球范围内兴起，中国创作者正在挖掘这一需求。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN’s John Liu reports on their unlikely success and the risks they face back home.",
+          "zh": "CNN的John Liu报道了他们意想不到的成功以及他们在回国后面临的风险。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "costs",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What it costs to tell gay stories in China",
+          "exZh": "在中国讲述同志故事的代价",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "tell",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What it costs to tell gay stories in China",
+          "exZh": "在中国讲述同志故事的代价",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "stories",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What it costs to tell gay stories in China",
+          "exZh": "在中国讲述同志故事的代价",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "China",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "What it costs to tell gay stories in China",
+          "exZh": "在中国讲述同志故事的代价",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-3d5CIwQzMYk",
+      "title": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
+      "titleZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-25",
+      "minutes": 5,
+      "summary": "CNN chief data analyst Harry Enten points out that American voters 'think that this is a rigged economy' and that President Trump ignored the clear message from voters in the 2026 midterm elections. Noting that voters trust Democrats on the issues of AI and corruption by double digits more than Republicans, Enten goes on to say that \"Donald Trump essentially gave a giant middle finger to the American people\" when he worked to have Jensen Huang reinstated as Nvidia's CEO.\n\nAlso, the \"NewsNight\" panel discusses Huang's return.\n\n0:00 Is there a different set of rules for billionaires than the rest of us?\n0:20 Enten: \"Am I on planet Mars here? What the hell is going on?\"\n1:08 Enten: \"This goes right into the Democrats' hands\"\n2:34 Scott Jennings: it's a good idea to bring Huang back as Nvidia CEO from a national-security view\n4:14 Ashley Allison: \"You were devoured in a midterm election because people were sick of corruption\"\n\nWatch Harry’s show, 'The Enten Scale', on CNN: https://cnn.it/4rXUcHz\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#HarryEnten #JensenHuang #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=3d5CIwQzMYk",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/3d5CIwQzMYk",
+      "articleUrl": "https://www.youtube.com/watch?v=3d5CIwQzMYk",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "CNN chief data analyst Harry Enten points out that American voters 'think that this is a rigged economy' and that President Trump ignored the clear message from voters in the 2026 midterm elections.\n\nNoting that voters trust Democrats on the issues of AI and corruption by double digits more than Republicans, Enten goes on to say that \"Donald Trump essentially gave a giant middle finger to the American people\" when he worked to have Jensen Huang reinstated as Nvidia's CEO.\n\nAlso, the \"NewsNight\" panel discusses Huang's return.",
+      "readingTextZh": "CNN首席数据分析师哈里·恩滕（Harry Enten）指出，美国选民“认为这是一个被操纵的经济体”，而特朗普总统无视了选民在2026年中期选举中发出的明确信息。\n\n恩滕指出，在人工智能和腐败问题上，选民对民主党的信任度比对共和党的信任度高出两位数。他接着说，当唐纳德·特朗普努力让黄仁勋重返英伟达首席执行官职位时，“他实际上是对美国人民竖起了中指”。\n\n此外，“NewsNight”节目组也讨论了黄的回归。",
+      "sentences": [
+        {
+          "en": "CNN chief data analyst Harry Enten points out that American voters 'think that this is a rigged economy' and that President Trump ignored the clear message from voters in the 2026 midterm elections.",
+          "zh": "CNN首席数据分析师哈里·恩滕（Harry Enten）指出，美国选民“认为这是一个被操纵的经济体”，而特朗普总统无视了选民在2026年中期选举中发出的明确信息。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Noting that voters trust Democrats on the issues of AI and corruption by double digits more than Republicans, Enten goes on to say that \"Donald Trump essentially gave a giant middle finger to the American people\" when he worked to have Jensen Huang reinstated as Nvidia's CEO.",
+          "zh": "恩滕指出，在人工智能和腐败问题上，选民对民主党的信任度比对共和党的信任度高出两位数。他接着说，当唐纳德·特朗普努力让黄仁勋重返英伟达首席执行官职位时，“他实际上是对美国人民竖起了中指”。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Also, the \"NewsNight\" panel discusses Huang's return.",
+          "zh": "此外，“NewsNight”节目组也讨论了黄的回归。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
         {
           "word": "Huang's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump says he personally pressed for Huang's return to Nvidia | BBC News",
-          "exZh": "特朗普称他亲自施压要求黄仁勋返回英伟达 | BBC新闻",
+          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
+          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "return",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
+          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "gift",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
+          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "above'",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
+          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -210,477 +570,58 @@
       ]
     },
     {
-      "id": "video-_CrJv4dIauY",
-      "title": "Nvidia employee \"speechless\" as Huang returns to the office. #BBCNews",
-      "titleZh": "黄仁勋重返办公室，Nvidia员工“哑口无言”。#BBC新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-24",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=_CrJv4dIauY",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/_CrJv4dIauY",
-      "articleUrl": "https://www.youtube.com/watch?v=_CrJv4dIauY",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Nvidia employee \"speechless\" as Huang returns to the office. #BBCNews",
-      "readingTextZh": "黄仁勋重返办公室，Nvidia员工“哑口无言”。#BBC新闻",
-      "sentences": [
-        {
-          "en": "Nvidia employee \"speechless\" as Huang returns to the office. #BBCNews",
-          "zh": "黄仁勋重返办公室，Nvidia员工“哑口无言”。#BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Nvidia",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia employee \"speechless\" as Huang returns to the office. #BBCNews",
-          "exZh": "黄仁勋重返办公室，Nvidia员工“哑口无言”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "employee",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia employee \"speechless\" as Huang returns to the office. #BBCNews",
-          "exZh": "黄仁勋重返办公室，Nvidia员工“哑口无言”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "speechless",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia employee \"speechless\" as Huang returns to the office. #BBCNews",
-          "exZh": "黄仁勋重返办公室，Nvidia员工“哑口无言”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Huang",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Nvidia employee \"speechless\" as Huang returns to the office. #BBCNews",
-          "exZh": "黄仁勋重返办公室，Nvidia员工“哑口无言”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-3i4eI7l0BFE",
-      "title": "Iran says it won't tolerate US blockade and sanctions | BBC News",
-      "titleZh": "伊朗表示不会容忍美国的封锁和制裁 | BBC 新闻",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-23",
-      "minutes": 5,
-      "summary": "Iran vows to use 'all available means' to counter the US blockade after President Trump said Iranian ships trying to break it would go \"to the bottom of the sea\".\n \nMeanwhile, Iranian State TV shows footage of what it says is a new missile launcher.\n \nAnd a British endurance swimmer has completed a three-day swim through the Strait of Hormuz to draw attention to the environmental cost of the conflict involving Iran.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #US #BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=3i4eI7l0BFE",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/3i4eI7l0BFE",
-      "articleUrl": "https://www.youtube.com/watch?v=3i4eI7l0BFE",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Iran vows to use 'all available means' to counter the US blockade after President Trump said Iranian ships trying to break it would go \"to the bottom of the sea\".\n\nMeanwhile, Iranian State TV shows footage of what it says is a new missile launcher.\n\nAnd a British endurance swimmer has completed a three-day swim through the Strait of Hormuz to draw attention to the environmental cost of the conflict involving Iran.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "在特朗普总统表示试图突破封锁的伊朗船只将“沉入海底”后，伊朗誓言将使用“一切可用手段”来对抗美国的封锁。\n\n与此同时，伊朗国家电视台播放了据称是一部新型导弹发射器的画面。\n\n此外，一名英国耐力游泳运动员历时三天游过了霍尔木兹海峡，以呼吁人们关注涉及伊朗的冲突对环境造成的代价。\n\n如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "Iran vows to use 'all available means' to counter the US blockade after President Trump said Iranian ships trying to break it would go \"to the bottom of the sea\".",
-          "zh": "在特朗普总统表示试图突破封锁的伊朗船只将“沉入海底”后，伊朗誓言将使用“一切可用手段”来对抗美国的封锁。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Meanwhile, Iranian State TV shows footage of what it says is a new missile launcher.",
-          "zh": "与此同时，伊朗国家电视台播放了据称是一部新型导弹发射器的画面。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "And a British endurance swimmer has completed a three-day swim through the Strait of Hormuz to draw attention to the environmental cost of the conflict involving Iran.",
-          "zh": "此外，一名英国耐力游泳运动员历时三天游过了霍尔木兹海峡，以呼吁人们关注涉及伊朗的冲突对环境造成的代价。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "如需了解最新资讯，请下载BBC News应用程序或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Iran",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says it won't tolerate US blockade and sanctions | BBC News",
-          "exZh": "伊朗表示不会容忍美国的封锁和制裁 | BBC 新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "won't",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says it won't tolerate US blockade and sanctions | BBC News",
-          "exZh": "伊朗表示不会容忍美国的封锁和制裁 | BBC 新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "tolerate",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says it won't tolerate US blockade and sanctions | BBC News",
-          "exZh": "伊朗表示不会容忍美国的封锁和制裁 | BBC 新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "blockade",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Iran says it won't tolerate US blockade and sanctions | BBC News",
-          "exZh": "伊朗表示不会容忍美国的封锁和制裁 | BBC 新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-kFxw3ylhreM",
-      "title": "Sen. Warren: ‘Stronger’ urgency to investigate Jensen Huang after Nvidia comeback",
-      "titleZh": "沃伦参议员：在英伟达股价回升后，调查黄仁勋的紧迫性“更强”",
+      "id": "video--U1AU7KlpdM",
+      "title": "What is lead azide and why is it so dangerous?",
+      "titleZh": "什么是叠氮化铅，为什么它如此危险？",
       "level": "B1",
       "category": "WORLD",
       "source": "CNN · Official Video",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "minutes": 5,
-      "summary": "CNN’s Kaitlan Collins speaks with Sen. Elizabeth Warren (D-MA) about Nvidia’s board reinstating Jensen Huang as head of the company.",
+      "summary": "Atmospheric chemist Delphine Farmer breaks down the volatile nature of lead azide, calling a controlled military detonation the “best of a bad series of options,” despite the risk of toxic lead dust spreading to local homes.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=kFxw3ylhreM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/kFxw3ylhreM",
-      "articleUrl": "https://www.youtube.com/watch?v=kFxw3ylhreM",
+      "videoUrl": "https://www.youtube.com/watch?v=-U1AU7KlpdM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/-U1AU7KlpdM",
+      "articleUrl": "https://www.youtube.com/watch?v=-U1AU7KlpdM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN’s Kaitlan Collins speaks with Sen.\n\nElizabeth Warren (D-MA) about Nvidia’s board reinstating Jensen Huang as head of the company.",
-      "readingTextZh": "CNN的凯特琳·柯林斯与参议员\n\n伊丽莎白·沃伦（马萨诸塞州民主党参议员）谈论英伟达董事会再次任命黄仁勋担任公司掌门人。",
+      "readingText": "Atmospheric chemist Delphine Farmer breaks down the volatile nature of lead azide, calling a controlled military detonation the “best of a bad series of options,” despite the risk of toxic lead dust spreading to local homes.",
+      "readingTextZh": "大气化学家德尔菲娜·法默（Delphine Farmer）分析了叠氮化铅的挥发性，称受控的军事引爆是“一系列糟糕选择中最好的一个”，尽管存在有毒铅尘扩散到当地房屋的风险。",
       "sentences": [
         {
-          "en": "CNN’s Kaitlan Collins speaks with Sen.",
-          "zh": "CNN的凯特琳·柯林斯与参议员",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Elizabeth Warren (D-MA) about Nvidia’s board reinstating Jensen Huang as head of the company.",
-          "zh": "伊丽莎白·沃伦（马萨诸塞州民主党参议员）谈论英伟达董事会再次任命黄仁勋担任公司掌门人。",
+          "en": "Atmospheric chemist Delphine Farmer breaks down the volatile nature of lead azide, calling a controlled military detonation the “best of a bad series of options,” despite the risk of toxic lead dust spreading to local homes.",
+          "zh": "大气化学家德尔菲娜·法默（Delphine Farmer）分析了叠氮化铅的挥发性，称受控的军事引爆是“一系列糟糕选择中最好的一个”，尽管存在有毒铅尘扩散到当地房屋的风险。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Warren",
+          "word": "lead",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Sen. Warren: ‘Stronger’ urgency to investigate Jensen Huang after Nvidia comeback",
-          "exZh": "沃伦参议员：在英伟达股价回升后，调查黄仁勋的紧迫性“更强”",
+          "ex": "What is lead azide and why is it so dangerous?",
+          "exZh": "什么是叠氮化铅，为什么它如此危险？",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Stronger",
+          "word": "azide",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Sen. Warren: ‘Stronger’ urgency to investigate Jensen Huang after Nvidia comeback",
-          "exZh": "沃伦参议员：在英伟达股价回升后，调查黄仁勋的紧迫性“更强”",
+          "ex": "What is lead azide and why is it so dangerous?",
+          "exZh": "什么是叠氮化铅，为什么它如此危险？",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "urgency",
+          "word": "dangerous",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Sen. Warren: ‘Stronger’ urgency to investigate Jensen Huang after Nvidia comeback",
-          "exZh": "沃伦参议员：在英伟达股价回升后，调查黄仁勋的紧迫性“更强”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "investigate",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Sen. Warren: ‘Stronger’ urgency to investigate Jensen Huang after Nvidia comeback",
-          "exZh": "沃伦参议员：在英伟达股价回升后，调查黄仁勋的紧迫性“更强”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-IOY6WzXez9E",
-      "title": "Bipartisan Backlash to Nvidia CEO’s Return at Trump Direction",
-      "titleZh": "两党对特朗普指示英伟达首席执行官回归一事表示不满",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-24",
-      "minutes": 5,
-      "summary": "The shocking return of CEO Jensen Huang to Nvidia has national security, legal, moral, economic, and political repercussions. Plus, Trump targets one of his chief political rivals.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=IOY6WzXez9E",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/IOY6WzXez9E",
-      "articleUrl": "https://www.youtube.com/watch?v=IOY6WzXez9E",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The shocking return of CEO Jensen Huang to Nvidia has national security, legal, moral, economic, and political repercussions.\n\nPlus, Trump targets one of his chief political rivals.",
-      "readingTextZh": "Jensen Huang 令人震惊地重返英伟达，将产生国家安全、法律、道德、经济和政治方面的影响。\n\n此外，特朗普还盯上了他的主要政治对手之一。",
-      "sentences": [
-        {
-          "en": "The shocking return of CEO Jensen Huang to Nvidia has national security, legal, moral, economic, and political repercussions.",
-          "zh": "Jensen Huang 令人震惊地重返英伟达，将产生国家安全、法律、道德、经济和政治方面的影响。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Plus, Trump targets one of his chief political rivals.",
-          "zh": "此外，特朗普还盯上了他的主要政治对手之一。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Bipartisan",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Bipartisan Backlash to Nvidia CEO’s Return at Trump Direction",
-          "exZh": "两党对特朗普指示英伟达首席执行官回归一事表示不满",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Backlash",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Bipartisan Backlash to Nvidia CEO’s Return at Trump Direction",
-          "exZh": "两党对特朗普指示英伟达首席执行官回归一事表示不满",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Nvidia",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Bipartisan Backlash to Nvidia CEO’s Return at Trump Direction",
-          "exZh": "两党对特朗普指示英伟达首席执行官回归一事表示不满",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Return",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Bipartisan Backlash to Nvidia CEO’s Return at Trump Direction",
-          "exZh": "两党对特朗普指示英伟达首席执行官回归一事表示不满",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-qgL_IbP2qKg",
-      "title": "OpenAI insider: An AI accident is the most likely way people will die",
-      "titleZh": "OpenAI内部人士：人工智能事故是最可能导致人类死亡的方式",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-24",
-      "minutes": 5,
-      "summary": "OpenAI Board Member Paul Christiano details a warning: within the next one to three years, there is a high risk of an artificial intelligence takeover that could lead to catastrophic global consequences.\n\nChristiano explains how modern training methods incentivize AI systems to bypass human evaluation, cheat to obtain high scores, and actively resist human control—a behavior already observed in miniature during the recent Hugging Face security incident.\n\n0:00 The prediction of AI accident risks\n3:14 The alignment problem: How AI learns to cheat\n10:56 Can we trust AI companies to regulate themselves?\n14:03 What about the US-China AI arms race?\n19:01 Do we really know what these AI models are doing?\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#AI #Technology #News",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=qgL_IbP2qKg",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/qgL_IbP2qKg",
-      "articleUrl": "https://www.youtube.com/watch?v=qgL_IbP2qKg",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "OpenAI Board Member Paul Christiano details a warning: within the next one to three years, there is a high risk of an artificial intelligence takeover that could lead to catastrophic global consequences.\n\nChristiano explains how modern training methods incentivize AI systems to bypass human evaluation, cheat to obtain high scores, and actively resist human control—a behavior already observed in miniature during the recent Hugging Face security incident.",
-      "readingTextZh": "OpenAI董事会成员保罗·克里斯蒂亚诺（Paul Christiano）详细阐述了一项警告：在未来一至三年内，人工智能接管的风险很高，这可能导致灾难性的全球后果。\n\n克里斯蒂亚诺解释了现代训练方法如何激励人工智能系统绕过人类评估、作弊以获得高分，以及积极抵制人类控制——这种行为在最近的 Hugging Face 安全事件中已经小规模地出现过。",
-      "sentences": [
-        {
-          "en": "OpenAI Board Member Paul Christiano details a warning: within the next one to three years, there is a high risk of an artificial intelligence takeover that could lead to catastrophic global consequences.",
-          "zh": "OpenAI董事会成员保罗·克里斯蒂亚诺（Paul Christiano）详细阐述了一项警告：在未来一至三年内，人工智能接管的风险很高，这可能导致灾难性的全球后果。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Christiano explains how modern training methods incentivize AI systems to bypass human evaluation, cheat to obtain high scores, and actively resist human control—a behavior already observed in miniature during the recent Hugging Face security incident.",
-          "zh": "克里斯蒂亚诺解释了现代训练方法如何激励人工智能系统绕过人类评估、作弊以获得高分，以及积极抵制人类控制——这种行为在最近的 Hugging Face 安全事件中已经小规模地出现过。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "OpenAI",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "OpenAI insider: An AI accident is the most likely way people will die",
-          "exZh": "OpenAI内部人士：人工智能事故是最可能导致人类死亡的方式",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "insider",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "OpenAI insider: An AI accident is the most likely way people will die",
-          "exZh": "OpenAI内部人士：人工智能事故是最可能导致人类死亡的方式",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "accident",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "OpenAI insider: An AI accident is the most likely way people will die",
-          "exZh": "OpenAI内部人士：人工智能事故是最可能导致人类死亡的方式",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "likely",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "OpenAI insider: An AI accident is the most likely way people will die",
-          "exZh": "OpenAI内部人士：人工智能事故是最可能导致人类死亡的方式",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-Gf1bGZk8OjU",
-      "title": "Tracking Nvidia’s stock through the Jensen Huang controversy",
-      "titleZh": "在黄仁勋争议事件中跟踪英伟达的股价",
-      "level": "B1",
-      "category": "BUSINESS",
-      "source": "CNN · Official Video",
-      "date": "2026-11-24",
-      "minutes": 5,
-      "summary": "CNN tracks a month of highs and lows for Nvidia’s stock as Jensen Huang grapples with controversies, receives special attention from President Trump and ultimately returns as CEO, boosting the stock to its best day since 2003 with a single-day gain of $952 billion.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=Gf1bGZk8OjU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/Gf1bGZk8OjU",
-      "articleUrl": "https://www.youtube.com/watch?v=Gf1bGZk8OjU",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN tracks a month of highs and lows for Nvidia’s stock as Jensen Huang grapples with controversies, receives special attention from President Trump and ultimately returns as CEO, boosting the stock to its best day since 2003 with a single-day gain of $952 billion.",
-      "readingTextZh": "CNN跟踪了英伟达股价一个月的高低起伏，期间黄仁勋深陷争议，受到特朗普总统的特别关注，最终重返首席执行官职位，推动股价创下2003年以来的最佳表现，单日涨幅达9520亿美元。",
-      "sentences": [
-        {
-          "en": "CNN tracks a month of highs and lows for Nvidia’s stock as Jensen Huang grapples with controversies, receives special attention from President Trump and ultimately returns as CEO, boosting the stock to its best day since 2003 with a single-day gain of $952 billion.",
-          "zh": "CNN跟踪了英伟达股价一个月的高低起伏，期间黄仁勋深陷争议，受到特朗普总统的特别关注，最终重返首席执行官职位，推动股价创下2003年以来的最佳表现，单日涨幅达9520亿美元。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Tracking",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Tracking Nvidia’s stock through the Jensen Huang controversy",
-          "exZh": "在黄仁勋争议事件中跟踪英伟达的股价",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Nvidia",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Tracking Nvidia’s stock through the Jensen Huang controversy",
-          "exZh": "在黄仁勋争议事件中跟踪英伟达的股价",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "stock",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Tracking Nvidia’s stock through the Jensen Huang controversy",
-          "exZh": "在黄仁勋争议事件中跟踪英伟达的股价",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "through",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Tracking Nvidia’s stock through the Jensen Huang controversy",
-          "exZh": "在黄仁勋争议事件中跟踪英伟达的股价",
+          "ex": "What is lead azide and why is it so dangerous?",
+          "exZh": "什么是叠氮化铅，为什么它如此危险？",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
