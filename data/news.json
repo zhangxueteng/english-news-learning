@@ -1,69 +1,69 @@
 {
-  "updated_at": "2026-11-25T04:53:42.257838+00:00",
+  "updated_at": "2026-11-26T04:09:07.496439+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-AVbDU1GVVis",
-      "title": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
-      "titleZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
-      "level": "B1",
-      "category": "TECHNOLOGY",
+      "id": "video-i6jmroFromM",
+      "title": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+      "titleZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
+      "level": "B2",
+      "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "minutes": 5,
       "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=AVbDU1GVVis",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/AVbDU1GVVis",
-      "articleUrl": "https://www.youtube.com/watch?v=AVbDU1GVVis",
+      "videoUrl": "https://www.youtube.com/watch?v=i6jmroFromM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/i6jmroFromM",
+      "articleUrl": "https://www.youtube.com/watch?v=i6jmroFromM",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
-      "readingTextZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
+      "readingText": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+      "readingTextZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
       "sentences": [
         {
-          "en": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
-          "zh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
+          "en": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+          "zh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Moment",
+          "word": "pastor",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
-          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
+          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Chinese",
+          "word": "wants",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
-          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
+          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "rocket",
+          "word": "women's",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
-          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
+          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "blasts",
+          "word": "right",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Moment Chinese rocket blasts off into space with Pakistani astronaut. #BBCNews",
-          "exZh": "中国火箭搭载巴基斯坦宇航员升空。#BBC新闻",
+          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
+          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -79,9 +79,201 @@
       ]
     },
     {
-      "id": "video-UEvzoHpUuaM",
-      "title": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
-      "titleZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+      "id": "video-J2SiPlDxiLs",
+      "title": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
+      "titleZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
+      "level": "B2",
+      "category": "SCIENCE",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-26",
+      "minutes": 5,
+      "summary": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York to Saturday because of severe weather.\n \nPreparations to hold the iconic holiday celebration, known for its massive balloons that float among the city's skyscrapers, had already begun when the forecast for heavy rain and strong winds on Thursday led to the delay, according to the BBC's US media partner CBS News.\n \nThe last time the parade was suspended was during World War Two, but it has never been postponed due to weather. In 1971, Macy's decided to ground the balloons, which often feature beloved characters from pop culture, because of weather.\n \nA powerful coastal storm is set to affect the New York area in coming days.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=J2SiPlDxiLs",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/J2SiPlDxiLs",
+      "articleUrl": "https://www.youtube.com/watch?v=J2SiPlDxiLs",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York to Saturday because of severe weather.\n\nPreparations to hold the iconic holiday celebration, known for its massive balloons that float among the city's skyscrapers, had already begun when the forecast for heavy rain and strong winds on Thursday led to the delay, according to the BBC's US media partner CBS News.\n\nThe last time the parade was suspended was during World War Two, but it has never been postponed due to weather.\n\nIn 1971, Macy's decided to ground the balloons, which often feature beloved characters from pop culture, because of weather.\n\nA powerful coastal storm is set to affect the New York area in coming days.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "由于恶劣天气，梅西百货将第100届年度感恩节游行推迟至周六在纽约举行。\n\n据英国广播公司的美国媒体合作伙伴CBS News报道，当周四的大雨和强风预报导致活动延期时，人们已经开始为这场以巨型气球在城市摩天大楼之间飘荡而闻名的标志性节日庆祝活动做准备。\n\n阅兵式上一次暂停是在第二次世界大战期间，但从未因天气原因而推迟。\n\n1971年，梅西百货决定因天气原因不再让气球升空，这些气球通常印有流行文化中备受喜爱的卡通形象。\n\n一场强烈的沿海风暴预计将在未来几天影响纽约地区。\n\n如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York to Saturday because of severe weather.",
+          "zh": "由于恶劣天气，梅西百货将第100届年度感恩节游行推迟至周六在纽约举行。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Preparations to hold the iconic holiday celebration, known for its massive balloons that float among the city's skyscrapers, had already begun when the forecast for heavy rain and strong winds on Thursday led to the delay, according to the BBC's US media partner CBS News.",
+          "zh": "据英国广播公司的美国媒体合作伙伴CBS News报道，当周四的大雨和强风预报导致活动延期时，人们已经开始为这场以巨型气球在城市摩天大楼之间飘荡而闻名的标志性节日庆祝活动做准备。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The last time the parade was suspended was during World War Two, but it has never been postponed due to weather.",
+          "zh": "阅兵式上一次暂停是在第二次世界大战期间，但从未因天气原因而推迟。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In 1971, Macy's decided to ground the balloons, which often feature beloved characters from pop culture, because of weather.",
+          "zh": "1971年，梅西百货决定因天气原因不再让气球升空，这些气球通常印有流行文化中备受喜爱的卡通形象。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "A powerful coastal storm is set to affect the New York area in coming days.",
+          "zh": "一场强烈的沿海风暴预计将在未来几天影响纽约地区。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Macy's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
+          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "postpones",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
+          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Thanksgiving",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
+          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "parade",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
+          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-AXMxLrMQ5iU",
+      "title": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
+      "titleZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-25",
+      "minutes": 5,
+      "summary": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti tackle gang violence.\n\nThousands of Haitians have taken to the streets marching in support of the polarising leader, but the speed and tactics of Bukele’s military operation has led to questions over whether it is legitimate and legal.\n\nTristan Redman speaks to Catherine Norris Trent, senior correspondent at France 24, who has reported extensively from Haiti for years, on whether Bukele could be the solution to the country’s years-long chaos, and whether Donald Trump’s strongman ally could be using Haiti as a blueprint for US-sanctioned international peacekeeping.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Haiti #ElSalvador #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=AXMxLrMQ5iU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/AXMxLrMQ5iU",
+      "articleUrl": "https://www.youtube.com/watch?v=AXMxLrMQ5iU",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti tackle gang violence.\n\nThousands of Haitians have taken to the streets marching in support of the polarising leader, but the speed and tactics of Bukele’s military operation has led to questions over whether it is legitimate and legal.\n\nTristan Redman speaks to Catherine Norris Trent, senior correspondent at France 24, who has reported extensively from Haiti for years, on whether Bukele could be the solution to the country’s years-long chaos, and whether Donald Trump’s strongman ally could be using Haiti as a blueprint for US-sanctioned international peacekeeping.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "萨尔瓦多总统纳伊布·布克莱（Nayib Bukele）已在海地发起军事行动，在当地部署了部队和武装机器人犬，并在社交媒体上发布了空袭的炫目视频，以帮助海地应对帮派暴力。\n\n数千名海地人走上街头，游行支持这位备受争议的领导人，但布克莱军事行动的速度和策略引发了人们对其合法性和合规性的质疑。\n\n特里斯坦·雷德曼（Tristan Redman）与法国24电视台高级记者凯瑟琳·诺里斯·特伦特（Catherine Norris Trent）进行了对话。特伦特多年来一直在海地进行大量报道，她谈到了布克莱是否能够成为该国多年混乱的解决之道，以及唐纳德·特朗普的强人盟友是否可能将海地用作美国批准的国际维和行动的蓝本。\n\n如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti tackle gang violence.",
+          "zh": "萨尔瓦多总统纳伊布·布克莱（Nayib Bukele）已在海地发起军事行动，在当地部署了部队和武装机器人犬，并在社交媒体上发布了空袭的炫目视频，以帮助海地应对帮派暴力。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Thousands of Haitians have taken to the streets marching in support of the polarising leader, but the speed and tactics of Bukele’s military operation has led to questions over whether it is legitimate and legal.",
+          "zh": "数千名海地人走上街头，游行支持这位备受争议的领导人，但布克莱军事行动的速度和策略引发了人们对其合法性和合规性的质疑。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Tristan Redman speaks to Catherine Norris Trent, senior correspondent at France 24, who has reported extensively from Haiti for years, on whether Bukele could be the solution to the country’s years-long chaos, and whether Donald Trump’s strongman ally could be using Haiti as a blueprint for US-sanctioned international peacekeeping.",
+          "zh": "特里斯坦·雷德曼（Tristan Redman）与法国24电视台高级记者凯瑟琳·诺里斯·特伦特（Catherine Norris Trent）进行了对话。特伦特多年来一直在海地进行大量报道，她谈到了布克莱是否能够成为该国多年混乱的解决之道，以及唐纳德·特朗普的强人盟友是否可能将海地用作美国批准的国际维和行动的蓝本。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "future",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
+          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "power",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
+          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Bukele's",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
+          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Haiti",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
+          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-07W4hiTBEaU",
+      "title": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
+      "titleZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
       "level": "B2",
       "category": "WORLD",
       "source": "BBC News · Official Video",
@@ -91,55 +283,55 @@
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=UEvzoHpUuaM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/UEvzoHpUuaM",
-      "articleUrl": "https://www.youtube.com/watch?v=UEvzoHpUuaM",
+      "videoUrl": "https://www.youtube.com/watch?v=07W4hiTBEaU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/07W4hiTBEaU",
+      "articleUrl": "https://www.youtube.com/watch?v=07W4hiTBEaU",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
-      "readingTextZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+      "readingText": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
+      "readingTextZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
       "sentences": [
         {
-          "en": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
-          "zh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "en": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
+          "zh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Woman",
+          "word": "Army",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
-          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
+          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "jumps",
+          "word": "controlled",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
-          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
+          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "stranger's",
+          "word": "blast",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
-          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
+          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "chased",
+          "word": "explosives",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Woman jumps into stranger's car after being chased by flock of turkeys. #BBCNews",
-          "exZh": "一名女子在被一群火鸡追赶后跳进陌生人的车里。#BBC新闻",
+          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
+          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -155,163 +347,72 @@
       ]
     },
     {
-      "id": "video-XgFrNPVzItU",
-      "title": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
-      "titleZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
-      "level": "C1",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-24",
-      "minutes": 5,
-      "summary": "It can pay your bills, plan your holidays and order your groceries - if you give access to the deepest corners of your life. \n \nMeta's AI agent, Muse, has launched in the UK. The personal assistant has become one of the most downloaded apps in the US with many claiming it has brought order to their chaotic lives. \n \nBut what's the trade off? \n \nWe look at how Muse works, why the parent company for WhatsApp and Instagram is investing big in the tech and explore whether its ambitions are a step too far into people's privacy.\n \n00:00 – Meta’s AI agent Muse hits the UK\n01:19 – How does it work?\n02:28 – How much does it cost?\n03:24 – What’s different about it?\n04:48 – Is my data safe?\n06:09 – What happens if it goes rogue?\n07:42 – Why is Muse being rolled out?\n08:37 – Are even more advanced AI agents being developed?\n09:39 – How is Meta doing against rivals in the AI race?\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Meta #AI #BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=XgFrNPVzItU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/XgFrNPVzItU",
-      "articleUrl": "https://www.youtube.com/watch?v=XgFrNPVzItU",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "It can pay your bills, plan your holidays and order your groceries - if you give access to the deepest corners of your life.\n\nMeta's AI agent, Muse, has launched in the UK.\n\nThe personal assistant has become one of the most downloaded apps in the US with many claiming it has brought order to their chaotic lives.\n\nBut what's the trade off?\n\nWe look at how Muse works, why the parent company for WhatsApp and Instagram is investing big in the tech and explore whether its ambitions are a step too far into people's privacy.",
-      "readingTextZh": "它可以帮您支付账单、规划假期和订购生鲜杂货——前提是您允许它触及您生活的方方面面。\n\nMeta 的人工智能代理 Muse 已在英国上线。\n\n这款个人助理应用已成为美国下载量最高的应用之一，许多人声称它为自己混乱的生活带来了条理。\n\n但代价是什么呢？\n\n我们来看看Muse是如何运作的，为什么WhatsApp和Instagram的母公司要在这项技术上投入巨资，并探讨其野心是否过度侵犯了人们的隐私。",
-      "sentences": [
-        {
-          "en": "It can pay your bills, plan your holidays and order your groceries - if you give access to the deepest corners of your life.",
-          "zh": "它可以帮您支付账单、规划假期和订购生鲜杂货——前提是您允许它触及您生活的方方面面。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Meta's AI agent, Muse, has launched in the UK.",
-          "zh": "Meta 的人工智能代理 Muse 已在英国上线。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The personal assistant has become one of the most downloaded apps in the US with many claiming it has brought order to their chaotic lives.",
-          "zh": "这款个人助理应用已成为美国下载量最高的应用之一，许多人声称它为自己混乱的生活带来了条理。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "But what's the trade off?",
-          "zh": "但代价是什么呢？",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "We look at how Muse works, why the parent company for WhatsApp and Instagram is investing big in the tech and explore whether its ambitions are a step too far into people's privacy.",
-          "zh": "我们来看看Muse是如何运作的，为什么WhatsApp和Instagram的母公司要在这项技术上投入巨资，并探讨其野心是否过度侵犯了人们的隐私。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Meta's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
-          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Muse",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
-          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "promises",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
-          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "change",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Meta's Muse AI promises to change your life - if it can access your most valuable data | BBC News",
-          "exZh": "Meta的Muse AI承诺将改变您的生活——前提是它能够访问您最宝贵的数据 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-klU0kIxZes8",
-      "title": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
-      "titleZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
+      "id": "video-AezrofiNQ_k",
+      "title": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
+      "titleZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
       "level": "B2",
       "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-24",
+      "source": "CNN · Official Video",
+      "date": "2026-11-26",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Roy Wood Jr., host of Have I Got News For You and panelists: Amber Ruffin and Michael Ian Black are joined in season 5 by guests David Alan Grier, Sam Jay, Gianmarco Soresi, Moshe Kasher, Michelle Wolf, John Hodgman, Adam Kinzinger, Aaron Parnas & NYC Mayor, Zohran Kwame Mamdani to discuss the news from episodes 7-10 of Season 5!\n\nCatch up on Have I Got News For You, available to stream on CNN. https://cnn.it/46DrrY1\n\n0:00 Nicki Minaj attends Trump’s Michigan rally\n5:15 Republicans fixate on Obama’s Cheesecake Factory joke\n10:35 Democratic “blue wave” win\n14:15 Republicans pass the blame\n21:33 Dems botch Hegseth’s impeachment vote\n26:25 Scott Colom’s historic win in Mississippi\n32:09 NYC Mayor Zohran Kwame Mamdani surprise visit\n37:21 Sen.-Elect El-Sayed lobbies for universal healthcare\n40:01 Where are Chuck Schumer’s votes\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #Trump #HIGNFY",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=klU0kIxZes8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/klU0kIxZes8",
-      "articleUrl": "https://www.youtube.com/watch?v=klU0kIxZes8",
+      "videoUrl": "https://www.youtube.com/watch?v=AezrofiNQ_k",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/AezrofiNQ_k",
+      "articleUrl": "https://www.youtube.com/watch?v=AezrofiNQ_k",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
-      "readingTextZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
+      "readingText": "Roy Wood Jr., host of Have I Got News For You and panelists: Amber Ruffin and Michael Ian Black are joined in season 5 by guests David Alan Grier, Sam Jay, Gianmarco Soresi, Moshe Kasher, Michelle Wolf, John Hodgman, Adam Kinzinger, Aaron Parnas & NYC Mayor, Zohran Kwame Mamdani to discuss the news from episodes 7-10 of Season 5!\n\nCatch up on Have I Got News For You, available to stream on CNN.",
+      "readingTextZh": "《我有新闻要告诉你》（Have I Got News For You）的主持人罗伊·伍德·小（Roy Wood Jr.）和嘉宾安珀·鲁芬（Amber Ruffin）和迈克尔·伊恩·布莱克（Michael Ian Black）在第5季中与嘉宾大卫·艾伦·格里尔（David Alan Grier）、萨姆·杰伊（Sam Jay）、詹马科·索雷西（Gianmarco Soresi）、莫希·卡舍尔（Moshe Kasher）、米歇尔·沃尔夫（Michelle Wolf）、约翰·霍奇曼（John Hodgman）、亚当·金津格（Adam Kinzinger）、亚伦·帕纳斯（Aaron Parnas）和纽约市议员佐兰·夸梅·马姆达尼（Zohran Kwame Mamdani）一起讨论第5季第7至10集的新闻！\n\n观看《我有新闻要告诉你》（Have I Got News For You），该节目可在CNN上流媒体播放。",
       "sentences": [
         {
-          "en": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
-          "zh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
+          "en": "Roy Wood Jr., host of Have I Got News For You and panelists: Amber Ruffin and Michael Ian Black are joined in season 5 by guests David Alan Grier, Sam Jay, Gianmarco Soresi, Moshe Kasher, Michelle Wolf, John Hodgman, Adam Kinzinger, Aaron Parnas & NYC Mayor, Zohran Kwame Mamdani to discuss the news from episodes 7-10 of Season 5!",
+          "zh": "《我有新闻要告诉你》（Have I Got News For You）的主持人罗伊·伍德·小（Roy Wood Jr.）和嘉宾安珀·鲁芬（Amber Ruffin）和迈克尔·伊恩·布莱克（Michael Ian Black）在第5季中与嘉宾大卫·艾伦·格里尔（David Alan Grier）、萨姆·杰伊（Sam Jay）、詹马科·索雷西（Gianmarco Soresi）、莫希·卡舍尔（Moshe Kasher）、米歇尔·沃尔夫（Michelle Wolf）、约翰·霍奇曼（John Hodgman）、亚当·金津格（Adam Kinzinger）、亚伦·帕纳斯（Aaron Parnas）和纽约市议员佐兰·夸梅·马姆达尼（Zohran Kwame Mamdani）一起讨论第5季第7至10集的新闻！",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Catch up on Have I Got News For You, available to stream on CNN.",
+          "zh": "观看《我有新闻要告诉你》（Have I Got News For You），该节目可在CNN上流媒体播放。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
+        {
+          "word": "Comedians",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
+          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "roast",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
+          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
         {
           "word": "Trump",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
-          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
+          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
+          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "faces",
+          "word": "infighting",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
-          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "backlash",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
-          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "saying",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Trump faces backlash after saying he “convinced” Nvidia to reinstate Huang. #BBCNews",
-          "exZh": "特朗普在表示他“说服”英伟达恢复黄仁勋的职位后，面临强烈反弹。#BBC新闻",
+          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
+          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -327,301 +428,229 @@
       ]
     },
     {
-      "id": "video-KvVnTcRET9U",
-      "title": "China launches Shenzhou-24 crewed spaceship",
-      "titleZh": "中国发射神舟十四号载人飞船",
-      "level": "A2",
+      "id": "video-HWV11q8Iw5c",
+      "title": "A sister’s grief: ‘I just wanted it to be a good death’",
+      "titleZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-26",
+      "minutes": 5,
+      "summary": "Claudia Vanderpool cared for her brother Rodney in the last year of his life before his death from cancer in February 2025. She talks with Anderson Cooper about being with Rodney in his final moments and wanting him to have a “good death.” \n\nWatch their conversation at cnn.com/allthereis or wherever you get your podcasts.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=HWV11q8Iw5c",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/HWV11q8Iw5c",
+      "articleUrl": "https://www.youtube.com/watch?v=HWV11q8Iw5c",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Claudia Vanderpool cared for her brother Rodney in the last year of his life before his death from cancer in February 2025.\n\nShe talks with Anderson Cooper about being with Rodney in his final moments and wanting him to have a “good death.” \n\nWatch their conversation at cnn.com/allthereis or wherever you get your podcasts.",
+      "readingTextZh": "克劳迪娅·范德普尔（Claudia Vanderpool）在2025年2月因癌症去世的哥哥罗德尼（Rodney）生命的最后一年里照顾了他。\n\n她与安德森·库珀（Anderson Cooper）谈到陪伴罗德尼度过最后的时光，以及希望他能“善终”。 \n\n请在 cnn.com/allthereis 或您收听播客的任何平台上观看他们的对话。",
+      "sentences": [
+        {
+          "en": "Claudia Vanderpool cared for her brother Rodney in the last year of his life before his death from cancer in February 2025.",
+          "zh": "克劳迪娅·范德普尔（Claudia Vanderpool）在2025年2月因癌症去世的哥哥罗德尼（Rodney）生命的最后一年里照顾了他。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "She talks with Anderson Cooper about being with Rodney in his final moments and wanting him to have a “good death.” \n\nWatch their conversation at cnn.com/allthereis or wherever you get your podcasts.",
+          "zh": "她与安德森·库珀（Anderson Cooper）谈到陪伴罗德尼度过最后的时光，以及希望他能“善终”。 \n\n请在 cnn.com/allthereis 或您收听播客的任何平台上观看他们的对话。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "sister",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
+          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "grief",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
+          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "just",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
+          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "wanted",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
+          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-tk07uhrjTr0",
+      "title": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
+      "titleZh": "梅西百货游行在其100年历史上首次被推迟",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-26",
+      "minutes": 5,
+      "summary": "For the first time ever, Macy's Thanksgiving Day Parade, balloons and all, will not be held on Thanksgiving due to severe weather concerns. Plus, new developments tonight in the Nvidia saga, including a new report that senior members of the administration weighed invoking a wartime law, dating back to the Korean conflict, to get Jensen Huang his job back, after being ousted for an affair with an alleged Chinese spy, and others.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=tk07uhrjTr0",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/tk07uhrjTr0",
+      "articleUrl": "https://www.youtube.com/watch?v=tk07uhrjTr0",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "For the first time ever, Macy's Thanksgiving Day Parade, balloons and all, will not be held on Thanksgiving due to severe weather concerns.\n\nPlus, new developments tonight in the Nvidia saga, including a new report that senior members of the administration weighed invoking a wartime law, dating back to the Korean conflict, to get Jensen Huang his job back, after being ousted for an affair with an alleged Chinese spy, and others.",
+      "readingTextZh": "由于恶劣天气原因，梅西百货感恩节游行（包括气球等所有内容）将首次不在感恩节当天举行。\n\n此外，今晚Nvidia事件又有新进展，包括一份新报告称，政府高层考虑援引一项可追溯至朝鲜战争时期的战时法律，以让因涉嫌与中国间谍等人士有染而被罢免的Jensen Huang官复原职。",
+      "sentences": [
+        {
+          "en": "For the first time ever, Macy's Thanksgiving Day Parade, balloons and all, will not be held on Thanksgiving due to severe weather concerns.",
+          "zh": "由于恶劣天气原因，梅西百货感恩节游行（包括气球等所有内容）将首次不在感恩节当天举行。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Plus, new developments tonight in the Nvidia saga, including a new report that senior members of the administration weighed invoking a wartime law, dating back to the Korean conflict, to get Jensen Huang his job back, after being ousted for an affair with an alleged Chinese spy, and others.",
+          "zh": "此外，今晚Nvidia事件又有新进展，包括一份新报告称，政府高层考虑援引一项可追溯至朝鲜战争时期的战时法律，以让因涉嫌与中国间谍等人士有染而被罢免的Jensen Huang官复原职。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Macy",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
+          "exZh": "梅西百货游行在其100年历史上首次被推迟",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Parade",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
+          "exZh": "梅西百货游行在其100年历史上首次被推迟",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Postponed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
+          "exZh": "梅西百货游行在其100年历史上首次被推迟",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "First",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
+          "exZh": "梅西百货游行在其100年历史上首次被推迟",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-EroBZox2I9U",
+      "title": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
+      "titleZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
+      "level": "B1",
       "category": "TECHNOLOGY",
       "source": "CNN · Official Video",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "minutes": 5,
-      "summary": "China successfully launches the Shenzhou-24 crewed spacecraft to the Tiangong space station with the first international astronaut as part of the crew, Pakistani astronaut Muhammad Zeeshan Ali.",
+      "summary": "CNN's primetime roundup for November 25, 2026.\n\n0:00 Macy’s parade postponed for the first time in 100-year history\n8:56 Hegseth floated using wartime law to reappoint Nvidia CEO\n19:24 Cybersecurity breach at the Department of the Treasury\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#AI #Trump #News",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=KvVnTcRET9U",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/KvVnTcRET9U",
-      "articleUrl": "https://www.youtube.com/watch?v=KvVnTcRET9U",
+      "videoUrl": "https://www.youtube.com/watch?v=EroBZox2I9U",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/EroBZox2I9U",
+      "articleUrl": "https://www.youtube.com/watch?v=EroBZox2I9U",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "China successfully launches the Shenzhou-24 crewed spacecraft to the Tiangong space station with the first international astronaut as part of the crew, Pakistani astronaut Muhammad Zeeshan Ali.",
-      "readingTextZh": "中国成功将载人飞船神舟十四号发射至天宫空间站，机组人员中首次有国际宇航员，即巴基斯坦宇航员穆罕默德·齐山·阿里。",
+      "readingText": "CNN's primetime roundup for November 25, 2026.",
+      "readingTextZh": "2026年11月25日CNN黄金时段新闻综述。",
       "sentences": [
         {
-          "en": "China successfully launches the Shenzhou-24 crewed spacecraft to the Tiangong space station with the first international astronaut as part of the crew, Pakistani astronaut Muhammad Zeeshan Ali.",
-          "zh": "中国成功将载人飞船神舟十四号发射至天宫空间站，机组人员中首次有国际宇航员，即巴基斯坦宇航员穆罕默德·齐山·阿里。",
+          "en": "CNN's primetime roundup for November 25, 2026.",
+          "zh": "2026年11月25日CNN黄金时段新闻综述。",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "China",
+          "word": "Parade",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "China launches Shenzhou-24 crewed spaceship",
-          "exZh": "中国发射神舟十四号载人飞船",
+          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
+          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "launches",
+          "word": "delayed",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "China launches Shenzhou-24 crewed spaceship",
-          "exZh": "中国发射神舟十四号载人飞船",
+          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
+          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Shenzhou",
+          "word": "Treasury",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "China launches Shenzhou-24 crewed spaceship",
-          "exZh": "中国发射神舟十四号载人飞船",
+          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
+          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "crewed",
+          "word": "cyberattack",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "China launches Shenzhou-24 crewed spaceship",
-          "exZh": "中国发射神舟十四号载人飞船",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-pj9MSzzQoo8",
-      "title": "What it costs to tell gay stories in China",
-      "titleZh": "在中国讲述同志故事的代价",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-25",
-      "minutes": 5,
-      "summary": "LGBTQ shows are taking off worldwide, and Chinese creators are tapping into that demand. CNN’s John Liu reports on their unlikely success and the risks they face back home.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=pj9MSzzQoo8",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/pj9MSzzQoo8",
-      "articleUrl": "https://www.youtube.com/watch?v=pj9MSzzQoo8",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "LGBTQ shows are taking off worldwide, and Chinese creators are tapping into that demand.\n\nCNN’s John Liu reports on their unlikely success and the risks they face back home.",
-      "readingTextZh": "LGBTQ题材的影视作品正在全球范围内兴起，中国创作者正在挖掘这一需求。\n\nCNN的John Liu报道了他们意想不到的成功以及他们在回国后面临的风险。",
-      "sentences": [
-        {
-          "en": "LGBTQ shows are taking off worldwide, and Chinese creators are tapping into that demand.",
-          "zh": "LGBTQ题材的影视作品正在全球范围内兴起，中国创作者正在挖掘这一需求。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "CNN’s John Liu reports on their unlikely success and the risks they face back home.",
-          "zh": "CNN的John Liu报道了他们意想不到的成功以及他们在回国后面临的风险。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "costs",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What it costs to tell gay stories in China",
-          "exZh": "在中国讲述同志故事的代价",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "tell",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What it costs to tell gay stories in China",
-          "exZh": "在中国讲述同志故事的代价",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "stories",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What it costs to tell gay stories in China",
-          "exZh": "在中国讲述同志故事的代价",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "China",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What it costs to tell gay stories in China",
-          "exZh": "在中国讲述同志故事的代价",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-3d5CIwQzMYk",
-      "title": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
-      "titleZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-25",
-      "minutes": 5,
-      "summary": "CNN chief data analyst Harry Enten points out that American voters 'think that this is a rigged economy' and that President Trump ignored the clear message from voters in the 2026 midterm elections. Noting that voters trust Democrats on the issues of AI and corruption by double digits more than Republicans, Enten goes on to say that \"Donald Trump essentially gave a giant middle finger to the American people\" when he worked to have Jensen Huang reinstated as Nvidia's CEO.\n\nAlso, the \"NewsNight\" panel discusses Huang's return.\n\n0:00 Is there a different set of rules for billionaires than the rest of us?\n0:20 Enten: \"Am I on planet Mars here? What the hell is going on?\"\n1:08 Enten: \"This goes right into the Democrats' hands\"\n2:34 Scott Jennings: it's a good idea to bring Huang back as Nvidia CEO from a national-security view\n4:14 Ashley Allison: \"You were devoured in a midterm election because people were sick of corruption\"\n\nWatch Harry’s show, 'The Enten Scale', on CNN: https://cnn.it/4rXUcHz\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#HarryEnten #JensenHuang #News",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=3d5CIwQzMYk",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/3d5CIwQzMYk",
-      "articleUrl": "https://www.youtube.com/watch?v=3d5CIwQzMYk",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN chief data analyst Harry Enten points out that American voters 'think that this is a rigged economy' and that President Trump ignored the clear message from voters in the 2026 midterm elections.\n\nNoting that voters trust Democrats on the issues of AI and corruption by double digits more than Republicans, Enten goes on to say that \"Donald Trump essentially gave a giant middle finger to the American people\" when he worked to have Jensen Huang reinstated as Nvidia's CEO.\n\nAlso, the \"NewsNight\" panel discusses Huang's return.",
-      "readingTextZh": "CNN首席数据分析师哈里·恩滕（Harry Enten）指出，美国选民“认为这是一个被操纵的经济体”，而特朗普总统无视了选民在2026年中期选举中发出的明确信息。\n\n恩滕指出，在人工智能和腐败问题上，选民对民主党的信任度比对共和党的信任度高出两位数。他接着说，当唐纳德·特朗普努力让黄仁勋重返英伟达首席执行官职位时，“他实际上是对美国人民竖起了中指”。\n\n此外，“NewsNight”节目组也讨论了黄的回归。",
-      "sentences": [
-        {
-          "en": "CNN chief data analyst Harry Enten points out that American voters 'think that this is a rigged economy' and that President Trump ignored the clear message from voters in the 2026 midterm elections.",
-          "zh": "CNN首席数据分析师哈里·恩滕（Harry Enten）指出，美国选民“认为这是一个被操纵的经济体”，而特朗普总统无视了选民在2026年中期选举中发出的明确信息。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Noting that voters trust Democrats on the issues of AI and corruption by double digits more than Republicans, Enten goes on to say that \"Donald Trump essentially gave a giant middle finger to the American people\" when he worked to have Jensen Huang reinstated as Nvidia's CEO.",
-          "zh": "恩滕指出，在人工智能和腐败问题上，选民对民主党的信任度比对共和党的信任度高出两位数。他接着说，当唐纳德·特朗普努力让黄仁勋重返英伟达首席执行官职位时，“他实际上是对美国人民竖起了中指”。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Also, the \"NewsNight\" panel discusses Huang's return.",
-          "zh": "此外，“NewsNight”节目组也讨论了黄的回归。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Huang's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
-          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "return",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
-          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "gift",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
-          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "above'",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Huang's return 'a gift from above' for Dems: Enten & panel unpack",
-          "exZh": "黄的回归对民主党来说是“上天的恩赐”：Enten和专家组解读",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video--U1AU7KlpdM",
-      "title": "What is lead azide and why is it so dangerous?",
-      "titleZh": "什么是叠氮化铅，为什么它如此危险？",
-      "level": "B1",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-25",
-      "minutes": 5,
-      "summary": "Atmospheric chemist Delphine Farmer breaks down the volatile nature of lead azide, calling a controlled military detonation the “best of a bad series of options,” despite the risk of toxic lead dust spreading to local homes.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=-U1AU7KlpdM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/-U1AU7KlpdM",
-      "articleUrl": "https://www.youtube.com/watch?v=-U1AU7KlpdM",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Atmospheric chemist Delphine Farmer breaks down the volatile nature of lead azide, calling a controlled military detonation the “best of a bad series of options,” despite the risk of toxic lead dust spreading to local homes.",
-      "readingTextZh": "大气化学家德尔菲娜·法默（Delphine Farmer）分析了叠氮化铅的挥发性，称受控的军事引爆是“一系列糟糕选择中最好的一个”，尽管存在有毒铅尘扩散到当地房屋的风险。",
-      "sentences": [
-        {
-          "en": "Atmospheric chemist Delphine Farmer breaks down the volatile nature of lead azide, calling a controlled military detonation the “best of a bad series of options,” despite the risk of toxic lead dust spreading to local homes.",
-          "zh": "大气化学家德尔菲娜·法默（Delphine Farmer）分析了叠氮化铅的挥发性，称受控的军事引爆是“一系列糟糕选择中最好的一个”，尽管存在有毒铅尘扩散到当地房屋的风险。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "lead",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What is lead azide and why is it so dangerous?",
-          "exZh": "什么是叠氮化铅，为什么它如此危险？",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "azide",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What is lead azide and why is it so dangerous?",
-          "exZh": "什么是叠氮化铅，为什么它如此危险？",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "dangerous",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "What is lead azide and why is it so dangerous?",
-          "exZh": "什么是叠氮化铅，为什么它如此危险？",
+          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
+          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
