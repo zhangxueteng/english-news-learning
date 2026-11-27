@@ -1,400 +1,70 @@
 {
-  "updated_at": "2026-11-26T04:09:07.496439+00:00",
+  "updated_at": "2026-11-27T04:14:34.138635+00:00",
   "mode": "official-video-rss",
   "articles": [
     {
-      "id": "video-i6jmroFromM",
-      "title": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
-      "titleZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
-      "level": "B2",
+      "id": "video-h7obQwQWOds",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship | BBC News",
+      "titleZh": "泽连斯基对特朗普与普京的“奇怪”友谊提出质疑 | BBC 新闻",
+      "level": "B1",
       "category": "WORLD",
       "source": "BBC News · Official Video",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
+      "summary": "Volodymyr Zelensky has voiced his frustration with the United States and questioned US President Donald Trump's relationship with Russian President Vladimir Putin in an interview with the BBC.\n \nIn a picture posted to Truth Social on Saturday, where Trump and Putin embrace, the US president described his Russian counterpart as \"my friend\".\n \n\"Of course it's up to the President of the United States, but... it's strange,\" Zelensky told the BBC's Sarah Rainsford at his office in central Kyiv.\n \n\"He [Putin] is an aggressor, and a killer…He can't be a friend. Just cannot be.\"\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Zelensky #BBCNews",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=i6jmroFromM",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/i6jmroFromM",
-      "articleUrl": "https://www.youtube.com/watch?v=i6jmroFromM",
+      "videoUrl": "https://www.youtube.com/watch?v=h7obQwQWOds",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/h7obQwQWOds",
+      "articleUrl": "https://www.youtube.com/watch?v=h7obQwQWOds",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
-      "readingTextZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
+      "readingText": "Volodymyr Zelensky has voiced his frustration with the United States and questioned US President Donald Trump's relationship with Russian President Vladimir Putin in an interview with the BBC.\n\nIn a picture posted to Truth Social on Saturday, where Trump and Putin embrace, the US president described his Russian counterpart as \"my friend\".\n \n\"Of course it's up to the President of the United States, but... it's strange,\" Zelensky told the BBC's Sarah Rainsford at his office in central Kyiv.\n \n\"He [Putin] is an aggressor, and a killer…He can't be a friend.\n\nJust cannot be.\"\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "弗拉基米尔·泽连斯基在接受英国广播公司采访时表达了对美国的不满，并对美国总统唐纳德·特朗普与俄罗斯总统弗拉基米尔·普京的关系提出质疑。\n\n周六，一张特朗普和普京拥抱的照片被发布到Truth Social上，美国总统称他的俄罗斯同行为“我的朋友”。\n \n“当然，这要由美国总统来决定，但是……这很奇怪。”泽连斯基在基辅市中心的办公室里对BBC记者莎拉·雷恩斯福德（Sarah Rainsford）说道。\n \n“他[普京]是一个侵略者，一个杀人犯……他不可能成为朋友。”\n\n就是不可能。”\n\n如需了解最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
       "sentences": [
         {
-          "en": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
-          "zh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
+          "en": "Volodymyr Zelensky has voiced his frustration with the United States and questioned US President Donald Trump's relationship with Russian President Vladimir Putin in an interview with the BBC.",
+          "zh": "弗拉基米尔·泽连斯基在接受英国广播公司采访时表达了对美国的不满，并对美国总统唐纳德·特朗普与俄罗斯总统弗拉基米尔·普京的关系提出质疑。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In a picture posted to Truth Social on Saturday, where Trump and Putin embrace, the US president described his Russian counterpart as \"my friend\".\n \n\"Of course it's up to the President of the United States, but... it's strange,\" Zelensky told the BBC's Sarah Rainsford at his office in central Kyiv.\n \n\"He [Putin] is an aggressor, and a killer…He can't be a friend.",
+          "zh": "周六，一张特朗普和普京拥抱的照片被发布到Truth Social上，美国总统称他的俄罗斯同行为“我的朋友”。\n \n“当然，这要由美国总统来决定，但是……这很奇怪。”泽连斯基在基辅市中心的办公室里对BBC记者莎拉·雷恩斯福德（Sarah Rainsford）说道。\n \n“他[普京]是一个侵略者，一个杀人犯……他不可能成为朋友。”",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Just cannot be.\"\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "就是不可能。”\n\n如需了解最新新闻，请下载BBC新闻应用程序或访问BBC.com/news",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "pastor",
+          "word": "Zelensky",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
-          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
+          "ex": "Zelensky questions 'strange' Trump-Putin friendship | BBC News",
+          "exZh": "泽连斯基对特朗普与普京的“奇怪”友谊提出质疑 | BBC 新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "wants",
+          "word": "questions",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
-          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
+          "ex": "Zelensky questions 'strange' Trump-Putin friendship | BBC News",
+          "exZh": "泽连斯基对特朗普与普京的“奇怪”友谊提出质疑 | BBC 新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "women's",
+          "word": "'strange'",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
-          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "right",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "The US pastor who wants to see women's right to vote overturned. #BBCNews",
-          "exZh": "这位美国牧师希望废除妇女的投票权。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-J2SiPlDxiLs",
-      "title": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
-      "titleZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
-      "level": "B2",
-      "category": "SCIENCE",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-26",
-      "minutes": 5,
-      "summary": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York to Saturday because of severe weather.\n \nPreparations to hold the iconic holiday celebration, known for its massive balloons that float among the city's skyscrapers, had already begun when the forecast for heavy rain and strong winds on Thursday led to the delay, according to the BBC's US media partner CBS News.\n \nThe last time the parade was suspended was during World War Two, but it has never been postponed due to weather. In 1971, Macy's decided to ground the balloons, which often feature beloved characters from pop culture, because of weather.\n \nA powerful coastal storm is set to affect the New York area in coming days.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=J2SiPlDxiLs",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/J2SiPlDxiLs",
-      "articleUrl": "https://www.youtube.com/watch?v=J2SiPlDxiLs",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York to Saturday because of severe weather.\n\nPreparations to hold the iconic holiday celebration, known for its massive balloons that float among the city's skyscrapers, had already begun when the forecast for heavy rain and strong winds on Thursday led to the delay, according to the BBC's US media partner CBS News.\n\nThe last time the parade was suspended was during World War Two, but it has never been postponed due to weather.\n\nIn 1971, Macy's decided to ground the balloons, which often feature beloved characters from pop culture, because of weather.\n\nA powerful coastal storm is set to affect the New York area in coming days.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "由于恶劣天气，梅西百货将第100届年度感恩节游行推迟至周六在纽约举行。\n\n据英国广播公司的美国媒体合作伙伴CBS News报道，当周四的大雨和强风预报导致活动延期时，人们已经开始为这场以巨型气球在城市摩天大楼之间飘荡而闻名的标志性节日庆祝活动做准备。\n\n阅兵式上一次暂停是在第二次世界大战期间，但从未因天气原因而推迟。\n\n1971年，梅西百货决定因天气原因不再让气球升空，这些气球通常印有流行文化中备受喜爱的卡通形象。\n\n一场强烈的沿海风暴预计将在未来几天影响纽约地区。\n\n如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "Macy's has postponed its 100th annual Thanksgiving Day Parade in New York to Saturday because of severe weather.",
-          "zh": "由于恶劣天气，梅西百货将第100届年度感恩节游行推迟至周六在纽约举行。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Preparations to hold the iconic holiday celebration, known for its massive balloons that float among the city's skyscrapers, had already begun when the forecast for heavy rain and strong winds on Thursday led to the delay, according to the BBC's US media partner CBS News.",
-          "zh": "据英国广播公司的美国媒体合作伙伴CBS News报道，当周四的大雨和强风预报导致活动延期时，人们已经开始为这场以巨型气球在城市摩天大楼之间飘荡而闻名的标志性节日庆祝活动做准备。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "The last time the parade was suspended was during World War Two, but it has never been postponed due to weather.",
-          "zh": "阅兵式上一次暂停是在第二次世界大战期间，但从未因天气原因而推迟。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "In 1971, Macy's decided to ground the balloons, which often feature beloved characters from pop culture, because of weather.",
-          "zh": "1971年，梅西百货决定因天气原因不再让气球升空，这些气球通常印有流行文化中备受喜爱的卡通形象。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "A powerful coastal storm is set to affect the New York area in coming days.",
-          "zh": "一场强烈的沿海风暴预计将在未来几天影响纽约地区。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Macy's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
-          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "postpones",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
-          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Thanksgiving",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
-          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "parade",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy's postpones Thanksgiving parade in New York due to weather | BBC News",
-          "exZh": "梅西百货因天气原因推迟纽约感恩节游行 | BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-AXMxLrMQ5iU",
-      "title": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
-      "titleZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-25",
-      "minutes": 5,
-      "summary": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti tackle gang violence.\n\nThousands of Haitians have taken to the streets marching in support of the polarising leader, but the speed and tactics of Bukele’s military operation has led to questions over whether it is legitimate and legal.\n\nTristan Redman speaks to Catherine Norris Trent, senior correspondent at France 24, who has reported extensively from Haiti for years, on whether Bukele could be the solution to the country’s years-long chaos, and whether Donald Trump’s strongman ally could be using Haiti as a blueprint for US-sanctioned international peacekeeping.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Haiti #ElSalvador #BBCNews",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=AXMxLrMQ5iU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/AXMxLrMQ5iU",
-      "articleUrl": "https://www.youtube.com/watch?v=AXMxLrMQ5iU",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti tackle gang violence.\n\nThousands of Haitians have taken to the streets marching in support of the polarising leader, but the speed and tactics of Bukele’s military operation has led to questions over whether it is legitimate and legal.\n\nTristan Redman speaks to Catherine Norris Trent, senior correspondent at France 24, who has reported extensively from Haiti for years, on whether Bukele could be the solution to the country’s years-long chaos, and whether Donald Trump’s strongman ally could be using Haiti as a blueprint for US-sanctioned international peacekeeping.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
-      "readingTextZh": "萨尔瓦多总统纳伊布·布克莱（Nayib Bukele）已在海地发起军事行动，在当地部署了部队和武装机器人犬，并在社交媒体上发布了空袭的炫目视频，以帮助海地应对帮派暴力。\n\n数千名海地人走上街头，游行支持这位备受争议的领导人，但布克莱军事行动的速度和策略引发了人们对其合法性和合规性的质疑。\n\n特里斯坦·雷德曼（Tristan Redman）与法国24电视台高级记者凯瑟琳·诺里斯·特伦特（Catherine Norris Trent）进行了对话。特伦特多年来一直在海地进行大量报道，她谈到了布克莱是否能够成为该国多年混乱的解决之道，以及唐纳德·特朗普的强人盟友是否可能将海地用作美国批准的国际维和行动的蓝本。\n\n如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
-      "sentences": [
-        {
-          "en": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti tackle gang violence.",
-          "zh": "萨尔瓦多总统纳伊布·布克莱（Nayib Bukele）已在海地发起军事行动，在当地部署了部队和武装机器人犬，并在社交媒体上发布了空袭的炫目视频，以帮助海地应对帮派暴力。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Thousands of Haitians have taken to the streets marching in support of the polarising leader, but the speed and tactics of Bukele’s military operation has led to questions over whether it is legitimate and legal.",
-          "zh": "数千名海地人走上街头，游行支持这位备受争议的领导人，但布克莱军事行动的速度和策略引发了人们对其合法性和合规性的质疑。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Tristan Redman speaks to Catherine Norris Trent, senior correspondent at France 24, who has reported extensively from Haiti for years, on whether Bukele could be the solution to the country’s years-long chaos, and whether Donald Trump’s strongman ally could be using Haiti as a blueprint for US-sanctioned international peacekeeping.",
-          "zh": "特里斯坦·雷德曼（Tristan Redman）与法国24电视台高级记者凯瑟琳·诺里斯·特伦特（Catherine Norris Trent）进行了对话。特伦特多年来一直在海地进行大量报道，她谈到了布克莱是否能够成为该国多年混乱的解决之道，以及唐纳德·特朗普的强人盟友是否可能将海地用作美国批准的国际维和行动的蓝本。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "For the latest news download the BBC News app or visit BBC.com/news",
-          "zh": "如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "future",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
-          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "power",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
-          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Bukele's",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
-          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Haiti",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Is this the future of US power? Bukele's Haiti experiment? | The Global Story",
-          "exZh": "这就是美国权力的未来吗？布克莱的海地试验？|《全球故事》",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-07W4hiTBEaU",
-      "title": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
-      "titleZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "BBC News · Official Video",
-      "date": "2026-11-25",
-      "minutes": 5,
-      "summary": "Watch the original report from the publisher's official news video channel.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=07W4hiTBEaU",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/07W4hiTBEaU",
-      "articleUrl": "https://www.youtube.com/watch?v=07W4hiTBEaU",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
-      "readingTextZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
-      "sentences": [
-        {
-          "en": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
-          "zh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Army",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
-          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "controlled",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
-          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "blast",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
-          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "explosives",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "US Army says controlled blast of explosives in Iowa was “huge success”. #BBCNews",
-          "exZh": "美国陆军表示，在爱荷华州进行的受控爆炸“大获成功”。#BBC新闻",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-AezrofiNQ_k",
-      "title": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
-      "titleZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-26",
-      "minutes": 5,
-      "summary": "Roy Wood Jr., host of Have I Got News For You and panelists: Amber Ruffin and Michael Ian Black are joined in season 5 by guests David Alan Grier, Sam Jay, Gianmarco Soresi, Moshe Kasher, Michelle Wolf, John Hodgman, Adam Kinzinger, Aaron Parnas & NYC Mayor, Zohran Kwame Mamdani to discuss the news from episodes 7-10 of Season 5!\n\nCatch up on Have I Got News For You, available to stream on CNN. https://cnn.it/46DrrY1\n\n0:00 Nicki Minaj attends Trump’s Michigan rally\n5:15 Republicans fixate on Obama’s Cheesecake Factory joke\n10:35 Democratic “blue wave” win\n14:15 Republicans pass the blame\n21:33 Dems botch Hegseth’s impeachment vote\n26:25 Scott Colom’s historic win in Mississippi\n32:09 NYC Mayor Zohran Kwame Mamdani surprise visit\n37:21 Sen.-Elect El-Sayed lobbies for universal healthcare\n40:01 Where are Chuck Schumer’s votes\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#News #Trump #HIGNFY",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=AezrofiNQ_k",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/AezrofiNQ_k",
-      "articleUrl": "https://www.youtube.com/watch?v=AezrofiNQ_k",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Roy Wood Jr., host of Have I Got News For You and panelists: Amber Ruffin and Michael Ian Black are joined in season 5 by guests David Alan Grier, Sam Jay, Gianmarco Soresi, Moshe Kasher, Michelle Wolf, John Hodgman, Adam Kinzinger, Aaron Parnas & NYC Mayor, Zohran Kwame Mamdani to discuss the news from episodes 7-10 of Season 5!\n\nCatch up on Have I Got News For You, available to stream on CNN.",
-      "readingTextZh": "《我有新闻要告诉你》（Have I Got News For You）的主持人罗伊·伍德·小（Roy Wood Jr.）和嘉宾安珀·鲁芬（Amber Ruffin）和迈克尔·伊恩·布莱克（Michael Ian Black）在第5季中与嘉宾大卫·艾伦·格里尔（David Alan Grier）、萨姆·杰伊（Sam Jay）、詹马科·索雷西（Gianmarco Soresi）、莫希·卡舍尔（Moshe Kasher）、米歇尔·沃尔夫（Michelle Wolf）、约翰·霍奇曼（John Hodgman）、亚当·金津格（Adam Kinzinger）、亚伦·帕纳斯（Aaron Parnas）和纽约市议员佐兰·夸梅·马姆达尼（Zohran Kwame Mamdani）一起讨论第5季第7至10集的新闻！\n\n观看《我有新闻要告诉你》（Have I Got News For You），该节目可在CNN上流媒体播放。",
-      "sentences": [
-        {
-          "en": "Roy Wood Jr., host of Have I Got News For You and panelists: Amber Ruffin and Michael Ian Black are joined in season 5 by guests David Alan Grier, Sam Jay, Gianmarco Soresi, Moshe Kasher, Michelle Wolf, John Hodgman, Adam Kinzinger, Aaron Parnas & NYC Mayor, Zohran Kwame Mamdani to discuss the news from episodes 7-10 of Season 5!",
-          "zh": "《我有新闻要告诉你》（Have I Got News For You）的主持人罗伊·伍德·小（Roy Wood Jr.）和嘉宾安珀·鲁芬（Amber Ruffin）和迈克尔·伊恩·布莱克（Michael Ian Black）在第5季中与嘉宾大卫·艾伦·格里尔（David Alan Grier）、萨姆·杰伊（Sam Jay）、詹马科·索雷西（Gianmarco Soresi）、莫希·卡舍尔（Moshe Kasher）、米歇尔·沃尔夫（Michelle Wolf）、约翰·霍奇曼（John Hodgman）、亚当·金津格（Adam Kinzinger）、亚伦·帕纳斯（Aaron Parnas）和纽约市议员佐兰·夸梅·马姆达尼（Zohran Kwame Mamdani）一起讨论第5季第7至10集的新闻！",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Catch up on Have I Got News For You, available to stream on CNN.",
-          "zh": "观看《我有新闻要告诉你》（Have I Got News For You），该节目可在CNN上流媒体播放。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Comedians",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
-          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "roast",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
-          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
+          "ex": "Zelensky questions 'strange' Trump-Putin friendship | BBC News",
+          "exZh": "泽连斯基对特朗普与普京的“奇怪”友谊提出质疑 | BBC 新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
@@ -402,17 +72,8 @@
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
-          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "infighting",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Comedians roast Trump, Dem infighting, elections & more | Have I Got News For You",
-          "exZh": "喜剧演员嘲讽特朗普、民主党内斗、大选等话题 | 《我有新闻要告诉你》（Have I Got News For You）",
+          "ex": "Zelensky questions 'strange' Trump-Putin friendship | BBC News",
+          "exZh": "泽连斯基对特朗普与普京的“奇怪”友谊提出质疑 | BBC 新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
@@ -428,229 +89,593 @@
       ]
     },
     {
-      "id": "video-HWV11q8Iw5c",
-      "title": "A sister’s grief: ‘I just wanted it to be a good death’",
-      "titleZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-26",
-      "minutes": 5,
-      "summary": "Claudia Vanderpool cared for her brother Rodney in the last year of his life before his death from cancer in February 2025. She talks with Anderson Cooper about being with Rodney in his final moments and wanting him to have a “good death.” \n\nWatch their conversation at cnn.com/allthereis or wherever you get your podcasts.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=HWV11q8Iw5c",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/HWV11q8Iw5c",
-      "articleUrl": "https://www.youtube.com/watch?v=HWV11q8Iw5c",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "Claudia Vanderpool cared for her brother Rodney in the last year of his life before his death from cancer in February 2025.\n\nShe talks with Anderson Cooper about being with Rodney in his final moments and wanting him to have a “good death.” \n\nWatch their conversation at cnn.com/allthereis or wherever you get your podcasts.",
-      "readingTextZh": "克劳迪娅·范德普尔（Claudia Vanderpool）在2025年2月因癌症去世的哥哥罗德尼（Rodney）生命的最后一年里照顾了他。\n\n她与安德森·库珀（Anderson Cooper）谈到陪伴罗德尼度过最后的时光，以及希望他能“善终”。 \n\n请在 cnn.com/allthereis 或您收听播客的任何平台上观看他们的对话。",
-      "sentences": [
-        {
-          "en": "Claudia Vanderpool cared for her brother Rodney in the last year of his life before his death from cancer in February 2025.",
-          "zh": "克劳迪娅·范德普尔（Claudia Vanderpool）在2025年2月因癌症去世的哥哥罗德尼（Rodney）生命的最后一年里照顾了他。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "She talks with Anderson Cooper about being with Rodney in his final moments and wanting him to have a “good death.” \n\nWatch their conversation at cnn.com/allthereis or wherever you get your podcasts.",
-          "zh": "她与安德森·库珀（Anderson Cooper）谈到陪伴罗德尼度过最后的时光，以及希望他能“善终”。 \n\n请在 cnn.com/allthereis 或您收听播客的任何平台上观看他们的对话。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "sister",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
-          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "grief",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
-          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "just",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
-          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "wanted",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "A sister’s grief: ‘I just wanted it to be a good death’",
-          "exZh": "一位姐姐的悲痛：“我只希望她能走得安详”",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-tk07uhrjTr0",
-      "title": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
-      "titleZh": "梅西百货游行在其100年历史上首次被推迟",
-      "level": "B2",
-      "category": "WORLD",
-      "source": "CNN · Official Video",
-      "date": "2026-11-26",
-      "minutes": 5,
-      "summary": "For the first time ever, Macy's Thanksgiving Day Parade, balloons and all, will not be held on Thanksgiving due to severe weather concerns. Plus, new developments tonight in the Nvidia saga, including a new report that senior members of the administration weighed invoking a wartime law, dating back to the Korean conflict, to get Jensen Huang his job back, after being ousted for an affair with an alleged Chinese spy, and others.",
-      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
-      "art": "▶",
-      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=tk07uhrjTr0",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/tk07uhrjTr0",
-      "articleUrl": "https://www.youtube.com/watch?v=tk07uhrjTr0",
-      "demo": false,
-      "sourceNote": "Official publisher video · original English audio",
-      "readingText": "For the first time ever, Macy's Thanksgiving Day Parade, balloons and all, will not be held on Thanksgiving due to severe weather concerns.\n\nPlus, new developments tonight in the Nvidia saga, including a new report that senior members of the administration weighed invoking a wartime law, dating back to the Korean conflict, to get Jensen Huang his job back, after being ousted for an affair with an alleged Chinese spy, and others.",
-      "readingTextZh": "由于恶劣天气原因，梅西百货感恩节游行（包括气球等所有内容）将首次不在感恩节当天举行。\n\n此外，今晚Nvidia事件又有新进展，包括一份新报告称，政府高层考虑援引一项可追溯至朝鲜战争时期的战时法律，以让因涉嫌与中国间谍等人士有染而被罢免的Jensen Huang官复原职。",
-      "sentences": [
-        {
-          "en": "For the first time ever, Macy's Thanksgiving Day Parade, balloons and all, will not be held on Thanksgiving due to severe weather concerns.",
-          "zh": "由于恶劣天气原因，梅西百货感恩节游行（包括气球等所有内容）将首次不在感恩节当天举行。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        },
-        {
-          "en": "Plus, new developments tonight in the Nvidia saga, including a new report that senior members of the administration weighed invoking a wartime law, dating back to the Korean conflict, to get Jensen Huang his job back, after being ousted for an affair with an alleged Chinese spy, and others.",
-          "zh": "此外，今晚Nvidia事件又有新进展，包括一份新报告称，政府高层考虑援引一项可追溯至朝鲜战争时期的战时法律，以让因涉嫌与中国间谍等人士有染而被罢免的Jensen Huang官复原职。",
-          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
-        }
-      ],
-      "vocab": [
-        {
-          "word": "Macy",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
-          "exZh": "梅西百货游行在其100年历史上首次被推迟",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Parade",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
-          "exZh": "梅西百货游行在其100年历史上首次被推迟",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "Postponed",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
-          "exZh": "梅西百货游行在其100年历史上首次被推迟",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        },
-        {
-          "word": "First",
-          "pos": "headline vocabulary",
-          "ipa": "",
-          "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Macy’s Parade Postponed for the First Time in Its 100-Year History",
-          "exZh": "梅西百货游行在其100年历史上首次被推迟",
-          "tip": "听原声时留意这个词的重音、发音和上下文。"
-        }
-      ],
-      "grammar": [
-        {
-          "title": "听力训练建议",
-          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
-        },
-        {
-          "title": "难度说明",
-          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
-        }
-      ]
-    },
-    {
-      "id": "video-EroBZox2I9U",
-      "title": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
-      "titleZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
+      "id": "video-q340LbMRoU8",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US. #BBCNews",
+      "titleZh": "感恩节大风暴在美国各地引发洪水和航班延误。#BBC新闻",
       "level": "B1",
-      "category": "TECHNOLOGY",
-      "source": "CNN · Official Video",
-      "date": "2026-11-26",
+      "category": "SCIENCE",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-27",
       "minutes": 5,
-      "summary": "CNN's primetime roundup for November 25, 2026.\n\n0:00 Macy’s parade postponed for the first time in 100-year history\n8:56 Hegseth floated using wartime law to reappoint Nvidia CEO\n19:24 Cybersecurity breach at the Department of the Treasury\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#AI #Trump #News",
+      "summary": "Watch the original report from the publisher's official news video channel.",
       "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
       "art": "▶",
       "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
-      "videoUrl": "https://www.youtube.com/watch?v=EroBZox2I9U",
-      "videoEmbed": "https://www.youtube-nocookie.com/embed/EroBZox2I9U",
-      "articleUrl": "https://www.youtube.com/watch?v=EroBZox2I9U",
+      "videoUrl": "https://www.youtube.com/watch?v=q340LbMRoU8",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/q340LbMRoU8",
+      "articleUrl": "https://www.youtube.com/watch?v=q340LbMRoU8",
       "demo": false,
       "sourceNote": "Official publisher video · original English audio",
-      "readingText": "CNN's primetime roundup for November 25, 2026.",
-      "readingTextZh": "2026年11月25日CNN黄金时段新闻综述。",
+      "readingText": "Major Thanksgiving storm brings flooding, flight delays across US. #BBCNews",
+      "readingTextZh": "感恩节大风暴在美国各地造成洪灾和航班延误。#BBC新闻",
       "sentences": [
         {
-          "en": "CNN's primetime roundup for November 25, 2026.",
-          "zh": "2026年11月25日CNN黄金时段新闻综述。",
+          "en": "Major Thanksgiving storm brings flooding, flight delays across US. #BBCNews",
+          "zh": "感恩节大风暴在美国各地造成洪灾和航班延误。#BBC新闻",
           "note": "本句来自视频发布方简介，不是视频逐字字幕。"
         }
       ],
       "vocab": [
         {
-          "word": "Parade",
+          "word": "Major",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
-          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
+          "ex": "Major Thanksgiving storm brings flooding, flight delays across US. #BBCNews",
+          "exZh": "感恩节大风暴在美国各地引发洪水和航班延误。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "delayed",
+          "word": "Thanksgiving",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
-          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
+          "ex": "Major Thanksgiving storm brings flooding, flight delays across US. #BBCNews",
+          "exZh": "感恩节大风暴在美国各地引发洪水和航班延误。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "Treasury",
+          "word": "storm",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
-          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
+          "ex": "Major Thanksgiving storm brings flooding, flight delays across US. #BBCNews",
+          "exZh": "感恩节大风暴在美国各地引发洪水和航班延误。#BBC新闻",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         },
         {
-          "word": "cyberattack",
+          "word": "brings",
           "pos": "headline vocabulary",
           "ipa": "",
           "zh": "请结合原声视频标题与语境理解该词。",
-          "ex": "Parade delayed, Treasury cyberattack & more | CNN Primetime Roundup",
-          "exZh": "游行推迟、财政部遭遇网络攻击等 | CNN黄金时段新闻综述",
+          "ex": "Major Thanksgiving storm brings flooding, flight delays across US. #BBCNews",
+          "exZh": "感恩节大风暴在美国各地引发洪水和航班延误。#BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-u8z0aTy6RPA",
+      "title": "The '80s Campaign That Still Haunts US Parents | The Global Story",
+      "titleZh": "仍困扰着美国父母的80年代运动 | 全球故事",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-26",
+      "minutes": 5,
+      "summary": "In recent years, parents across the US have faced scrutiny – and even legal consequences – for letting their children play outside unsupervised. \n\nAmerican expectations of constant parental supervision differ sharply from those in other countries, where greater emphasis is placed on children’s independence and allowing them to take age-appropriate risks.\n\nIn today’s episode, The Global Story’s Asma Khalid and Tristan Redman compare their childhoods and how they raise their own kids now. \n\nTristan explores how a short-lived child safety campaign from the 80s had a lasting impact with BBC executive producer Annie Brown. \n\nAnd Asma finds out what the Japanese approach to parenting can teach us about independence by talking to author Lisa Katayama.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n \nTimecodes:\n0:00 - Episode introduction \n0:59 - How frequently were you allowed to play outside as a child?\n2:55 - Recent news stories about parents being arrested \n5:38 - We meet Annie Brown \n6:03 - The story of Johnny Gosch\n8:42 - How quickly does it go from two kids to thousands on milk cartons? \n11:13 - Did the milk carton campaign bring anxiety into the American family home?\n13:32 - What is the legacy of the milk carton kid campaign?\n14:41 - How does it shape the way US parents interact with their kids today?\n17:33 - Asma and Tristan discuss Annie's interview\n21:31 - We meet Lisa Katayama\n23:22 - Lisa's childhood in Japan\n25:32 - They discuss the TV show 'Old Enough' \n27:32 - How did the Japanese way of life affect how Lisa was raised\n29:33 - The comparison in the way Lisa is raising her kids in America\n30:22 - The 7-year-old who takes the city bus in Japan\n31:46 - The worry of someone calling CPS in the US\n34:00 - What Lisa believes is the best way to raise her kids\n\n\n\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=u8z0aTy6RPA",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/u8z0aTy6RPA",
+      "articleUrl": "https://www.youtube.com/watch?v=u8z0aTy6RPA",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "In recent years, parents across the US have faced scrutiny – and even legal consequences – for letting their children play outside unsupervised.\n\nAmerican expectations of constant parental supervision differ sharply from those in other countries, where greater emphasis is placed on children’s independence and allowing them to take age-appropriate risks.\n\nIn today’s episode, The Global Story’s Asma Khalid and Tristan Redman compare their childhoods and how they raise their own kids now.\n\nTristan explores how a short-lived child safety campaign from the 80s had a lasting impact with BBC executive producer Annie Brown.\n\nAnd Asma finds out what the Japanese approach to parenting can teach us about independence by talking to author Lisa Katayama.\n\nFor the latest news download the BBC News app or visit BBC.com/news\n \nTimecodes:",
+      "readingTextZh": "近年来，美国各地的父母因让孩子在无人看管的情况下在户外玩耍而受到严密审查，甚至面临法律后果。\n\n美国人对父母持续监督的期望与其他国家大相径庭，其他国家更加重视孩子的独立性，并允许他们承担与年龄相符的风险。\n\n在今天的节目中，《全球故事》的Asma Khalid和Tristan Redman将比较他们的童年，以及他们现在如何养育自己的孩子。\n\nTristan与BBC执行制片人Annie Brown一起探讨了20世纪80年代一场短暂的儿童安全运动是如何产生持久影响的。\n\nAsma通过与作家Lisa Katayama的对话，了解了日本的育儿方式能教会我们哪些关于独立性的知识。\n\n如需了解最新新闻，请下载BBC News应用或访问BBC.com/news\n \n时间码：",
+      "sentences": [
+        {
+          "en": "In recent years, parents across the US have faced scrutiny – and even legal consequences – for letting their children play outside unsupervised.",
+          "zh": "近年来，美国各地的父母因让孩子在无人看管的情况下在户外玩耍而受到严密审查，甚至面临法律后果。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "American expectations of constant parental supervision differ sharply from those in other countries, where greater emphasis is placed on children’s independence and allowing them to take age-appropriate risks.",
+          "zh": "美国人对父母持续监督的期望与其他国家大相径庭，其他国家更加重视孩子的独立性，并允许他们承担与年龄相符的风险。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "In today’s episode, The Global Story’s Asma Khalid and Tristan Redman compare their childhoods and how they raise their own kids now.",
+          "zh": "在今天的节目中，《全球故事》的Asma Khalid和Tristan Redman将比较他们的童年，以及他们现在如何养育自己的孩子。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Tristan explores how a short-lived child safety campaign from the 80s had a lasting impact with BBC executive producer Annie Brown.",
+          "zh": "Tristan与BBC执行制片人Annie Brown一起探讨了20世纪80年代一场短暂的儿童安全运动是如何产生持久影响的。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "And Asma finds out what the Japanese approach to parenting can teach us about independence by talking to author Lisa Katayama.",
+          "zh": "Asma通过与作家Lisa Katayama的对话，了解了日本的育儿方式能教会我们哪些关于独立性的知识。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news\n \nTimecodes:",
+          "zh": "如需了解最新新闻，请下载BBC News应用或访问BBC.com/news\n \n时间码：",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Campaign",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The '80s Campaign That Still Haunts US Parents | The Global Story",
+          "exZh": "仍困扰着美国父母的80年代运动 | 全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Still",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The '80s Campaign That Still Haunts US Parents | The Global Story",
+          "exZh": "仍困扰着美国父母的80年代运动 | 全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Haunts",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The '80s Campaign That Still Haunts US Parents | The Global Story",
+          "exZh": "仍困扰着美国父母的80年代运动 | 全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Parents",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "The '80s Campaign That Still Haunts US Parents | The Global Story",
+          "exZh": "仍困扰着美国父母的80年代运动 | 全球故事",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-MpEcr0JLRTU",
+      "title": "Kuwait drone strike kills two Italian nationals | BBC News",
+      "titleZh": "科威特无人机袭击造成两名意大利公民死亡 | BBC新闻",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "BBC News · Official Video",
+      "date": "2026-11-26",
+      "minutes": 5,
+      "summary": "Iran denies it was behind a drone attack on an air defence system in Kuwait which killed two Italian engineers. The President of the EU Commission says Europe needs to step up pressure on Tehran to end attacks on Gulf nations.\n \nMeanwhile, Houthi and Saudi forces trade fresh strikes, as the Iran-backed Houthis push to take more territory in Yemen.\n \nAlso, the head of Iran's Atomic Energy Organisation says the country's civilian nuclear programme is \"unstoppable\", and accuses the US of trying to stop other countries using advanced technologies.\n \nAnd the family of twin sisters arrested for joining anti-government protests in Iran tell the BBC they were beaten and tortured whilst on death row. It comes as there has been an increase in women being sentenced to death for taking part in protests.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#Iran #Kuwait #BBCNews",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=MpEcr0JLRTU",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/MpEcr0JLRTU",
+      "articleUrl": "https://www.youtube.com/watch?v=MpEcr0JLRTU",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Iran denies it was behind a drone attack on an air defence system in Kuwait which killed two Italian engineers.\n\nThe President of the EU Commission says Europe needs to step up pressure on Tehran to end attacks on Gulf nations.\n\nMeanwhile, Houthi and Saudi forces trade fresh strikes, as the Iran-backed Houthis push to take more territory in Yemen.\n\nAlso, the head of Iran's Atomic Energy Organisation says the country's civilian nuclear programme is \"unstoppable\", and accuses the US of trying to stop other countries using advanced technologies.\n\nAnd the family of twin sisters arrested for joining anti-government protests in Iran tell the BBC they were beaten and tortured whilst on death row.\n\nIt comes as there has been an increase in women being sentenced to death for taking part in protests.\n\nFor the latest news download the BBC News app or visit BBC.com/news",
+      "readingTextZh": "伊朗否认其是科威特一处防空系统遭无人机袭击事件的幕后黑手，该事件造成两名意大利工程师死亡。\n\n欧盟委员会主席表示，欧洲需要加大对德黑兰的施压，以制止其对海湾国家的袭击。\n\n与此同时，胡塞武装和沙特军队正在相互发动新的袭击，而伊朗支持的胡塞武装正力图在也门夺取更多领土。\n\n此外，伊朗原子能组织负责人表示，该国的民用核计划“势不可挡”，并指责美国试图阻止其他国家使用先进技术。\n\n一对双胞胎姐妹因参与伊朗反政府抗议活动而被捕，她们的家人向BBC透露，她们在死囚牢房中遭到殴打和酷刑。\n\n此举正值因参与抗议活动而被判处死刑的女性人数有所增加之际。\n\n如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+      "sentences": [
+        {
+          "en": "Iran denies it was behind a drone attack on an air defence system in Kuwait which killed two Italian engineers.",
+          "zh": "伊朗否认其是科威特一处防空系统遭无人机袭击事件的幕后黑手，该事件造成两名意大利工程师死亡。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The President of the EU Commission says Europe needs to step up pressure on Tehran to end attacks on Gulf nations.",
+          "zh": "欧盟委员会主席表示，欧洲需要加大对德黑兰的施压，以制止其对海湾国家的袭击。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Meanwhile, Houthi and Saudi forces trade fresh strikes, as the Iran-backed Houthis push to take more territory in Yemen.",
+          "zh": "与此同时，胡塞武装和沙特军队正在相互发动新的袭击，而伊朗支持的胡塞武装正力图在也门夺取更多领土。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "Also, the head of Iran's Atomic Energy Organisation says the country's civilian nuclear programme is \"unstoppable\", and accuses the US of trying to stop other countries using advanced technologies.",
+          "zh": "此外，伊朗原子能组织负责人表示，该国的民用核计划“势不可挡”，并指责美国试图阻止其他国家使用先进技术。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "And the family of twin sisters arrested for joining anti-government protests in Iran tell the BBC they were beaten and tortured whilst on death row.",
+          "zh": "一对双胞胎姐妹因参与伊朗反政府抗议活动而被捕，她们的家人向BBC透露，她们在死囚牢房中遭到殴打和酷刑。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "It comes as there has been an increase in women being sentenced to death for taking part in protests.",
+          "zh": "此举正值因参与抗议活动而被判处死刑的女性人数有所增加之际。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "For the latest news download the BBC News app or visit BBC.com/news",
+          "zh": "如需了解最新资讯，请下载BBC News应用或访问BBC.com/news",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Kuwait",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Kuwait drone strike kills two Italian nationals | BBC News",
+          "exZh": "科威特无人机袭击造成两名意大利公民死亡 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "drone",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Kuwait drone strike kills two Italian nationals | BBC News",
+          "exZh": "科威特无人机袭击造成两名意大利公民死亡 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "strike",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Kuwait drone strike kills two Italian nationals | BBC News",
+          "exZh": "科威特无人机袭击造成两名意大利公民死亡 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "kills",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Kuwait drone strike kills two Italian nationals | BBC News",
+          "exZh": "科威特无人机袭击造成两名意大利公民死亡 | BBC新闻",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-RVGiZBebhBs",
+      "title": "3 new House reps on Iran, Trump probes & what keeps them up",
+      "titleZh": "3位新任众议员谈伊朗、特朗普调查以及让他们彻夜难眠的问题",
+      "level": "B1",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-27",
+      "minutes": 5,
+      "summary": "Three newly elected members of Congress — Republican Ryan Elijah, Democratic Socialist Melat Kiros, and a Democrat from a pro-Trump district Sam Forstag — sat down in an iconic Capitol Hill bar with CNN’s Lauren Fox to discuss the war in Iran, holding the president accountable and how they might be able to work together. \n\n0:00 What the reps are most worried about\n5:28 Could accountability go too far?\n9:23 Where they stand on the need to end the war\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Trump #Congress #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=RVGiZBebhBs",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/RVGiZBebhBs",
+      "articleUrl": "https://www.youtube.com/watch?v=RVGiZBebhBs",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Three newly elected members of Congress — Republican Ryan Elijah, Democratic Socialist Melat Kiros, and a Democrat from a pro-Trump district Sam Forstag — sat down in an iconic Capitol Hill bar with CNN’s Lauren Fox to discuss the war in Iran, holding the president accountable and how they might be able to work together.",
+      "readingTextZh": "三名新当选的国会议员——共和党人瑞安·埃利亚（Ryan Elijah）、民主社会主义者梅拉特·基罗斯（Melat Kiros）和来自一个亲特朗普选区的民主党人萨姆·福斯特格（Sam Forstag）——在一间标志性的国会山酒吧与CNN的劳伦·福克斯（Lauren Fox）坐下来，讨论伊朗战争、追究总统的责任以及他们如何能够合作。",
+      "sentences": [
+        {
+          "en": "Three newly elected members of Congress — Republican Ryan Elijah, Democratic Socialist Melat Kiros, and a Democrat from a pro-Trump district Sam Forstag — sat down in an iconic Capitol Hill bar with CNN’s Lauren Fox to discuss the war in Iran, holding the president accountable and how they might be able to work together.",
+          "zh": "三名新当选的国会议员——共和党人瑞安·埃利亚（Ryan Elijah）、民主社会主义者梅拉特·基罗斯（Melat Kiros）和来自一个亲特朗普选区的民主党人萨姆·福斯特格（Sam Forstag）——在一间标志性的国会山酒吧与CNN的劳伦·福克斯（Lauren Fox）坐下来，讨论伊朗战争、追究总统的责任以及他们如何能够合作。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "House",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "3 new House reps on Iran, Trump probes & what keeps them up",
+          "exZh": "3位新任众议员谈伊朗、特朗普调查以及让他们彻夜难眠的问题",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "reps",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "3 new House reps on Iran, Trump probes & what keeps them up",
+          "exZh": "3位新任众议员谈伊朗、特朗普调查以及让他们彻夜难眠的问题",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Iran",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "3 new House reps on Iran, Trump probes & what keeps them up",
+          "exZh": "3位新任众议员谈伊朗、特朗普调查以及让他们彻夜难眠的问题",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Trump",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "3 new House reps on Iran, Trump probes & what keeps them up",
+          "exZh": "3位新任众议员谈伊朗、特朗普调查以及让他们彻夜难眠的问题",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-P18nBGETxaM",
+      "title": "Widespread power outages upend Thanksgiving preparations",
+      "titleZh": "大范围停电打乱了感恩节的筹备工作",
+      "level": "A2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-27",
+      "minutes": 5,
+      "summary": "Thanksgiving may have just gotten a bit more stressful for more than 850,000 Americans as a storm sweeps across the Midwest and East Coast causing power outages.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=P18nBGETxaM",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/P18nBGETxaM",
+      "articleUrl": "https://www.youtube.com/watch?v=P18nBGETxaM",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "Thanksgiving may have just gotten a bit more stressful for more than 850,000 Americans as a storm sweeps across the Midwest and East Coast causing power outages.",
+      "readingTextZh": "一场风暴席卷美国中西部和东海岸，导致大范围停电，这可能让超过85万美国人的感恩节变得更加紧张。",
+      "sentences": [
+        {
+          "en": "Thanksgiving may have just gotten a bit more stressful for more than 850,000 Americans as a storm sweeps across the Midwest and East Coast causing power outages.",
+          "zh": "一场风暴席卷美国中西部和东海岸，导致大范围停电，这可能让超过85万美国人的感恩节变得更加紧张。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Widespread",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Widespread power outages upend Thanksgiving preparations",
+          "exZh": "大范围停电打乱了感恩节的筹备工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "power",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Widespread power outages upend Thanksgiving preparations",
+          "exZh": "大范围停电打乱了感恩节的筹备工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "outages",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Widespread power outages upend Thanksgiving preparations",
+          "exZh": "大范围停电打乱了感恩节的筹备工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "upend",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Widespread power outages upend Thanksgiving preparations",
+          "exZh": "大范围停电打乱了感恩节的筹备工作",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-Wfhj-d2Ue0E",
+      "title": "‘We went into fix-it mode’: Band directors react to Macy’s parade postponement",
+      "titleZh": "“我们进入了‘解决问题’模式”：乐队指挥对梅西百货游行延期的反应",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-26",
+      "minutes": 5,
+      "summary": "For the first time in its history, the iconic Macy’s Thanksgiving Day Parade has been postponed because of forecasted heavy rain and strong winds. The parade will now begin at 8:30 a.m. ET Saturday.\n\nCNN spoke with the directors of two bands that were set to perform in Thursday’s parade and which are staying to play on Saturday.\n\n0:00 Macy’s Thanksgiving Day Parade postponed due to weather; EP explains decision\n0:43 Lafe Cook, band director at Dobyns-Bennett High School in Tennessee, on what came next\n5:07 Marching Illini director Barry Houser on how they found out about the postponement\n7:01 University of Illinois Marching Illini perform in Times Square Wednesday night\n\nWatch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr\n\nStream more on CNN with an All Access subscription: https://cnn.it/4AZMu54\n\n#Thanksgiving #Parade #News",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=Wfhj-d2Ue0E",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/Wfhj-d2Ue0E",
+      "articleUrl": "https://www.youtube.com/watch?v=Wfhj-d2Ue0E",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "For the first time in its history, the iconic Macy’s Thanksgiving Day Parade has been postponed because of forecasted heavy rain and strong winds.\n\nThe parade will now begin at 8:30 a.m.\n\nET Saturday.\n\nCNN spoke with the directors of two bands that were set to perform in Thursday’s parade and which are staying to play on Saturday.",
+      "readingTextZh": "由于预计将有大雨和强风，标志性的梅西感恩节大游行在其历史上首次被推迟。\n\n游行现在将于上午8:30开始。\n\n美国东部时间周六。\n\nCNN采访了两支乐队的指挥，这两支乐队原定于周四的游行中演出，并将留下来参加周六的演出。",
+      "sentences": [
+        {
+          "en": "For the first time in its history, the iconic Macy’s Thanksgiving Day Parade has been postponed because of forecasted heavy rain and strong winds.",
+          "zh": "由于预计将有大雨和强风，标志性的梅西感恩节大游行在其历史上首次被推迟。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "The parade will now begin at 8:30 a.m.",
+          "zh": "游行现在将于上午8:30开始。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "ET Saturday.",
+          "zh": "美国东部时间周六。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        },
+        {
+          "en": "CNN spoke with the directors of two bands that were set to perform in Thursday’s parade and which are staying to play on Saturday.",
+          "zh": "CNN采访了两支乐队的指挥，这两支乐队原定于周四的游行中演出，并将留下来参加周六的演出。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "went",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "‘We went into fix-it mode’: Band directors react to Macy’s parade postponement",
+          "exZh": "“我们进入了‘解决问题’模式”：乐队指挥对梅西百货游行延期的反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "mode",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "‘We went into fix-it mode’: Band directors react to Macy’s parade postponement",
+          "exZh": "“我们进入了‘解决问题’模式”：乐队指挥对梅西百货游行延期的反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "Band",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "‘We went into fix-it mode’: Band directors react to Macy’s parade postponement",
+          "exZh": "“我们进入了‘解决问题’模式”：乐队指挥对梅西百货游行延期的反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "directors",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "‘We went into fix-it mode’: Band directors react to Macy’s parade postponement",
+          "exZh": "“我们进入了‘解决问题’模式”：乐队指挥对梅西百货游行延期的反应",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        }
+      ],
+      "grammar": [
+        {
+          "title": "听力训练建议",
+          "body": "第一遍不暂停，抓主旨；第二遍记录人物、地点、数字和关键动词；第三遍结合词汇解析复听。视频本身为媒体原声，学习正文为辅助训练材料。"
+        },
+        {
+          "title": "难度说明",
+          "body": "A1–C1 等级根据标题长度和部分词汇线索估算，仅供学习参考，并非官方 CEFR 评定。"
+        }
+      ]
+    },
+    {
+      "id": "video-dxNySvSTRh4",
+      "title": "Hear from people who came to see postponed Macy’s Thanksgiving Day Parade",
+      "titleZh": "听听那些前来观看延期举行的梅西百货感恩节大游行的人怎么说",
+      "level": "B2",
+      "category": "WORLD",
+      "source": "CNN · Official Video",
+      "date": "2026-11-26",
+      "minutes": 5,
+      "summary": "CNN’s Brynn Gingras spoke to tourists who came to New York for the Macy’s Thanksgiving Day parade that has been postponed until Saturday due to weather.",
+      "summaryZh": "直接播放媒体官方频道发布的新闻视频，保留记者原声、现场声音及原始语速。",
+      "art": "▶",
+      "color": "linear-gradient(135deg,#173c6a,#5a83bd)",
+      "videoUrl": "https://www.youtube.com/watch?v=dxNySvSTRh4",
+      "videoEmbed": "https://www.youtube-nocookie.com/embed/dxNySvSTRh4",
+      "articleUrl": "https://www.youtube.com/watch?v=dxNySvSTRh4",
+      "demo": false,
+      "sourceNote": "Official publisher video · original English audio",
+      "readingText": "CNN’s Brynn Gingras spoke to tourists who came to New York for the Macy’s Thanksgiving Day parade that has been postponed until Saturday due to weather.",
+      "readingTextZh": "CNN的布琳·金格拉斯（Brynn Gingras）采访了前来纽约观看梅西百货感恩节游行的游客，由于天气原因，游行被推迟到周六举行。",
+      "sentences": [
+        {
+          "en": "CNN’s Brynn Gingras spoke to tourists who came to New York for the Macy’s Thanksgiving Day parade that has been postponed until Saturday due to weather.",
+          "zh": "CNN的布琳·金格拉斯（Brynn Gingras）采访了前来纽约观看梅西百货感恩节游行的游客，由于天气原因，游行被推迟到周六举行。",
+          "note": "本句来自视频发布方简介，不是视频逐字字幕。"
+        }
+      ],
+      "vocab": [
+        {
+          "word": "Hear",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Hear from people who came to see postponed Macy’s Thanksgiving Day Parade",
+          "exZh": "听听那些前来观看延期举行的梅西百货感恩节大游行的人怎么说",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "people",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Hear from people who came to see postponed Macy’s Thanksgiving Day Parade",
+          "exZh": "听听那些前来观看延期举行的梅西百货感恩节大游行的人怎么说",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "came",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Hear from people who came to see postponed Macy’s Thanksgiving Day Parade",
+          "exZh": "听听那些前来观看延期举行的梅西百货感恩节大游行的人怎么说",
+          "tip": "听原声时留意这个词的重音、发音和上下文。"
+        },
+        {
+          "word": "postponed",
+          "pos": "headline vocabulary",
+          "ipa": "",
+          "zh": "请结合原声视频标题与语境理解该词。",
+          "ex": "Hear from people who came to see postponed Macy’s Thanksgiving Day Parade",
+          "exZh": "听听那些前来观看延期举行的梅西百货感恩节大游行的人怎么说",
           "tip": "听原声时留意这个词的重音、发音和上下文。"
         }
       ],
